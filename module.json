@@ -1,0 +1,51 @@
+{
+  "id": "augmented-reality",
+  "title": "Augmented Reality",
+  "description": "The Holistic City Kit For Cyberpunk Roleplaying Games",
+  "version": "#{VERSION}#",
+  "compatibility": {
+    "minimum": 11,
+    "verified": 11
+  },
+  "authors": [
+    {
+      "name": "David Y. Hudson",
+      "discord": "jendave",
+      "url": "https://github.com/jendave"
+    },
+    {
+      "name": "Paul Gallagher",
+      "url": "https://neuralarchive.blogspot.com/"
+    }
+  ],
+  "packs": [
+    {
+      "name": "augmentedrealityrolltables",
+      "label": "Augmented Reality Roll Tables",
+      "path": "./packs/augmented-reality-rolltables",
+      "type": "RollTable"
+    },
+    {
+      "name": "augmentedrealitymacros",
+      "label": "Augmented Reality Macros",
+      "path": "./packs/augmented-reality-macros",
+      "type": "Macro"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Augmented Reality",
+      "packs": [
+        "augmentedrealityrolltables",
+        "augmentedrealitymacros"
+      ]
+    }
+  ],
+  "manifest": "#{MANIFEST}#",
+  "url": "#{URL}#",
+  "download": "#{DOWNLOAD}#",
+  "license": "https://raw.githubusercontent.com/jendave/augmented-reality/main/LICENSE",
+  "changelog": "https://raw.githubusercontent.com/jendave/augmented-reality/main/CHANGELOG.md",
+  "readme": "https://raw.githubusercontent.com/jendave/augmented-reality/main/README.md",
+  "bugs": "https://github.com/jendave/augmented-reality/issues"
+}

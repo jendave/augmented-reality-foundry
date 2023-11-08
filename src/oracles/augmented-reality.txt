@@ -678,7 +678,7 @@ d100 Sights
 7-8    A brightly lit aerocab taking off in a cloud of exhaust fumes, rainwater and trash
 9-10   AC vents in the sidewalk emitting a thick cloud of vapour
 10-11  A heavy rainwater cascade falls from damaged guttering
-11-12  every underlit face on the street is concentrating solely on their phone
+11-12  Every underlit face on the street is concentrating solely on their phone
 13-14  An ancient looking geriatric lopes past strapped into a linear assistance frame
 15-16  A vid-blogger in full, wearable array, blatantly recording the scene
 17-18  The nearest building has an intermittently flickering security light
@@ -687,7 +687,7 @@ d100 Sights
 23-24  A pair of bicycle couriers race one another through crawling traffic
 25-26  Gritty, chemical infused sediment sloughing off a nearby rooftop
 27-28  A large building-mounted flatscreen showing... (see table top right)
-29-30  unattended roadworks, the area coned off and lit for safety for no good reason
+29-30  Unattended roadworks, the area coned off and lit for safety for no good reason
 31-32  An automated noodle vending truck, jingle playing, folds open and deploys nearby
 33-34  A flock of scabrous-looking pigeons suddenly taking flight
 35-36  A busy metro platform, full to capacity with disgruntled, rain-soaked commuters
@@ -712,12 +712,12 @@ d100 Sights
 73-74  A group of screeching street kids running along the overhead rail lines
 75-76  A thick pea soup fog rolling down the streets and alleyways
 77-78  All the street lights for this entire block just went out
-79-80  rivers of rain-borne trash race along in the choked gutters
+79-80  Rivers of rain-borne trash race along in the choked gutters
 81-82  A small crowd of people gawping upwards at a potential jumper
 83-84  A tight formation of drones races down the street, just above head height
 85-86  A group of sex workers on a nearby street corner, approaching cars (see Street Walkers)
 87-88  An out-of-order ATM threatens violent action to passers by who stray too close
-89-90  unnervingly, there is absolutely no-one about
+89-90  Unnervingly, there is absolutely no-one about
 91-92  A pedicab operator struggling with heat exhaustion or dehydration (see Random Cabbies)
 93-94  A row of vendomats coated in layers of gang tags, going back many years
 95-96  A GeV taxi takes a corner hard, throwing up polluted water, trash and crud (see Random Cabbies)
@@ -729,7 +729,7 @@ Roll a D10 to see what the mediocracy are piping to the masses. Roll more dice f
 
 d10 What's On That Big Screen?
 1   Video gaming event
-2   highlights from major sporting event
+2   Highlights from major sporting event
 3   System error message/connection failure
 4   The time and date
 5   The latest news headlines and lottery result
@@ -922,7 +922,7 @@ d10 What's On The River?
 
 d10 Augmented Reality (Type - Aesthetic - Image Style)
 1   Direction - Typographic Overlays - Crisp/Bright
-2   logo Storm - Bright and Garish Glyphs - Animated 3-D
+2   Logo Storm - Bright and Garish Glyphs - Animated 3-D
 3   Assistant - Animated Persona - high resolution
 4   Blipvert - see That's Infotainment
 5   Political - emotive Imagery - Sophisticated
@@ -1073,7 +1073,7 @@ d100   Appearance
 27-28  Charms & symbols
 29-30  Army fatigues
 31-32  Fully cyborged
-33-34  hardwired in
+33-34  Hardwired in
 35-36  Shiny fetishwear
 37-38  Tribal scarring
 39-40  Oversized optics
@@ -1166,7 +1166,7 @@ d100   Conversation Topic
 5-6    Driverless vehicles
 7-8    Gangs in the area
 9-10   Their huge family
-11-12  extreme alt-politics
+11-12  Extreme alt-politics
 13-14  Their tricked out vehicle
 15-16  The ecopocalypse
 17-18  Conspiracy theories
@@ -1192,8 +1192,8 @@ d100   Conversation Topic
 57-58  Their many ex-partners
 59-60  Their work on their PhD
 61-62  Their missing daughter
-63-64  rampant crime
-65-66  The latest Vr games
+63-64  Rampant crime
+65-66  The latest VR games
 67-68  Their favourite eateries
 69-70  Info-Socialist revolution
 71-72  Their aggressive cancer
@@ -1260,7 +1260,7 @@ d100   Demeanour
 89-90  Patronising
 91-92  Foolish/Stupid
 93-94  Grateful
-95-96  lonely
+95-96  Lonely
 97-98  Tuneful/Musical
 99-100 Naive
 
@@ -1272,7 +1272,7 @@ d10 Peccadilloes, Vices, Addictions
 1  Child-like Sex Dolls or Synthetics
 2  Prohibited Designer Narcotics
 3  Street legal, But harmful - Alcohol/Caffeine/Nicotine
-4  SimStim/SimSense/Vr Gaming
+4  SimStim/SimSense/VR Gaming
 5  Atrocity Images or Footage
 6  Prostitutes (Secretly Same Sex?) (see below)
 7  Pornographic Material (Particular Acts or Fetish?)
@@ -1282,7 +1282,7 @@ d10 Peccadilloes, Vices, Addictions
 
 d10 Level of Need
 1  Take It or leave It
-2  light Interest
+2  Light Interest
 3  Ghoulish Fascination
 4  If The Opportunity Arises
 5  Regular routine user
@@ -1533,7 +1533,7 @@ d100    Job
 31-32   Health & Safety executive
 33-34   Exceptionally skilled hacker
 35-36   Head of Administration
-37-38   Head of BioDivision r&D
+37-38   Head of BioDivision R&D
 39-40   Media Operations liaison
 41-42   Monitors company AI stable
 43-44   Current Chief executive Officer
@@ -1855,7 +1855,7 @@ d100 Company Resources
 78  Child Assassin
 79  Propagandists
 80  Blackmailed Hackers
-81  Pr Consultants
+81  PR Consultants
 82  Desperate Employees
 83  Federal Investigators
 84  Religious Group
@@ -1908,7 +1908,7 @@ d100 Name 1
 53-54   Disposable
 55-56   Iron
 57-58   Speedball
-59-60   Ak
+59-60   AK
 61-62   Liquid
 63-64   Junky
 65-66   Instant
@@ -1985,7 +1985,7 @@ d100 Name 2
 d100 Description 1
 1-2     Neo-Primitive
 3-4     Soft-Armoured
-5-6     Vr Game Playing
+5-6     VR Game Playing
 7-8     Neon-Punk
 9-10    Drone Utilising
 11-12   Patriarchal
@@ -2141,7 +2141,7 @@ d100 Description 3
 d100 Sphere of Influence
 1-2     Deal in prohibited neural boosts, intellect stims, sakawa charms
 3-4     Operate a stash house in the old Metro system and fence goods
-5-6     Import, crack and distribute Vr games and hong Kong action sims
+5-6     Import, crack and distribute VR games and hong Kong action sims
 7-8     Hack and tap electronic infrastructure, for a price
 9-10    Will put on one hell of a party in exchange for hot information
 11-12   Trade in counterfeit sportswear, tickets and fan merchandise
@@ -2195,7 +2195,7 @@ d100 Relationships
 3-4     Steal from...
 5-6     Merger with...
 7-8     Rivalry with...
-9-10    employed by...
+9-10    Employed by...
 11-12   Preys on...
 13-14   Despises...
 15-16   Trades with...
@@ -2296,7 +2296,7 @@ d10 What's The Deal With These Guys? (Rumours/Hooks)
 Armed Response
 
 d10 First Responders
-1-2   Plainclothes Detectives - Clearly marked POlICe vests, flashing their IDbadges
+1-2   Plainclothes Detectives - Clearly marked POLICE vests, flashing their ID badges
 3-8   Uniformed Officers - Basic cops (if odd rolled: they're wearing riot gear)
 9-10  Tactical response unit - Special operations/SWAT team - milspec load out
 
@@ -2353,7 +2353,7 @@ d100 Name
 39-40   Slick Franklin
 41-42   Wendel Goldberg
 43-44   Pappa Midnight
-45-46   reality Black
+45-46   Reality Black
 47-48   Adolf hipster
 49-50   Mr Skin
 51-52   'Viper' Joe DeMarco
@@ -2362,7 +2362,7 @@ d100 Name
 57-58   The Spider Sisters
 59-60   Veracity Solomon
 61-62   General Grabber
-63-64   henry Jericho
+63-64   Henry Jericho
 65-66   Warsaw
 67-68   Lucius Warbaby
 69-70   Jacob Smolensky
@@ -2428,7 +2428,7 @@ d100 Description
 85-86   Loaded with enough intelligent bioplastic that he can't die
 87-88   The strippers at his club are all biomodded clones of himself
 89-90   Stressed due to several secret families with different women
-91-92   has the best of intentions, but is deeply unreliable
+91-92   Has the best of intentions, but is deeply unreliable
 93-94   Self-doubt, but wants to be head-hunted by a corporation
 95-96   No self worth, always high, easily distracted
 97-98   Suffers from PTSD, nightmares, has poorly timed flashbacks
@@ -2980,13 +2980,13 @@ d100   Target Item
 37-38  Vehicle
 39-40  Keys/Key Card
 41-42  Computer Virus
-43-44  Cybernetic limb
+43-44  Cybernetic Limb
 45-46  Synthetic Brain
 47-48  Personality Module
 49-50  Cell Phone/Agent
 51-52  Exo-Womb
-53-54  hardcopy Schematic
-55-56  Military ICe Breaker
+53-54  Hardcopy Schematic
+55-56  Military ICE Breaker
 57-58  Nano Fabricator
 59-60  Antique Katana
 61-62  Cloned Coca leaf
@@ -2994,7 +2994,7 @@ d100   Target Item
 65-66  Human eye/Thumb
 67-68  Artificial Intelligence
 69-70  Cybernetic Optics
-71-72  SimStim recording
+71-72  SimStim Recording
 73-74  Robot
 75-76  Operating System
 77-78  Tablet Device
@@ -3007,7 +3007,7 @@ d100   Target Item
 91-92  Human Organ(s)
 93-94  Patient In Cryo Vat
 95-96  Work of Art
-97-98  Drone/remote
+97-98  Drone/Remote
 99-100 Cybernetic Implant
 
 State Of The Art
@@ -3016,12 +3016,12 @@ d10 Condition of Found (or Stolen) Technology
 1  Checquered history, well used, possible damaged
 2  State-of-the-art, designer, cutting edge aesthetics
 3  Buggy and unpredictable, resets to factory default
-4  Sought after but unstable r&D prototype, defective
+4  Sought after but unstable R&D prototype, defective
 5  Obvious foreign counterfeit, compatibility issues
 6  Sturdy, basic, idiot-proof, in good working order
 7  Military spec, bomb-proof, very robust, ugly
-8  elegant design, but fragile, possibly bespoke
-9  unlicensed clone copy, brand new, can't be updated
+8  Elegant design, but fragile, possibly bespoke
+9  Unlicensed clone copy, brand new, can't be updated
 10 Intuitive interface, plug-and-play, modular design
 
 d10 Type of Device
@@ -3046,7 +3046,7 @@ d10 So, what's on that thing anyway?
 5  Unreleased Beta Gaming Apps - copy protected; eagerly anticipated by fans
 6  Illegally Downloaded Music - some tracks prerelease; copy protections removed
 7  Black Ops Project - an extraction/wetwork/adulterating pharms/neo-disease etc.
-8  Weapons Tech r&D Data - aware weaponry systems or cutting edge mods
+8  Weapons Tech R&D Data - aware weaponry systems or cutting edge mods
 9  Presentation For Forthcoming Biotech launch - impressive production values
 10 V-Mail Conversation Threads - regards one or more of the above (roll again twice)
 
@@ -3167,7 +3167,7 @@ d100    Name
 91-92   Slade Bennett
 93-94   Splicer Takeda
 95-96   Kurt Kellerman
-97-98   heywood Nash
+97-98   Heywood Nash
 99-100  Manuel Override
 
 d100    Details
@@ -3187,7 +3187,7 @@ d100    Details
 27-28   Underage and overclocked, way too eager to prove herself
 29-30   Thinks he's a major player, has a lot of cousins called Spiros
 31-32   Argentine marine, autonomous defense net rebels against her
-33-34   Heavily invested in Vornheim Vr game, won't risk losing levels
+33-34   Heavily invested in Vornheim VR game, won't risk losing levels
 35-36   Frustrated surrealist artist, single mother, skilled killer
 37-38   Crippled as child, skeleton rebuilt, in constant pain, tough
 39-40   Linear-frame-enhanced kick boxer, listens to K-Pop pre-op
@@ -3284,7 +3284,7 @@ d100    Appearance/Demeanor
 13-14   Quiff, beard, tattoo sleeves, ear spacers
 15-16   Wears purple, plays sax, mood swings
 17-18   Pragmatic, funny, wears black duster
-19-20   hobo-chic, beanie hat, beard, tenacious
+19-20   Hobo-chic, beanie hat, beard, tenacious
 21-22   Bleached spikes, wraparounds, agitated
 23-24   Brushed aluminium body armour, focussed
 25-26   Sensitive to strong smells, heavy armour
@@ -3299,7 +3299,7 @@ d100    Appearance/Demeanor
 43-44   Cynical, risk taker, sickly, wears layers
 45-46   Theatrical, serious, black Ts, shades
 47-48   Wheezing, scarred, sportswear, gold chains
-49-50   Vicious, Vr-trained clone, tight leathers
+49-50   Vicious, VR-trained clone, tight leathers
 51-52   Bald, goatee, utility vest, superstitious
 53-54   Slim cyborg, conservative, chaste, classy
 55-56   Red leather jacket, corn rows, obsessive
@@ -3396,7 +3396,7 @@ d10 Social Media                          d10 Hot New Fads
 3   Dominated by political viewpoint      3  Slacktivist angst-lit forums
 4   Social Justice Champion               4  SmeatTM (smart meat; pick flavour)
 5   Work related self-promotion           5  Zone dancing in public places
-6   Fan of unlikely musical genre         6  expensive Sumo Food® kale shakes
+6   Fan of unlikely musical genre         6  Expensive Sumo Food® kale shakes
 7   Lonely - desperate to make friends    7  Randomiser-app-driven conversation
 8   Mainly family and friends (lots)      8  Freak Fighter brand endorsements
 9   Sexually predatory, catfish/stalker   9  Info-socialism - secret-free society
@@ -3613,7 +3613,7 @@ d100 Hackable Assets
 30    Wifi Toy
 31-34 Driverless Car/Aero
 35-36 Hub, Router or Exchange
-37-38 Security Camera or Cctv
+37-38 Security Camera or CCTV
 39-40 Driver Assist Link
 41-43 Elevators
 44-45 Cybermodem
@@ -3650,17 +3650,17 @@ d100 Hackable Assets
 
 d100 Bugs In The System
 1-2    Overzealous defensive software
-3-4    harbours malicious virus
+3-4    Harbours malicious virus
 5-6    Being assessed by sysadmin
-7-8    layers of legacy programming
-9-10   randomly goes into standby mode
+7-8    Layers of legacy programming
+9-10   Randomly goes into standby mode
 11-12  Badly formatted AR plug-in
 13-14  Installing software upgrade
-15-16  hacker currently querying system
-17-18  rOM overloaded by surplus apps
-19-20  recently reset to factory defaults
+15-16  Hacker currently querying system
+17-18  ROM overloaded by surplus apps
+19-20  Recently reset to factory defaults
 21-22  Inquisitive low-grade AI assistant
-23-24  requires biometric verification
+23-24  Requires biometric verification
 25-26  Auto-downloads to linked device
 27-28  Net connection keeps dropping out
 29-30  Incompatible operating system
@@ -3671,32 +3671,32 @@ d100 Bugs In The System
 39-40  Tendency to stall or hang
 41-42  Malware sifting for linked devices
 43-44  Missing system tools/utilities
-45-46  errors with user interface display
+45-46  Errors with user interface display
 47-48  Physically damaged, or faulty
 49-50  Non-standard reprogramming
 51-52  d6 software subroutines triggered
-53-54  logs recently tampered with
+53-54  Logs recently tampered with
 55-56  Overheating (heat sink failing)
-57-58  heavily encrypted for device type
+57-58  Heavily encrypted for device type
 59-60  Constant security warnings
 61-62  Non-intuitive user interface
-63-64  hogging the local bandwidth
+63-64  Hogging the local bandwidth
 65-66  Prone to system crashes
-67-68  uses badly patched legacy code
+67-68  Uses badly patched legacy code
 69-70  File sharing denied
 71-72  Configured for periodic back-up
 73-74  Insufficient internal battery life
-75-76  reveals a scheduled exploit (short)
+75-76  Reveals a scheduled exploit (short)
 77-78  'Access Denied' system file errors
-79-80  reboots the system at random
-81-82  requires admin password
+79-80  Reboots the system at random
+81-82  Requires admin password
 83-84  Can only handle minimal processes
-85-86  user interface in foreign language
+85-86  User interface in foreign language
 87-88  Discomforting feedback
 89-90  3rd party updaters need unchecking
 91-92  Menu options it shouldn't have
 93-94  In the process of being stolen
-95-96  running slow, searching for updates
+95-96  Running slow, searching for updates
 97-98  Feeds log and data to manufacturer
 99-100 Tagged and monitored by rogue AI
 
@@ -3706,14 +3706,14 @@ d100    Name
 1-2     Phreakworm
 3-4     Spiderhead
 5-6     The Venomous Pao
-7-8     robotnik
+7-8     Robotnik
 9-10    The Shadow Sphere
 11-12   Agent Orange
 13-14   Javier Script
 15-16   Kid Terminal
 17-18   Feedfetcher
 19-20   Mr
-21-22   lady Probability
+21-22   Lady Probability
 23-24   Chip Boy
 25-26   Pixelgeist
 27-28   Datamancer
@@ -3732,7 +3732,7 @@ d100    Name
 53-54   The Invisible hand
 55-56   Oblivia 404
 57-58   Infobahn
-59-60   hungry Ghost
+59-60   Hungry Ghost
 61-62   Cortical Mafia
 63-64   Jake/Finn/Beemo
 65-66   Synaptica
@@ -3741,31 +3741,31 @@ d100    Name
 71-72   Bit rat
 73-74   Daemonbot
 75-76   Samizdat
-77-78   lexicon Bandit
-79-80   happy Panda
+77-78   Lexicon Bandit
+79-80   Happy Panda
 81-82   Mod.Net
-83-84   heatseeker
+83-84   Heatseeker
 85-86   Solid State
 87-88   Chaos Theory
 89-90   The havoc
 91-92   Fuzzy logic
 93-94   Wardroids
 95-96   White Knight
-97-98   rOMinatrix
-99-100  underscourge
+97-98   ROMinatrix
+99-100  Underscourge
 
 d100 Description 1
-1-2     undermines elections in Third World countries, because he can
+1-2     Undermines elections in Third World countries, because he can
 3-4     Creates netsites for several street gangs, can muster help fast
 5-6     Turing Authority agent, under cover, working on major sting
-7-8     escaped from latvian data harvesters, has price on his head
+7-8     Escaped from latvian data harvesters, has price on his head
 9-10    Collective formed by ex-Transmission Felonies cop
 11-12   Works for the bank he hacks, now targeted for assassination
 13-14   Confined to ghetto-built mobility walker run on laptop batteries
-15-16   runs collective for corporate uncle, who thinks he's an idiot
+15-16   Runs collective for corporate uncle, who thinks he's an idiot
 17-18   Guarded by a pair of tactically enhanced German Shepherds
 19-20   Functionally a human server, sitting on millions
-21-22   high aptitude, actually result of drugs tests in orphanarium
+21-22   High aptitude, actually result of drugs tests in orphanarium
 23-24   Appears to be a script kiddie, successful exploit royalty farmer
 25-26   Clinically dead 3 times, wears a defib rig, surprisingly chipper
 27-28   Spends all his time in sensory deprivation tank
@@ -3776,30 +3776,30 @@ d100 Description 1
 37-38   Apparently in a coma, mercenary accomplices cover for him
 39-40   Wrote a dementia triggering software routine, afraid to sell it
 41-42   No clue his entire life is monitored by company handlers
-43-44   exceptional programmer, builds in exploits, fears discovery
-45-46   uplifted chimpanzee, fiercely protected by militant ecoclade
+43-44   Exceptional programmer, builds in exploits, fears discovery
+45-46   Uplifted chimpanzee, fiercely protected by militant ecoclade
 47-48   Child prodigy, invalid daughter of experimental neuroscientist
-49-50   experienced darknet scout, haunted by malicious dataforms
+49-50   Experienced darknet scout, haunted by malicious dataforms
 51-52   Synthetic, used as meatspace 'avatar' of another hacker (roll)
-53-54   rogue marketing AI, curates online Museum of Dangerous Art
+53-54   Rogue marketing AI, curates online Museum of Dangerous Art
 55-56   Targeted for extraction by several major transnationals
 57-58   Ousted darling Vrchitect, sells access to hidden labyrinths
 59-60   Former forensic system analyst, partial mindwipe
 61-62   Squeals to corporation if hired, well paid, makes excuses
-63-64   unremarkable 18 year old triplet nerds, secret geniuses
-65-66   rewired neural pathways push her intelligence beyond normal
+63-64   Unremarkable 18 year old triplet nerds, secret geniuses
+65-66   Rewired neural pathways push her intelligence beyond normal
 67-68   Intelligent hotel system, trades in guests' secrets, very wealthy
 69-70   Middle-aged housewife, was in debt, continues for the rush
-71-72   linkjacker specialising in compromising interfaced gear
-73-74   rogue nanite hive-mind, hiding in a hab stack's vent system
+71-72   Linkjacker specialising in compromising interfaced gear
+73-74   Rogue nanite hive-mind, hiding in a hab stack's vent system
 75-76   Self-righteous ethical hacktivist, has to make political statement
 77-78   Information hygiene specialist, excels at covering any tracks
 79-80   Notorious lOltroll, gleefully puts others in real danger
 81-82   Deals in downloadable skill apps and customised software
 83-84   Suffers Amazon War flashbacks, agoraphobic hoarder
-85-86   runs distribution of dark servers, launders data and bitcoin
+85-86   Runs distribution of dark servers, launders data and bitcoin
 87-88   Planning data heist, network map tattooed on missing person
-89-90   uses amphetamines to gain edge, just fucking him up
+89-90   Uses amphetamines to gain edge, just fucking him up
 91-92   Compelled to swat soft targets, knows she shouldn't
 93-94   S. Korean professional gamers, transition to big time net crime
 95-96   Drug addicted Net regulator, knows systems' weak points
@@ -3812,14 +3812,14 @@ d100 Description 2
 5-6     Tracking emergent intelligences
 7-8     Thick accent, security conscious
 9-10    Never, ever seen in meatspace
-11-12   exhausted, caffeine addicted
+11-12   Exhausted, caffeine addicted
 13-14   Strategic genius, connected
-15-16   used by collective for his money
+15-16   Used by collective for his money
 17-18   Brilliant cryptographer
-19-20   living black banking node
+19-20   Living black banking node
 21-22   Wanted by biotech company
 23-24   Buys back doors, rents them out
-25-26   reroutes courier drones for fixer
+25-26   Reroutes courier drones for fixer
 27-28   Teleoperates spiderform shells
 29-30   Travels in secure AI-driven car
 31-32   Secreting own 'ghost' across net
@@ -3827,7 +3827,7 @@ d100 Description 2
 35-36   Superstitious sakawa devotee
 37-38   Situation awareness for solos
 39-40   Several fixers aware of his work
-41-42   reconfigures obsolete software
+41-42   Reconfigures obsolete software
 43-44   Considering finally going legit
 45-46   Sought-after security consultant
 47-48   Supports rebel insurgency
@@ -3838,7 +3838,7 @@ d100 Description 2
 57-58   Courted by syndicate bosses
 59-60   Conflict averse by State design
 61-62   Covertly records everything
-63-64   remote vehicle-jackers
+63-64   Remote vehicle-jackers
 65-66   Sideline in pirate hunting
 67-68   Stolen Mossad virus adaptation
 69-70   Infamous node saboteur
@@ -3846,22 +3846,22 @@ d100 Description 2
 73-74   Financing transhuman revolt
 75-76   Sub-par AR 'street artist'
 77-78   Mines archeosystems for data
-79-80   engineers violent flash mobs
-81-82   lives in decommissioned sub
-83-84   expert MOuT co-ordinator
-85-86   hostile and deadly black ICe
+79-80   Engineers violent flash mobs
+81-82   Lives in decommissioned sub
+83-84   Expert MOuT co-ordinator
+85-86   Hostile and deadly black ICe
 87-88   Tagging and tracking homeless
-89-90   recon via subverted appliances
+89-90   Recon via subverted appliances
 91-92   Ghost-hacked by desperate cop
 93-94   Being used by corrupt manager
-95-96   under Turing investigation
-97-98   hosts popular Vr sex dungeon
+95-96   Under Turing investigation
+97-98   Hosts popular VR sex dungeon
 99-100  Intimately knows the city streets
 
 d100 Appearance/Description
 1-2     Army fatigues, manipulative
 3-4     Short red mohawk, bondage pants
-5-6     reliable, obsessive, clean cut
+5-6     Reliable, obsessive, clean cut
 7-8     Thin, bald, wild eyed, submissive
 9-10    Translucent, shadowy avatars
 11-12   Cheap suit, unkempt, nervous
@@ -3869,28 +3869,28 @@ d100 Appearance/Description
 15-16   Wears labelled casuals, arrogant
 17-18   Cosmonaut suit, catheter, bright
 19-20   Slick hair, sharp suit, confident
-21-22   humourless, kawaii-punk, tomboy
-23-24   late 20s, sophisticated, ruthless
+21-22   Humourless, kawaii-punk, tomboy
+23-24   Late 20s, sophisticated, ruthless
 25-26   Spiritual, hippy, infosocialist
 27-28   Malnourished, pastey, dank
 29-30   African, child soldier, gregarious
 31-32   Wealthy, suave, fatalist, drinker
-33-34   untrusting, baggy clothes, caps
+33-34   Untrusting, baggy clothes, caps
 35-36   Skeletal, tribal scars, chrome teeth
 37-38   Sterile stasis tank, philosophical
 39-40   T-shirts, jeans, sneakers, torn
 41-42   Slight, scruffy, shuffling, weak
-43-44   hyperactive, 3/4 pants, paranoid
-45-46   hairy, smelly, tasteful aesthete
+43-44   Hyperactive, 3/4 pants, paranoid
+45-46   Hairy, smelly, tasteful aesthete
 47-48   Bed-ridden, trapped, unloved
-49-50   leather coat, skin cut, bruiser
+49-50   Leather coat, skin cut, bruiser
 51-52   Serene, tidy, meticulous, plastic
 53-54   Presents as gaunt Victorian gent
 55-56   Young, serious, severe short bob
 57-58   Slacks, loafers, tailored shirts
 59-60   Stuttering, intelligent, frustrated
 61-62   Sly, overweight, pork pie hat
-63-64   long hair, beanies, Ts, juvenile
+63-64   Long hair, beanies, Ts, juvenile
 65-66   Distant, fidgety, emaciated
 67-68   Only hear a smooth, baritone voice
 69-70   Pear-shaped, leather jacket, boots

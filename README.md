@@ -1,25 +1,26 @@
-# ironsworn-custom-oracles
+# augmented-reality
 
-![GitHub all releases](https://img.shields.io/github/downloads/jendave/ironsworn-custom-oracles/total)
-[![Latest Version](https://img.shields.io/github/v/release/jendave/ironsworn-custom-oracles?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/ironsworn-custom-oracles/releases/latest)
-![Foundry Version](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjendave%2Fironsworn-custom-oracles%2Fmain%2Fmodule.json)
-[![License](https://img.shields.io/github/license/jendave/ironsworn-custom-oracles)](LICENSE)
+![GitHub all releases](https://img.shields.io/github/downloads/jendave/augmented-reality/total)
+[![Latest Version](https://img.shields.io/github/v/release/jendave/augmented-reality?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/augmented-reality/releases/latest)
+![Foundry Version](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjendave%2Faugmented-reality%2Fmain%2Fmodule.json)
+[![License](https://img.shields.io/github/license/jendave/augmented-reality)](LICENSE)
 
 # About
-A FoundryVTT compendium of fan-created oracles for the Ironsworn: ironsworn system.
+A FoundryVTT compendium of rolltables and macros for [Augmented Reality: The Holistic City Kit For Cyberpunk Games](https://preview.drivethrurpg.com/en/product/202175/augmented-reality-the-holistic-city-kit-for-cyberpunk-games)
 
 # Features and Notes
-* Oracle tables contributed by fans are included in the compendium.
-* Want your Oracle included? Contact us on the [Ironsworn/ironsworn Discord](https://discord.com/channels/437120373436186625/867434336201605160)!
+* Rolltables and macros for the tables in the kit.
+* System-neutral
 
 # Module Installation
-To install the module, search for `ironsworn` in the `Add-On Modules` tab of Foundry.
+To install the module, search for `augmented` in the `Add-On Modules` tab of Foundry. Click on `Install Module`.
 
 Or use this URL:
 
 ```
-https://github.com/jendave/ironsworn-custom-oracles/releases/latest/download/module.json
+https://github.com/jendave/augmented-reality/releases/latest/download/module.json
 ```
+
 
 ## Use Custom Folders to add Character Sheet Oracles 
 * If it does not already exist, create a `Custom Oracles` folder in `Rollable Tables` tab called:

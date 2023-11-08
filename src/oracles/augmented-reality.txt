@@ -31,7 +31,7 @@ d100 Downtown
 53-54  Fashion Boutique
 55-57  Commercial Cybernetics
 58     Mall
-59     Vrcade
+59     VRcade
 60     Gym
 61-62  Leisureplex 
 63-67  Apartment Block or Hab Stack
@@ -58,7 +58,7 @@ d10 Notable Features Table 1
 1  Extreme Security Protocols                        
 2  Decrepit and Rundown                              
 3  Graffitipocalypse                                 
-4  Obvious Gang Turf (See P26)                       
+4  Obvious Gang Turf (See Urban Tribes: Street Gangs)                       
 5  Back Room Brothel                                 
 6  Newly Renovated                                   
 7  Unusually Busy                                    
@@ -68,12 +68,12 @@ d10 Notable Features Table 1
 
 d10 Notable Features Table 2
 1  Abandoned Edifice
-2  Repurposed As (Drop Again)
+2  Repurposed As (Roll Again)
 3  Front For Corporate Activity
 4  Front For Criminal Activity
 5  Hidden Squatters
-6  Obscured By Ad Screens (See P15)
-7  Nano `Grown'
+6  Obscured By Ad Screens (See See What's On That Big Screen)
+7  Nano 'Grown'
 8  Incomplete
 9  Self Sufficient
 10 Crumbling Cheapcrete                               
@@ -82,7 +82,7 @@ d100 Expanded Building Features
 1   Extreme Security Protocols              
 2   Decrepit and Rundown                    
 3   Graffitipocalypse/Street Art Heavy      
-4   Obvious Gang Turf (See P26)             
+4   Obvious Gang Turf (See Urban Tribes: Street Gangs)             
 5   Back Room Brothel                       
 6   Newly Renovated                         
 7   Unusually Busy                          
@@ -91,11 +91,11 @@ d100 Expanded Building Features
 10  High Tech Equipment                     
 11  Abandoned Edifice                       
 12  Repurposed As... (Drop Again)           
-13  Front For Corporate Activity (See P22)  
+13  Front For Corporate Activity (See Corporate Aristocrats)
 14  Front For Criminal Activity             
 15  Hidden Squatters                        
-16  Obscured By Ad Screens (See P15)        
-17  `Grown' By Nanites                      
+16  Obscured By Ad Screens (See What's On That Big Screen)        
+17  'Grown' By Nanites                      
 18  Incomplete                              
 19  Self Sufficient                         
 20  Crumbling Cheapcrete                    
@@ -237,8 +237,8 @@ d10 Secret
 Local Conflict                                                      
 
 d10 Conflict Group                                    
-1   Street Gang (See P26)                             
-2   Corporate Aristocrat (See P22)                    
+1   Street Gang (See Urban Tribes: Street Gangs)                             
+2   Corporate Aristocrat (See Corporate Aristocrats)                    
 3   Fixer Network (See P30)                           
 4   Netrunner Collective (See P44)                    
 5   Solo Condotta/Pmc (See P36)                       
@@ -270,13 +270,13 @@ d10 Opposing Group
 6   Solo Condotta/PMC (see P36)
 7   Netrunner Collective (see P44)
 8   Fixer Network (see P30)
-9   Corporate Aristocrat (see P22)
-10  Street Gang (see P26)
+9   Corporate Aristocrat (See Corporate Aristocrats)
+10  Street Gang (see Urban Tribes: Street Gangs)
 
 Area Events
 
 d10 Event
-1   Gang Block War (See P26)                         
+1   Gang Block War (See Urban Tribes: Street Gangs)                         
 2   Corporate Sweep                                  
 3   Man-Made Disaster                                
 4   Political Unrest                                 
@@ -351,7 +351,6 @@ d10 Status
 9   Criminal Front
 10  Bad Reputation
 
-
 d10 The Street Finds Its Own Uses For Things                                                                        
 1   Power plant from main battle tank, used as a generator for a squat or shanty
 2   Hydroponics rig from scrapped research ship, used to breed modified food-algae
@@ -398,7 +397,7 @@ d10 Legacy Data
 7   unauthorised porn or gaming account, log in still active, possible exploit
 8   Previously defeated hacking attempt left old code gate decrypted and open
 9   Networked but obsolete peripherals remain powered on and in standby mode
-10  Partially de-rezzed AI `ghost' haunts the network and is, by now, quite insane
+10  Partially de-rezzed AI 'ghost' haunts the network and is, by now, quite insane
 
 Nightlife 
 
@@ -582,7 +581,7 @@ d100 Sounds
 14  Heavy Gunfire              
 15  Sobbing                    
 16  Channeled Winds            
-17  Hum Of A Cleaning `Bot     
+17  Hum Of A Cleaning 'Bot     
 18  Buzzing Of Flies           
 19  Rattle Of Chains           
 20  Arcade Machines            
@@ -613,7 +612,7 @@ d100 Sounds
 45  Beating Of Heavy Rain 
 46  Garbled Loudspeaker   
 47  Exchange Of Gunfire   
-48  Background `Muzak'    
+48  Background 'Muzak'    
 49  Gutteral Screaming    
 50  A Call To Prayer      
 51  Loose Piping          
@@ -887,9 +886,9 @@ What's In The Sky?
 d10 Vehicle 
 1   Luxury Aero/Limo                                  
 2   Utility Aero Transport                            
-3   Aerobus/Aerocab (See P20)                         
+3   Aerobus/Aerocab (See Random Cabbies)             
 4   Helicopter/Tilt-Rotor                             
-5   Ad Blimp (See P15)                                
+5   Ad Blimp (See What's On That Big Screen)                                
 6   Gunship (Aero or Chopper)                         
 7   Drone Cluster/Uav                                 
 8   Police Aero                                       
@@ -910,7 +909,7 @@ d10 Vehicle Is Currently...
 
 
 d10 What's On The River?
-1   A long, thin, high-powered speedboat (`cigarette' boat) races past
+1   A long, thin, high-powered speedboat ('cigarette' boat) races past
 2   An air-cushion taxi GeV (Ground effect Vehicle), slips down to the water (see P20)
 3   A garishly illuminated party boat, packed with revellers, loud music (see P38)
 4   A quiet and unassuming modern houseboat, moored to the embankment
@@ -919,7 +918,7 @@ d10 What's On The River?
 7   Clusters of detritus, plastics and thick yellow foam float on the oily surface
 8   Clearly marked security hydrofoil, slowly patrolling, hMGs and searchlights
 9   Rescue Service tug, hi-vis wearing crew dredging bloated bodies from the water
-10  A local go-gang has `upgraded' to tricked-out jet skis and are causing havoc
+10  A local go-gang has 'upgraded' to tricked-out jet skis and are causing havoc
 
 d10 Augmented Reality (Type - Aesthetic - Image Style)                                                 
 1   Direction - Typographic Overlays - Crisp/Bright
@@ -942,7 +941,7 @@ d100 The Instacitizen
 3-4   Bouncer or Private Security
 5     Aero Pilot
 6     Researcher or Data Analyst
-7-9   Street Gang Thug (See P26)
+7-9   Street Gang Thug (See Urban Tribes: Street Gangs)
 10    Lab Worker
 11-12 Street Kid(s)
 13-14 Gambler or Con Artist
@@ -967,7 +966,7 @@ d100 The Instacitizen
 51-52 Cabbie (See P20)              
 53-54 Homeless Person                            
 55-57 Drug Dealer
-58    Street Gang Boss (See P26)
+58    Street Gang Boss (See Urban Tribes: Street Gangs)
 59    City Inspector or Auditor
 60    Syndicate Boss
 61-62 Techie                            
@@ -1503,7 +1502,7 @@ d100    Personal Details
 73-74   Secret second life as a high class callgirl
 75-76   Wants to kill her twin sister and main rival
 77-78   Surprisingly normal
-79-80   Has `precognitive' dreams manipulated by a hacker
+79-80   Has 'precognitive' dreams manipulated by a hacker
 81-82   Despises both daylight and bright artificial lighting
 83-84   Only wears clothes made by the indentured poor
 85-86   Closely monitors the children of business rivals
@@ -1520,7 +1519,7 @@ d100    Job
 3-4     Bribes the staff of her rivals   
 5-6     Breeds biogenetic horrors        
 7-8     Finest art collection in city    
-9-10    Hoards `occult' objects          
+9-10    Hoards 'occult' objects          
 11-12   Collector of antique technology  
 13-14   Owns swathes of farmplexes       
 15-16   Breeds & trains combat clones    
@@ -2167,9 +2166,9 @@ d100 Sphere of Influence
 49-50   Target small-fry fixers and gangers and steal their shit to sell on  
 51-52   Sell stolen fashions, counterfeits and cloned credit cards           
 53-54   Professional-level hits and heists, unfettered by rules of warfare   
-55-56   Promise them in-game bitcoins and they'll perform any `quest'        
+55-56   Promise them in-game bitcoins and they'll perform any 'quest'        
 57-58   Fat allowances and legal back-up allow extreme road race stunts      
-59-60   Smuggle russian military hardware and protect `their' hab stacks     
+59-60   Smuggle russian military hardware and protect 'their' hab stacks     
 61-62   Slave traffickers and suppliers of stolen consumer electronics       
 63-64   Suspected organ-leggers and kidnappers                               
 65-66   Experts at depopulating hab stacks quickly and brutally              
@@ -2333,18 +2332,18 @@ Fixers & Facemen
 
 d100 Name
 1-2     Olivia Chain           
-3-4     Rob `Infidel' Castro   
+3-4     Rob 'Infidel' Castro   
 5-6     Gemini Benedict        
 7-8     The Mask Maker         
 9-10    Bradley Darrow         
-11-12   Usman `emir' Kasim     
+11-12   Usman 'Emir' Kasim     
 13-14   Mr Blank               
 15-16   Alison Wonderland      
 17-18   Ingenuity Jones        
 19-20   The Chemist            
 21-22   Darius November        
 23-24   Mondo hernandez        
-25-26   Leon `The Tsar' Arkov  
+25-26   Leon 'The Tsar' Arkov  
 27-28   Sister Mercy           
 29-30   Wise Melon             
 31-32   The Babel-Mother       
@@ -2357,7 +2356,7 @@ d100 Name
 45-46   reality Black          
 47-48   Adolf hipster          
 49-50   Mr Skin                
-51-52   `Viper' Joe DeMarco    
+51-52   'Viper' Joe DeMarco    
 53-54   Tanglegenes            
 55-56   Charisma Valentine     
 57-58   The Spider Sisters     
@@ -2391,7 +2390,7 @@ d100 Description
 9-10    Lives an opulent lifestyle well beyond his means
 11-12   Head of the so-called Flesh Cartel, self-styled King of Pimps
 13-14   Into cheap sex dolls, leaving scars due to latex allergies
-15-16   Hormone-locked `teen' (actually 30); outrageous flirt
+15-16   Hormone-locked 'teen' (actually 30); outrageous flirt
 17-18   Some-time stripper and cam girl, lover taught her to shoot
 19-20   Relishes the power his tailored drugs give him over others
 21-22   Struggles with a debilitating narcotic dependency
@@ -3071,25 +3070,25 @@ d100 What's On The Corpse?
 5-6     Blister pack of pills  Half-taken medication for virulently contagious illness
 7-8     Plain clip-on IFF tag  d6: 1-2 Police, 3-4 Major Corporation, 5-6 local Cartel (D3 days)
 9-10    Smooth plastic blob    Memory-plastic knife, requires a sharp tap to reconfigure blade
-11-12   Ziplock of grey dust   d6 `doses' of surveillance nanites; need transmission frequency
+11-12   Ziplock of grey dust   d6 'doses' of surveillance nanites; need transmission frequency
 13-14   Used pregnancy test    The low grade AI just can't wait to tell you the good news...
 15-16   Battered e-cig         The liquid well contains 12ml of a previously unknown narcotic
 17-18   Three 7.62 bullets     One of which is laser-etched with a PC's name
 19-20   Plastic envelope       Keycard and address for very hidden, very private cyber clinic
 21-22   Packet of condoms      Expensive, with STD detection sensors, phone number on back
-23-24   `Fitbit' biomonitor    Hack reveals owner's movements, heart-rate and drug intake
+23-24   'Fitbit' biomonitor    Hack reveals owner's movements, heart-rate and drug intake
 25-26   DeStress Xpress        d6 anti-anxiety capsules, laced with tracking nanites
 27-28   Small grey brick       Carbon nanobar, required substrate for illegal nano fabricators
-29-30   Business plasticard    Contact details for a gig-economy agent at `reputelligent Inc'.
+29-30   Business plasticard    Contact details for a gig-economy agent at 'reputelligent Inc'.
 31-32   Fancy boots            Synthetic crocodile skin Chelsea boots, hideously expensive
 33-34   Cybernetic hand        Spare chromed hand, fitted with flashlight and motion sensor
 35-36   Chinese cigarettes     Rare, prohibited imports, only one fixer known to smuggle them
 37-38   25ml plastic bottle    Labelled as NanoBrite dental hygiene fluid, contains DNA sample
 39-40   Shrink wrapped cell    Unused vendomat burner phone, monitored by corporation
 41-42   Puck-like disk         Olive drab casing, cyrillic script on how to use the monowire mine
-43-44   Plush `hello Kitty'    Tiny T-shirt states "let them eat chaos", grenade hidden inside
+43-44   Plush 'Hello Kitty'    Tiny T-shirt states "let them eat chaos", grenade hidden inside
 45-46   Unlocked datastick     Contains 500GB of banned Jihadipop tracks, DrMstill intact
-47-48   Painted filter mask    Anti-pollution rebreather, daubed in gang colours (see P26)
+47-48   Painted filter mask    Anti-pollution rebreather, daubed in gang colours (see Urban Tribes: Street Gangs)
 49-50   40mm resin figurine    Religious icon, showing Nelson Mandela healing a blind woman
 51-52   3D printed ring        Ornate white gold wedding ring, unique, worn on a neck chain
 53-54   Small bodycam          Memory chip reveals meeting with prominent fixer hours ago
@@ -3098,20 +3097,20 @@ d100 What's On The Corpse?
 59-60   Body lotto ticket      25% chance that the owner's death resulted in a winning number
 61-62   Durable glass vial     Containing a live venomous spider and eggs, not natural breed
 63-64   Loose rFIDtag          Angry pimp hunting for the prostitute it used to be implanted in
-65-66   1KG pack of `flour'    Calcium feed for nano-enhanced killer; stops the nano eating him
+65-66   1KG pack of 'flour'    Calcium feed for nano-enhanced killer; stops the nano eating him
 67-68   Blue lipstick          Loaded with aggressive immunosuppressing toxin
 69-70   Plastic motel key      The room it opens contains d6 bound, unconscious street kids
 71-72   Thumb-sized fob        Remote with agonizing dog-whistle effect on neural processors
-73-74   3 chromed `almonds'    Small situational awareness drones, feed view back to user
+73-74   3 chromed 'almonds'    Small situational awareness drones, feed view back to user
 75-76   Baggy of blue hexes    Contaminated or adulterated speed-like narcotics (d6 doses)
 77-78   Visitor's pass card    For geodesic-covered gated community (good for D3 days)
 79-80   Cheap airhypo          With three cassettes of insulin and one of an opiate derivative
 81-82   Wad of receipts        One for expensive neural backup, upload performed yesterday
-83-84   `Breguet' wristwatch   Prohibitively expensive, bespoke craftsmanship, easily traced
+83-84   'Breguet' wristwatch   Prohibitively expensive, bespoke craftsmanship, easily traced
 85-86   Police ID              Same name and face as corpse, but expertly crafted forgery
-87-88   Foil wrapped ooze      Pale & pink `jellypig' bioweapon, smothers and dissolves target
+87-88   Foil wrapped ooze      Pale & pink 'jellypig' bioweapon, smothers and dissolves target
 89-90   Vac-sealed FlishTM     d6 questionably nutritious artificial fish flesh sticks, each 3" long
-91-92   Silver hip flask       Engraved with elite unit crest, holds `Shanghai White' vodka
+91-92   Silver hip flask       Engraved with elite unit crest, holds 'Shanghai White' vodka
 93-94   Printed photo of PC    Folded acetate photo, with date 3 days hence penned in border
 95-96   Black, logo'd card     Corporate loyalty card, entitles bearer to generous discounts
 97-98   Stubby aerosol can     Spray-on dry shampoo, also changes hair colour and texture
@@ -3162,7 +3161,7 @@ d100    Name
 79-80   Dien Bien Phu           
 81-82   Otto Kruger             
 83-84   Pandora Frost           
-85-86   Buntaro `Bushi' Tanaka  
+85-86   Buntaro 'Bushi' Tanaka  
 87-88   Scarlett harvest        
 89-90   Ryan edwards            
 91-92   Slade Bennett           
@@ -3405,7 +3404,7 @@ d10 Social Media                          d10 Hot New Fads
 
 Vendomat Goods 
 1   Hot/Cold Beverages       Coffee, tea, cocoa, sodas, water, juice, shakes, energy drinks
-2   Hot/Cold Food            Burritos, noodles, burgers, fries, SCOP, sandwiches, `sushi'
+2   Hot/Cold Food            Burritos, noodles, burgers, fries, SCOP, sandwiches, 'sushi'
 3   Stimulants               Cigarettes, cigars, e-cig fluid, patches, caffeine tabs, alcohol
 4   Travel Packs             Toiletries, travel guides, cosmetics, sanitaries, sunglasses
 5   Electronics              Headphones, batteries, phones, torches, cameras, radios
@@ -3439,7 +3438,7 @@ d100 One Man's Trash...
 20  Gun - hot, cheap or damaged, or all three?   
 21  Half-used spray can of expanding foam        
 22  Partial bag of cement-like powder            
-23  Dispenser gun of `liquid nails' adhesive     
+23  Dispenser gun of 'liquid nails' adhesive     
 24  Handful of new looking nuts and bolts        
 25  d10 bricks or cinderblocks                   
 26  Opened box of large ceramic tiles            
@@ -3475,7 +3474,7 @@ d100 One Man's Trash...
 56  Biometrically locked JPeG viewer
 57  Standard battery, 20% charge remaining
 58  Obsolete surveillance camera
-59  `Retired' synthetic, missing limb(s)
+59  'Retired' synthetic, missing limb(s)
 60  Assisted sleep console, induces seizures
 61  Plastic Christmas tree, partially melted
 62  Toy ride-in car, polymer shell, electric motor
@@ -3571,7 +3570,7 @@ d10 Freak Fighters
 10  Lazarus Rapide         Showy and stylish, fast, will strangle you into submission
 
 Gig Economy - What's my agent got lined up for me today?
-1   Mobile AR Ad Hub       Supplied body rig outputs `augverts' as you wander streets
+1   Mobile AR Ad Hub       Supplied body rig outputs 'augverts' as you wander streets
 2   Human CCTV             Cyberoptics required, must allow remote access & sign NDA
 3   Gig Groomer            Given a quota of potential gig workers to sign up for agent
 4   Hygiene Dispenser      Loiter in lobbies wearing a tank full of hand sanitiser
@@ -3668,7 +3667,7 @@ d100 Bugs In The System
 31-32  Pop-up pandemic                                
 33-34  Software conflicts, glitchy                    
 35-36  Processor overclocked                          
-37-38  Active `vigilance suite' warns user            
+37-38  Active 'vigilance suite' warns user            
 39-40  Tendency to stall or hang                      
 41-42  Malware sifting for linked devices             
 43-44  Missing system tools/utilities                 
@@ -3688,7 +3687,7 @@ d100 Bugs In The System
 71-72  Configured for periodic back-up
 73-74  Insufficient internal battery life
 75-76  reveals a scheduled exploit (short)
-77-78  `Access Denied' system file errors
+77-78  'Access Denied' system file errors
 79-80  reboots the system at random
 81-82  requires admin password
 83-84  Can only handle minimal processes
@@ -3773,7 +3772,7 @@ d100 Description 1
 29-30   Blinded as a child, navigates entire life via net overlays
 31-32   Maintains clones in exowombs, in hidden cold storage facility
 33-34   Adept at cracking people's neural interface networks
-35-36   Tanzanian `sorcerer', skims identities to sell to the syndicates
+35-36   Tanzanian 'sorcerer', skims identities to sell to the syndicates
 37-38   Apparently in a coma, mercenary accomplices cover for him
 39-40   Wrote a dementia triggering software routine, afraid to sell it
 41-42   No clue his entire life is monitored by company handlers
@@ -3781,7 +3780,7 @@ d100 Description 1
 45-46   uplifted chimpanzee, fiercely protected by militant ecoclade
 47-48   Child prodigy, invalid daughter of experimental neuroscientist
 49-50   experienced darknet scout, haunted by malicious dataforms
-51-52   Synthetic, used as meatspace `avatar' of another hacker (roll)
+51-52   Synthetic, used as meatspace 'avatar' of another hacker (roll)
 53-54   rogue marketing AI, curates online Museum of Dangerous Art
 55-56   Targeted for extraction by several major transnationals
 57-58   Ousted darling Vrchitect, sells access to hidden labyrinths
@@ -3823,7 +3822,7 @@ d100 Description 2
 25-26   reroutes courier drones for fixer  
 27-28   Teleoperates spiderform shells     
 29-30   Travels in secure AI-driven car    
-31-32   Secreting own `ghost' across net   
+31-32   Secreting own 'ghost' across net   
 33-34   Subverts implants for own use      
 35-36   Superstitious sakawa devotee       
 37-38   Situation awareness for solos      
@@ -3845,7 +3844,7 @@ d100 Description 2
 69-70   Infamous node saboteur             
 71-72   Virtual cosplayer club president   
 73-74   Financing transhuman revolt        
-75-76   Sub-par AR `street artist'         
+75-76   Sub-par AR 'street artist'         
 77-78   Mines archeosystems for data       
 79-80   engineers violent flash mobs       
 81-82   lives in decommissioned sub        

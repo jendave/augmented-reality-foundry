@@ -1,4 +1,4 @@
-The Downtown
+Downtown
 
 d100 Downtown
 1-2    Pharmacy
@@ -180,6 +180,8 @@ d100 Expanded Building Features
 99  Extensive Drone Docks
 100 Causes Sickness (See Urban Sickess)
 
+Local Conflict & Events
+
 Quirky Interiors
 
 d10 Style
@@ -230,6 +232,8 @@ d10 Secret
 9  Weapons Cache
 10 Hidden Stash
 
+*Rivals: 1-5 Within Same Group, 6-10 Different Group
+
 Local Conflict
 
 d10 Conflict Group
@@ -243,6 +247,7 @@ d10 Conflict Group
 8   Transient Clan
 9   Indentured Workers
 10  Media Web
+
 
 d10 Conflict Source
 1   Treachery
@@ -293,6 +298,8 @@ d10 Leading To...
 8   Curfews
 9   Unification/Community Cohesion
 10  Rapidly Escalating Fatalities
+
+*Single Cell Organic Proteins - The Nation's Favourite Nutrient Soup
 
 Alternative Businesses
 
@@ -442,6 +449,11 @@ d10 Vibe
 9   Popular
 10  Exclusive
 
+Sense & The City - Smells is a D100 table designed to allow the GM to quickly
+generate the most prominent scent in a given city area, or as a PC enters an interior
+space such as a room or elevator. Roll on it once for a particularly dominant smell,
+or several times for a more interesting olfactory experience.
+
 Sense & The City
 
 d100 Smells
@@ -546,6 +558,11 @@ d100 Smells
 99  Gun Oil
 100 Roll Twice
 
+Sense & The City - Sounds is a D100 table designed to allow the GM to quickly
+generate the background noises for the city. Roll on it once for the most noticeable
+sound in the area or interior space, or several times to emulate the cacophony of
+urban living.
+
 d100 Sounds
 1   Building Alarm
 2   Barking Dogs
@@ -648,6 +665,11 @@ d100 Sounds
 99  Hissing White Noise
 100 Roll Twice
 
+Sense & The City - Sights is a D100 table designed to allow the GM to quickly
+generate the most notable things or activities in a given city area. Roll on it once to
+add focus, or a number of times to create complex, confusing distractions. use it in
+conjunction with the Sounds table, to establish overlapping sensory layers.
+
 d100 Sights
 1-2    Armoured cops bundle violently reluctant vagrant into ERA-plated squad car
 3-4    A bus shelter made entirely of screens showing flashy commercials (see What's On That Big Screen)
@@ -701,7 +723,8 @@ d100 Sights
 97-98  An energetic street preacher giving a digital presentation on Cybernetic Jesus®
 99-100 The sidewalk consists of slabs of flickering screens, showing adverts (see That's Infotainment)
 
-Big Screens & Infotainment
+
+Roll a D10 to see what the mediocracy are piping to the masses. Roll more dice for split screen content.
 
 d10 What's On That Big Screen?
 1   Video gaming event
@@ -765,8 +788,6 @@ d10    Marketing Style
 9      Exotic/Arty
 10     Aspirational
 
-Vehicles & Features
-
 d100 What's On The Road
 1-2    Armoured Intercity Bus
 3-4    Carbon-Fibre Pedicab (See Random Cabbies)
@@ -818,6 +839,8 @@ d100 What's On The Road
 95-96  Car/Vehicle/Pa Transporter
 97-98  Regular City Bus (1-3 Decks)
 99-100 Trike
+
+*Single Cell Organic Proteins - the nation's favourite nutrient  soup
 
 Added Features
 
@@ -883,6 +906,7 @@ d10 Vehicle Is Currently...
 9   Overtaking
 10  Clipping (Roll Again For What Is Hit)
 
+
 d10 What's On The River?
 1   A long, thin, high-powered speedboat ('cigarette' boat) races past
 2   An air-cushion taxi GeV (Ground effect Vehicle), slips down to the water (see Random Cabbies)
@@ -906,6 +930,8 @@ d10 Augmented Reality (Type - Aesthetic - Image Style)
 8   Menu System - Unobtrusive and Integrated - Technical/Sci-fi
 9   Filter - Fantastical and Otherworldly - Surreal/Immersive/Arty
 10  Prohibition - Bold/Dramatic/Authorative - Flat Vector Graphics
+
+*Promotion refers to services and entertainment eg: bars, job agencies etc., and is designed to coax you in their direction.
 
 The Instacitizen
 
@@ -1237,6 +1263,8 @@ d100   Demeanour
 97-98  Tuneful/Musical
 99-100 Naive
 
+*see urban Sickness table on page 10 (Also, see page 12 for the cab and the driver's unique smell...)
+
 What's Their Poison
 
 d10 Peccadilloes, Vices, Addictions
@@ -1537,7 +1565,7 @@ d100    Job
 97-98   Resource management
 99-100  Enhanced killer of some renown
 
-d100    Appearance/Demeanour
+d100    Appearance/Demeanor
 1-2     Wears silk, furs and a monocle
 3-4     Black eyes, red trouser suits
 5-6     Short, bald, gruff, distracted
@@ -1589,7 +1617,7 @@ d100    Appearance/Demeanour
 97-98   Arrogant, devious, patronising
 99-100  Dark-eyed, clever, religious
 
-d100    Relationship
+d100    Relationships
 1-2     Married to...
 3-4     Sleeps with...
 5-6     Father of...
@@ -2161,7 +2189,7 @@ d100 Sphere of Influence
 97-98   Carjacking and auto theft, as well as elaborate respraying
 99-100  Do a roaring trade in illegally downloaded, DrM-free music
 
-d100 Relationship
+d100 Relationships
 1-2     Turf war with...
 3-4     Steal from...
 5-6     Merger with...
@@ -2250,6 +2278,7 @@ d10 Other NPCs
 8  Invalided Gang Member
 9  Gang's Fixer
 10 Gang's Idiot (the liability)
+
 
 d10 What's The Deal With These Guys? (Rumours/Hooks)
 1  The gang is in danger of being destroyed by a more powerful rival (roll a gang)
@@ -2456,7 +2485,7 @@ d100 Job
 97-98   Cleaner
 99-100  Implant Dealer
 
-d100 Appearance/Demeanour
+d100 Appearance/Demeanor
 1-2     Boxy, plain, emotion suppression chips
 3-4     Skinny jeans, vinyl bomber jacket, joker
 5-6     Elfin, humourless, pale duster, blue hair
@@ -2508,7 +2537,7 @@ d100 Appearance/Demeanour
 97-98   Tall, lean, narrow-faced, red suit, dreads
 99-100  Long black hair, goatee, lethargic, cynical
 
-d100 Relationship
+d100 Details
 1-2     Secretly adores...
 3-4     Sleeping with...
 5-6     Apprentice of...
@@ -3006,7 +3035,9 @@ d10 Type of Device
 9  Cam/recorder/Bug
 10 3D Printer/Peripheral
 
-d10 So, What's on That Thing Anyway? (Data Mining)
+Data Mining
+
+d10 So, what's on that thing anyway?
 1  Contacts list - a mix of pure gold and the depressingly mundane
 2  Schematics - possibly of a building, vehicle, or a new cybernetics design
 3  Compromising Image Files (GM needs to determine of who)
@@ -3018,7 +3049,9 @@ d10 So, What's on That Thing Anyway? (Data Mining)
 9  Presentation For Forthcoming Biotech launch - impressive production values
 10 V-Mail Conversation Threads - regards one or more of the above (roll again twice)
 
-d10 Where's It Been? (Device History)
+Where's It Been?
+
+d10 Device History
 1  Stolen - the original owner(s) want it found and returned, offering a reward
 2  Misplaced - the owner(s) lost it and are desperate to find the device
 3  Traded - the device has been through several owners in recent months
@@ -3227,7 +3260,7 @@ d100    Weapon
 71-72   Cortex bomb
 73-74   Bright Plastic SMG
 75-76   Chinese SMG clone
-77-78   Caseless KRISS Vector
+77-78   Caseless KrISS Vector
 79-80   Brace of small pistols
 81-82   Scanner shielded gun
 83-84   Inbuilt Scorpion SMGs
@@ -3240,7 +3273,7 @@ d100    Weapon
 97-98   Full spectrum targeter
 99-100  Belt-fed chaingun
 
-d100    Appearance/Demeanour
+d100    Appearance/Demeanor
 1-2     Big, black, worn leather duster, irritable
 3-4     Sadistic, tattooed smart-armour link points
 5-6     Full body cyborg, crudely sprayed pink
@@ -3344,7 +3377,7 @@ d100    Relationship
 97-98   Trusts only...
 99-100  Rival of... (1-2)
 
-d10 Sonic Youth (Musical Style/Genre)
+d10 Sonic Youth
 1   Black Ambient
 2   Photonic Wave
 3   Xhosa Trance
@@ -3356,7 +3389,7 @@ d10 Sonic Youth (Musical Style/Genre)
 9   Toxic Ska
 10  Anthemic NeoPunk
 
-d10 On Demand (Vid Show)
+d10 On Demand
 1  Implant Fixers (reality/comedy)
 2  Simsense & Sensibility (drama)
 3  Zone runner Xtreme (gameshow)
@@ -3368,7 +3401,7 @@ d10 On Demand (Vid Show)
 9  Fracture Point (cop show)
 10 Alt Cult Zero (documentary)
 
-d10 Social Media (Online Presence)
+d10 Social Media
 1   Impossibly dull, mainly life memes
 2   Sickening, cute, GIF-heavy, juvenile
 3   Dominated by political viewpoint
@@ -3380,7 +3413,7 @@ d10 Social Media (Online Presence)
 9   Sexually predatory, catfish/stalker
 10  Hobby focused (gaming/making)
 
-d10 Hot New Fads (What’s in this week?)
+d10 Hot New Fads
 1  Everybody loves neutraceuticals
 2  Weatherproof glowing ponchos
 3  Slacktivist angst-lit forums
@@ -3509,7 +3542,7 @@ d100 One Man's Trash...
 
 Strange Encounters
 
-d10 Black Ops (What did we just stumble into?)
+d10 Black Ops - What did we just stumble into?
 1   Parked SUV with lone netrunner, jacked in, cross-legged in the back, walky on seat
 2   Four figures in black coveralls with SMGs carry unconscious wage-slave to a van
 3   Sleek car screeches to a halt, long coated gunmen get out, readying weapons
@@ -3521,7 +3554,7 @@ d10 Black Ops (What did we just stumble into?)
 9   Syndicate thugs argue with heavily armed group in car park over contents of a bag
 10  Three smartly dressed operatives with biotracker observe disembarking passengers
 
-d10 Bio Horrors (What the hell is that thing?)
+d10 Bio Horrors - What the hell is that thing?
 1   Poisonous Wasps           Fast, hard to spot as wrong until close, sting repeatedly
 2   Parasitic Spawn           Crawls for the spine, hacks and burns central nervous system
 3   Spider Rat                Hairless, 8-legged rat-thing, DNA imprinted pack hunter
@@ -3533,7 +3566,7 @@ d10 Bio Horrors (What the hell is that thing?)
 9   Smell Tracker             Pheromone-sensitive tics drawn to target, easy to track
 10  Razorhound                Skinless canine with monomolecular teeth, can climb
 
-d10 Atypical Weather (Today's forecast...)
+d10 Atypical Weather - Today's forecast...
 1   Corrosive Fog             Stinking acidic fog enshrouds city, poor visibility and air
 2   Creepcloud                Chemically tainted mist triggers environment monitors
 3   Acidic Monsoon            Sheets of choking, corrosive rain creates vapour columns
@@ -3559,7 +3592,7 @@ d10 Freak Fighters
 9   Ultimate Hobo          Hairy meth addict, relieved of his hands, replaced with flails
 10  Lazarus Rapide         Showy and stylish, fast, will strangle you into submission
 
-Gig Economy (What's my agent got lined up for me today?)
+Gig Economy - What's my agent got lined up for me today?
 1   Mobile AR Ad Hub       Supplied body rig outputs 'augverts' as you wander streets
 2   Human CCTV             Cyberoptics required, must allow remote access & sign NDA
 3   Gig Groomer            Given a quota of potential gig workers to sign up for agent
@@ -3571,7 +3604,7 @@ Gig Economy (What's my agent got lined up for me today?)
 9   Pest Microwaver        Issued with RFID tagged microwaver to zap vermin
 10  Drone Repoman          Trace and recover downed courier drones
 
-Unlawful Trespass (Who's already been in that building?)
+Unlawful Trespass - Who's already been in that building?
 1   Crime Scene        A recent crime has the space crawling with forensics drones
 2   Coding Stable      Temporary pop-up AR ad studio, staffed by low paid coders
 3   Sweat Shop         Illegal 3D minifactury manned by weary indentured immigrants
@@ -3848,7 +3881,7 @@ d100 Description 2
 97-98   Hosts popular VR sex dungeon
 99-100  Intimately knows the city streets
 
-d100 Appearance/Demeanour
+d100 Appearance/Description
 1-2     Army fatigues, manipulative
 3-4     Short red mohawk, bondage pants
 5-6     Reliable, obsessive, clean cut

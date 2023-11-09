@@ -411,7 +411,7 @@ d10 Bar or Club
 7   The Dispensary
 8   Ryumi's
 9   The Black Room
-10  The Flesh café
+10  The Flesh Café
 
 d10 Status
 1   New Owner(s)
@@ -423,7 +423,7 @@ d10 Status
 7   Student Crowd
 8   Under Surveillance
 9   War Zone
-10  Best Bands/Djs
+10  Best Bands/DJs
 
 d10 Security
 1   None
@@ -562,7 +562,6 @@ Sense & The City - Sounds is a D100 table designed to allow the GM to quickly
 generate the background noises for the city. Roll on it once for the most noticeable
 sound in the area or interior space, or several times to emulate the cacophony of
 urban living.
-Roll D100
 
 d100 Sounds
 1   Building Alarm
@@ -627,7 +626,7 @@ d100 Sounds
 60  Ice Cream Truck
 61  Distant Explosion
 62  Car Horn
-63  Uav/Drone Motor
+63  UAV/Drone Motor
 64  Tumbling Trash Cans
 65  Evangelical Broadcast
 66  Very Heavy Transport
@@ -661,7 +660,7 @@ d100 Sounds
 94  Frying Food
 95  A Brawl
 96  Doors Slamming
-97  Ads (See Next Page)
+97  Ads (See Sights)
 98  Thunder
 99  Hissing White Noise
 100 Roll Twice
@@ -673,8 +672,8 @@ conjunction with the Sounds table, to establish overlapping sensory layers.
 
 d100 Sights
 1-2    Armoured cops bundle violently reluctant vagrant into ERA-plated squad car
-3-4    A bus shelter made entirely of screens showing flashy commercials (see below)
-5-6    Searchlights playing across the cloud cover and projecting branding (see below)
+3-4    A bus shelter made entirely of screens showing flashy commercials (see What's On That Big Screen)
+5-6    Searchlights playing across the cloud cover and projecting branding (see What's On That Big Screen)
 7-8    A brightly lit aerocab taking off in a cloud of exhaust fumes, rainwater and trash
 9-10   AC vents in the sidewalk emitting a thick cloud of vapour
 10-11  A heavy rainwater cascade falls from damaged guttering
@@ -683,10 +682,10 @@ d100 Sights
 15-16  A vid-blogger in full, wearable array, blatantly recording the scene
 17-18  The nearest building has an intermittently flickering security light
 19-20  Your view is blocked by a lumbering hi-vis recycling collection truck
-21-22  A cluster of kids vaping, leD-lit clouds from under designer pollution hoods
+21-22  A cluster of kids vaping, LED-lit clouds from under designer pollution hoods
 23-24  A pair of bicycle couriers race one another through crawling traffic
 25-26  Gritty, chemical infused sediment sloughing off a nearby rooftop
-27-28  A large building-mounted flatscreen showing... (see table top right)
+27-28  A large building-mounted flatscreen showing... (see What's On That Big Screen)
 29-30  Unattended roadworks, the area coned off and lit for safety for no good reason
 31-32  An automated noodle vending truck, jingle playing, folds open and deploys nearby
 33-34  A flock of scabrous-looking pigeons suddenly taking flight
@@ -702,10 +701,10 @@ d100 Sights
 53-54  A loaded pizza delivery drone hovering about three meters above the ground
 55-56  A wage-slave arguing with her phone's onboard AI, before breaking down crying
 57-58  An orange, multi-limbed, window cleaning remote clambers up the building facade
-59-60  A long, silent queue for a blocky, exhaust stained, kerb-side euthanasia BoothTM
+59-60  A long, silent queue for a blocky, exhaust stained, kerb-side euthanasia Booth™
 61-62  All the nearby street signs are gang-tagged over to the point of being useless
 63-64  Filthy red and white plastic Jersey barriers block most of the sidewalk
-65-66  An overpass or skywalk covered in colourful advertising animatics (see below)
+65-66  An overpass or skywalk covered in colourful advertising animatics (see That's Infotainment)
 67-68  There are crowds of fast moving people swarming absolutely everywhere
 69-70  The scorched shell of a gutted vid-phone kiosk
 71-72  Pedestrians flooding across the nearest intersection, en masse, both ways
@@ -722,7 +721,7 @@ d100 Sights
 93-94  A row of vendomats coated in layers of gang tags, going back many years
 95-96  A GeV taxi takes a corner hard, throwing up polluted water, trash and crud (see Random Cabbies)
 97-98  An energetic street preacher giving a digital presentation on Cybernetic Jesus®
-99-100 The sidewalk consists of slabs of flickering screens, showing adverts (see below)
+99-100 The sidewalk consists of slabs of flickering screens, showing adverts (see That's Infotainment)
 
 
 Roll a D10 to see what the mediocracy are piping to the masses. Roll more dice for split screen content.
@@ -733,7 +732,7 @@ d10 What's On That Big Screen?
 3   System error message/connection failure
 4   The time and date
 5   The latest news headlines and lottery result
-6   Infomercial/Advertainment (see below)
+6   Infomercial/Advertainment (see That's Infotainment)
 7   The weather forecast/air quality statistics
 8   Pornography (hacked and then squirtcast?)
 9   Music videos or movie trailers
@@ -800,8 +799,8 @@ d100 What's On The Road
 15-16  Small City Electric
 17-18  Limousine
 19-20  Sports Car
-21-22  Hmmwv (Humvee)
-23-24  Suburban Utility Vehicle (Suv)
+21-22  HMMWV (Humvee)
+23-24  Suburban Utility Vehicle (SUV)
 25-26  Estate Car/Stationwagon
 27-28  Moped/Scooter
 29-30  4x4/Mrap
@@ -833,7 +832,7 @@ d100 What's On The Road
 81-82  Fire Tender
 83-84  Buggy/Atv
 85-86  Powered Armour Rickshaw (Cradle)
-87-88  Emt/Paramedic/Ambulance
+87-88  EMT/Paramedic/Ambulance
 89-90  Armoured Personnel Carrier
 91-92  Quad Bike
 93-94  Tow Truck (Roll Again For Tow)
@@ -890,7 +889,7 @@ d10 Vehicle
 4   Helicopter/Tilt-Rotor
 5   Ad Blimp (See What's On That Big Screen)
 6   Gunship (Aero or Chopper)
-7   Drone Cluster/Uav
+7   Drone Cluster/UAV
 8   Police Aero
 9   Aero Sedan
 10  EMT/Paramedic Aero
@@ -924,11 +923,11 @@ d10 Augmented Reality (Type - Aesthetic - Image Style)
 1   Direction - Typographic Overlays - Crisp/Bright
 2   Logo Storm - Bright and Garish Glyphs - Animated 3-D
 3   Assistant - Animated Persona - high resolution
-4   Blipvert - see That's Infotainment
-5   Political - emotive Imagery - Sophisticated
-6   Promotion* - rapid Motion/Distracting - Cheap/low resolution
-7   Advice - reassuring Infomemes - Clear, Yet Subtle
-8   Menu System - unobtrusive and Integrated - Technical/Sci-fi
+4   Blipvert - See That's Infotainment
+5   Political - Emotive Imagery - Sophisticated
+6   Promotion* - Rapid Motion/Distracting - Cheap/low resolution
+7   Advice - Reassuring Infomemes - Clear, Yet Subtle
+8   Menu System - Unobtrusive and Integrated - Technical/Sci-fi
 9   Filter - Fantastical and Otherworldly - Surreal/Immersive/Arty
 10  Prohibition - Bold/Dramatic/Authorative - Flat Vector Graphics
 
@@ -978,7 +977,7 @@ d100 The Instacitizen
 77-78 Corporate Agent
 79-80 Doctor or Street Medic
 81-83 Detective
-84-85 Online Business Person
+84-85 Online BusIness Person
 86-87 Store Manager
 88-89 Solo or Mercenary (See Guns For Hire)
 90    Killer or Psycho
@@ -986,7 +985,7 @@ d100 The Instacitizen
 93-94 Aristocrat or Independently Wealthy
 95    Refuse or Recyc Worker
 96    Psych Evaluator
-97-98 Emergency Worker (Emt, Nurse, Paramedic, Fire Fighter)
+97-98 Emergency Worker (EMT, Nurse, Paramedic, Fire Fighter)
 99    Government Agent
 100   Scientist
 
@@ -1274,18 +1273,18 @@ d10 Peccadilloes, Vices, Addictions
 3  Street legal, But harmful - Alcohol/Caffeine/Nicotine
 4  SimStim/SimSense/VR Gaming
 5  Atrocity Images or Footage
-6  Prostitutes (Secretly Same Sex?) (see below)
+6  Prostitutes (Secretly Same Sex?) (see Street Walkers)
 7  Pornographic Material (Particular Acts or Fetish?)
 8  Bizarre Fetish Wear or Activity
 9  Pain/Sexual Violence (Towards Self or Others)
-10 Abuses Synthetic (or real) Animals
+10 Abuses Synthetic (or Real) Animals
 
 d10 Level of Need
-1  Take It or leave It
+1  Take It Or Leave It
 2  Light Interest
 3  Ghoulish Fascination
 4  If The Opportunity Arises
-5  Regular routine user
+5  Regular Routine User
 6  Intrinsic To Personality
 7  Only To Destress
 8  Needed To Function
@@ -2168,7 +2167,7 @@ d100 Sphere of Influence
 53-54   Professional-level hits and heists, unfettered by rules of warfare
 55-56   Promise them in-game bitcoins and they'll perform any 'quest'
 57-58   Fat allowances and legal back-up allow extreme road race stunts
-59-60   Smuggle russian military hardware and protect 'their' hab stacks
+59-60   Smuggle Russian military hardware and protect 'their' hab stacks
 61-62   Slave traffickers and suppliers of stolen consumer electronics
 63-64   Suspected organ-leggers and kidnappers
 65-66   Experts at depopulating hab stacks quickly and brutally
@@ -2383,7 +2382,7 @@ d100 Name
 99-100  Dr Fassbinder
 
 d100 Description
-1-2     Despises being based out of the local Consumertopia (TM)
+1-2     Despises being based out of the local Consumertopia™
 3-4     Once an indentured child, tends to sympathise too much
 5-6     Many implants, diminished empathy, she's not afraid to kill
 7-8     Records all business conversations covertly, just in case
@@ -3109,7 +3108,7 @@ d100 What's On The Corpse?
 83-84   'Breguet' wristwatch   Prohibitively expensive, bespoke craftsmanship, easily traced
 85-86   Police ID              Same name and face as corpse, but expertly crafted forgery
 87-88   Foil wrapped ooze      Pale & pink 'jellypig' bioweapon, smothers and dissolves target
-89-90   Vac-sealed FlishTM     d6 questionably nutritious artificial fish flesh sticks, each 3" long
+89-90   Vac-sealed Flish™     d6 questionably nutritious artificial fish flesh sticks, each 3" long
 91-92   Silver hip flask       Engraved with elite unit crest, holds 'Shanghai White' vodka
 93-94   Printed photo of PC    Folded acetate photo, with date 3 days hence penned in border
 95-96   Black, logo'd card     Corporate loyalty card, entitles bearer to generous discounts
@@ -3132,22 +3131,22 @@ d100    Name
 21-22   Napoleon Dean
 23-24   Trixie Paladin
 25-26   Terence Van Stratten
-27-28   Nip lacey
+27-28   Nip Lacey
 29-30   Spiros Giannopoulos
 31-32   Demi Oblique
 33-34   Mike Bravo
-35-36   Storm haussmann
+35-36   Storm Haussmann
 37-38   Indigo Jones
 39-40   Mildred Gaia
 41-42   Joe Montero
 43-44   Chance Baptiste
-45-46   Oliver McKee
+45-46   Oliver Mckee
 47-48   Saber Numan
 49-50   Zaneta Zone
 51-52   Brandon Skinner
-53-54   Mina radisson
+53-54   Mina Radisson
 55-56   Johnny Namibia
-57-58   Aisha hussein
+57-58   Aisha Hussein
 59-60   Boyd Blackwood
 61-62   Emmanuel King
 63-64   Huey Ventura
@@ -3162,8 +3161,8 @@ d100    Name
 81-82   Otto Kruger
 83-84   Pandora Frost
 85-86   Buntaro 'Bushi' Tanaka
-87-88   Scarlett harvest
-89-90   Ryan edwards
+87-88   Scarlett Harvest
+89-90   Ryan Edwards
 91-92   Slade Bennett
 93-94   Splicer Takeda
 95-96   Kurt Kellerman
@@ -3176,7 +3175,7 @@ d100    Details
 5-6     Camp, flirtatious, enjoys intimidating straights, brutal brawler
 7-8     Engaged in messy affair with unstable corporate aristocrat
 9-10    Rogue vat-grown killer, protects paralysed gene-tech he loves
-11-12   Gaijin with minor yakuza gumi, despised, mole for russians
+11-12   Gaijin with minor yakuza gumi, despised, mole for Russians
 13-14   Unapologetic hipster, support from Armenian hacker clade
 15-16   Lives in exquisite houseboat, requires seclusion to stay sane
 17-18   Overweight hawaiian, raised in foster homes, big drinker
@@ -3378,31 +3377,55 @@ d100    Relationship
 97-98   Trusts only...
 99-100  Rival of... (1-2)
 
-d10 Sonic Youth                           d10 On Demand
-1   Black Ambient                         1  Implant Fixers (reality/comedy)
-2   Photonic Wave                         2  Simsense & Sensibility (drama)
-3   Xhosa Trance                          3  Zone runner Xtreme (gameshow)
-4   Industrial Grind house                4  Crash & Burn (hacking competition)
-5   Eurozeit Groove                       5  My Two Clones (sitcom)
-6   Chip hop                              6  Atomic Geisha Dojo (gameshow)
-7   Glitchcore                            7  Personality Adjustment (reality)
-8   Machine-Soul Dub                      8  The Clade (soap opera)
-9   Toxic Ska                             9  Fracture Point (cop show)
-10  Anthemic NeoPunk                      10 Alt Cult Zero (documentary)
+d10 Sonic Youth
+1   Black Ambient
+2   Photonic Wave
+3   Xhosa Trance
+4   Industrial Grind house
+5   Eurozeit Groove
+6   Chip hop
+7   Glitchcore
+8   Machine-Soul Dub
+9   Toxic Ska
+10  Anthemic NeoPunk
 
-d10 Social Media                          d10 Hot New Fads
-1   Impossibly dull, mainly life memes    1  Everybody loves neutraceuticals
-2   Sickening, cute, GIF-heavy, juvenile  2  Weatherproof glowing ponchos
-3   Dominated by political viewpoint      3  Slacktivist angst-lit forums
-4   Social Justice Champion               4  SmeatTM (smart meat; pick flavour)
-5   Work related self-promotion           5  Zone dancing in public places
-6   Fan of unlikely musical genre         6  Expensive Sumo Food® kale shakes
-7   Lonely - desperate to make friends    7  Randomiser-app-driven conversation
-8   Mainly family and friends (lots)      8  Freak Fighter brand endorsements
-9   Sexually predatory, catfish/stalker   9  Info-socialism - secret-free society
-10  Hobby focused (gaming/making)         10 Fabrics change colour with mood
+d10 On Demand
+1  Implant Fixers (reality/comedy)
+2  Simsense & Sensibility (drama)
+3  Zone runner Xtreme (gameshow)
+4  Crash & Burn (hacking competition)
+5  My Two Clones (sitcom)
+6  Atomic Geisha Dojo (gameshow)
+7  Personality Adjustment (reality)
+8  The Clade (soap opera)
+9  Fracture Point (cop show)
+10 Alt Cult Zero (documentary)
 
-Vendomat Goods
+d10 Social Media
+1   Impossibly dull, mainly life memes
+2   Sickening, cute, GIF-heavy, juvenile
+3   Dominated by political viewpoint
+4   Social Justice Champion
+5   Work related self-promotion
+6   Fan of unlikely musical genre
+7   Lonely - desperate to make friends
+8   Mainly family and friends (lots)
+9   Sexually predatory, catfish/stalker
+10  Hobby focused (gaming/making)
+
+d10 Hot New Fads
+1  Everybody loves neutraceuticals
+2  Weatherproof glowing ponchos
+3  Slacktivist angst-lit forums
+4  Smeat™ (smart meat; pick flavour)
+5  Zone dancing in public places
+6  Expensive Sumo Food® kale shakes
+7  Randomiser-app-driven conversation
+8  Freak Fighter brand endorsements
+9  Info-socialism - secret-free society
+10 Fabrics change colour with mood
+
+d10 Vendomat Goods
 1   Hot/Cold Beverages       Coffee, tea, cocoa, sodas, water, juice, shakes, energy drinks
 2   Hot/Cold Food            Burritos, noodles, burgers, fries, SCOP, sandwiches, 'sushi'
 3   Stimulants               Cigarettes, cigars, e-cig fluid, patches, caffeine tabs, alcohol
@@ -3419,7 +3442,7 @@ d100 One Man's Trash...
 1   Junkfood box, weak jingle as batteries die
 2   Sealed but dented soda can, out of date
 3   Fresh half-eaten burger, slurpy of soda ice
-4   Discarded shrink wrap with QrS code label
+4   Discarded shrink wrap with QRS code label
 5   Thick wad of hard, grey chewing gum
 6   Half a blister pack of common pain killers
 7   Plastic business card, high rank exec
@@ -3433,7 +3456,7 @@ d100 One Man's Trash...
 15  Half a case of individually sealed diapers
 16  Discarded field dressing, still moist
 17  Urban scavenger (raccoon, dog, fox, cat)
-18  Plasticuffs, cut apart, winking red leD
+18  Plasticuffs, cut apart, winking red LED
 19  Unused pack of disposable ear plugs
 20  Gun - hot, cheap or damaged, or all three?
 21  Half-used spray can of expanding foam
@@ -3471,7 +3494,7 @@ d100 One Man's Trash...
 53  Lonely wireless earbud
 54  Cybernetic implant, damaged or incomplete
 55  Dumped external hard drive (see Technical Details)
-56  Biometrically locked JPeG viewer
+56  Biometrically locked JPEG viewer
 57  Standard battery, 20% charge remaining
 58  Obsolete surveillance camera
 59  'Retired' synthetic, missing limb(s)
@@ -3553,12 +3576,12 @@ d10 Atypical Weather - Today's forecast...
 7   Sweltering Heat           Operating in armour causes heat fatigue and dehydration
 8   Cold Snap                 Heavy frosts and hail create hazardous city conditions
 9   Minor Flood               So much rain with nowhere left to go causes urban chaos
-10  Lightning Storm           Spectacular electrical storm, heavy ionisation with eMP effects
+10  Lightning Storm           Spectacular electrical storm, heavy ionisation with EMP effects
 
 The Things People Do
 
 d10 Freak Fighters
-1   Ghngis Klang          Muscle grafts and body plating, hydraulic hands crush skulls
+1   Ghngis Klang           Muscle grafts and body plating, hydraulic hands crush skulls
 2   The Gene Witch         Experimental bioware, double-jointed, wild hair, utterly insane
 3   Hannah Stazi           Bald, scarred and lithe, wears slashed leathers, knife fighter
 4   Shanky Bartella        Glo-tattooed skinhead, shiny black cyberarms, razor claws
@@ -3712,7 +3735,7 @@ d100    Name
 13-14   Javier Script
 15-16   Kid Terminal
 17-18   Feedfetcher
-19-20   Mr
+19-20   Mr ∞
 21-22   Lady Probability
 23-24   Chip Boy
 25-26   Pixelgeist
@@ -3727,9 +3750,9 @@ d100    Name
 43-44   Quantum Clan
 45-46   Mr Peepers
 47-48   Seraphim
-49-50   Billy headcrash
+49-50   Billy Headcrash
 51-52   Dancer
-53-54   The Invisible hand
+53-54   The Invisible Hand
 55-56   Oblivia 404
 57-58   Infobahn
 59-60   Hungry Ghost
@@ -3737,8 +3760,8 @@ d100    Name
 63-64   Jake/Finn/Beemo
 65-66   Synaptica
 67-68   Phantom Paradigm
-69-70   Mother_Bored
-71-72   Bit rat
+69-70   Mother_bored
+71-72   Bit Rat
 73-74   Daemonbot
 75-76   Samizdat
 77-78   Lexicon Bandit
@@ -3747,11 +3770,11 @@ d100    Name
 83-84   Heatseeker
 85-86   Solid State
 87-88   Chaos Theory
-89-90   The havoc
-91-92   Fuzzy logic
+89-90   The Havoc
+91-92   Fuzzy Logic
 93-94   Wardroids
 95-96   White Knight
-97-98   ROMinatrix
+97-98   Rominatrix
 99-100  Underscourge
 
 d100 Description 1
@@ -3848,8 +3871,8 @@ d100 Description 2
 77-78   Mines archeosystems for data
 79-80   Engineers violent flash mobs
 81-82   Lives in decommissioned sub
-83-84   Expert MOuT co-ordinator
-85-86   Hostile and deadly black ICe
+83-84   Expert MOUT co-ordinator
+85-86   Hostile and deadly black ICE
 87-88   Tagging and tracking homeless
 89-90   Recon via subverted appliances
 91-92   Ghost-hacked by desperate cop
@@ -3996,7 +4019,7 @@ d100 50 Mysterious First Contacts
 61-62 Uniformed police officer approaches PC, referring to them by name, and hands over a printed acetate with a phone number on it
 63-64 One of the PCs finds a plain grey plastic business card with a v-mail address and phone number on it, under their vehicle’s windshield wiper
 65-66 Watching the news, a PC perceives a glitch, the anchor then asks the PC, by name, to phone a number shown on screen, there’s another glitch, the broadcast then returning to normal
-67-68 PC finds an empty LunglifeTM cigarette packet, with a v-mail address scrawled on it in biro, in their jacket pocket
+67-68 PC finds an empty Lunglife™ cigarette packet, with a v-mail address scrawled on it in biro, in their jacket pocket
 69-70 Small, beaten up orange cleaning bot approaches a PC, repeating a phone number in it’s tinny little Disney voice, whilst colliding with their foot repeatedly
 71-72 A string of v-mails through a Cambodian datahaven, enquiring about the availability and skill set of the PCs’ team, followed by a v-mail contact address routed through Prague
 73-74 PC takes delivery of a parcel containing a pen drive that contains a numer of URLs and log on details that need accessing in order, to arrive at the client’s offshore net domain

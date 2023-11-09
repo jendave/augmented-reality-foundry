@@ -1,5 +1,5 @@
 {
-  "id": "augmented-reality",
+  "id": "augmented-reality-foundry",
   "title": "Augmented Reality",
   "description": "The Holistic City Kit For Cyberpunk Roleplaying Games",
   "version": "#{VERSION}#",
@@ -44,8 +44,8 @@
   "manifest": "#{MANIFEST}#",
   "url": "#{URL}#",
   "download": "#{DOWNLOAD}#",
-  "license": "https://raw.githubusercontent.com/jendave/augmented-reality/main/LICENSE",
-  "changelog": "https://raw.githubusercontent.com/jendave/augmented-reality/main/CHANGELOG.md",
-  "readme": "https://raw.githubusercontent.com/jendave/augmented-reality/main/README.md",
-  "bugs": "https://github.com/jendave/augmented-reality/issues"
+  "license": "https://raw.githubusercontent.com/jendave/augmented-reality-foundry/main/LICENSE",
+  "changelog": "https://raw.githubusercontent.com/jendave/augmented-reality-foundry/main/CHANGELOG.md",
+  "readme": "https://raw.githubusercontent.com/jendave/augmented-reality-foundry/main/README.md",
+  "bugs": "https://github.com/jendave/augmented-reality-foundry/issues"
 }

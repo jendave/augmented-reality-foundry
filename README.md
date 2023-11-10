@@ -10,7 +10,7 @@ A FoundryVTT compendium of rolltables and macros for [Augmented Reality: The Hol
 
 This fantastic resource can also be found at the following links:
 * [itch.io](https://p-d-gallagher.itch.io/augmented-reality)
-* [DMs Guild](https://www.dmsguild.com/product/202175/Augmented-Reality-The-Holistic-City-Kit-For-Cyberpunk-Games?language=esFfiltersD)
+* [Dungeon Masters Guild](https://www.dmsguild.com/product/202175/Augmented-Reality-The-Holistic-City-Kit-For-Cyberpunk-Games?language=esFfiltersD)
 
 # Features and Notes
 * Enhance your games of the dark future, with the easy to use Augmented Reality cyberpunk city kit. Inside, you’ll find over 50 tables designed to assist gamesmasters who need to improvise futuristic city details, or who have found that they are unprepared for where their players are heading.
@@ -18,7 +18,7 @@ This fantastic resource can also be found at the following links:
 * System-neutral
 
 # Module Installation
-To install the module, click on `Install Module` and search for `augmented` in the `Add-On Modules` tab of Foundry. Then click on `Install`.
+To install the module, click on `Install Module` and search for `augmented` in the `Add-On Modules` tab of the Foundry VTT game setup screen. Then click on `Install`.
 
 Or use this URL and click on `Install`:
 
@@ -42,6 +42,8 @@ Open the `Augmented Reality Rolltables` compendium and copy the folders into the
 ![Rollable Tables - Custom Oracles](./docs/custom-oracles-rollable-tables.jpg)
 
 The Oracles will be available in the Character sheet under `Custom Oracles`.
+
+![Character Sheet - Custom Oracles](./docs/custom-oracles-character-sheet.jpg)
 
 # Credits
 [Augmented Reality: The Holistic City Kit For Cyberpunk Games](https://preview.drivethrurpg.com/en/product/202175/augmented-reality-the-holistic-city-kit-for-cyberpunk-games) by Paul Gallagher are used with permission from the author.

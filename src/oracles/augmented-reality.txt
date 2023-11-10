@@ -1263,7 +1263,7 @@ d10 Level of Need
 9  Unhealthy Obsession
 10 All Consuming
 
-So, She Has A Tattoo
+So She Has A Tattoo
 
 d10 What
 1  Skulls/Bones
@@ -3344,6 +3344,8 @@ d100    Relationship
 97-98   Trusts only...
 99-100  Rival of... (1-2)
 
+Antisocial Media
+
 d10 Sonic Youth (Musical Style/Genre)
 1   Black Ambient
 2   Photonic Wave
@@ -3403,7 +3405,6 @@ d10 Vendomat Goods
 8   Media                    Newsprint, digital music, games, films, simstim, e-books
 9   Pharmaceuticals          Medicines, contraceptives, first aid, sensory aids, vitamins
 10  Snacks                   Gum, candy, chips/crisps, popcorn, nuts, cryo-dried fruits
-
 
 d100 One Man's Trash...
 1   Junkfood box, weak jingle as batteries die
@@ -3559,7 +3560,7 @@ d10 Freak Fighters
 9   Ultimate Hobo          Hairy meth addict, relieved of his hands, replaced with flails
 10  Lazarus Rapide         Showy and stylish, fast, will strangle you into submission
 
-Gig Economy (What's my agent got lined up for me today?)
+d10 Gig Economy (What's my agent got lined up for me today?)
 1   Mobile AR Ad Hub       Supplied body rig outputs 'augverts' as you wander streets
 2   Human CCTV             Cyberoptics required, must allow remote access & sign NDA
 3   Gig Groomer            Given a quota of potential gig workers to sign up for agent
@@ -3571,7 +3572,7 @@ Gig Economy (What's my agent got lined up for me today?)
 9   Pest Microwaver        Issued with RFID tagged microwaver to zap vermin
 10  Drone Repoman          Trace and recover downed courier drones
 
-Unlawful Trespass (Who's already been in that building?)
+d10 Unlawful Trespass (Who's already been in that building?)
 1   Crime Scene        A recent crime has the space crawling with forensics drones
 2   Coding Stable      Temporary pop-up AR ad studio, staffed by low paid coders
 3   Sweat Shop         Illegal 3D minifactury manned by weary indentured immigrants
@@ -3582,6 +3583,8 @@ Unlawful Trespass (Who's already been in that building?)
 8   Street Artists     Creatively motivated teens spray their masterpiece on the walls
 9   Porn Set           Hollow-eyed actors perform under the glare of sim-recorders
 10  Field Surgery      Mobile ripperdoc fights to save the life of poorly sedated cyborg
+
+Hackable Assets
 
 d100 Hackable Assets
 1-2   Smart Appliance With Camera or Microphone

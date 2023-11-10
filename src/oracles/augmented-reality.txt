@@ -268,6 +268,10 @@ d10 Opposing Group
 9   Corporate Aristocrat (See Corporate Aristocrats)
 10  Street Gang (see Urban Tribes: Street Gangs)
 
+d10 Rivalry
+1-5 Within the Same Group
+6-10 Different Group 
+
 Area Events
 
 d10 Event
@@ -358,7 +362,7 @@ d10 The Street Finds Its Own Uses For Things
 
 d10 Urban Sickness (Symptoms - Cause - Malady)
 1   Difficulty Breathing - Bad Air/Pollutants/Smoking - Emphysema
-2   Lesions/redness/lumps - Jankey uV levels/Toxic rain - Skin Cancer
+2   Lesions/redness/lumps - Jankey UV levels/Toxic rain - Skin Cancer
 3   Immunodeficiency - Pollutants/Chemical Soup - Toxic Shock
 4   Lethargy/Weight loss - Vitamin Deficiency/Junkfood - Malnutrition
 5   Flaky/Spots/Blisters - Pollutants/Chemical Soup - Messed up Skin
@@ -3539,7 +3543,7 @@ d10 Atypical Weather (Today's forecast...)
 2   Creepcloud                Chemically tainted mist triggers environment monitors
 3   Acidic Monsoon            Sheets of choking, corrosive rain creates vapour columns
 4   Glitter-Twist             Dead nanites carried by air columns catch light like sparks
-5   Extreme Uv                Burns skin (need flare-paste) and causes visibility problems
+5   Extreme UV                Burns skin (need flare-paste) and causes visibility problems
 6   Wind Tunnel               Extremely tall buildings channel aggressive, lashing winds
 7   Sweltering Heat           Operating in armour causes heat fatigue and dehydration
 8   Cold Snap                 Heavy frosts and hail create hazardous city conditions

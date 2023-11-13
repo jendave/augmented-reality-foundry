@@ -5,6 +5,10 @@ function printMessage(message) {
     ChatMessage.create(chatData, {})
 };
 
+function randomItemInArray(array) {
+    return array[(Math.floor(Math.random() * array.length))];
+}
+
 try {
     let numberOfBuildingsDialog = await Dialog.prompt({
         title: "Number of Downtown Buildings",
@@ -18,7 +22,11 @@ try {
     let numberOfBuildings = parseInt(numberOfBuildingsDialog);
 
     let title = "<h3><strong>Downtown Buildings</strong></h3>";
-    let message = "Building - Floors<br>";
+    let message = "<b>Building Type</b><br>";
+    message += "<b>- Floors (Optional x2)</b><br>";
+    message += "<b>- Notable Feature</b><br>";
+    message += "<b>- Expanded Feature</b><br><br>";
+
     let buildingTypeTable = await fromUuid(rollTablesUUIDPrefix + "RAhL2yZlsv1q7AKS");
     let buildingTypeRoll = "";
     let buildingType = "";
@@ -26,32 +34,33 @@ try {
     let expandedFeatureTable = await fromUuid(rollTablesUUIDPrefix + "iStOB87CjnxOE7aw");
     let expandedFeatureRoll = "";
     let expandedFeature = "";
+    let floorsFeaturesRoll = "";
+    let floors = 0;
+    const notableFeaturesArray = ["5UVnxCiXJYMzyX01", "NzWJIe6KyLfRjTh4"];
+    let notableFeatureTable = "";
+    let notableFeatureTableArray = "";
+    let notableFeature = "";
 
     message += buildingType;
 
     for (let i = 1; i <= numberOfBuildings; i++) {
         buildingTypeRoll = await buildingTypeTable.roll();
         buildingType = buildingTypeRoll.results[0].text;
+        floorsFeaturesRoll = new Roll('1d10');
+        await floorsFeaturesRoll.evaluate();
+        floors = floorsFeaturesRoll.total;
+        notableFeatureTable = await fromUuid(rollTablesUUIDPrefix + randomItemInArray(notableFeaturesArray));
+        notableFeatureRoll = floorsFeaturesRoll.total;
+        notableFeatureTableArray = notableFeatureTable.getResultsForRoll(notableFeatureRoll);
+        notableFeature = notableFeatureTableArray[0].getChatText()
         expandedFeatureRoll = await expandedFeatureTable.roll();
         expandedFeature = expandedFeatureRoll.results[0].text;
         message += i + ". ";
         message += buildingType + "<br>";
-        message += "-   " + expandedFeature + "<br>";
+        message += "-   " + floors + " floors(s)<br>";
+        message += "-   " + notableFeature + "<br>";
+        message += "-   " + expandedFeature + "<br><br>";
     }
-
-    /*
-    table = await fromUuid(rollTablesUUIDPrefix + "5UVnxCiXJYMzyX01");
-    roll = await table.roll();
-    let features1 = roll.results[0].text;
-    
-    table = await fromUuid(rollTablesUUIDPrefix + "NzWJIe6KyLfRjTh4");
-    roll = await table.roll();
-    let features2 = roll.results[0].text;
-    
-    table = await fromUuid(rollTablesUUIDPrefix + "iStOB87CjnxOE7aw");
-    roll = await table.roll();
-    let expandedFeature = roll.results[0].text;
-    */
 
     // Print the message
     printMessage(title + message);

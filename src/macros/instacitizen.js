@@ -22,7 +22,7 @@ try {
     let numberOfInstacitizens = parseInt(numberOfInstacitizensDialog);
 
     let title = "<h3>Instacitizens</h3>";
-    let message = "<b>Instacitizen Results - Ways to Interpret</b><br>";
+    let message = "<b>Instacitizen Results - Interpretations</b><br>";
     message += "<b>- Number of People in Group</b><br>";
     message += "<b>- NPC's Prime Stat</b><br>";
     message += "<b>- First Impression</b><br><br>";

@@ -12,7 +12,7 @@ function randomItemInArray(array) {
 try {
     let numberOfBuildingsDialog = await Dialog.prompt({
         title: "Number of Downtown Buildings",
-        content: `<p>Enter Number of Downtown Buildings:</p><input type="number" id="modifier" name="modifier" min="0" max="99" value="4"/>`,
+        content: `<p>Enter Number of Downtown Buildings:</p><input type="number" id="input" name="input" min="0" max="99" value="4"/>`,
         rejectClose: true,
         callback: (html) => html.find('input').val()
     });
@@ -37,6 +37,7 @@ try {
     let floorsFeaturesRoll = "";
     let floors = 0;
     const notableFeaturesArray = ["5UVnxCiXJYMzyX01", "NzWJIe6KyLfRjTh4"];
+    let notableFeatureRoll = "";
     let notableFeatureTable = "";
     let notableFeatureTableArray = "";
     let notableFeature = "";

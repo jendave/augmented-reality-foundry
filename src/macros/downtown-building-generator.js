@@ -21,7 +21,7 @@ try {
 
     let numberOfBuildings = parseInt(numberOfBuildingsDialog);
 
-    let title = "<h3><strong>Downtown Buildings</strong></h3>";
+    let title = "<h3>Downtown Buildings</h3>";
     let message = "<b>Building Type</b><br>";
     message += "<b>- Floors (Optional x2)</b><br>";
     message += "<b>- Notable Feature</b><br>";
@@ -40,8 +40,6 @@ try {
     let notableFeatureTable = "";
     let notableFeatureTableArray = "";
     let notableFeature = "";
-
-    message += buildingType;
 
     for (let i = 1; i <= numberOfBuildings; i++) {
         buildingTypeRoll = await buildingTypeTable.roll();

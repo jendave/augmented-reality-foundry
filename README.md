@@ -8,14 +8,14 @@
 # About
 A FoundryVTT compendium of rolltables and macros for [Augmented Reality: The Holistic City Kit For Cyberpunk Games](https://preview.drivethrurpg.com/en/product/202175/augmented-reality-the-holistic-city-kit-for-cyberpunk-games) by Paul Gallagher.
 
-This fantastic resource can also be found at the following links:
+Augmented Reality can also be found at the following links:
 * [itch.io](https://p-d-gallagher.itch.io/augmented-reality)
 * [Dungeon Masters Guild](https://www.dmsguild.com/product/202175/Augmented-Reality-The-Holistic-City-Kit-For-Cyberpunk-Games?language=esFfiltersD)
 
 # Features and Notes
-* Enhance your games of the dark future, with the easy to use Augmented Reality cyberpunk city kit. Inside, you’ll find over 50 tables designed to assist gamesmasters who need to improvise futuristic city details, or who have found that they are unprepared for where their players are heading.
-* Rolltables and macros for the tables in the kit.
-* System-neutral
+* Enhance your games of the dark future, with the easy to use Augmented Reality Cyberpunk City Kit. Inside, you’ll find over 50 tables designed to assist gamesmasters who need to improvise futuristic city details, or who have found that they are unprepared for where their players are heading.
+* Rolltables and macros for the tables in the FoundryVTT module.
+* System-neutral.
 
 # Module Installation
 To install the module, click on `Install Module` and search for `augmented` in the `Add-On Modules` tab of the Foundry VTT game setup screen. Then click on `Install`.

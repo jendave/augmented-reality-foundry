@@ -8,7 +8,11 @@ function printMessage(message) {
 try {
     let rollTablesUUIDPrefix = "Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.";
 
-    let title = "<h3>That's Infotainment</h3>";
+    let title = "<h3>Big Screens & Infotainment</h3>";
+
+    const bigScreenTable = await fromUuid(rollTablesUUIDPrefix + "4wwXFtYEc5AaovG0");
+    let bigScreenRoll = await bigScreenTable.roll();
+    let bigScreen = bigScreenRoll.results[0].text;
 
     const brandNameTable = await fromUuid(rollTablesUUIDPrefix + "xc2S0ra9EYYzKtPG");
     let brandNameRoll = await brandNameTable.roll();
@@ -26,7 +30,9 @@ try {
     let marketingStyleRoll = await marketingStyleTable.roll();
     let marketingStyle = marketingStyleRoll.results[0].text;
 
-    let message = "Brand Name: " + brandName + "<br>";
+    let message = "What's On That Big Screen?:<br>" + bigScreen + "<br><br>";
+    message += "That's Infotainment:<br> ";
+    message += "Brand Name: " + brandName + "<br>";
     message += "Range: " + range + "<br>";
     message += "Product Line: " + productLine + "<br>";
     message += "Marketing Style: " + marketingStyle + "<br>";

@@ -1,5 +1,22 @@
-2023/11/09-17:06:47.164980 70000dbeb000 Recovering log #3
-2023/11/09-17:06:47.173236 70000dbeb000 Level-0 table #5: started
-2023/11/09-17:06:47.180364 70000dbeb000 Level-0 table #5: 388623 bytes OK
-2023/11/09-17:06:47.182329 70000dbeb000 Delete type=0 #3
-2023/11/09-17:06:47.182566 70000dbeb000 Delete type=3 #2
+2023/11/09-17:50:54.052014 7000146ed000 Recovering log #6
+2023/11/09-17:50:54.052341 7000146ed000 Level-0 table #8: started
+2023/11/09-17:50:54.053562 7000146ed000 Level-0 table #8: 9702 bytes OK
+2023/11/09-17:50:54.054799 7000146ed000 Delete type=0 #6
+2023/11/09-17:50:54.055097 7000146ed000 Delete type=3 #4
+2023/11/10-13:36:54.888706 70000dd3d000 Compacting 2@0 + 0@1 files
+2023/11/10-13:36:54.928297 70000dd3d000 Generated table #10@0: 3852 keys, 380448 bytes
+2023/11/10-13:36:54.928348 70000dd3d000 Compacted 2@0 + 0@1 files => 380448 bytes
+2023/11/10-13:36:54.930618 70000dd3d000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/10-13:36:54.931300 70000dd3d000 Delete type=2 #5
+2023/11/10-13:36:54.931786 70000dd3d000 Delete type=2 #8
+2023/11/12-12:38:13.245694 70000dd3d000 Level-0 table #12: started
+2023/11/12-12:38:13.420342 70000dd3d000 Level-0 table #12: 678569 bytes OK
+2023/11/12-12:38:13.427874 70000dd3d000 Delete type=0 #9
+2023/11/12-12:38:13.429760 70000dd3d000 Manual compaction at level-0 from '!folders!1BCddB25I3iSV6V4' @ 72057594037927935 : 1 .. '!tables.results!zfgluS81i9vYcFPh.suJvc2j3FxgQi3Fv' @ 0 : 0; will stop at '!tables.results!zfgluS81i9vYcFPh.suJvc2j3FxgQi3Fv' @ 18095 : 0
+2023/11/12-12:38:13.429800 70000dd3d000 Compacting 1@0 + 1@1 files
+2023/11/12-12:38:13.541514 70000dd3d000 Generated table #13@0: 3860 keys, 415243 bytes
+2023/11/12-12:38:13.541547 70000dd3d000 Compacted 1@0 + 1@1 files => 415243 bytes
+2023/11/12-12:38:13.541876 70000dd3d000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/12-12:38:13.542040 70000dd3d000 Delete type=2 #12
+2023/11/12-12:38:13.542627 70000dd3d000 Delete type=2 #10
+2023/11/12-12:38:13.543094 70000dd3d000 Manual compaction at level-0 from '!tables.results!zfgluS81i9vYcFPh.suJvc2j3FxgQi3Fv' @ 18095 : 0 .. '!tables.results!zfgluS81i9vYcFPh.suJvc2j3FxgQi3Fv' @ 0 : 0; will stop at (end)

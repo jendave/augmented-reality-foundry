@@ -8,7 +8,7 @@
 # About
 A FoundryVTT compendium of rolltables and macros for [Augmented Reality: The Holistic City Kit For Cyberpunk Games](https://preview.drivethrurpg.com/en/product/202175/augmented-reality-the-holistic-city-kit-for-cyberpunk-games) by Paul Gallagher.
 
-Augmented Reality can also be found at the following links:
+Augmented Reality: The Holistic City Kit For Cyberpunk Games can also be found at the following links:
 * [itch.io](https://p-d-gallagher.itch.io/augmented-reality)
 * [Dungeon Masters Guild](https://www.dmsguild.com/product/202175/Augmented-Reality-The-Holistic-City-Kit-For-Cyberpunk-Games?language=esFfiltersD)
 

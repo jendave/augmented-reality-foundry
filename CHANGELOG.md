@@ -1,5 +1,5 @@
 # Changelog
 
-### [1.0.0](https://github.com/jendave/augmented-reality/commits/main) (202x-xx-xx)
+### [0.0.1](https://github.com/jendave/augmented-reality/commits/main) (2023-11-15)
 
-* Initial release.
+* Alpha release.

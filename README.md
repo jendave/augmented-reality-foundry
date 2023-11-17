@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/github/license/jendave/augmented-reality-foundry)](LICENSE)
 
 # About
-A FoundryVTT compendium of rolltables and macros for [Augmented Reality: The Holistic City Kit For Cyberpunk Games](https://preview.drivethrurpg.com/en/product/202175/augmented-reality-the-holistic-city-kit-for-cyberpunk-games) by Paul Gallagher.
+A FoundryVTT compendium of rolltables and macros for [Augmented Reality: The Holistic City Kit For Cyberpunk Games](https://preview.drivethrurpg.com/en/product/202175/augmented-reality-the-holistic-city-kit-for-cyberpunk-games) by [Paul Gallagher](https://neuralarchive.blogspot.com/).
 
 Augmented Reality: The Holistic City Kit For Cyberpunk Games can also be found at the following links:
 * [itch.io](https://p-d-gallagher.itch.io/augmented-reality)

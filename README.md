@@ -26,6 +26,9 @@ Or use this URL and click on `Install`:
 https://github.com/jendave/augmented-reality-foundry-foundry/releases/latest/download/module.json
 ```
 
+## Install Rolltables
+Open the `Augmented Reality Rolltables` compendium and copy the folders to the `Rollable Tables` tab.
+
 ## Install Macros
 Macros for the kit can be found in the `Augmented Reality Macros` compendium. Drag and drop any you need into the macro toolbar.
 

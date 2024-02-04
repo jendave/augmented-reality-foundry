@@ -39,6 +39,7 @@ Macros for the kit can be found in the `Augmented Reality Macros` compendium. Dr
   * `Oráculos personalizados` - ES
   * `Oracles personnalisés` - FR
   * `Własne Wyrocznie` - PL
+  * `Свои оракулы` - RU
 
 Open the `Augmented Reality Rolltables` compendium and copy the folders into the `Rollable Tables` `Custom Oracles` folder.
 

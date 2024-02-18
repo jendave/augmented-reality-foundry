@@ -43,11 +43,11 @@ Macros for the kit can be found in the `Augmented Reality Macros` compendium. Dr
 
 Open the `Augmented Reality Rolltables` compendium and copy the folders into the `Rollable Tables` `Custom Oracles` folder.
 
-![Rollable Tables - Custom Oracles](https://github.com/jendave/augmented-reality-foundry-foundry/blob/main/docs/custom-oracles-rollable-tables.jpg?raw=true)
+![Rollable Tables - Custom Oracles](https://github.com/jendave/augmented-reality-foundry/blob/main/docs/custom-oracles-rollable-tables.jpg?raw=true)
 
 The Oracles will be available in the Character sheet under `Custom Oracles`.
 
-![Character Sheet - Custom Oracles](https://github.com/jendave/augmented-reality-foundry-foundry/blob/main/docs/custom-oracles-character-sheet.jpg?raw=true)
+![Character Sheet - Custom Oracles](https://github.com/jendave/augmented-reality-foundry/blob/main/docs/custom-oracles-character-sheet.jpg?raw=true)
 
 # Credits
 [Augmented Reality: The Holistic City Kit For Cyberpunk Games](https://preview.drivethrurpg.com/en/product/202175/augmented-reality-the-holistic-city-kit-for-cyberpunk-games) by Paul Gallagher are used with permission from the author.

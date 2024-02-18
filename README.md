@@ -1,4 +1,4 @@
-# augmented-reality-foundry
+# Augmented Reality Cyberpunk City Kit for FoundryVTT
 
 ![GitHub all releases](https://img.shields.io/github/downloads/jendave/augmented-reality-foundry/total)
 [![Latest Version](https://img.shields.io/github/v/release/jendave/augmented-reality-foundry?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/augmented-reality-foundry/releases/latest)
@@ -43,11 +43,11 @@ Macros for the kit can be found in the `Augmented Reality Macros` compendium. Dr
 
 Open the `Augmented Reality Rolltables` compendium and copy the folders into the `Rollable Tables` `Custom Oracles` folder.
 
-![Rollable Tables - Custom Oracles](./docs/custom-oracles-rollable-tables.jpg)
+![Rollable Tables - Custom Oracles](https://github.com/jendave/augmented-reality-foundry-foundry/blob/main/docs/custom-oracles-rollable-tables.jpg?raw=true)
 
 The Oracles will be available in the Character sheet under `Custom Oracles`.
 
-![Character Sheet - Custom Oracles](./docs/custom-oracles-character-sheet.jpg)
+![Character Sheet - Custom Oracles](https://github.com/jendave/augmented-reality-foundry-foundry/blob/main/docs/custom-oracles-character-sheet.jpg?raw=true)
 
 # Credits
 [Augmented Reality: The Holistic City Kit For Cyberpunk Games](https://preview.drivethrurpg.com/en/product/202175/augmented-reality-the-holistic-city-kit-for-cyberpunk-games) by Paul Gallagher are used with permission from the author.
@@ -61,3 +61,20 @@ Licenses and permissions for the macros are listed in the source code.
 The following modules were used in the development process
 * [foundryvtt-importer module](https://github.com/EthanJWright/foundryvtt-importer)
 * [DF Manual Rolls](https://foundryvtt.com/packages/df-manual-rolls)
+
+# FoundryVTT Modules and Other Resources
+Please check out my other modules and resources for Ironsworn and Ironsworn: Starforged
+
+### [FoundryVTT](https://foundryvtt.com/) Modules
+*   [Starforged Custom Oracles](https://foundryvtt.com/packages/starforged-custom-oracles)
+*   [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
+*   [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
+*   [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
+*   [Token Note Hover](https://github.com/jendave/token-note-hover)
+
+### Itch.io Resources
+*   [The City on the Breeze - Cyberpunk-inspired Oracle arrays](https://jendave.itch.io/the-city-on-the-breeze)
+*   [I'll Be Home for Life Day! - Star Wars Life Day Oracle](https://jendave.itch.io/ill-be-home-for-life-day)
+*   [Critical Success Oracles](https://jendave.itch.io/critical-success-oracles)
+*   [I Owe My Soul to the Corporate Planet - Company Planet Oracles](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet)
+   

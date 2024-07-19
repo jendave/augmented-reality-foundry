@@ -36,7 +36,7 @@ Open the `Augmented Reality Rolltables` compendium and copy the folders to the `
 
 ### Install Macros
 
-Macros for the kit can be found in the `Augmented Reality Macros` compendium. Drag and drop any you need into the macro toolbar.
+Macros for the kit can be found in the `Augmented Reality Macros` compendium. Drag and drop any you need into the macro toolbar. Macros use the current `Roll Mode` when executed.
 
 ### Ironsworn/Starforged Tip - Use Custom Folders to add Character Sheet Oracles
 

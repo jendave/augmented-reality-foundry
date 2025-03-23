@@ -16,9 +16,9 @@ Augmented Reality: The Holistic City Kit For Cyberpunk Games can also be found a
 
 ## Features and Notes
 
-* Enhance your games of the dark future, with the easy to use Augmented Reality Cyberpunk City Kit. Inside, you’ll find over 50 tables designed to assist gamesmasters who need to improvise futuristic city details, or who have found that they are unprepared for where their players are heading.
+* Enhance your games of the dark future, with the easy to use Augmented Reality Cyberpunk City Kit. Inside, you'll find over 50 tables designed to assist gamesmasters who need to improvise futuristic city details, or who have found that they are unprepared for where their players are heading.
 * The FoundryVTT module includes roll tables and macros for the tables in the kit.
-* The information provided in this city kit is presented stat-free and system agnostic, suitable for any dark future RPG
+* The information provided in this city kit is presented stat-free and system agnostic, suitable for any dark future RPG.
 
 ## Module Installation
 

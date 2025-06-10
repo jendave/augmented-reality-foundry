@@ -4,9 +4,9 @@
   "description": "The Holistic City Kit For Cyberpunk Roleplaying Games by Paul Gallagher",
   "version": "#{VERSION}#",
   "compatibility": {
-    "minimum": 11,
-    "verified": 13,
-    "maximum": 13
+    "minimum": "11",
+    "verified": "13",
+    "maximum": "13"
   },
   "authors": [
     {

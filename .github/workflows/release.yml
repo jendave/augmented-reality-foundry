@@ -67,7 +67,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       # Extract version embedded in the tag.
       # This step expects the tag to be one of the following formats:
@@ -129,7 +129,7 @@ jobs:
         with:
           allowUpdates: true
           name: ${{ github.event.release.name }}
-          draft: ${{ github.event.release.unpublished }}
+          draft: false
           prerelease: ${{ github.event.release.prerelease }}
           token: ${{ secrets.GITHUB_TOKEN }}
           artifacts: './module.json, ./module.zip'

@@ -2,6 +2,10 @@
 
 [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
 
+## [1.0.4](https://github.com/jendave/augmented-reality/blob/main/CHANGELOG.md) (2026-02-26)
+
+* Verified for Foundry v14.
+
 ## [1.0.3](https://github.com/jendave/augmented-reality/blob/main/CHANGELOG.md) (2025-02-25)
 
 * Verified for Foundry v13.

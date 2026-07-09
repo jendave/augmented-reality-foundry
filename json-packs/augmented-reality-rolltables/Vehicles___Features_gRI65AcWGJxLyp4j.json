@@ -1,0 +1,19 @@
+{
+  "name": "Vehicles & Features",
+  "sorting": "a",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "gRI65AcWGJxLyp4j",
+  "sort": 400000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569866466,
+    "modifiedTime": 1699578690686,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!folders!gRI65AcWGJxLyp4j"
+}

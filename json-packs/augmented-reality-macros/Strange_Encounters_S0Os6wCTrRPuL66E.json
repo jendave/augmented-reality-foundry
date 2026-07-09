@@ -1,0 +1,27 @@
+{
+  "name": "Strange Encounters",
+  "type": "script",
+  "_id": "S0Os6wCTrRPuL66E",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let rollTablesUUIDPrefix = \"Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.\";\n\n    let title = \"<h3>Strange Encounters</h3>\";\n\n    const blackOpsTable = await fromUuid(rollTablesUUIDPrefix + \"VwWSQUZM6Em08qJi\");\n    let blackOpsRoll = await blackOpsTable.roll();\n    let blackOps = blackOpsRoll.results[0].text;\n\n    const bioHorrorsTable = await fromUuid(rollTablesUUIDPrefix + \"7f0OaXZvX59bDVGR\");\n    let bioHorrorsRoll = await bioHorrorsTable.roll();\n    let bioHorrors = bioHorrorsRoll.results[0].text;\n\n    const atypicalWeatherTable = await fromUuid(rollTablesUUIDPrefix + \"5o74TqIF9d7XFipz\");\n    let atypicalWeatherRoll = await atypicalWeatherTable.roll();\n    let atypicalWeather = atypicalWeatherRoll.results[0].text;\n\n    let message = \"Black Ops: \" + blackOps + \"<br><br>\";\n    message += \"Bio Horrors: \" + bioHorrors + \"<br><br>\";\n    message += \"Atypical Weather: \" + atypicalWeather + \"<br>\";\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.329",
+    "createdTime": 1700010396495,
+    "modifiedTime": 1721407405609,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!macros!S0Os6wCTrRPuL66E"
+}

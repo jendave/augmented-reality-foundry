@@ -1,0 +1,27 @@
+{
+  "name": "Antisocial Media and Goods",
+  "type": "script",
+  "_id": "fuEDM4xqofYolV60",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let rollTablesUUIDPrefix = \"Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.\";\n\n    let title = \"<h3>Antisocial Media and Goods</h3>\";\n\n    const sonicYouthTable = await fromUuid(rollTablesUUIDPrefix + \"sBdOklHtWTBK2IEo\");\n    let sonicYouthRoll = await sonicYouthTable.roll();\n    let sonicYouth = sonicYouthRoll.results[0].text;\n\n    const onDemandTable = await fromUuid(rollTablesUUIDPrefix + \"O8YPBt8PXfs9qVG2\");\n    let onDemandRoll = await onDemandTable.roll();\n    let onDemand = onDemandRoll.results[0].text;\n\n    const socialMediaTable = await fromUuid(rollTablesUUIDPrefix + \"YqqvvmELYXzloDGG\");\n    let socialMediaRoll = await socialMediaTable.roll();\n    let socialMedia = socialMediaRoll.results[0].text;\n\n    const hotNewFadsTable = await fromUuid(rollTablesUUIDPrefix + \"CrKB37FUtv4TkXMI\");\n    let hotNewFadsRoll = await hotNewFadsTable.roll();\n    let hotNewFads = hotNewFadsRoll.results[0].text;\n\n    const vendomatGoodsTable = await fromUuid(rollTablesUUIDPrefix + \"4NjmuEulOR378I3f\");\n    let vendomatGoodsRoll = await vendomatGoodsTable.roll();\n    let vendomatGoods = vendomatGoodsRoll.results[0].text;\n\n    let message = \"Sonic Youth: \" + sonicYouth + \"<br><br>\";\n    message += \"On Demand: \" + onDemand + \"<br><br>\";\n    message += \"Social Media: \" + socialMedia + \"<br><br>\";\n    message += \"Hot New Fads: \" + hotNewFads + \"<br><br>\";\n    message += \"Vendomat Goods: \" + vendomatGoods + \"<br>\";\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.329",
+    "createdTime": 1700005317127,
+    "modifiedTime": 1721407278359,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!macros!fuEDM4xqofYolV60"
+}

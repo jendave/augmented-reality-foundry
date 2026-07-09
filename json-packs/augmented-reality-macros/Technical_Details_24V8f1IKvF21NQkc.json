@@ -1,0 +1,27 @@
+{
+  "name": "Technical Details",
+  "type": "script",
+  "_id": "24V8f1IKvF21NQkc",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let rollTablesUUIDPrefix = \"Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.\";\n\n    let title = \"<h3>Technical Details</h3>\";\n\n    const conditionOfTechnologyTable = await fromUuid(rollTablesUUIDPrefix + \"1YBhtB5Fx5kTvJGZ\");\n    let conditionOfTechnologyRoll = await conditionOfTechnologyTable.roll();\n    let conditionOfTechnology = conditionOfTechnologyRoll.results[0].text;\n\n    const typeOfDeviceTable = await fromUuid(rollTablesUUIDPrefix + \"1Y7A6X6MKiY3d9RQ\");\n    let typeOfDeviceRoll = await typeOfDeviceTable.roll();\n    let typeOfDevice = typeOfDeviceRoll.results[0].text;\n\n    const dataMiningTable = await fromUuid(rollTablesUUIDPrefix + \"0W0tmypyJCXMdZYc\");\n    let dataMiningRoll = await dataMiningTable.roll();\n    let dataMining = dataMiningRoll.results[0].text;\n\n    const wheresItBeenTable = await fromUuid(rollTablesUUIDPrefix + \"tjnDQ9lHGbGB5mKs\");\n    let wheresItBeenRoll = await wheresItBeenTable.roll();\n    let wheresItBeen = wheresItBeenRoll.results[0].text;\n\n    let message = \"Condition Of Technology: \" + conditionOfTechnology + \"<br><br>\";\n    message += \"Type Of Device: \" + typeOfDevice + \"<br><br>\";\n    message += \"Data Mining: \" + dataMining + \"<br><br>\";\n    message += \"Where's It Been?: \" + wheresItBeen + \"<br>\";\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.329",
+    "createdTime": 1700003665235,
+    "modifiedTime": 1721407423947,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!macros!24V8f1IKvF21NQkc"
+}

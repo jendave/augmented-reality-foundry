@@ -1,0 +1,177 @@
+{
+  "name": "State",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Untidy",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "hPgCwNKJTFNGqhvp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1D2T6eECmWjoxvHG.hPgCwNKJTFNGqhvp"
+    },
+    {
+      "text": "Pristine",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "v0TGJzORUgdbIe7q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1D2T6eECmWjoxvHG.v0TGJzORUgdbIe7q"
+    },
+    {
+      "text": "Sterile",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "TWuxGAL3byLdJfFa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1D2T6eECmWjoxvHG.TWuxGAL3byLdJfFa"
+    },
+    {
+      "text": "Cramped",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "hSURhScGOcBzOxxS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1D2T6eECmWjoxvHG.hSURhScGOcBzOxxS"
+    },
+    {
+      "text": "Spacious",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "srKXFE8wn5dQ0YVM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1D2T6eECmWjoxvHG.srKXFE8wn5dQ0YVM"
+    },
+    {
+      "text": "Cavernous",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "YUdiZiuifPzltzgV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1D2T6eECmWjoxvHG.YUdiZiuifPzltzgV"
+    },
+    {
+      "text": "Biohazard",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "svdJ2XhdbEXuD0r9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1D2T6eECmWjoxvHG.svdJ2XhdbEXuD0r9"
+    },
+    {
+      "text": "Organised",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "058cGDCpzU5gRMri",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1D2T6eECmWjoxvHG.058cGDCpzU5gRMri"
+    },
+    {
+      "text": "Cluttered",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "Ayp742Du9lCIUcSE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1D2T6eECmWjoxvHG.Ayp742Du9lCIUcSE"
+    },
+    {
+      "text": "Feng Shui",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "noqEtVaCnVHWa3F0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1D2T6eECmWjoxvHG.noqEtVaCnVHWa3F0"
+    }
+  ],
+  "folder": "Zv2ehUmeOm2R0BF0",
+  "sort": 1,
+  "_id": "1D2T6eECmWjoxvHG",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Style, State, Unusual Feature and Secret Roll Tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569655391,
+    "modifiedTime": 1699638531325,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!1D2T6eECmWjoxvHG"
+}

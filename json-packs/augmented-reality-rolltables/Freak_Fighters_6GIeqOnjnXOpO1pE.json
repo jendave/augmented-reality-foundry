@@ -1,0 +1,177 @@
+{
+  "name": "Freak Fighters",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Ghngis Klang - Muscle grafts and body plating, hydraulic hands crush skulls",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "EoLsKCihEsn98GWW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6GIeqOnjnXOpO1pE.EoLsKCihEsn98GWW"
+    },
+    {
+      "text": "The Gene Witch - Experimental bioware, double-jointed, wild hair, utterly insane",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "uWqbpkMT7UDDV2tf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6GIeqOnjnXOpO1pE.uWqbpkMT7UDDV2tf"
+    },
+    {
+      "text": "Hannah Stazi - Bald, scarred and lithe, wears slashed leathers, knife fighter",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "nOLsXeUgydJfoGvb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6GIeqOnjnXOpO1pE.nOLsXeUgydJfoGvb"
+    },
+    {
+      "text": "Shanky Bartella - Glo-tattooed skinhead, shiny black cyberarms, razor claws",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "slEOYuyvMAazGoFy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6GIeqOnjnXOpO1pE.slEOYuyvMAazGoFy"
+    },
+    {
+      "text": "The White Ape - Augmented albino baboon, parasite infested, goes for the face",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "dnek02PiXc4DYMQk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6GIeqOnjnXOpO1pE.dnek02PiXc4DYMQk"
+    },
+    {
+      "text": "Indigo Wilde - Wirey muscle, sambo expert, innumerable chrome piercings",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "HFvG9nsLTNpjycCy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6GIeqOnjnXOpO1pE.HFvG9nsLTNpjycCy"
+    },
+    {
+      "text": "Gary Savage - Tattooed, 16 year old half-wit, no arms, extremely sharp teeth",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "miiAp6atKb1sWCtT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6GIeqOnjnXOpO1pE.miiAp6atKb1sWCtT"
+    },
+    {
+      "text": "Jezebel Twist - Petite and calm, mixed martial arts, enhanced muscle matrix",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "H94zqqBCDwu1wlsU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6GIeqOnjnXOpO1pE.H94zqqBCDwu1wlsU"
+    },
+    {
+      "text": "Ultimate Hobo - Hairy meth addict, relieved of his hands, replaced with flails",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "hUMLsZAqVAgsuwoY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6GIeqOnjnXOpO1pE.hUMLsZAqVAgsuwoY"
+    },
+    {
+      "text": "Lazarus Rapide - Showy and stylish, fast, will strangle you into submission",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "nmhbFSX71KB21VSO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6GIeqOnjnXOpO1pE.nmhbFSX71KB21VSO"
+    }
+  ],
+  "folder": "2Nkwf7OogrEjyO11",
+  "sort": 0,
+  "_id": "6GIeqOnjnXOpO1pE",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Members of the crowd are invited to challenge the winner of the Freak Fight bout.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570668884,
+    "modifiedTime": 1699656551326,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!6GIeqOnjnXOpO1pE"
+}

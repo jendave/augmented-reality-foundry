@@ -1,0 +1,18 @@
+{
+  "name": "Added Features",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "oAmaA9LLRbAAz4UN",
+  "folder": "rawnSoN59EswOVZi",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569885601,
+    "modifiedTime": 1699649114127,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!folders!oAmaA9LLRbAAz4UN"
+}

@@ -1,0 +1,777 @@
+{
+  "name": "Weapon",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Flechette pistols",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "OSveX0EqroxE0CnZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.OSveX0EqroxE0CnZ"
+    },
+    {
+      "text": "Teleoperated drones",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "lrVcAwUwbzXywrdS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.lrVcAwUwbzXywrdS"
+    },
+    {
+      "text": "Hydraulic fists, bites",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "5L71y7Af1KVXs1tK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.5L71y7Af1KVXs1tK"
+    },
+    {
+      "text": "Aware weapons LAN",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "M8RAP4nBUTzxjDFQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.M8RAP4nBUTzxjDFQ"
+    },
+    {
+      "text": "Spider venom rounds",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "6l0yg3Rc6HUq09sw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.6l0yg3Rc6HUq09sw"
+    },
+    {
+      "text": "Ornate monokatana",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "tDDwuMHq57z0faDX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.tDDwuMHq57z0faDX"
+    },
+    {
+      "text": "Hunter-seeker rounds",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "lwMNFTJqIKv6Apks",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.lwMNFTJqIKv6Apks"
+    },
+    {
+      "text": "Pearl handled Glock",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "rHHMfpqpkusmmpZW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.rHHMfpqpkusmmpZW"
+    },
+    {
+      "text": "Bulky laser rifle",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "PxJB7qzNWYBteP5O",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.PxJB7qzNWYBteP5O"
+    },
+    {
+      "text": "Scoped needle-rifle",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "ATEsaCkxCZolY1T9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.ATEsaCkxCZolY1T9"
+    },
+    {
+      "text": "Monowire mines",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "zoD3YcsR8ZdhGohA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.zoD3YcsR8ZdhGohA"
+    },
+    {
+      "text": "Implanted zhi dao",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "FuaMXJVNE8r1utp7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.FuaMXJVNE8r1utp7"
+    },
+    {
+      "text": "Exploding munitions",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "wtjXrONuz9VNocnC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.wtjXrONuz9VNocnC"
+    },
+    {
+      "text": "Nerve-burner bombs",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "pVyicVuknERLcNAg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.pVyicVuknERLcNAg"
+    },
+    {
+      "text": "3D printed QBZ-95",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "xP6giDeJYosSigft",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.xP6giDeJYosSigft"
+    },
+    {
+      "text": "Railgun sniper",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "stlDBjH96tGTzEW9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.stlDBjH96tGTzEW9"
+    },
+    {
+      "text": "Compound bow",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "3sEs9epjwhBTAJG1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.3sEs9epjwhBTAJG1"
+    },
+    {
+      "text": "Sleek microwavers",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "0c9xs9L9ujephLQ1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.0c9xs9L9ujephLQ1"
+    },
+    {
+      "text": "Dissolving Nanorounds",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "PKePGk2ktfeWIfzR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.PKePGk2ktfeWIfzR"
+    },
+    {
+      "text": "Martial art techniques",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "tNg0Yzd2GTCbaKGc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.tNg0Yzd2GTCbaKGc"
+    },
+    {
+      "text": "Antique UZI, SOPMODs",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "LokkTfaiGAt7h33f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.LokkTfaiGAt7h33f"
+    },
+    {
+      "text": "Auto grenade launcher",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "1GDcaciw6kMMzoCx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.1GDcaciw6kMMzoCx"
+    },
+    {
+      "text": "Drum-fed AK74",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "0ogRBa2X1zdKB0DI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.0ogRBa2X1zdKB0DI"
+    },
+    {
+      "text": "Self-destructing gun",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "SELdNEqnIvvCQtPO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.SELdNEqnIvvCQtPO"
+    },
+    {
+      "text": "Twin compact SMGs",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "ERPcu5mjWusz3Lr3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.ERPcu5mjWusz3Lr3"
+    },
+    {
+      "text": "Charm-covered Steyr",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "yarfgl9nblrw4wr6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.yarfgl9nblrw4wr6"
+    },
+    {
+      "text": "Liquid nitrogen rounds",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "13oQ37Z9ONvmRyd8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.13oQ37Z9ONvmRyd8"
+    },
+    {
+      "text": "Camo autoshotgun",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "O2wxCkF5odJepXuc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.O2wxCkF5odJepXuc"
+    },
+    {
+      "text": "Ornate bladed fingers",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "RtTlG46sHQ8l1SBe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.RtTlG46sHQ8l1SBe"
+    },
+    {
+      "text": "Incendiary rounds",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "NIzTE8xV7D3xThnQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.NIzTE8xV7D3xThnQ"
+    },
+    {
+      "text": "Flechette adapted M4",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "NMlUOF6V2lNW9U1k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.NMlUOF6V2lNW9U1k"
+    },
+    {
+      "text": "Screamer grenades",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "K3MiXIrm90Z6goze",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.K3MiXIrm90Z6goze"
+    },
+    {
+      "text": "Big polymer revolvers",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "9N9QjK9DRaitZYTP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.9N9QjK9DRaitZYTP"
+    },
+    {
+      "text": "Hands-free trigger",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "Zh8PsebUhOc3uRYs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.Zh8PsebUhOc3uRYs"
+    },
+    {
+      "text": "Rifle with chatty AI",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "DwLrPoIic0ou9CFq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.DwLrPoIic0ou9CFq"
+    },
+    {
+      "text": "Cortex bomb",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "uY8Et9duUA1BBw7I",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.uY8Et9duUA1BBw7I"
+    },
+    {
+      "text": "Bright Plastic SMG",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "4gNAiixPi8VqOAwt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.4gNAiixPi8VqOAwt"
+    },
+    {
+      "text": "Chinese SMG clone",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "JPcHVegRQq11TtaU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.JPcHVegRQq11TtaU"
+    },
+    {
+      "text": "Caseless KRISS Vector",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "e4SewxmXmxfWpzhJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.e4SewxmXmxfWpzhJ"
+    },
+    {
+      "text": "Brace of small pistols",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "Idr9S0VmAKLB15WG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.Idr9S0VmAKLB15WG"
+    },
+    {
+      "text": "Scanner shielded gun",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "DBFXeuMzvHtXQD9Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.DBFXeuMzvHtXQD9Z"
+    },
+    {
+      "text": "Inbuilt Scorpion SMGs",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "cmFT8FMJpgkYNjes",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.cmFT8FMJpgkYNjes"
+    },
+    {
+      "text": "Crippler rounds",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "OPy9GbDb0Jde1Qwq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.OPy9GbDb0Jde1Qwq"
+    },
+    {
+      "text": "Taser, monoknives",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "qtVDtOh1ZO0KwKHD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.qtVDtOh1ZO0KwKHD"
+    },
+    {
+      "text": "Compact stutter-laser",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "jEsAcUh5FjOH6OQO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.jEsAcUh5FjOH6OQO"
+    },
+    {
+      "text": "Disposable pistols",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "fO9bO0PkPmDF2iS2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.fO9bO0PkPmDF2iS2"
+    },
+    {
+      "text": "Toxin-loaded needlers",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "myXB3xwKS0cm833E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.myXB3xwKS0cm833E"
+    },
+    {
+      "text": "Underslung blinder",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "22ype874JYn6a9TS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.22ype874JYn6a9TS"
+    },
+    {
+      "text": "Full spectrum targeter",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "KKHs7AfkBdqwwXu9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.KKHs7AfkBdqwwXu9"
+    },
+    {
+      "text": "Belt-fed chaingun",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "RLsxt4xVcZvrBU9M",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aZKBB9s8eyY9xhOV.RLsxt4xVcZvrBU9M"
+    }
+  ],
+  "folder": "zSEl74tKMvfweqFo",
+  "sort": 2,
+  "_id": "aZKBB9s8eyY9xhOV",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on the Name, Description, Weapon, Appearance/Demeanour and Relationship tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570449273,
+    "modifiedTime": 1700004593776,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!aZKBB9s8eyY9xhOV"
+}

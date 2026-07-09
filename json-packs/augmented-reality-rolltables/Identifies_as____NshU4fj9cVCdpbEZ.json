@@ -1,0 +1,177 @@
+{
+  "name": "Identifies as...",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Gay Male",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "MsyIwwgFMbrAwZ8u",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NshU4fj9cVCdpbEZ.MsyIwwgFMbrAwZ8u"
+    },
+    {
+      "text": "Cis Straight Female",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "BXAfPkJnjw7P9O1Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NshU4fj9cVCdpbEZ.BXAfPkJnjw7P9O1Z"
+    },
+    {
+      "text": "Asexual",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "cTJjdrq3FgodMryj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NshU4fj9cVCdpbEZ.cTJjdrq3FgodMryj"
+    },
+    {
+      "text": "Adaptable (cybernetics)",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "tGzYUIfWqlqW7Rxm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NshU4fj9cVCdpbEZ.tGzYUIfWqlqW7Rxm"
+    },
+    {
+      "text": "Bisexual Female",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "4FqlPhXWFjVVKb9K",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NshU4fj9cVCdpbEZ.4FqlPhXWFjVVKb9K"
+    },
+    {
+      "text": "Cis Straight Male",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "gwOLqaGLz9QMJxRx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NshU4fj9cVCdpbEZ.gwOLqaGLz9QMJxRx"
+    },
+    {
+      "text": "Gay Female",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "XNZP8K76W2YA1QoG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NshU4fj9cVCdpbEZ.XNZP8K76W2YA1QoG"
+    },
+    {
+      "text": "Bisexual Male",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "oS61BYTJYOFqWhZ5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NshU4fj9cVCdpbEZ.oS61BYTJYOFqWhZ5"
+    },
+    {
+      "text": "Pansexual Male",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "VL4fJYgzmTSDxzzX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NshU4fj9cVCdpbEZ.VL4fJYgzmTSDxzzX"
+    },
+    {
+      "text": "Pansexual Female",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "kQTBoI9ru6wdugVV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NshU4fj9cVCdpbEZ.kQTBoI9ru6wdugVV"
+    }
+  ],
+  "folder": "fmIhTXMIc2ejfvcS",
+  "sort": 600000,
+  "_id": "NshU4fj9cVCdpbEZ",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Sex Workers and Identifies as… tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570112461,
+    "modifiedTime": 1699652374802,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!NshU4fj9cVCdpbEZ"
+}

@@ -1,0 +1,777 @@
+{
+  "name": "Appearance",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Armoured up",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "8qXnc3JaHCBm9bKu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.8qXnc3JaHCBm9bKu"
+    },
+    {
+      "text": "Unwashed",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "rukigswgXMou2C0d",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.rukigswgXMou2C0d"
+    },
+    {
+      "text": "Chain smoker",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "cC29ixEXYojfw4KT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.cC29ixEXYojfw4KT"
+    },
+    {
+      "text": "Goggles &amp; tech",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "N4SwvzXhrq0FmT1x",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.N4SwvzXhrq0FmT1x"
+    },
+    {
+      "text": "Fat, eating junk",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "yHoVGGr7faBy3tGS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.yHoVGGr7faBy3tGS"
+    },
+    {
+      "text": "Looks exhausted",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "vMhbqB58Hy5yxMyl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.vMhbqB58Hy5yxMyl"
+    },
+    {
+      "text": "Sick &amp; shaking (See @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.oD4Zf2F89eMbClUL]{Urban Sickness} and @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.iWLStgXfVtgeHzIK]{Smells})",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "quZ7Ef0Rs9ioYGcN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.quZ7Ef0Rs9ioYGcN"
+    },
+    {
+      "text": "Fresh implant(s)",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "RXGSLSUXD0k5UIPI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.RXGSLSUXD0k5UIPI"
+    },
+    {
+      "text": "Well groomed",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "y8gZmuROqc3bKwKZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.y8gZmuROqc3bKwKZ"
+    },
+    {
+      "text": "Way too young",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "8rsg1kO970Gv1N79",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.8rsg1kO970Gv1N79"
+    },
+    {
+      "text": "Pock-marked",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "SA3sZhKUoE4Qmgte",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.SA3sZhKUoE4Qmgte"
+    },
+    {
+      "text": "Half-starved",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "j4xFoR5Zuz9h6BLU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.j4xFoR5Zuz9h6BLU"
+    },
+    {
+      "text": "Heavily tattooed",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "LWAonLobPdON1Rup",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.LWAonLobPdON1Rup"
+    },
+    {
+      "text": "Charms &amp; symbols",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "Hux1Vi9RfnXfVRDd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.Hux1Vi9RfnXfVRDd"
+    },
+    {
+      "text": "Army fatigues",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "khZDpiLRBR2gYyGX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.khZDpiLRBR2gYyGX"
+    },
+    {
+      "text": "Fully cyborged",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "B7juhx1xXlptCN8y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.B7juhx1xXlptCN8y"
+    },
+    {
+      "text": "Hardwired in",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "APp8rX6wiomADpxb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.APp8rX6wiomADpxb"
+    },
+    {
+      "text": "Shiny fetishwear",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "E78kuIeOeFeoJ6Jl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.E78kuIeOeFeoJ6Jl"
+    },
+    {
+      "text": "Tribal scarring",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "pMa7eRe0TL7i70sg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.pMa7eRe0TL7i70sg"
+    },
+    {
+      "text": "Oversized optics",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "18aV6XGNb7Ri0zMJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.18aV6XGNb7Ri0zMJ"
+    },
+    {
+      "text": "Chromed teeth",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "KYHSgdz4zrdKHKgK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.KYHSgdz4zrdKHKgK"
+    },
+    {
+      "text": "Slick with sweat",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "tgnkiPyW71aR277s",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.tgnkiPyW71aR277s"
+    },
+    {
+      "text": "Atrophied limb",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "novVG0FAz11wp9uM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.novVG0FAz11wp9uM"
+    },
+    {
+      "text": "Twitches",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "fqoUfWidtANfkyFZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.fqoUfWidtANfkyFZ"
+    },
+    {
+      "text": "Polythene coverall",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "Vp4zzyKOcuKMeYLp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.Vp4zzyKOcuKMeYLp"
+    },
+    {
+      "text": "Layered T-shirts",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "9L5SxWAArLJItWEi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.9L5SxWAArLJItWEi"
+    },
+    {
+      "text": "Four handguns",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "U0EsWHE0vpUp0RF9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.U0EsWHE0vpUp0RF9"
+    },
+    {
+      "text": "Excessive vaping",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "DdV8lmoqWCIo36BK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.DdV8lmoqWCIo36BK"
+    },
+    {
+      "text": "Filthy baseball cap",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "BccaRsLWVBc4aCUR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.BccaRsLWVBc4aCUR"
+    },
+    {
+      "text": "Scruffy looking",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "bThmNnc3X9MtsLfE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.bThmNnc3X9MtsLfE"
+    },
+    {
+      "text": "Facial burn scars",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "GedTahy4IPuGETw0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.GedTahy4IPuGETw0"
+    },
+    {
+      "text": "Constant texting",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "IA7UULm1OHB0j3gX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.IA7UULm1OHB0j3gX"
+    },
+    {
+      "text": "Designer coat",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "xaUxBlOC1MIVIlKg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.xaUxBlOC1MIVIlKg"
+    },
+    {
+      "text": "HuD Visor",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "CQSARkNbxWmoPwNm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.CQSARkNbxWmoPwNm"
+    },
+    {
+      "text": "Respirator",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "y6FcQtJRHfh1nmGV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.y6FcQtJRHfh1nmGV"
+    },
+    {
+      "text": "Mirrorshades",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "a4o9YWWqIKV3pJ9K",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.a4o9YWWqIKV3pJ9K"
+    },
+    {
+      "text": "Slab-headed",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "Sj7lazRnnfKOke7h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.Sj7lazRnnfKOke7h"
+    },
+    {
+      "text": "Surplus flight suit",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "NJAYWImi2K3pY5BM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.NJAYWImi2K3pY5BM"
+    },
+    {
+      "text": "Geriatric",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "0qbcSi4NQmacGTf4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.0qbcSi4NQmacGTf4"
+    },
+    {
+      "text": "Creaking leathers",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "Xpxu4e9Bdy6CrvuB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.Xpxu4e9Bdy6CrvuB"
+    },
+    {
+      "text": "Jury-rigged IV drip",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "Qw0ePVepLip5NkXv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.Qw0ePVepLip5NkXv"
+    },
+    {
+      "text": "Bright blue hair",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "Pn1QPLjLbT7O3u3K",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.Pn1QPLjLbT7O3u3K"
+    },
+    {
+      "text": "Bullet earrings",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "zZAZVSToL7vnV2wn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.zZAZVSToL7vnV2wn"
+    },
+    {
+      "text": "Wearable cameras",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "9rAOVw9uuGfA5QGz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.9rAOVw9uuGfA5QGz"
+    },
+    {
+      "text": "Autoshotgun",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "wjXlP1qbn9yH1FNS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.wjXlP1qbn9yH1FNS"
+    },
+    {
+      "text": "Has no legs",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "6iYlwGkIfqJb80TB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.6iYlwGkIfqJb80TB"
+    },
+    {
+      "text": "Alopecia",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "gPlZR2khM47m2kCn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.gPlZR2khM47m2kCn"
+    },
+    {
+      "text": "Thin cyberarms",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "rTnKT6rjS0rYnLBU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.rTnKT6rjS0rYnLBU"
+    },
+    {
+      "text": "Aviator glasses",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "Iuaz8mIjgJdJbTOP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.Iuaz8mIjgJdJbTOP"
+    },
+    {
+      "text": "Pale green optics",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "CtMolYNhEvtjIZKy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!furEiJ1WH8B00qW8.CtMolYNhEvtjIZKy"
+    }
+  ],
+  "folder": "doPllvlsFqECp9Es",
+  "sort": 1,
+  "_id": "furEiJ1WH8B00qW8",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Appearance, Nationality, Conversation Topic, Demeanour and Gender tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570032220,
+    "modifiedTime": 1699652029757,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!furEiJ1WH8B00qW8"
+}

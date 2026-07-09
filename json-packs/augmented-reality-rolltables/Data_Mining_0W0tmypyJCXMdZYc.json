@@ -1,0 +1,177 @@
+{
+  "name": "Data Mining",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Contacts list - a mix of pure gold and the depressingly mundane",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "MjfyQjcK1dxGPPic",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0W0tmypyJCXMdZYc.MjfyQjcK1dxGPPic"
+    },
+    {
+      "text": "Schematics - possibly of a building, vehicle, or a new cybernetics design",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "6HtKzsrO2Rggtemd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0W0tmypyJCXMdZYc.6HtKzsrO2Rggtemd"
+    },
+    {
+      "text": "Compromising Image Files (GM needs to determine of who)",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "ZjDZ0KyWBvsINDOi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0W0tmypyJCXMdZYc.ZjDZ0KyWBvsINDOi"
+    },
+    {
+      "text": "Chemical or Pharmaceutical Formulas - either new or cleverly adapted",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "Yy0LF2WXLmanNEG2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0W0tmypyJCXMdZYc.Yy0LF2WXLmanNEG2"
+    },
+    {
+      "text": "Unreleased Beta Gaming Apps - copy protected; eagerly anticipated by fans",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "6EmMoXwT60qUxvYr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0W0tmypyJCXMdZYc.6EmMoXwT60qUxvYr"
+    },
+    {
+      "text": "Illegally Downloaded Music - some tracks prerelease; copy protections removed",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "iABr6QTR0sXC0RRI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0W0tmypyJCXMdZYc.iABr6QTR0sXC0RRI"
+    },
+    {
+      "text": "Black Ops Project - an extraction/wetwork/adulterating pharms/neo-disease etc.",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "3DlziQxjkGC2NFw6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0W0tmypyJCXMdZYc.3DlziQxjkGC2NFw6"
+    },
+    {
+      "text": "Weapons Tech R&amp;D Data - aware weaponry systems or cutting edge mods",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "4fYVYXgHvYirnbBq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0W0tmypyJCXMdZYc.4fYVYXgHvYirnbBq"
+    },
+    {
+      "text": "Presentation For Forthcoming Biotech launch - impressive production values",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "ktVorC24G5zRjeFs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0W0tmypyJCXMdZYc.ktVorC24G5zRjeFs"
+    },
+    {
+      "text": "V-Mail Conversation Threads - regards one or more of the above (roll again twice)",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "AO1yl09m19RltxwJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0W0tmypyJCXMdZYc.AO1yl09m19RltxwJ"
+    }
+  ],
+  "folder": "jOYHgfGYW3o5DHNF",
+  "sort": 2,
+  "_id": "0W0tmypyJCXMdZYc",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>So, What's on That Thing Anyway?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570409672,
+    "modifiedTime": 1699654474438,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!0W0tmypyJCXMdZYc"
+}

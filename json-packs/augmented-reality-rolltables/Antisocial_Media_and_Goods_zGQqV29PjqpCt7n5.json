@@ -1,0 +1,19 @@
+{
+  "name": "Antisocial Media and Goods",
+  "type": "RollTable",
+  "sorting": "a",
+  "_id": "zGQqV29PjqpCt7n5",
+  "folder": null,
+  "sort": 500000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570513297,
+    "modifiedTime": 1700005390567,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "color": null,
+  "_key": "!folders!zGQqV29PjqpCt7n5"
+}

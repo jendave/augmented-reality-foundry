@@ -1,0 +1,807 @@
+{
+  "name": "Downtown",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Pharmacy",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "Ky0WEMRr0pzRIE6D",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.Ky0WEMRr0pzRIE6D"
+    },
+    {
+      "text": "Consumer Electronics",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "wjiWYccbP7bgIOjN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.wjiWYccbP7bgIOjN"
+    },
+    {
+      "text": "Art Dealer or Gallery",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "tchcw0MAjfnyNrG3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.tchcw0MAjfnyNrG3"
+    },
+    {
+      "text": "Auto or Robotics Repair",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "GnQQV1x4SD5CKkDK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.GnQQV1x4SD5CKkDK"
+    },
+    {
+      "text": "Storage Units or Warehousing",
+      "range": [
+        7,
+        9
+      ],
+      "_id": "Gm4GeLAHmERBfcdP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.Gm4GeLAHmERBfcdP"
+    },
+    {
+      "text": "Legal Firm",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "vF6a99q2qlrTjA83",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.vF6a99q2qlrTjA83"
+    },
+    {
+      "text": "Religious Building",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "Xgx6n3D9jJeyCyma",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.Xgx6n3D9jJeyCyma"
+    },
+    {
+      "text": "Capsule Hotel",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "siUMVteSwCVEochJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.siUMVteSwCVEochJ"
+    },
+    {
+      "text": "Data Storage",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "O6CmkzGPSVZUa3E9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.O6CmkzGPSVZUa3E9"
+    },
+    {
+      "text": "Low Rent Housing Project",
+      "range": [
+        16,
+        18
+      ],
+      "_id": "u7KaErfoREbQrZme",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.u7KaErfoREbQrZme"
+    },
+    {
+      "text": "Grocery Store or Hypermarket",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "6BoL1M3T88eRSHKd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.6BoL1M3T88eRSHKd"
+    },
+    {
+      "text": "Elevated Rail or Road Overpass",
+      "range": [
+        21,
+        21
+      ],
+      "_id": "4fsJepgda9rsofGR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.4fsJepgda9rsofGR"
+    },
+    {
+      "text": "Fast Food Franchise",
+      "range": [
+        22,
+        24
+      ],
+      "_id": "dExvHtvSEnfsyAsF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.dExvHtvSEnfsyAsF"
+    },
+    {
+      "text": "Police Precinct",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "2kKShFPdpl1WNLDZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.2kKShFPdpl1WNLDZ"
+    },
+    {
+      "text": "School or College",
+      "range": [
+        27,
+        27
+      ],
+      "_id": "CHI2JqDNult4Gyhd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.CHI2JqDNult4Gyhd"
+    },
+    {
+      "text": "Government Building",
+      "range": [
+        28,
+        29
+      ],
+      "_id": "NJ4lWxelRVPqnTsM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.NJ4lWxelRVPqnTsM"
+    },
+    {
+      "text": "Garage or Parking Block",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "AAjQqLoDTiFOE9Or",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.AAjQqLoDTiFOE9Or"
+    },
+    {
+      "text": "Office Block",
+      "range": [
+        31,
+        34
+      ],
+      "_id": "vGQC2xT8fym3TLW2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.vGQC2xT8fym3TLW2"
+    },
+    {
+      "text": "Public Transport Hub",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "weHdqdvBMKJYNgbp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.weHdqdvBMKJYNgbp"
+    },
+    {
+      "text": "Hospital or Clinic",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "ymu6J8iCq5IwWfPg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.ymu6J8iCq5IwWfPg"
+    },
+    {
+      "text": "Department Store",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "CEX60FCRm3BuDJC4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.CEX60FCRm3BuDJC4"
+    },
+    {
+      "text": "Body Augmentation Clinic",
+      "range": [
+        41,
+        43
+      ],
+      "_id": "8u8d9VYIZ69lSa5h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.8u8d9VYIZ69lSa5h"
+    },
+    {
+      "text": "Luxury Apartments",
+      "range": [
+        44,
+        45
+      ],
+      "_id": "uWabkeUSgZZ2hVkG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.uWabkeUSgZZ2hVkG"
+    },
+    {
+      "text": "New Media Company",
+      "range": [
+        46,
+        47
+      ],
+      "_id": "GcnNxv7SMyr6Cwns",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.GcnNxv7SMyr6Cwns"
+    },
+    {
+      "text": "Industrial",
+      "range": [
+        48,
+        49
+      ],
+      "_id": "1MdFPyslnYm2wCwS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.1MdFPyslnYm2wCwS"
+    },
+    {
+      "text": "Security Tech",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "MIQiFTQYptU4FPk5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.MIQiFTQYptU4FPk5"
+    },
+    {
+      "text": "Vehicle Showroom",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "CcsMtzmLkR9Engbo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.CcsMtzmLkR9Engbo"
+    },
+    {
+      "text": "Fashion Boutique",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "od9GkGMieZxBW6dF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.od9GkGMieZxBW6dF"
+    },
+    {
+      "text": "Commercial Cybernetics",
+      "range": [
+        55,
+        57
+      ],
+      "_id": "c3drfcqpcl2yqpF2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.c3drfcqpcl2yqpF2"
+    },
+    {
+      "text": "Mall",
+      "range": [
+        58,
+        58
+      ],
+      "_id": "MIg8wpjaomGO7u4e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.MIg8wpjaomGO7u4e"
+    },
+    {
+      "text": "VRcade",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "vaCuADqMI8BsGVFF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.vaCuADqMI8BsGVFF"
+    },
+    {
+      "text": "Gym",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "OLEQE2PYsNcC4YdB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.OLEQE2PYsNcC4YdB"
+    },
+    {
+      "text": "Leisureplex",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "ysk9vdRnIIp3Q77j",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.ysk9vdRnIIp3Q77j"
+    },
+    {
+      "text": "Apartment Block or Hab Stack",
+      "range": [
+        63,
+        67
+      ],
+      "_id": "Bjm3Q0z591M1xw3k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.Bjm3Q0z591M1xw3k"
+    },
+    {
+      "text": "Nightclub",
+      "range": [
+        68,
+        70
+      ],
+      "_id": "aVYCPwtlbdKRDeyD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.aVYCPwtlbdKRDeyD"
+    },
+    {
+      "text": "Underpass",
+      "range": [
+        71,
+        71
+      ],
+      "_id": "De5zQSK2NsGLLl0n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.De5zQSK2NsGLLl0n"
+    },
+    {
+      "text": "Hotel",
+      "range": [
+        72,
+        74
+      ],
+      "_id": "QCclz4OWHZArG2Cq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.QCclz4OWHZArG2Cq"
+    },
+    {
+      "text": "Ripperdoc",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "Gv9ULb4V9JKo7CBY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.Gv9ULb4V9JKo7CBY"
+    },
+    {
+      "text": "3D Print Fabrication",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "6CNacqBkXElOiscd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.6CNacqBkXElOiscd"
+    },
+    {
+      "text": "Courier or Bulk Transport Company",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "nDeS5Jv6GmGvKOQB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.nDeS5Jv6GmGvKOQB"
+    },
+    {
+      "text": "Bar",
+      "range": [
+        81,
+        83
+      ],
+      "_id": "KoOvc3xUhk8osjL8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.KoOvc3xUhk8osjL8"
+    },
+    {
+      "text": "Restaurant",
+      "range": [
+        84,
+        85
+      ],
+      "_id": "e0ISjdiz6Z9GE1Tl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.e0ISjdiz6Z9GE1Tl"
+    },
+    {
+      "text": "Pop-Up Market",
+      "range": [
+        86,
+        87
+      ],
+      "_id": "CtKceD3RnzWTA0yl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.CtKceD3RnzWTA0yl"
+    },
+    {
+      "text": "Coffee Shop",
+      "range": [
+        88,
+        89
+      ],
+      "_id": "gAPVK7T9oMnABtXk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.gAPVK7T9oMnABtXk"
+    },
+    {
+      "text": "Taxi Firm",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "wr34bQtH0IGxQECq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.wr34bQtH0IGxQECq"
+    },
+    {
+      "text": "Pocket Park",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "C6VTNQXDmCCuJeUn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.C6VTNQXDmCCuJeUn"
+    },
+    {
+      "text": "Suburban Housing",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "SZTqDMW7pTzBQe5q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.SZTqDMW7pTzBQe5q"
+    },
+    {
+      "text": "Movie Theatre",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "ewJYON5zRsHQY7yy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.ewJYON5zRsHQY7yy"
+    },
+    {
+      "text": "Weapons Tech or Sales",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "KXSE764Ld7szmIsM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.KXSE764Ld7szmIsM"
+    },
+    {
+      "text": "Multi-Level Car Park",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "p39or2iWPOCJclLZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.p39or2iWPOCJclLZ"
+    },
+    {
+      "text": "Bank",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "DkJEERCg4ptZ4Qh2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.DkJEERCg4ptZ4Qh2"
+    },
+    {
+      "text": "Antiques",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "kkRtfszslnU750n9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!RAhL2yZlsv1q7AKS.kkRtfszslnU750n9"
+    }
+  ],
+  "folder": "6uM2lzeQEGOnlUfF",
+  "sort": 0,
+  "_id": "RAhL2yZlsv1q7AKS",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>The Downtown rolltable is designed to enable unprepared or improvising cyberpunk GMs to generate the immediate urban environment, quickly and easily.</p><p>Roll 3-4 times on this table to tell you the type of buildings your players have in their immediate area.</p><p>Then roll the same amount of D10s. The numbers shown on each die can be used in a couple of different ways; to determine the number of floors the building has, and to find if it has any notable features (optional).</p><p> If you want a bigger structure, just double the result of that dice.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569640537,
+    "modifiedTime": 1699581627122,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!RAhL2yZlsv1q7AKS"
+}

@@ -1,0 +1,777 @@
+{
+  "name": "Bugs In The System",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Overzealous defensive software",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "6q5xwZbv3jonUdOJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.6q5xwZbv3jonUdOJ"
+    },
+    {
+      "text": "Harbours malicious virus",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "li7OQwBKyv7nun5v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.li7OQwBKyv7nun5v"
+    },
+    {
+      "text": "Being assessed by sysadmin",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "fFghSW2hi1x0qPmL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.fFghSW2hi1x0qPmL"
+    },
+    {
+      "text": "Layers of legacy programming",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "qI4nl3l81FVNLLFJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.qI4nl3l81FVNLLFJ"
+    },
+    {
+      "text": "Randomly goes into standby mode",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "7U2ChzbpNmEB0gqA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.7U2ChzbpNmEB0gqA"
+    },
+    {
+      "text": "Badly formatted AR plug-in",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "t7guHqKgqbViznnc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.t7guHqKgqbViznnc"
+    },
+    {
+      "text": "Installing software upgrade",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "JrrhQ8Q36wtfu71B",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.JrrhQ8Q36wtfu71B"
+    },
+    {
+      "text": "Hacker currently querying system",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "QvvBA15lcWQQuJlQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.QvvBA15lcWQQuJlQ"
+    },
+    {
+      "text": "ROM overloaded by surplus apps",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "fqls0vh7lpiyOKBX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.fqls0vh7lpiyOKBX"
+    },
+    {
+      "text": "Recently reset to factory defaults",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "e6z7Qgvr3dVS7COk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.e6z7Qgvr3dVS7COk"
+    },
+    {
+      "text": "Inquisitive low-grade AI assistant",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "Gnh1RIRLmrPwI2TV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.Gnh1RIRLmrPwI2TV"
+    },
+    {
+      "text": "Requires biometric verification",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "1IO8cAKG0VMvd4x7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.1IO8cAKG0VMvd4x7"
+    },
+    {
+      "text": "Auto-downloads to linked device",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "ZnX7wT2LM9oIpjea",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.ZnX7wT2LM9oIpjea"
+    },
+    {
+      "text": "Net connection keeps dropping out",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "QVv4AwEX4UIaYah7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.QVv4AwEX4UIaYah7"
+    },
+    {
+      "text": "Incompatible operating system",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "AhdKqWPH9vYiSwaJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.AhdKqWPH9vYiSwaJ"
+    },
+    {
+      "text": "Pop-up pandemic",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "8JG8LuiXfmsrBife",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.8JG8LuiXfmsrBife"
+    },
+    {
+      "text": "Software conflicts, glitchy",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "D6nUKFHQpEgbHrGS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.D6nUKFHQpEgbHrGS"
+    },
+    {
+      "text": "Processor overclocked",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "Dr0WKyGV0DxiWRSt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.Dr0WKyGV0DxiWRSt"
+    },
+    {
+      "text": "Active 'vigilance suite' warns user",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "qavMCbPbwMkIYw2h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.qavMCbPbwMkIYw2h"
+    },
+    {
+      "text": "Tendency to stall or hang",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "DNFaNvy3Fi1ayLY3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.DNFaNvy3Fi1ayLY3"
+    },
+    {
+      "text": "Malware sifting for linked devices",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "JdCFu3TC4xMc4IEX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.JdCFu3TC4xMc4IEX"
+    },
+    {
+      "text": "Missing system tools/utilities",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "3yXo7P07V0KmqaZt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.3yXo7P07V0KmqaZt"
+    },
+    {
+      "text": "Errors with user interface display",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "B7RtPwzkkR1pTMeW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.B7RtPwzkkR1pTMeW"
+    },
+    {
+      "text": "Physically damaged, or faulty",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "s9N4LPn7FBMzZ3Cu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.s9N4LPn7FBMzZ3Cu"
+    },
+    {
+      "text": "Non-standard reprogramming",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "wlTSDE6GMq1RKKn7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.wlTSDE6GMq1RKKn7"
+    },
+    {
+      "text": "d6 software subroutines triggered",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "zCef4qcZxlK94WXL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.zCef4qcZxlK94WXL"
+    },
+    {
+      "text": "Logs recently tampered with",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "zbt5tIMvDd7kmGnJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.zbt5tIMvDd7kmGnJ"
+    },
+    {
+      "text": "Overheating (heat sink failing)",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "6EyvTfvfApogCy5v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.6EyvTfvfApogCy5v"
+    },
+    {
+      "text": "Heavily encrypted for device type",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "CpgrI2OeivmnMvnN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.CpgrI2OeivmnMvnN"
+    },
+    {
+      "text": "Constant security warnings",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "XasffROxieupkEpS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.XasffROxieupkEpS"
+    },
+    {
+      "text": "Non-intuitive user interface",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "mNCwlZvGRMbyfE9I",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.mNCwlZvGRMbyfE9I"
+    },
+    {
+      "text": "Hogging the local bandwidth",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "zuC6RkYh0A79Lubj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.zuC6RkYh0A79Lubj"
+    },
+    {
+      "text": "Prone to system crashes",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "2bf8U9U0YAMfpZqY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.2bf8U9U0YAMfpZqY"
+    },
+    {
+      "text": "Uses badly patched legacy code",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "jOMgK7mgCKdZiPlG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.jOMgK7mgCKdZiPlG"
+    },
+    {
+      "text": "File sharing denied",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "IPFjrqHFcfP3JH3h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.IPFjrqHFcfP3JH3h"
+    },
+    {
+      "text": "Configured for periodic back-up",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "0TfzmeOjLi5g4w6k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.0TfzmeOjLi5g4w6k"
+    },
+    {
+      "text": "Insufficient internal battery life",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "6Mh1JliC1OKJhXSi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.6Mh1JliC1OKJhXSi"
+    },
+    {
+      "text": "Reveals a scheduled exploit (short)",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "Aygu0mMPxJaNvXyJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.Aygu0mMPxJaNvXyJ"
+    },
+    {
+      "text": "'Access Denied' system file errors",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "PB9nHRh2eQZvNNQl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.PB9nHRh2eQZvNNQl"
+    },
+    {
+      "text": "Reboots the system at random",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "5ly8SzginRyl91iG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.5ly8SzginRyl91iG"
+    },
+    {
+      "text": "Requires admin password",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "cPINZgAr7ewIOQJx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.cPINZgAr7ewIOQJx"
+    },
+    {
+      "text": "Can only handle minimal processes",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "0jKxSmqNua3Y9IkC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.0jKxSmqNua3Y9IkC"
+    },
+    {
+      "text": "User interface in foreign language",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "ckqgflaFCMmWcSyG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.ckqgflaFCMmWcSyG"
+    },
+    {
+      "text": "Discomforting feedback",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "RjonB1xofPqSvYQg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.RjonB1xofPqSvYQg"
+    },
+    {
+      "text": "3rd party updaters need unchecking",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "0oswDHJolUDzRLEC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.0oswDHJolUDzRLEC"
+    },
+    {
+      "text": "Menu options it shouldn't have",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "PuzLeDGn26LE8cKm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.PuzLeDGn26LE8cKm"
+    },
+    {
+      "text": "In the process of being stolen",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "sztzNjOICxPxq6XI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.sztzNjOICxPxq6XI"
+    },
+    {
+      "text": "Running slow, searching for updates",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "RoBzvBGSjQ4rkBnb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.RoBzvBGSjQ4rkBnb"
+    },
+    {
+      "text": "Feeds log and data to manufacturer",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "H7YjFMEaJhBTKN9l",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.H7YjFMEaJhBTKN9l"
+    },
+    {
+      "text": "Tagged and monitored by rogue AI",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "95JnYGcwW2eVkrJo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!drJSk7wxiPWrYr1s.95JnYGcwW2eVkrJo"
+    }
+  ],
+  "folder": "t2WM2uWxU87LUkfM",
+  "sort": 1,
+  "_id": "drJSk7wxiPWrYr1s",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p><strong>The Hackable Assets Roll Table </strong>has been created to enable the unprepared or improvising cyberpunk GM to generate net-linked assets in the PC’s vicinity, quickly and easily, simply by rolling some dice.</p><p></p><p>Roll 4-5 times on the table to tell you the type of systems your players have in their proximity.</p><p>Roll the same number of D10s. e used in different ways; to determine the relative security levels on a scale of 1 (no security) to 10 (killer ICE), as the target inked systems are connected to the first, or how many rounds before a sysadmin notices any spurious activity on their network.</p><p>To ascertain if nearby the system has any quirks or notable features, roll D100 on the @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.drJSk7wxiPWrYr1s]{Bugs In The System} table.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570735149,
+    "modifiedTime": 1699657335317,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!drJSk7wxiPWrYr1s"
+}

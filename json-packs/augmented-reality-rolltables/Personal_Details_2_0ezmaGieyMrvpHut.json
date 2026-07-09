@@ -1,0 +1,777 @@
+{
+  "name": "Personal Details 2",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Controls black tech imports",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "Feie1JKDYSvicZuz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.Feie1JKDYSvicZuz"
+    },
+    {
+      "text": "Bribes the staff of her rivals",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "OLBJGiMaI6WvO6MP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.OLBJGiMaI6WvO6MP"
+    },
+    {
+      "text": "Breeds biogenetic horrors",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "3GXdJzn1WJpP0qXp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.3GXdJzn1WJpP0qXp"
+    },
+    {
+      "text": "Finest art collection in city",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "yzDBp4pxVMGa5jA6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.yzDBp4pxVMGa5jA6"
+    },
+    {
+      "text": "Hoards 'occult' objects",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "A7s4GQCwzgqMbREo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.A7s4GQCwzgqMbREo"
+    },
+    {
+      "text": "Collector of antique technology",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "DCtiOwlkuvZM1x7P",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.DCtiOwlkuvZM1x7P"
+    },
+    {
+      "text": "Owns swathes of farmplexes",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "AsqsaAOPN9dtrYcN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.AsqsaAOPN9dtrYcN"
+    },
+    {
+      "text": "Breeds &amp; trains combat clones",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "dhGoLpAu3ewEZHpr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.dhGoLpAu3ewEZHpr"
+    },
+    {
+      "text": "Owns &amp; operates sex resorts",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "0r4pDRt4Ez1mWai7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.0r4pDRt4Ez1mWai7"
+    },
+    {
+      "text": "Well regarded psychotherapist",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "NodxT6khSkg69ayQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.NodxT6khSkg69ayQ"
+    },
+    {
+      "text": "Security extremely loyal to her",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "Zvt15fvr17ZVKUK7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.Zvt15fvr17ZVKUK7"
+    },
+    {
+      "text": "Owns assemblery districts",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "uOjAT7nbbFE6P9f5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.uOjAT7nbbFE6P9f5"
+    },
+    {
+      "text": "Expert in corporate law",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "5WVHl2bv3Re18VWT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.5WVHl2bv3Re18VWT"
+    },
+    {
+      "text": "Head of International retail",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "kTd1PPNSP0jjue6Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.kTd1PPNSP0jjue6Z"
+    },
+    {
+      "text": "Old money aristocratic family",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "88Wg0NfY8K5mqLO2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.88Wg0NfY8K5mqLO2"
+    },
+    {
+      "text": "Health &amp; Safety executive",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "izLzyMLvXQPbIZF0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.izLzyMLvXQPbIZF0"
+    },
+    {
+      "text": "Exceptionally skilled hacker",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "FsamTZ3hMV7FZwS6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.FsamTZ3hMV7FZwS6"
+    },
+    {
+      "text": "Head of Administration",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "CSfPnVlmVNBaS0Gs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.CSfPnVlmVNBaS0Gs"
+    },
+    {
+      "text": "Head of BioDivision R&amp;D",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "kRRaom2tt6i16zXt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.kRRaom2tt6i16zXt"
+    },
+    {
+      "text": "Media Operations liaison",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "5fMCB0Yrz1k5817d",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.5fMCB0Yrz1k5817d"
+    },
+    {
+      "text": "Monitors company AI stable",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "Se0bVOlYh388LKOE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.Se0bVOlYh388LKOE"
+    },
+    {
+      "text": "Current Chief executive Officer",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "QzXR7hHdoKeQzuDf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.QzXR7hHdoKeQzuDf"
+    },
+    {
+      "text": "Wife; controls access to CEO",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "ffqjgYjF3qeJfKpo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.ffqjgYjF3qeJfKpo"
+    },
+    {
+      "text": "Popular decadent socialite",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "bIzvulugjZIJbRAG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.bIzvulugjZIJbRAG"
+    },
+    {
+      "text": "Famous society tastemaker",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "q71AR3Q2GItptR7U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.q71AR3Q2GItptR7U"
+    },
+    {
+      "text": "Highly cosmetically enhanced",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "McR6AJrHUQl154oW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.McR6AJrHUQl154oW"
+    },
+    {
+      "text": "Importer of pharmaceuticals",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "J52IiYPiLqDpB2yP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.J52IiYPiLqDpB2yP"
+    },
+    {
+      "text": "Employs the finest chefs",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "IDuFWCseHFon8lWz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.IDuFWCseHFon8lWz"
+    },
+    {
+      "text": "Internal Security Director",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "8TTfHG8e3hGgc094",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.8TTfHG8e3hGgc094"
+    },
+    {
+      "text": "Poached from major rival",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "Rw5CYFgH5P39f8o7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.Rw5CYFgH5P39f8o7"
+    },
+    {
+      "text": "Black Operations executive",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "Ei4TQ7BAhkJLh6YA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.Ei4TQ7BAhkJLh6YA"
+    },
+    {
+      "text": "Decorated combat veteran",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "1MV4xO6NJs9PpFtO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.1MV4xO6NJs9PpFtO"
+    },
+    {
+      "text": "Skilled investigator",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "s29uslavlc7Fs8ZV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.s29uslavlc7Fs8ZV"
+    },
+    {
+      "text": "Handsome economist",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "OPHiOgJtKh8a7zCc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.OPHiOgJtKh8a7zCc"
+    },
+    {
+      "text": "Award winning marketeer",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "xgE8yvpSfcdbjQdJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.xgE8yvpSfcdbjQdJ"
+    },
+    {
+      "text": "CEO's Physician",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "mG1ZaXVsra2u1QDQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.mG1ZaXVsra2u1QDQ"
+    },
+    {
+      "text": "Public relations executive",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "JvQ7nH7EL0JYggI7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.JvQ7nH7EL0JYggI7"
+    },
+    {
+      "text": "Human resources executive",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "WDoVpKciZVN9ndlG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.WDoVpKciZVN9ndlG"
+    },
+    {
+      "text": "Company Security operative",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "oZVHvi8AQk2h8q49",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.oZVHvi8AQk2h8q49"
+    },
+    {
+      "text": "Oversees sales divisions",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "DBv4GV1wLEI59Klz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.DBv4GV1wLEI59Klz"
+    },
+    {
+      "text": "Funniest company employee",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "C8aEv6AswzaqmpTn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.C8aEv6AswzaqmpTn"
+    },
+    {
+      "text": "Uniformed Security Manager",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "dKCBMwq0NfZWElTU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.dKCBMwq0NfZWElTU"
+    },
+    {
+      "text": "CEO's Personal Assistant",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "N1yEVtz1yDJsUoMI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.N1yEVtz1yDJsUoMI"
+    },
+    {
+      "text": "Digital Security executive",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "J2qjK3WkWMuIUqsk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.J2qjK3WkWMuIUqsk"
+    },
+    {
+      "text": "Lovely child; society darling",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "bmXOzqv28ifelZhE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.bmXOzqv28ifelZhE"
+    },
+    {
+      "text": "Expert in cybernetic systems",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "EGAvJXwYicPrAFno",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.EGAvJXwYicPrAFno"
+    },
+    {
+      "text": "Undervalued and overlooked",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "AUlTNGfHFEImZQN7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.AUlTNGfHFEImZQN7"
+    },
+    {
+      "text": "Universally feared",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "8kQRxaGkAJBuZ7Ga",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.8kQRxaGkAJBuZ7Ga"
+    },
+    {
+      "text": "Resource management",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "coAfjMpx2Bb3oZXY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.coAfjMpx2Bb3oZXY"
+    },
+    {
+      "text": "Enhanced killer of some renown",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "wzLikVPd0UahUTgM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0ezmaGieyMrvpHut.wzLikVPd0UahUTgM"
+    }
+  ],
+  "folder": "pLxhKVOlJ6EbD5eZ",
+  "sort": 3,
+  "_id": "0ezmaGieyMrvpHut",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Given Name, Family Name, Personal Details 1 &amp; 2, Appearance/Demeanour and Relationship tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570138379,
+    "modifiedTime": 1699868016769,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!0ezmaGieyMrvpHut"
+}

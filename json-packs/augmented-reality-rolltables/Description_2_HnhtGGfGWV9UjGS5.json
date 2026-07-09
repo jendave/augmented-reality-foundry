@@ -1,0 +1,777 @@
+{
+  "name": "Description 2",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Wanted by African union",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "BEeBfnYqVwvTv7tV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.BEeBfnYqVwvTv7tV"
+    },
+    {
+      "text": "Degree educated anarchist",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "xPXUFNa7AQL89JFD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.xPXUFNa7AQL89JFD"
+    },
+    {
+      "text": "Tracking emergent intelligences",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "4gDvQZfvK2ZcfyeV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.4gDvQZfvK2ZcfyeV"
+    },
+    {
+      "text": "Thick accent, security conscious",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "pV804r9k6QKDFfOX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.pV804r9k6QKDFfOX"
+    },
+    {
+      "text": "Never, ever seen in meatspace",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "WifXHcfu64DuAVq4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.WifXHcfu64DuAVq4"
+    },
+    {
+      "text": "Exhausted, caffeine addicted",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "AwCmbiJQuGGQtlOD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.AwCmbiJQuGGQtlOD"
+    },
+    {
+      "text": "Strategic genius, connected",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "VMcBBZoMRYveCaSN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.VMcBBZoMRYveCaSN"
+    },
+    {
+      "text": "Used by collective for his money",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "1pHjHZISMMOMS3Pk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.1pHjHZISMMOMS3Pk"
+    },
+    {
+      "text": "Brilliant cryptographer",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "RUUFUCQbet7Er4Gt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.RUUFUCQbet7Er4Gt"
+    },
+    {
+      "text": "Living black banking node",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "rAvMCp3G41aHGbiQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.rAvMCp3G41aHGbiQ"
+    },
+    {
+      "text": "Wanted by biotech company",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "SpUbqo3uER3fD35Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.SpUbqo3uER3fD35Y"
+    },
+    {
+      "text": "Buys back doors, rents them out",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "IlxcY72zItjpvaZs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.IlxcY72zItjpvaZs"
+    },
+    {
+      "text": "Reroutes courier drones for fixer",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "C3g5KrGYFoPqHYyu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.C3g5KrGYFoPqHYyu"
+    },
+    {
+      "text": "Teleoperates spiderform shells",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "aGoNghm2BFnwIzR3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.aGoNghm2BFnwIzR3"
+    },
+    {
+      "text": "Travels in secure AI-driven car",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "gjMwyRwrWmMHvU9j",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.gjMwyRwrWmMHvU9j"
+    },
+    {
+      "text": "Secreting own 'ghost' across net",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "TNXXT4AUjlxxfWti",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.TNXXT4AUjlxxfWti"
+    },
+    {
+      "text": "Subverts implants for own use",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "32NopJrULnGk6lS1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.32NopJrULnGk6lS1"
+    },
+    {
+      "text": "Superstitious sakawa devotee",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "ZielgD1NtLXNNwIs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.ZielgD1NtLXNNwIs"
+    },
+    {
+      "text": "Situation awareness for solos",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "MynIv6XDbW65mdye",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.MynIv6XDbW65mdye"
+    },
+    {
+      "text": "Several fixers aware of his work",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "hDsiFO8mBqSlkpju",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.hDsiFO8mBqSlkpju"
+    },
+    {
+      "text": "Reconfigures obsolete software",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "B6hHPMhkAyg37jP9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.B6hHPMhkAyg37jP9"
+    },
+    {
+      "text": "Considering finally going legit",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "8iwG7wwoYM9xRupG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.8iwG7wwoYM9xRupG"
+    },
+    {
+      "text": "Sought-after security consultant",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "idpSYrxhnAR0YGyJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.idpSYrxhnAR0YGyJ"
+    },
+    {
+      "text": "Supports rebel insurgency",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "ChHoVuhLpksOjcUd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.ChHoVuhLpksOjcUd"
+    },
+    {
+      "text": "Vindictively alters enemies' IDs",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "mbE6eQl9grf4Li4J",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.mbE6eQl9grf4Li4J"
+    },
+    {
+      "text": "3D printing an army of drones",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "TVpiUonkwKnmurHX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.TVpiUonkwKnmurHX"
+    },
+    {
+      "text": "Successful online drug dealer",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "qJagKzuZIPTxY3xX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.qJagKzuZIPTxY3xX"
+    },
+    {
+      "text": "Telemetric sniper",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "NVgLgwhWk1AWBFX5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.NVgLgwhWk1AWBFX5"
+    },
+    {
+      "text": "Courted by syndicate bosses",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "TofVX0DBiWtffCR1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.TofVX0DBiWtffCR1"
+    },
+    {
+      "text": "Conflict averse by State design",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "D2wkVDKKprQ1s62n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.D2wkVDKKprQ1s62n"
+    },
+    {
+      "text": "Covertly records everything",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "rYpEig5tlE3QhXt7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.rYpEig5tlE3QhXt7"
+    },
+    {
+      "text": "Remote vehicle-jackers",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "AiRdT6ymml0YkCOy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.AiRdT6ymml0YkCOy"
+    },
+    {
+      "text": "Sideline in pirate hunting",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "XQGKbNShYwMRWWTP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.XQGKbNShYwMRWWTP"
+    },
+    {
+      "text": "Stolen Mossad virus adaptation",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "ZfkHJEIs7D5iZLwz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.ZfkHJEIs7D5iZLwz"
+    },
+    {
+      "text": "Infamous node saboteur",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "5l2G6y37ptWoPf2k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.5l2G6y37ptWoPf2k"
+    },
+    {
+      "text": "Virtual cosplayer club president",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "VGHwi39KJ11Ratmu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.VGHwi39KJ11Ratmu"
+    },
+    {
+      "text": "Financing transhuman revolt",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "TFeDeEfk2UGISDIN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.TFeDeEfk2UGISDIN"
+    },
+    {
+      "text": "Sub-par AR 'street artist'",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "3EVhCZaakD60kUl9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.3EVhCZaakD60kUl9"
+    },
+    {
+      "text": "Mines archeosystems for data",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "2BF4ThpmybBvk2GN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.2BF4ThpmybBvk2GN"
+    },
+    {
+      "text": "Engineers violent flash mobs",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "dibas9PHxnFRCV5i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.dibas9PHxnFRCV5i"
+    },
+    {
+      "text": "Lives in decommissioned sub",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "jq8WEJ7ufL16pyNc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.jq8WEJ7ufL16pyNc"
+    },
+    {
+      "text": "Expert MOUT co-ordinator",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "AN7Xhzx7N0dvUk84",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.AN7Xhzx7N0dvUk84"
+    },
+    {
+      "text": "Hostile and deadly black ICE",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "opw0dfV8BOxZJjK9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.opw0dfV8BOxZJjK9"
+    },
+    {
+      "text": "Tagging and tracking homeless",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "YHVrr5VQL17maqfZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.YHVrr5VQL17maqfZ"
+    },
+    {
+      "text": "Recon via subverted appliances",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "yq9YwSOT7vNfhk77",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.yq9YwSOT7vNfhk77"
+    },
+    {
+      "text": "Ghost-hacked by desperate cop",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "PzeWaKPzACoVMhkx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.PzeWaKPzACoVMhkx"
+    },
+    {
+      "text": "Being used by corrupt manager",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "6Cb9qaJioH4Onj3t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.6Cb9qaJioH4Onj3t"
+    },
+    {
+      "text": "Under Turing investigation",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "hJDavseh7SDbjbBb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.hJDavseh7SDbjbBb"
+    },
+    {
+      "text": "Hosts popular VR sex dungeon",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "INAaBsAa7m12ELQv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.INAaBsAa7m12ELQv"
+    },
+    {
+      "text": "Intimately knows the city streets",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "8nc41fSTrRcCcqjL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!HnhtGGfGWV9UjGS5.8nc41fSTrRcCcqjL"
+    }
+  ],
+  "folder": "1BCddB25I3iSV6V4",
+  "sort": 2,
+  "_id": "HnhtGGfGWV9UjGS5",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Name, Description 1, Description 2, Appearance/Demeanour and Relationship tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570757636,
+    "modifiedTime": 1699657491476,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!HnhtGGfGWV9UjGS5"
+}

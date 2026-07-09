@@ -1,0 +1,1527 @@
+{
+  "name": "Company Resources",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Fixer Network",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "7uQYDurObPJZIi4j",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.7uQYDurObPJZIi4j"
+    },
+    {
+      "text": "Bought City Officials",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "MVqa45XStz9I6WI0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.MVqa45XStz9I6WI0"
+    },
+    {
+      "text": "Naive Underlings",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "Ws47cjyo8p51lPDc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.Ws47cjyo8p51lPDc"
+    },
+    {
+      "text": "Foreign Head-Of-State",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "9M3W0LHmbvAjm98S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.9M3W0LHmbvAjm98S"
+    },
+    {
+      "text": "Compromised AI",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "bjqTHzBxsra6Ledq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.bjqTHzBxsra6Ledq"
+    },
+    {
+      "text": "Weaponised Insects",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "lrDjxj71i5oQoGDE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.lrDjxj71i5oQoGDE"
+    },
+    {
+      "text": "Net Smear Campaign",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "ZeTSnQt1cbgbZct6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.ZeTSnQt1cbgbZct6"
+    },
+    {
+      "text": "Dubious Security Team",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "jd7enbLXrpH1Wl2d",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.jd7enbLXrpH1Wl2d"
+    },
+    {
+      "text": "Street Gang Alliance",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "XjMGubmlt0Z3TEGK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.XjMGubmlt0Z3TEGK"
+    },
+    {
+      "text": "Fringe Political Group",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "x4rC4qiI3ZMpryYT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.x4rC4qiI3ZMpryYT"
+    },
+    {
+      "text": "Corporate Ninjas",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "6gFrTgbjqrLF4wCd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.6gFrTgbjqrLF4wCd"
+    },
+    {
+      "text": "Compromised Comms",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "rCua573c795pAO7z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.rCua573c795pAO7z"
+    },
+    {
+      "text": "Mercenary Contractors",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "qobzN8UIo7UyTsfn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.qobzN8UIo7UyTsfn"
+    },
+    {
+      "text": "Surveillance Drones",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "QKRXzayVCcyYsRAL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.QKRXzayVCcyYsRAL"
+    },
+    {
+      "text": "Loyal Law Firm",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "yXovoV75nCxmXOPI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.yXovoV75nCxmXOPI"
+    },
+    {
+      "text": "Duped Actors",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "TFpPW6PBMyy8IT5Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.TFpPW6PBMyy8IT5Y"
+    },
+    {
+      "text": "Independent Hit Team",
+      "range": [
+        17,
+        17
+      ],
+      "_id": "TMqHSDH4Ce8NvaYk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.TMqHSDH4Ce8NvaYk"
+    },
+    {
+      "text": "Whistleblowers",
+      "range": [
+        18,
+        18
+      ],
+      "_id": "RQpMzoPh7Y646HoG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.RQpMzoPh7Y646HoG"
+    },
+    {
+      "text": "Spiderform Cybershells",
+      "range": [
+        19,
+        19
+      ],
+      "_id": "ZN1FDCDkd2kAiXzI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.ZN1FDCDkd2kAiXzI"
+    },
+    {
+      "text": "Son(s) or Daughter(s)",
+      "range": [
+        20,
+        20
+      ],
+      "_id": "puxrvldfA0xMFHKs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.puxrvldfA0xMFHKs"
+    },
+    {
+      "text": "Covert Sales Network",
+      "range": [
+        21,
+        21
+      ],
+      "_id": "egNKz25mwdMc5NVT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.egNKz25mwdMc5NVT"
+    },
+    {
+      "text": "Monitors Computers",
+      "range": [
+        22,
+        22
+      ],
+      "_id": "2pHYtAD4hfuPcp5i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.2pHYtAD4hfuPcp5i"
+    },
+    {
+      "text": "Renowned Assassin",
+      "range": [
+        23,
+        23
+      ],
+      "_id": "xmvGTOUmEDADHaXJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.xmvGTOUmEDADHaXJ"
+    },
+    {
+      "text": "Unwitting Employees",
+      "range": [
+        24,
+        24
+      ],
+      "_id": "LeFlq8Bf7Tc9cDAJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.LeFlq8Bf7Tc9cDAJ"
+    },
+    {
+      "text": "Rival Corporation",
+      "range": [
+        25,
+        25
+      ],
+      "_id": "pdjtt7t1r3mwqKlN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.pdjtt7t1r3mwqKlN"
+    },
+    {
+      "text": "Elite Agents",
+      "range": [
+        26,
+        26
+      ],
+      "_id": "XkjcGBi4NqEYPqJ0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.XkjcGBi4NqEYPqJ0"
+    },
+    {
+      "text": "Foreign Strike Team",
+      "range": [
+        27,
+        27
+      ],
+      "_id": "J322yeqwBTNoRuDg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.J322yeqwBTNoRuDg"
+    },
+    {
+      "text": "Pharmaceutical Company",
+      "range": [
+        28,
+        28
+      ],
+      "_id": "W28dtjmZ1AvDSK9Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.W28dtjmZ1AvDSK9Z"
+    },
+    {
+      "text": "Army Of Own Clones",
+      "range": [
+        29,
+        29
+      ],
+      "_id": "44FZF4xvmITF4FWW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.44FZF4xvmITF4FWW"
+    },
+    {
+      "text": "Bioweapons Division",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "ew7YIp5Di7k1adGS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.ew7YIp5Di7k1adGS"
+    },
+    {
+      "text": "Arms Dealers",
+      "range": [
+        31,
+        31
+      ],
+      "_id": "2d2ngIx76NYHZ948",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.2d2ngIx76NYHZ948"
+    },
+    {
+      "text": "Petty Executive",
+      "range": [
+        32,
+        32
+      ],
+      "_id": "JOLqdVf0WZXY6ThV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.JOLqdVf0WZXY6ThV"
+    },
+    {
+      "text": "Implanted Explosives",
+      "range": [
+        33,
+        33
+      ],
+      "_id": "c7hhRLWck2dd23AC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.c7hhRLWck2dd23AC"
+    },
+    {
+      "text": "Support Of CEO",
+      "range": [
+        34,
+        34
+      ],
+      "_id": "Ou7vkGajNsLuueSB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.Ou7vkGajNsLuueSB"
+    },
+    {
+      "text": "Sympathetic Media",
+      "range": [
+        35,
+        35
+      ],
+      "_id": "KuOpOy1ufLQLqPPj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.KuOpOy1ufLQLqPPj"
+    },
+    {
+      "text": "Weaponised Homeless",
+      "range": [
+        36,
+        36
+      ],
+      "_id": "EDjRD3jhnR4CPKND",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.EDjRD3jhnR4CPKND"
+    },
+    {
+      "text": "Soulless Cyborg",
+      "range": [
+        37,
+        37
+      ],
+      "_id": "t2lfzK6hGddMDef7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.t2lfzK6hGddMDef7"
+    },
+    {
+      "text": "Aggressive Hacker",
+      "range": [
+        38,
+        38
+      ],
+      "_id": "52FiYN88JYludGtb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.52FiYN88JYludGtb"
+    },
+    {
+      "text": "Conned Legislators",
+      "range": [
+        39,
+        39
+      ],
+      "_id": "inNIqqWqNqN0Iq5L",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.inNIqqWqNqN0Iq5L"
+    },
+    {
+      "text": "Their Own Lover(s)",
+      "range": [
+        40,
+        40
+      ],
+      "_id": "wVytE3jICtK2MpO7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.wVytE3jICtK2MpO7"
+    },
+    {
+      "text": "Company Audit Team",
+      "range": [
+        41,
+        41
+      ],
+      "_id": "wIVy7BbxNHMFFa7H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.wIVy7BbxNHMFFa7H"
+    },
+    {
+      "text": "Designer Toxins",
+      "range": [
+        42,
+        42
+      ],
+      "_id": "PO4GFW0oPkbvSBjN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.PO4GFW0oPkbvSBjN"
+    },
+    {
+      "text": "Sex Synthetics",
+      "range": [
+        43,
+        43
+      ],
+      "_id": "yPP7yVydKsNegLj1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.yPP7yVydKsNegLj1"
+    },
+    {
+      "text": "Clueless Scientists",
+      "range": [
+        44,
+        44
+      ],
+      "_id": "gnwx0yjL4HysQHQg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.gnwx0yjL4HysQHQg"
+    },
+    {
+      "text": "Seconded Security Team",
+      "range": [
+        45,
+        45
+      ],
+      "_id": "8GOOIT2elo4GhdSr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.8GOOIT2elo4GhdSr"
+    },
+    {
+      "text": "Mafia Money",
+      "range": [
+        46,
+        46
+      ],
+      "_id": "qihH5LNbmEKTaOai",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.qihH5LNbmEKTaOai"
+    },
+    {
+      "text": "People Traffickers",
+      "range": [
+        47,
+        47
+      ],
+      "_id": "kxDrvfj7jOUUei7M",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.kxDrvfj7jOUUei7M"
+    },
+    {
+      "text": "Memetic Warfare Team",
+      "range": [
+        48,
+        48
+      ],
+      "_id": "hmGrYIBoGZCnEvDg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.hmGrYIBoGZCnEvDg"
+    },
+    {
+      "text": "Augmented Animals",
+      "range": [
+        49,
+        49
+      ],
+      "_id": "h0Y1xTCps76C8oum",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.h0Y1xTCps76C8oum"
+    },
+    {
+      "text": "Combat Economists",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "8Kq3ObCgfi8gxuCe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.8Kq3ObCgfi8gxuCe"
+    },
+    {
+      "text": "Ambitious Courtiers",
+      "range": [
+        51,
+        51
+      ],
+      "_id": "Fz8oY4LJXVezfBUm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.Fz8oY4LJXVezfBUm"
+    },
+    {
+      "text": "R&amp;D Nanoweapons",
+      "range": [
+        52,
+        52
+      ],
+      "_id": "nt3o4yZDuoaSggN1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.nt3o4yZDuoaSggN1"
+    },
+    {
+      "text": "City Law Enforcers",
+      "range": [
+        53,
+        53
+      ],
+      "_id": "qUUE3cJ8O4D9FLWD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.qUUE3cJ8O4D9FLWD"
+    },
+    {
+      "text": "Company's Black Ops",
+      "range": [
+        54,
+        54
+      ],
+      "_id": "ARxjhiouvxE3JWcC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.ARxjhiouvxE3JWcC"
+    },
+    {
+      "text": "Autonomous Software",
+      "range": [
+        55,
+        55
+      ],
+      "_id": "kG9lhWHRJJrjlY0S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.kG9lhWHRJJrjlY0S"
+    },
+    {
+      "text": "Adulterated Chipware",
+      "range": [
+        56,
+        56
+      ],
+      "_id": "8VUCTdkTln2BwAqK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.8VUCTdkTln2BwAqK"
+    },
+    {
+      "text": "Displaced War Veterans",
+      "range": [
+        57,
+        57
+      ],
+      "_id": "TjtzYA1EprIh9WK9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.TjtzYA1EprIh9WK9"
+    },
+    {
+      "text": "Unethical Medtechs",
+      "range": [
+        58,
+        58
+      ],
+      "_id": "mBLY8vljC2OceJxf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.mBLY8vljC2OceJxf"
+    },
+    {
+      "text": "Hacking Collective",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "NbRgTm6M6eX618Vz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.NbRgTm6M6eX618Vz"
+    },
+    {
+      "text": "Celebrity Stable",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "sjPbocFbKTjUmbjv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.sjPbocFbKTjUmbjv"
+    },
+    {
+      "text": "Criminal Syndicate",
+      "range": [
+        61,
+        61
+      ],
+      "_id": "ZafI09lOswClyW60",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.ZafI09lOswClyW60"
+    },
+    {
+      "text": "Junkie Relative",
+      "range": [
+        62,
+        62
+      ],
+      "_id": "aQpasyyL5oeGEpog",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.aQpasyyL5oeGEpog"
+    },
+    {
+      "text": "Hazardous Virtuals",
+      "range": [
+        63,
+        63
+      ],
+      "_id": "UQ0rbTJvT5Xjmbq0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.UQ0rbTJvT5Xjmbq0"
+    },
+    {
+      "text": "Internal Investigators",
+      "range": [
+        64,
+        64
+      ],
+      "_id": "lTpm8erIqPqro2oC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.lTpm8erIqPqro2oC"
+    },
+    {
+      "text": "Controlling Drug Supply",
+      "range": [
+        65,
+        65
+      ],
+      "_id": "ze0UQOyJaLtG4enN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.ze0UQOyJaLtG4enN"
+    },
+    {
+      "text": "Social Warfare",
+      "range": [
+        66,
+        66
+      ],
+      "_id": "R7HnkCicqxWsmpML",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.R7HnkCicqxWsmpML"
+    },
+    {
+      "text": "Intimate Personal Data",
+      "range": [
+        67,
+        67
+      ],
+      "_id": "0TN7JWBWTfeaQtZR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.0TN7JWBWTfeaQtZR"
+    },
+    {
+      "text": "Army Of Drug Dealers",
+      "range": [
+        68,
+        68
+      ],
+      "_id": "77rLLWr65eR4v2iA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.77rLLWr65eR4v2iA"
+    },
+    {
+      "text": "Reassigned Agents",
+      "range": [
+        69,
+        69
+      ],
+      "_id": "DtEldNfakckYMKDM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.DtEldNfakckYMKDM"
+    },
+    {
+      "text": "Ripperdoc Network",
+      "range": [
+        70,
+        70
+      ],
+      "_id": "oUTSSZRgA9DgFoos",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.oUTSSZRgA9DgFoos"
+    },
+    {
+      "text": "Private Bodyguards",
+      "range": [
+        71,
+        71
+      ],
+      "_id": "bmpWv0gQFPI8eLza",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.bmpWv0gQFPI8eLza"
+    },
+    {
+      "text": "Own Family Fortune",
+      "range": [
+        72,
+        72
+      ],
+      "_id": "RAKw4tXUJV0gc2tH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.RAKw4tXUJV0gc2tH"
+    },
+    {
+      "text": "Tracking Nanites",
+      "range": [
+        73,
+        73
+      ],
+      "_id": "yGqcVidBJ8qnab1i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.yGqcVidBJ8qnab1i"
+    },
+    {
+      "text": "Simstim Users",
+      "range": [
+        74,
+        74
+      ],
+      "_id": "Is3INAAUYfYZ1SE3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.Is3INAAUYfYZ1SE3"
+    },
+    {
+      "text": "Image Consultants",
+      "range": [
+        75,
+        75
+      ],
+      "_id": "yNjYgicMT3OxIHHq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.yNjYgicMT3OxIHHq"
+    },
+    {
+      "text": "Private Investigators",
+      "range": [
+        76,
+        76
+      ],
+      "_id": "hBuTNvIMCqxlM6Z6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.hBuTNvIMCqxlM6Z6"
+    },
+    {
+      "text": "AI System Designer",
+      "range": [
+        77,
+        77
+      ],
+      "_id": "8gWSEGUSJ10t4CQp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.8gWSEGUSJ10t4CQp"
+    },
+    {
+      "text": "Child Assassin",
+      "range": [
+        78,
+        78
+      ],
+      "_id": "a7R1ISK5us2edXgd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.a7R1ISK5us2edXgd"
+    },
+    {
+      "text": "Propagandists",
+      "range": [
+        79,
+        79
+      ],
+      "_id": "DMWZlE6VprnwXPqe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.DMWZlE6VprnwXPqe"
+    },
+    {
+      "text": "Blackmailed Hackers",
+      "range": [
+        80,
+        80
+      ],
+      "_id": "ZfmYpEVypIVJt6Wg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.ZfmYpEVypIVJt6Wg"
+    },
+    {
+      "text": "PR Consultants",
+      "range": [
+        81,
+        81
+      ],
+      "_id": "yDwpqGG7bdoKCsoy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.yDwpqGG7bdoKCsoy"
+    },
+    {
+      "text": "Desperate Employees",
+      "range": [
+        82,
+        82
+      ],
+      "_id": "SO4Y7aVoGEfgKzhz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.SO4Y7aVoGEfgKzhz"
+    },
+    {
+      "text": "Federal Investigators",
+      "range": [
+        83,
+        83
+      ],
+      "_id": "zyW7JZZQC7HiLmxU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.zyW7JZZQC7HiLmxU"
+    },
+    {
+      "text": "Religious Group",
+      "range": [
+        84,
+        84
+      ],
+      "_id": "MUNwdupy4xmjGOFK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.MUNwdupy4xmjGOFK"
+    },
+    {
+      "text": "Synthetic Commandos",
+      "range": [
+        85,
+        85
+      ],
+      "_id": "md6VMCXahqt9EZDi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.md6VMCXahqt9EZDi"
+    },
+    {
+      "text": "Corrupt Accountants",
+      "range": [
+        86,
+        86
+      ],
+      "_id": "W46HdJPuGMvZO5MJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.W46HdJPuGMvZO5MJ"
+    },
+    {
+      "text": "Deceived Online Fans",
+      "range": [
+        87,
+        87
+      ],
+      "_id": "3DGYftatgVCVfTh2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.3DGYftatgVCVfTh2"
+    },
+    {
+      "text": "Compromised Implants",
+      "range": [
+        88,
+        88
+      ],
+      "_id": "SvZIbVbiuNcrgOto",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.SvZIbVbiuNcrgOto"
+    },
+    {
+      "text": "Seductive Concubine",
+      "range": [
+        89,
+        89
+      ],
+      "_id": "bYHtHcIgVFSexIC6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.bYHtHcIgVFSexIC6"
+    },
+    {
+      "text": "Covert Vehicle Pool",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "OGoES3tyl6M4DXfh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.OGoES3tyl6M4DXfh"
+    },
+    {
+      "text": "Offworld Accounts",
+      "range": [
+        91,
+        91
+      ],
+      "_id": "mPioXVrYhgBsHCiT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.mPioXVrYhgBsHCiT"
+    },
+    {
+      "text": "Hunter-Killer Drones",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "lo4aO0ZoZQ2WUyLe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.lo4aO0ZoZQ2WUyLe"
+    },
+    {
+      "text": "Elite Programmers",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "RX9pmwDr22eN7Dr9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.RX9pmwDr22eN7Dr9"
+    },
+    {
+      "text": "Intelligence Agency",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "bWTqD4CQlXZuZDQ8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.bWTqD4CQlXZuZDQ8"
+    },
+    {
+      "text": "Cheap Gunmen",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "7thbLDfCPuCWVZ2o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.7thbLDfCPuCWVZ2o"
+    },
+    {
+      "text": "Unstable Remotes",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "Y2FDNvZgdCqiNqVk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.Y2FDNvZgdCqiNqVk"
+    },
+    {
+      "text": "Creative Techies",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "aJFf2qadv6WOylcB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.aJFf2qadv6WOylcB"
+    },
+    {
+      "text": "Private Laboratory",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "IHqWgGEydUNstXeJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.IHqWgGEydUNstXeJ"
+    },
+    {
+      "text": "Deceived Rival",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "tjKOIBd4NVVAMepR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.tjKOIBd4NVVAMepR"
+    },
+    {
+      "text": "Roll Twice",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "EdrNIC7KE2EHwBRc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.EdrNIC7KE2EHwBRc"
+    }
+  ],
+  "folder": "HXvV7kpdcaIxfbLJ",
+  "sort": 1,
+  "_id": "hbthYW5J71rGmV0M",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Company Resources is a simple D100 table designed to compliment the Boardroom Manoeuvres table, adding information regarding the sorts of unconventional tools a corporate aristocrat can bring to the table, to get the job done. It is up to the GM to rationalise (or re-roll) unusual results.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570159205,
+    "modifiedTime": 1699652625680,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!hbthYW5J71rGmV0M"
+}

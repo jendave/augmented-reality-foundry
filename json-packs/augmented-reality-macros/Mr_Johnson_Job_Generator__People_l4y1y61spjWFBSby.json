@@ -1,0 +1,27 @@
+{
+  "name": "Mr Johnson Job Generator: People",
+  "type": "script",
+  "_id": "l4y1y61spjWFBSby",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let rollTablesUUIDPrefix = \"Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.\";\n\n    let title = \"<h3>Mr Johnson Job Generator: People</h3>\";\n\n    const clientTable = await fromUuid(rollTablesUUIDPrefix + \"KVM2GMLxeentUEig\");\n    let clientRoll = await clientTable.roll();\n    let client = clientRoll.results[0].text;\n\n    const wantTable = await fromUuid(rollTablesUUIDPrefix + \"EAK1aAUVaQdfLZaT\");\n    let wantRoll = await wantTable.roll();\n    let want = wantRoll.results[0].text;\n\n    const actionTable = await fromUuid(rollTablesUUIDPrefix + \"xJNkSu1KXPiQ2GoG\");\n    let actionRoll = await actionTable.roll();\n    let action = actionRoll.results[0].text;\n\n    const targetPersonTable = await fromUuid(rollTablesUUIDPrefix + \"O7bwZWfLVwPkIeA3\");\n    let targetPersonRoll = await targetPersonTable.roll();\n    let targetPerson = targetPersonRoll.results[0].text;\n\n    let message = \"Client: \" + client + \"<br>\";\n    message += \"Want: \" + want + \"<br>\";\n    message += \"Action: \" + action + \"<br>\";\n    message += \"Target Person: \" + targetPerson + \"<br>\";\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.329",
+    "createdTime": 1699930176152,
+    "modifiedTime": 1721407374415,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!macros!l4y1y61spjWFBSby"
+}

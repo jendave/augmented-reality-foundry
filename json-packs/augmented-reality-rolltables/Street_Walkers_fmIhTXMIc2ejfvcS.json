@@ -1,0 +1,19 @@
+{
+  "name": "Street Walkers",
+  "type": "RollTable",
+  "sorting": "a",
+  "_id": "fmIhTXMIc2ejfvcS",
+  "folder": "PJ13sgjYXQ6oOjh8",
+  "sort": 200000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570112405,
+    "modifiedTime": 1699652157535,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "color": null,
+  "_key": "!folders!fmIhTXMIc2ejfvcS"
+}

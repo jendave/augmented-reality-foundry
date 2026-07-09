@@ -1,0 +1,19 @@
+{
+  "name": "Games Corporates Play",
+  "type": "RollTable",
+  "sorting": "a",
+  "_id": "HXvV7kpdcaIxfbLJ",
+  "folder": null,
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570159080,
+    "modifiedTime": 1699650900540,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "color": null,
+  "_key": "!folders!HXvV7kpdcaIxfbLJ"
+}

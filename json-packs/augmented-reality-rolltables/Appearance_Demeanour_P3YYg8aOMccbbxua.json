@@ -1,0 +1,777 @@
+{
+  "name": "Appearance/Demeanour",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Big, black, worn leather duster, irritable",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "XssYm809HHSqz8Rw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.XssYm809HHSqz8Rw"
+    },
+    {
+      "text": "Sadistic, tattooed smart-armour link points",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "hKWHxmQavb9CzG4Q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.hKWHxmQavb9CzG4Q"
+    },
+    {
+      "text": "Full body cyborg, crudely sprayed pink",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "nrErWXob1SXSkTyJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.nrErWXob1SXSkTyJ"
+    },
+    {
+      "text": "Likeable pothead, buff, always wears black",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "Xfp3pj233HS7sGIV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.Xfp3pj233HS7sGIV"
+    },
+    {
+      "text": "Chips different personalities, sharp suits",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "7sBpsE4P14GEvCpv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.7sBpsE4P14GEvCpv"
+    },
+    {
+      "text": "Suited, armour skin, afraid of dark, IR eyes",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "2qo6YCRZ4etV3hU7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.2qo6YCRZ4etV3hU7"
+    },
+    {
+      "text": "Quiff, beard, tattoo sleeves, ear spacers",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "KXWX1SIK3JEcGK3S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.KXWX1SIK3JEcGK3S"
+    },
+    {
+      "text": "Wears purple, plays sax, mood swings",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "8SvKGdTH9WzKEeXQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.8SvKGdTH9WzKEeXQ"
+    },
+    {
+      "text": "Pragmatic, funny, wears black duster",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "kWo6IrZuloVpUbJx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.kWo6IrZuloVpUbJx"
+    },
+    {
+      "text": "Hobo-chic, beanie hat, beard, tenacious",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "76QnFdm8YPklBHUM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.76QnFdm8YPklBHUM"
+    },
+    {
+      "text": "Bleached spikes, wraparounds, agitated",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "gkh0NfydaFqMIbyJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.gkh0NfydaFqMIbyJ"
+    },
+    {
+      "text": "Brushed aluminium body armour, focussed",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "nP0QPC6Ma5kyzAsp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.nP0QPC6Ma5kyzAsp"
+    },
+    {
+      "text": "Sensitive to strong smells, heavy armour",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "tm2I26fyHKteXQNL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.tm2I26fyHKteXQNL"
+    },
+    {
+      "text": "Teen, skinny jeans, army boots, hoodies",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "TFBZC2v2uA3ulkjQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.TFBZC2v2uA3ulkjQ"
+    },
+    {
+      "text": "Outmoded implants, retro-70s fashion",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "5mneYnentGxQx5rz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.5mneYnentGxQx5rz"
+    },
+    {
+      "text": "Daddy issues, wears figure-hugging black",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "EfgHhRes1pUwtlgD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.EfgHhRes1pUwtlgD"
+    },
+    {
+      "text": "Distracted, fantasist, wears black denim",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "i8FVwhX6eO2zPTuE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.i8FVwhX6eO2zPTuE"
+    },
+    {
+      "text": "Motocross leathers, cyberbike, feminist",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "Tez1E5gFYE1sqTOW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.Tez1E5gFYE1sqTOW"
+    },
+    {
+      "text": "Grey camo armour vest, always angry",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "ePEJQ0wdWD4bFYKv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.ePEJQ0wdWD4bFYKv"
+    },
+    {
+      "text": "Lithe West Indian, faint hex-pattern on skin",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "BTHWNeH63LyWR3QO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.BTHWNeH63LyWR3QO"
+    },
+    {
+      "text": "Scarred, dented, guarded, loose jumpsuit",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "gE47kADPsR8jVG5a",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.gE47kADPsR8jVG5a"
+    },
+    {
+      "text": "Cynical, risk taker, sickly, wears layers",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "VA9VU6Y6H53FhOUF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.VA9VU6Y6H53FhOUF"
+    },
+    {
+      "text": "Theatrical, serious, black Ts, shades",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "S7fDMANfk2DKvC2b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.S7fDMANfk2DKvC2b"
+    },
+    {
+      "text": "Wheezing, scarred, sportswear, gold chains",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "qkCnXBfGEVeKbyBE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.qkCnXBfGEVeKbyBE"
+    },
+    {
+      "text": "Vicious, VR-trained clone, tight leathers",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "cb1VlKQgnJYprAey",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.cb1VlKQgnJYprAey"
+    },
+    {
+      "text": "Bald, goatee, utility vest, superstitious",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "505nbX2YsKJZS4M0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.505nbX2YsKJZS4M0"
+    },
+    {
+      "text": "Slim cyborg, conservative, chaste, classy",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "D7NsfS2KOHQ03ZOA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.D7NsfS2KOHQ03ZOA"
+    },
+    {
+      "text": "Red leather jacket, corn rows, obsessive",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "r4PXUl57H7eTpQVl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.r4PXUl57H7eTpQVl"
+    },
+    {
+      "text": "Athletic, hijab, full mirrored smart-visor",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "tAKWq84TJaduVBRz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.tAKWq84TJaduVBRz"
+    },
+    {
+      "text": "Short mohawk, long coat, trusting",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "65XJJCSjNjDNv9ug",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.65XJJCSjNjDNv9ug"
+    },
+    {
+      "text": "Insanely ruthless, stylish, hunted",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "8ySRFyx98Ng2oStA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.8ySRFyx98Ng2oStA"
+    },
+    {
+      "text": "Defensive, literal, squat, padded jackets",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "lXxBDalxUmXUJAAg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.lXxBDalxUmXUJAAg"
+    },
+    {
+      "text": "Furtive, physically fit, chic, intimidating",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "h4ZQZCtsyZhAaXIi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.h4ZQZCtsyZhAaXIi"
+    },
+    {
+      "text": "Sloppy, unprofessional, cheap casuals",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "aO572sPQgRQPyBJV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.aO572sPQgRQPyBJV"
+    },
+    {
+      "text": "Hen pecked, camos, buzz cut, rational",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "rKnIXM9oblr35mUg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.rKnIXM9oblr35mUg"
+    },
+    {
+      "text": "Callous, irrational, needy, loose clothes",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "oU0fPNmHFUw8BGbX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.oU0fPNmHFUw8BGbX"
+    },
+    {
+      "text": "Wirey, short, girlish, harajuku style, tired",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "jrDTP8YVCKUGCZYC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.jrDTP8YVCKUGCZYC"
+    },
+    {
+      "text": "Uneducated, easily manipulated, tagged",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "kMJWBANFFEJBTRy1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.kMJWBANFFEJBTRy1"
+    },
+    {
+      "text": "Super-model looks, cat like grace, cold",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "eVhq3h04GSyzeuqe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.eVhq3h04GSyzeuqe"
+    },
+    {
+      "text": "Shaved head, fame seeker, baggy combats",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "spVf0sjlmk4hDQFN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.spVf0sjlmk4hDQFN"
+    },
+    {
+      "text": "Designer stubble, camo armoured jacket",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "XiiHbapDa3xcCVbq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.XiiHbapDa3xcCVbq"
+    },
+    {
+      "text": "Muscular, tall, casuals, do-rags",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "owI0n2ucpMkkBjHD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.owI0n2ucpMkkBjHD"
+    },
+    {
+      "text": "Self absorbed, baggy flight suits, sneakers",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "mzTx700R7bdmk4DK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.mzTx700R7bdmk4DK"
+    },
+    {
+      "text": "Biker jacket, fingerless gloves, prude",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "s40qJTUg77rBKYrv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.s40qJTUg77rBKYrv"
+    },
+    {
+      "text": "Well groomed, expensive clothes, open",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "wyASB6nbwzqopFvH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.wyASB6nbwzqopFvH"
+    },
+    {
+      "text": "Plaid flannel, denim, cracked brown leather",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "bwz9ldhMDHBBD2qT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.bwz9ldhMDHBBD2qT"
+    },
+    {
+      "text": "Long, lank, black hair, chrome eyes, gaunt",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "yA4eee9YB5qY9loP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.yA4eee9YB5qY9loP"
+    },
+    {
+      "text": "Effeminate, black silks, raincoat, quick",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "UO5oi0fyl517g7zn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.UO5oi0fyl517g7zn"
+    },
+    {
+      "text": "Carries photos, depressed, bulky flak vest",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "VHWBrRBxWufjWJyk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.VHWBrRBxWufjWJyk"
+    },
+    {
+      "text": "Gum chewer, olive drab armour, moustache",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "3sfnoB2GJ1ZGvBME",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P3YYg8aOMccbbxua.3sfnoB2GJ1ZGvBME"
+    }
+  ],
+  "folder": "zSEl74tKMvfweqFo",
+  "sort": 3,
+  "_id": "P3YYg8aOMccbbxua",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on the Name, Description, Weapon, Appearance/Demeanour and Relationship tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570449284,
+    "modifiedTime": 1700004547072,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!P3YYg8aOMccbbxua"
+}

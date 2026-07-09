@@ -1,0 +1,19 @@
+{
+  "name": "Fixers & Facemen",
+  "type": "RollTable",
+  "sorting": "a",
+  "_id": "VL5EsatfIFO9X12s",
+  "folder": null,
+  "sort": 1100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570257661,
+    "modifiedTime": 1699650925477,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "color": null,
+  "_key": "!folders!VL5EsatfIFO9X12s"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Strange Encounters",
+  "type": "RollTable",
+  "sorting": "a",
+  "_id": "QMBGISks0IJtfhTP",
+  "folder": null,
+  "sort": 2600000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570551264,
+    "modifiedTime": 1699651005760,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "color": null,
+  "_key": "!folders!QMBGISks0IJtfhTP"
+}

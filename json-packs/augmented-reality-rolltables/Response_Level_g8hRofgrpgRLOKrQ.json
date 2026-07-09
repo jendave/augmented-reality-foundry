@@ -1,0 +1,69 @@
+{
+  "name": "Response Level",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "There are enough officers and support present to handle the current situation",
+      "range": [
+        1,
+        6
+      ],
+      "_id": "RMOEUDOLuzKAES2P",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!g8hRofgrpgRLOKrQ.RMOEUDOLuzKAES2P"
+    },
+    {
+      "text": "Looks like they've bitten off more than they can chew, requesting support",
+      "range": [
+        7,
+        9
+      ],
+      "_id": "wYKGaVXCBT1oy4F7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!g8hRofgrpgRLOKrQ.wYKGaVXCBT1oy4F7"
+    },
+    {
+      "text": "The officers are way out of their depth, pinned down, need immediate back up",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "lfmnNCZVg652GRHG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!g8hRofgrpgRLOKrQ.lfmnNCZVg652GRHG"
+    }
+  ],
+  "folder": "fjFPpeu1ppaCPoef",
+  "sort": 2,
+  "_id": "g8hRofgrpgRLOKrQ",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570234025,
+    "modifiedTime": 1699570980812,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!g8hRofgrpgRLOKrQ"
+}

@@ -1,0 +1,167 @@
+{
+  "name": "NPCs",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Gang leader/Boss",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "yiCag8rFujPVuFJQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!C9SrIr6bFoZbd6Cd.yiCag8rFujPVuFJQ"
+    },
+    {
+      "text": "Gang elder",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "q8XDtgG29qB3YOF2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!C9SrIr6bFoZbd6Cd.q8XDtgG29qB3YOF2"
+    },
+    {
+      "text": "Gang Juve/Noob",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "x6dqhf5zAqkBJJzF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!C9SrIr6bFoZbd6Cd.x6dqhf5zAqkBJJzF"
+    },
+    {
+      "text": "Gang Champion",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "CeMQgZFvhqEig6fc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!C9SrIr6bFoZbd6Cd.CeMQgZFvhqEig6fc"
+    },
+    {
+      "text": "Gang Scout",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "AnqtRPkuxGX3QRa4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!C9SrIr6bFoZbd6Cd.AnqtRPkuxGX3QRa4"
+    },
+    {
+      "text": "Gang leader's Main Squeeze",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "U4nV7oAXVEj33rWS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!C9SrIr6bFoZbd6Cd.U4nV7oAXVEj33rWS"
+    },
+    {
+      "text": "Gang leader's leftenant",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "6fYgoFojiyd3Q2k0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!C9SrIr6bFoZbd6Cd.6fYgoFojiyd3Q2k0"
+    },
+    {
+      "text": "Gang leader's Main rival In Gang",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "Fg7AjBAKL0wZuvRp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!C9SrIr6bFoZbd6Cd.Fg7AjBAKL0wZuvRp"
+    },
+    {
+      "text": "Gang's loose Cannon",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "9Wr73YQWU14t70yB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!C9SrIr6bFoZbd6Cd.9Wr73YQWU14t70yB"
+    },
+    {
+      "text": "Gang expert (steers gang's main biz)",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "arzJSfCk3rvTeKb2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!C9SrIr6bFoZbd6Cd.arzJSfCk3rvTeKb2"
+    }
+  ],
+  "folder": "bu0FFK50ADkENUnp",
+  "sort": 0,
+  "_id": "C9SrIr6bFoZbd6Cd",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570204206,
+    "modifiedTime": 1699570998742,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!C9SrIr6bFoZbd6Cd"
+}

@@ -1,0 +1,177 @@
+{
+  "name": "Unusual Feature",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Hydroponics",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "Q02YkUVHRFa1E0eu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!deB5R3etgC8F0RIH.Q02YkUVHRFa1E0eu"
+    },
+    {
+      "text": "Scavenged Furniture",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "tG9nREN3HrsuDvyW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!deB5R3etgC8F0RIH.tG9nREN3HrsuDvyW"
+    },
+    {
+      "text": "Holograms",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "Nm8UpTggU33lVlTK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!deB5R3etgC8F0RIH.Nm8UpTggU33lVlTK"
+    },
+    {
+      "text": "Monochromatic",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "bSlNH8cQDkK0HpIL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!deB5R3etgC8F0RIH.bSlNH8cQDkK0HpIL"
+    },
+    {
+      "text": "Artificial Plants",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "0RwIUbE5ud6wmmTW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!deB5R3etgC8F0RIH.0RwIUbE5ud6wmmTW"
+    },
+    {
+      "text": "Strange Acoustics",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "NxmKqhNtdahrBdbo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!deB5R3etgC8F0RIH.NxmKqhNtdahrBdbo"
+    },
+    {
+      "text": "Weird Smell (See @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.iWLStgXfVtgeHzIK]{Smells})",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "MhgcQY5KmFGTPMzb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!deB5R3etgC8F0RIH.MhgcQY5KmFGTPMzb"
+    },
+    {
+      "text": "Remote Assistants",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "29xhYrAniJLg0eBz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!deB5R3etgC8F0RIH.29xhYrAniJLg0eBz"
+    },
+    {
+      "text": "Legacy Tech (See @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.wvQIsXsFCDUZzy1N]{Legacy Data})",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "23AsDV4eQRXn3F9m",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!deB5R3etgC8F0RIH.23AsDV4eQRXn3F9m"
+    },
+    {
+      "text": "Exotic Pet",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "kotoY8QIxnwNz0io",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!deB5R3etgC8F0RIH.kotoY8QIxnwNz0io"
+    }
+  ],
+  "folder": "Zv2ehUmeOm2R0BF0",
+  "sort": 2,
+  "_id": "deB5R3etgC8F0RIH",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Style, State, Unusual Feature and Secret Roll Tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569655402,
+    "modifiedTime": 1699638536845,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!deB5R3etgC8F0RIH"
+}

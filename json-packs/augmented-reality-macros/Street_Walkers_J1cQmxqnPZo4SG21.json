@@ -1,0 +1,27 @@
+{
+  "name": "Street Walkers",
+  "type": "script",
+  "_id": "J1cQmxqnPZo4SG21",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let rollTablesUUIDPrefix = \"Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.\";\n\n    let title = \"<h3>Street Walkers</h3>\";\n\n    const sexWorkersTable = await fromUuid(rollTablesUUIDPrefix + \"bjY4AYUxwYsGuwFS\");\n    let sexWorkersRoll = await sexWorkersTable.roll();\n    let sexWorkers = sexWorkersRoll.results[0].text;\n\n    const identifiesAsTable = await fromUuid(rollTablesUUIDPrefix + \"NshU4fj9cVCdpbEZ\");\n    let identifiesAsRoll = await identifiesAsTable.roll();\n    let identifiesAs = identifiesAsRoll.results[0].text;\n\n    let message = \"Sex Workers: \" + sexWorkers + \"<br>\";\n    message += \"Identifies As: \" + identifiesAs + \"<br>\";\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.329",
+    "createdTime": 1699867328640,
+    "modifiedTime": 1721407416457,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!macros!J1cQmxqnPZo4SG21"
+}

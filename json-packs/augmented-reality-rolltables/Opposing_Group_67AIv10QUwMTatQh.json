@@ -1,0 +1,167 @@
+{
+  "name": "Opposing Group",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Media Web",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "a9BM7iR6e25Uitp9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!67AIv10QUwMTatQh.a9BM7iR6e25Uitp9"
+    },
+    {
+      "text": "Indentured Workers",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "qKyJO4ntC3NSaYEx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!67AIv10QUwMTatQh.qKyJO4ntC3NSaYEx"
+    },
+    {
+      "text": "Transient Clan",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "Q9B8IGTosM7tcrth",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!67AIv10QUwMTatQh.Q9B8IGTosM7tcrth"
+    },
+    {
+      "text": "Drug Dealers",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "ppleNS9Rb9XPOWlz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!67AIv10QUwMTatQh.ppleNS9Rb9XPOWlz"
+    },
+    {
+      "text": "Criminal Syndicate",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "xONrOmVacK2en7EY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!67AIv10QUwMTatQh.xONrOmVacK2en7EY"
+    },
+    {
+      "text": "Solo Condotta/PMC (see Guns For Hire)",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "uWHKN1xmAq6LaK9m",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!67AIv10QUwMTatQh.uWHKN1xmAq6LaK9m"
+    },
+    {
+      "text": "Netrunner Collective (see Hackers &amp; Slicers)",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "4AzR5FpMmoXRNExT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!67AIv10QUwMTatQh.4AzR5FpMmoXRNExT"
+    },
+    {
+      "text": "Fixer Network (see Fixers &amp; Facemen)",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "h7AhSIFBjodBnKtY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!67AIv10QUwMTatQh.h7AhSIFBjodBnKtY"
+    },
+    {
+      "text": "Corporate Aristocrat (See Corporate Aristocrats)",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "nU87t5ROXXNYNcBf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!67AIv10QUwMTatQh.nU87t5ROXXNYNcBf"
+    },
+    {
+      "text": "Street Gang (see Urban Tribes: Street Gangs)",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "IUwLCe97ondVD5Fc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!67AIv10QUwMTatQh.IUwLCe97ondVD5Fc"
+    }
+  ],
+  "folder": "VWRUQtMQZKxj15Xx",
+  "sort": 400000,
+  "_id": "67AIv10QUwMTatQh",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569670097,
+    "modifiedTime": 1699643274323,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!67AIv10QUwMTatQh"
+}

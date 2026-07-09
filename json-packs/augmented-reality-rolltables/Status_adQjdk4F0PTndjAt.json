@@ -1,0 +1,177 @@
+{
+  "name": "Status",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "New Owner(s)",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "RCd0CIub7ECbaXHj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!adQjdk4F0PTndjAt.RCd0CIub7ECbaXHj"
+    },
+    {
+      "text": "Closing Down",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "bJm6hU903LKz4Plb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!adQjdk4F0PTndjAt.bJm6hU903LKz4Plb"
+    },
+    {
+      "text": "Drug Problem",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "Jv7Eqw7ayfv869jF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!adQjdk4F0PTndjAt.Jv7Eqw7ayfv869jF"
+    },
+    {
+      "text": "Violence Problem",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "MyPZKKIdtKgwJuTq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!adQjdk4F0PTndjAt.MyPZKKIdtKgwJuTq"
+    },
+    {
+      "text": "Criminal Owned",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "HOX9FmX5oWxJ93Qe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!adQjdk4F0PTndjAt.HOX9FmX5oWxJ93Qe"
+    },
+    {
+      "text": "Bad Reputation",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "2BVUwKYncf6vr9Tt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!adQjdk4F0PTndjAt.2BVUwKYncf6vr9Tt"
+    },
+    {
+      "text": "Student Crowd",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "aT0M82lXSVOCd20O",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!adQjdk4F0PTndjAt.aT0M82lXSVOCd20O"
+    },
+    {
+      "text": "Under Surveillance",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "hKPH8ZOgJxyiPmJ6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!adQjdk4F0PTndjAt.hKPH8ZOgJxyiPmJ6"
+    },
+    {
+      "text": "War Zone",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "2TrJDdzucr9z7prb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!adQjdk4F0PTndjAt.2TrJDdzucr9z7prb"
+    },
+    {
+      "text": "Best Bands/DJs",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "Ugoe5Z5uQTOh1fus",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!adQjdk4F0PTndjAt.Ugoe5Z5uQTOh1fus"
+    }
+  ],
+  "folder": "vAY9yzP2BZwCvs9a",
+  "sort": 1,
+  "_id": "adQjdk4F0PTndjAt",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Bar/Club, Status, Security and Vibe tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569738169,
+    "modifiedTime": 1699645843530,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!adQjdk4F0PTndjAt"
+}

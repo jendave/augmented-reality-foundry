@@ -1,0 +1,177 @@
+{
+  "name": "Bio Horrors",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Poisonous Wasps - Fast, hard to spot as wrong until close, sting repeatedly",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "kQ4on1XpQmgAgnpW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7f0OaXZvX59bDVGR.kQ4on1XpQmgAgnpW"
+    },
+    {
+      "text": "Parasitic Spawn - Crawls for the spine, hacks and burns central nervous system",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "arzJT5pCGWZnLZhZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7f0OaXZvX59bDVGR.arzJT5pCGWZnLZhZ"
+    },
+    {
+      "text": "Spider Rat - Hairless, 8-legged rat-thing, DNA imprinted pack hunter",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "0PF0MjoyIaBHdc3X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7f0OaXZvX59bDVGR.0PF0MjoyIaBHdc3X"
+    },
+    {
+      "text": "Biodrones - Implant-rigged, small carnivore, directed by human operator",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "rQibraIAPYfxv6Hp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7f0OaXZvX59bDVGR.rQibraIAPYfxv6Hp"
+    },
+    {
+      "text": "Fireflies - Insects implanted with air-fuel explosives in stomach sacs",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "rjZtzzas66aJoo7Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7f0OaXZvX59bDVGR.rjZtzzas66aJoo7Y"
+    },
+    {
+      "text": "Spider Hive - Human carrier, riddled with sphincter holes, deploys spiders",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "zTdHwzwHFQz3pTLe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7f0OaXZvX59bDVGR.zTdHwzwHFQz3pTLe"
+    },
+    {
+      "text": "Disease Bomb - Fleshy organ acts like a dispersal grenade to infect area",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "P6UJSSPYcvQF0419",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7f0OaXZvX59bDVGR.P6UJSSPYcvQF0419"
+    },
+    {
+      "text": "The Mollusc - Armoured, muscle-launches bone shards tipped with poison",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "XjKUAbIDPgib2CbT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7f0OaXZvX59bDVGR.XjKUAbIDPgib2CbT"
+    },
+    {
+      "text": "Smell Tracker - Pheromone-sensitive tics drawn to target, easy to track",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "TAEQHgS0Pzk7YmJO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7f0OaXZvX59bDVGR.TAEQHgS0Pzk7YmJO"
+    },
+    {
+      "text": "Razorhound - Skinless canine with monomolecular teeth, can climb",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "MmykN8x4ijDKtkkU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7f0OaXZvX59bDVGR.MmykN8x4ijDKtkkU"
+    }
+  ],
+  "folder": "QMBGISks0IJtfhTP",
+  "sort": 1,
+  "_id": "7f0OaXZvX59bDVGR",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>What the hell is that thing?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570551304,
+    "modifiedTime": 1699656464419,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!7f0OaXZvX59bDVGR"
+}

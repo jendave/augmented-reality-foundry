@@ -1,0 +1,777 @@
+{
+  "name": "Appearance/Demeanour",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Wears silk, furs and a monocle",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "IrHQbEYYv0bY0sZP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.IrHQbEYYv0bY0sZP"
+    },
+    {
+      "text": "Black eyes, red trouser suits",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "tzv8mczWiWCFFixm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.tzv8mczWiWCFFixm"
+    },
+    {
+      "text": "Short, bald, gruff, distracted",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "pxsmdD10V7wUiNqy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.pxsmdD10V7wUiNqy"
+    },
+    {
+      "text": "Alcoholic, odd yet attractive",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "90Fg4zKdDdmWw7qN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.90Fg4zKdDdmWw7qN"
+    },
+    {
+      "text": "Scarlett-haired, spiteful",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "FG8mkz1i0JhrJ55W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.FG8mkz1i0JhrJ55W"
+    },
+    {
+      "text": "One-eyed, uses an assist frame",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "zt0EgxLNQQ9yL5Cs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.zt0EgxLNQQ9yL5Cs"
+    },
+    {
+      "text": "Intense, passionate, green eyes",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "oVJZldiFJJQKBiTq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.oVJZldiFJJQKBiTq"
+    },
+    {
+      "text": "Crude, jocular, artificial jaw",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "URMtH61fdywxHAXf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.URMtH61fdywxHAXf"
+    },
+    {
+      "text": "Rotund, elegant, sarcastic",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "1ndaqdzHbYH3G6zs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.1ndaqdzHbYH3G6zs"
+    },
+    {
+      "text": "Obsequious, sharp intellect",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "TBU6Gz6QFk7YyRJ1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.TBU6Gz6QFk7YyRJ1"
+    },
+    {
+      "text": "Proud, pitiless, pale blue eyes",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "yXc7VYSb7i33jdWr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.yXc7VYSb7i33jdWr"
+    },
+    {
+      "text": "Mincing, meek, ruthless",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "kNkgyfoznhsQ9nEL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.kNkgyfoznhsQ9nEL"
+    },
+    {
+      "text": "Hairless, eager and awkward",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "9A5S2R9IQ8ZxC6Lj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.9A5S2R9IQ8ZxC6Lj"
+    },
+    {
+      "text": "Plodding, multi-lingual, talkative",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "wpChNfukeK9PHprs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.wpChNfukeK9PHprs"
+    },
+    {
+      "text": "Limp, opulent, over privileged",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "iIK9Az53sYQI7Bt8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.iIK9Az53sYQI7Bt8"
+    },
+    {
+      "text": "Furtive, argumentative, cynical",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "Xbuu1rm4ibre4npo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.Xbuu1rm4ibre4npo"
+    },
+    {
+      "text": "Old, decrepit, almost immobile",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "cBkOIqiOqXkinnk9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.cBkOIqiOqXkinnk9"
+    },
+    {
+      "text": "Chubby, ruddy, bespectacled",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "s6UBo277Sk4GyElD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.s6UBo277Sk4GyElD"
+    },
+    {
+      "text": "Tedious, wheedling, androgynous",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "aOEn5xfR80goQ0Y6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.aOEn5xfR80goQ0Y6"
+    },
+    {
+      "text": "Light, frivolous, ironic hipster",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "dUEz4C9IwQ4dstpH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.dUEz4C9IwQ4dstpH"
+    },
+    {
+      "text": "Dark haired, wears body armour",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "igawlHcuK1gakUcl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.igawlHcuK1gakUcl"
+    },
+    {
+      "text": "Weak voice, thin-fingered, cold",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "Yt46oVScGFBpZFDA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.Yt46oVScGFBpZFDA"
+    },
+    {
+      "text": "Highly strung, middle-aged, pale",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "KzlVxkh0dgYButLR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.KzlVxkh0dgYButLR"
+    },
+    {
+      "text": "Gracious, intelligent, seems kind",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "WvD26KPm0bdrqiF0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.WvD26KPm0bdrqiF0"
+    },
+    {
+      "text": "Touchy, easily riled, sharp style",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "7OpWVEdLzvnBe1Ys",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.7OpWVEdLzvnBe1Ys"
+    },
+    {
+      "text": "Sentimental, fragile, wears white",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "tAc16OpgcHWauq07",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.tAc16OpgcHWauq07"
+    },
+    {
+      "text": "Recounts outrageous stories",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "ogL3ZHLoCOQEZYIf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.ogL3ZHLoCOQEZYIf"
+    },
+    {
+      "text": "Nervous, sweaty, sloppy",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "gj1yfrmu36jrQKtm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.gj1yfrmu36jrQKtm"
+    },
+    {
+      "text": "Open, friendly, business-like",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "1AQyyiGnhhtacljc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.1AQyyiGnhhtacljc"
+    },
+    {
+      "text": "Brusque, aging, cunning, twisted",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "esTokwz3R2C6aaKM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.esTokwz3R2C6aaKM"
+    },
+    {
+      "text": "Loyal to CEO, quiet, unassuming",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "5sIELLCTs997migA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.5sIELLCTs997migA"
+    },
+    {
+      "text": "Grim, warlike, unbending, PTSD",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "dgk76UneW1qi76Se",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.dgk76UneW1qi76Se"
+    },
+    {
+      "text": "Somber, patient, sympathetic",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "F22iFbA5qYZjFgJM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.F22iFbA5qYZjFgJM"
+    },
+    {
+      "text": "Greedy, lusty, barbaric and blunt",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "K97rbtGYld1d76Hg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.K97rbtGYld1d76Hg"
+    },
+    {
+      "text": "Understated, wears gloves, OCD",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "smKbRxh5wbfiofka",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.smKbRxh5wbfiofka"
+    },
+    {
+      "text": "Bulging eyes, veiny, creepy",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "cVv4UMZfcTlX2gGR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.cVv4UMZfcTlX2gGR"
+    },
+    {
+      "text": "Jewel-covered fashionista, vain",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "g6ouOTIfUw2tA8nD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.g6ouOTIfUw2tA8nD"
+    },
+    {
+      "text": "Abrupt, impatient, germ phobia",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "mfrMhEuND853pcK0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.mfrMhEuND853pcK0"
+    },
+    {
+      "text": "Suspicious, excitable, hot temper",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "BLE1nQgr4OaQI5Bh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.BLE1nQgr4OaQI5Bh"
+    },
+    {
+      "text": "Wary, detached, thin, aged",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "9CUPqXhEPsDz6jF8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.9CUPqXhEPsDz6jF8"
+    },
+    {
+      "text": "Universally liked, fat, generous",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "fD6qYlAWMCy8lEP0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.fD6qYlAWMCy8lEP0"
+    },
+    {
+      "text": "Energetic, black humour, bored",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "PpUwmvD24MwOieSL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.PpUwmvD24MwOieSL"
+    },
+    {
+      "text": "Thin, wiry, long-nosed, stylish",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "UK1Re0y920piHlO2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.UK1Re0y920piHlO2"
+    },
+    {
+      "text": "White-haired, speaks in whispers",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "DudIdh2WBjeHEmCM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.DudIdh2WBjeHEmCM"
+    },
+    {
+      "text": "Radiant, innocent, foolish",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "lzM5bLUPW9j4B5U5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.lzM5bLUPW9j4B5U5"
+    },
+    {
+      "text": "Frivolous, envious, insecure",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "mBh045A7zsVkkJ7H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.mBh045A7zsVkkJ7H"
+    },
+    {
+      "text": "Bitter, scarred, suspicious",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "tbBsA13ub7LTjySB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.tbBsA13ub7LTjySB"
+    },
+    {
+      "text": "Exposes/frames enemies, fearless",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "1SOuGyL9oRS5EvQj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.1SOuGyL9oRS5EvQj"
+    },
+    {
+      "text": "Arrogant, devious, patronising",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "98buTRhSMK7FsYiW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.98buTRhSMK7FsYiW"
+    },
+    {
+      "text": "Dark-eyed, clever, religious",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "Fv3zSMRCt0zqAuYP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4j56HwCjUO0ok6Cb.Fv3zSMRCt0zqAuYP"
+    }
+  ],
+  "folder": "pLxhKVOlJ6EbD5eZ",
+  "sort": 4,
+  "_id": "4j56HwCjUO0ok6Cb",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Given Name, Family Name, Personal Details 1 &amp; 2, Appearance/Demeanour and Relationship tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570138399,
+    "modifiedTime": 1699868043829,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!4j56HwCjUO0ok6Cb"
+}

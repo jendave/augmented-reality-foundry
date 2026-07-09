@@ -1,0 +1,167 @@
+{
+  "name": "Legacy Infrastructure",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Decommissioned subway tunnel, accessible from building, and vice versa",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "AQvGMb8sQWTtJL3U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NA4ZrtCfMCwhS6BM.AQvGMb8sQWTtJL3U"
+    },
+    {
+      "text": "Off site telecoms junction box, once served the local neighborhood",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "BujsPxFJWLcomUNt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NA4ZrtCfMCwhS6BM.BujsPxFJWLcomUNt"
+    },
+    {
+      "text": "Condemned slum quarantined with concrete seal, or biohazard containment zone",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "aJswXXDXdjM5IvcA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NA4ZrtCfMCwhS6BM.aJswXXDXdjM5IvcA"
+    },
+    {
+      "text": "Interconnected basements and foundation voids, poorly secured",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "Thy3ujDlHmybt2qV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NA4ZrtCfMCwhS6BM.Thy3ujDlHmybt2qV"
+    },
+    {
+      "text": "Sealed sub-basement parking for previous building, with still functioning elevator",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "td06fXscMqTfg3fT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NA4ZrtCfMCwhS6BM.td06fXscMqTfg3fT"
+    },
+    {
+      "text": "Forgotten floor following remodelling work, accessible through crawl space",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "nUbi6PRpVGB7uIVA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NA4ZrtCfMCwhS6BM.nUbi6PRpVGB7uIVA"
+    },
+    {
+      "text": "Disused loading or maintenance bay, with hidden goods elevator",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "9CxKJDMg2cxMCyrF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NA4ZrtCfMCwhS6BM.9CxKJDMg2cxMCyrF"
+    },
+    {
+      "text": "Undocumented Cold War bomb shelter or bunker network",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "CKI5iriGnPYAbXhk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NA4ZrtCfMCwhS6BM.CKI5iriGnPYAbXhk"
+    },
+    {
+      "text": "Exposed air venting system, leading to moth-balled sub-basement laboratory",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "9rA0LRmJRsLEWbJr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NA4ZrtCfMCwhS6BM.9rA0LRmJRsLEWbJr"
+    },
+    {
+      "text": "Unused utilities still feed into buildings, accessible from empty sewerage system",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "ms7fW1R4aZDxbYNM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NA4ZrtCfMCwhS6BM.ms7fW1R4aZDxbYNM"
+    }
+  ],
+  "folder": "oIEb7oUvGEPv05Pd",
+  "sort": 200000,
+  "_id": "NA4ZrtCfMCwhS6BM",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569706061,
+    "modifiedTime": 1699642930786,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!NA4ZrtCfMCwhS6BM"
+}

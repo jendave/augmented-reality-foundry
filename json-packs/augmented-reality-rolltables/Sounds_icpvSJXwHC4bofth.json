@@ -1,0 +1,1527 @@
+{
+  "name": "Sounds",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Building Alarm",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "N4Glj6RVuencgWSi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.N4Glj6RVuencgWSi"
+    },
+    {
+      "text": "Barking Dogs",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "5MAg93KEvaSdCuuz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.5MAg93KEvaSdCuuz"
+    },
+    {
+      "text": "Incoherent Shouting",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "5oHdnY6L0tdgzDuJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.5oHdnY6L0tdgzDuJ"
+    },
+    {
+      "text": "A Single Gunshot",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "HvevSWny5TJAlUPZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.HvevSWny5TJAlUPZ"
+    },
+    {
+      "text": "Ventilation System",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "fCoJZfaJbu2evd9u",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.fCoJZfaJbu2evd9u"
+    },
+    {
+      "text": "Car Doors Slamming",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "3v7RUb84gH20r5ci",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.3v7RUb84gH20r5ci"
+    },
+    {
+      "text": "Loud Television",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "5TZzGVzToQVhFm3j",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.5TZzGVzToQVhFm3j"
+    },
+    {
+      "text": "Children",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "TTTT75cSVAxOsGsh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.TTTT75cSVAxOsGsh"
+    },
+    {
+      "text": "Aerocar Overhead",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "C99SYygugTQQomZW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.C99SYygugTQQomZW"
+    },
+    {
+      "text": "Catchy Corporate Jingle",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "BKfPiY4B4GTZs6Ar",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.BKfPiY4B4GTZs6Ar"
+    },
+    {
+      "text": "The Screech Of Tires",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "quJGng2LLIv01pAt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.quJGng2LLIv01pAt"
+    },
+    {
+      "text": "Pedestrian Crosswalk",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "1zzJyYy88YHhOr3k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.1zzJyYy88YHhOr3k"
+    },
+    {
+      "text": "Rattle Cans In Use",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "nxhadgRj497hklYF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.nxhadgRj497hklYF"
+    },
+    {
+      "text": "Heavy Gunfire",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "RtRdpQ2uzBPx0qOE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.RtRdpQ2uzBPx0qOE"
+    },
+    {
+      "text": "Sobbing",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "Gt4zSq9ys9p8U9C0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.Gt4zSq9ys9p8U9C0"
+    },
+    {
+      "text": "Channeled Winds",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "TqUNCJJSKez6ZFpc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.TqUNCJJSKez6ZFpc"
+    },
+    {
+      "text": "Hum Of A Cleaning 'Bot",
+      "range": [
+        17,
+        17
+      ],
+      "_id": "Uheo0pmxXbgnvtEr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.Uheo0pmxXbgnvtEr"
+    },
+    {
+      "text": "Buzzing Of Flies",
+      "range": [
+        18,
+        18
+      ],
+      "_id": "CUx9laVEYMsGd9Ko",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.CUx9laVEYMsGd9Ko"
+    },
+    {
+      "text": "Rattle Of Chains",
+      "range": [
+        19,
+        19
+      ],
+      "_id": "NYJPRqXxjthkSgV2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.NYJPRqXxjthkSgV2"
+    },
+    {
+      "text": "Arcade Machines",
+      "range": [
+        20,
+        20
+      ],
+      "_id": "CQt35ms8JYNmDU1Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.CQt35ms8JYNmDU1Z"
+    },
+    {
+      "text": "Breaking Glass",
+      "range": [
+        21,
+        21
+      ],
+      "_id": "i984PFM8gEmuEHoI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.i984PFM8gEmuEHoI"
+    },
+    {
+      "text": "Text Alert",
+      "range": [
+        22,
+        22
+      ],
+      "_id": "XTMQ1aVs0OiIH7B5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.XTMQ1aVs0OiIH7B5"
+    },
+    {
+      "text": "An Rpg Launching",
+      "range": [
+        23,
+        23
+      ],
+      "_id": "YtcHODp7s0zvBZLG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.YtcHODp7s0zvBZLG"
+    },
+    {
+      "text": "Sirens Inbound",
+      "range": [
+        24,
+        24
+      ],
+      "_id": "PXdeTZPKOxqNTC0k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.PXdeTZPKOxqNTC0k"
+    },
+    {
+      "text": "Running",
+      "range": [
+        25,
+        25
+      ],
+      "_id": "6K9cF7yJwh9erksq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.6K9cF7yJwh9erksq"
+    },
+    {
+      "text": "Subway Rumble",
+      "range": [
+        26,
+        26
+      ],
+      "_id": "op36h9rJZuozZXSF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.op36h9rJZuozZXSF"
+    },
+    {
+      "text": "A Loud Argument",
+      "range": [
+        27,
+        27
+      ],
+      "_id": "0ecYGkbD4IoE800f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.0ecYGkbD4IoE800f"
+    },
+    {
+      "text": "Drill or Power Saw",
+      "range": [
+        28,
+        28
+      ],
+      "_id": "CEFQMY7GaHAMART1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.CEFQMY7GaHAMART1"
+    },
+    {
+      "text": "Road Traffic Accident",
+      "range": [
+        29,
+        29
+      ],
+      "_id": "XScJ0MOMeBQCxBoI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.XScJ0MOMeBQCxBoI"
+    },
+    {
+      "text": "Hellfire Street Preacher",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "dWdL1lxjxL2C3ri9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.dWdL1lxjxL2C3ri9"
+    },
+    {
+      "text": "Loud Energetic Music",
+      "range": [
+        31,
+        31
+      ],
+      "_id": "G1nomIXHVWXwAIEZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.G1nomIXHVWXwAIEZ"
+    },
+    {
+      "text": "Laughter",
+      "range": [
+        32,
+        32
+      ],
+      "_id": "6pqZyiB2pe75aavR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.6pqZyiB2pe75aavR"
+    },
+    {
+      "text": "Hydraulics",
+      "range": [
+        33,
+        33
+      ],
+      "_id": "swFKx6cytPe3M4hT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.swFKx6cytPe3M4hT"
+    },
+    {
+      "text": "A Reversing Vehicle",
+      "range": [
+        34,
+        34
+      ],
+      "_id": "P9ruRcYuCZbiYwdz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.P9ruRcYuCZbiYwdz"
+    },
+    {
+      "text": "An Annoying Ringtone",
+      "range": [
+        35,
+        35
+      ],
+      "_id": "b4dFXHMnzMQujaC8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.b4dFXHMnzMQujaC8"
+    },
+    {
+      "text": "Sexual Activity",
+      "range": [
+        36,
+        36
+      ],
+      "_id": "DInm3tMZ5hvDwGsd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.DInm3tMZ5hvDwGsd"
+    },
+    {
+      "text": "Police Radio Chatter",
+      "range": [
+        37,
+        37
+      ],
+      "_id": "ykUbrQaYqKweOMVN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.ykUbrQaYqKweOMVN"
+    },
+    {
+      "text": "Loose Door or Gate",
+      "range": [
+        38,
+        38
+      ],
+      "_id": "YfcQHJogNrfIPcoZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.YfcQHJogNrfIPcoZ"
+    },
+    {
+      "text": "Group Chanting",
+      "range": [
+        39,
+        39
+      ],
+      "_id": "1uWx6TeKsxCj4LFb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.1uWx6TeKsxCj4LFb"
+    },
+    {
+      "text": "Popular Theme Tune",
+      "range": [
+        40,
+        40
+      ],
+      "_id": "fQ2ThzwvkSJdkzZs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.fQ2ThzwvkSJdkzZs"
+    },
+    {
+      "text": "Chesty Coughing",
+      "range": [
+        41,
+        41
+      ],
+      "_id": "1nCEJP6jj9SWmNpG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.1nCEJP6jj9SWmNpG"
+    },
+    {
+      "text": "Vehicle Alarm",
+      "range": [
+        42,
+        42
+      ],
+      "_id": "t3jsr29lpBa2Pghm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.t3jsr29lpBa2Pghm"
+    },
+    {
+      "text": "Steady Footsteps",
+      "range": [
+        43,
+        43
+      ],
+      "_id": "J2ZRRdsM2ieBDC04",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.J2ZRRdsM2ieBDC04"
+    },
+    {
+      "text": "Automated Warning",
+      "range": [
+        44,
+        44
+      ],
+      "_id": "PEz8z1IimR3wBxd2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.PEz8z1IimR3wBxd2"
+    },
+    {
+      "text": "Beating Of Heavy Rain",
+      "range": [
+        45,
+        45
+      ],
+      "_id": "VH3yHwJoHFXQTbzu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.VH3yHwJoHFXQTbzu"
+    },
+    {
+      "text": "Garbled Loudspeaker",
+      "range": [
+        46,
+        46
+      ],
+      "_id": "28lxuGnKc8vcb0jz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.28lxuGnKc8vcb0jz"
+    },
+    {
+      "text": "Exchange Of Gunfire",
+      "range": [
+        47,
+        47
+      ],
+      "_id": "WmHXsLzIUhjttT1h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.WmHXsLzIUhjttT1h"
+    },
+    {
+      "text": "Background 'Muzak'",
+      "range": [
+        48,
+        48
+      ],
+      "_id": "VWNcedp1mepwk90k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.VWNcedp1mepwk90k"
+    },
+    {
+      "text": "Gutteral Screaming",
+      "range": [
+        49,
+        49
+      ],
+      "_id": "aBnqilFbQrbqdo6T",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.aBnqilFbQrbqdo6T"
+    },
+    {
+      "text": "A Call To Prayer",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "HSVFsD8dQSlQhRN7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.HSVFsD8dQSlQhRN7"
+    },
+    {
+      "text": "Loose Piping",
+      "range": [
+        51,
+        51
+      ],
+      "_id": "luydEtHRy4rLN9J7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.luydEtHRy4rLN9J7"
+    },
+    {
+      "text": "Helicopter Overhead",
+      "range": [
+        52,
+        52
+      ],
+      "_id": "6aSOHdBuETlaVpkk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.6aSOHdBuETlaVpkk"
+    },
+    {
+      "text": "The Buzz Of Neon",
+      "range": [
+        53,
+        53
+      ],
+      "_id": "EqPCyB2q7qYpXUvP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.EqPCyB2q7qYpXUvP"
+    },
+    {
+      "text": "A Revving Engine",
+      "range": [
+        54,
+        54
+      ],
+      "_id": "9urqyo4GktQc7Jzz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.9urqyo4GktQc7Jzz"
+    },
+    {
+      "text": "An Impromptu Rave",
+      "range": [
+        55,
+        55
+      ],
+      "_id": "6VwsBHHkEJxfjbaW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.6VwsBHHkEJxfjbaW"
+    },
+    {
+      "text": "Water Pump",
+      "range": [
+        56,
+        56
+      ],
+      "_id": "O3NL4UGOKKbzAWMO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.O3NL4UGOKKbzAWMO"
+    },
+    {
+      "text": "Road Works",
+      "range": [
+        57,
+        57
+      ],
+      "_id": "UF0Ot7ya8SUVBzgm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.UF0Ot7ya8SUVBzgm"
+    },
+    {
+      "text": "Right Wing Talk Radio",
+      "range": [
+        58,
+        58
+      ],
+      "_id": "Px4ZfjbSB0UEsqfM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.Px4ZfjbSB0UEsqfM"
+    },
+    {
+      "text": "Foreign Busker",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "ZnQRTApgcqJOj29S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.ZnQRTApgcqJOj29S"
+    },
+    {
+      "text": "Ice Cream Truck",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "Mzzu0LGCptpQzwhP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.Mzzu0LGCptpQzwhP"
+    },
+    {
+      "text": "Distant Explosion",
+      "range": [
+        61,
+        61
+      ],
+      "_id": "C6u2xG7DjNKj1z5i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.C6u2xG7DjNKj1z5i"
+    },
+    {
+      "text": "Car Horn",
+      "range": [
+        62,
+        62
+      ],
+      "_id": "k74lQslHJCZagRtf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.k74lQslHJCZagRtf"
+    },
+    {
+      "text": "UAV/Drone Motor",
+      "range": [
+        63,
+        63
+      ],
+      "_id": "NUPuunxy0by3IMhK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.NUPuunxy0by3IMhK"
+    },
+    {
+      "text": "Tumbling Trash Cans",
+      "range": [
+        64,
+        64
+      ],
+      "_id": "5vYfJRqcuKbjQ2r1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.5vYfJRqcuKbjQ2r1"
+    },
+    {
+      "text": "Evangelical Broadcast",
+      "range": [
+        65,
+        65
+      ],
+      "_id": "aFY2xeMbMG77uuSd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.aFY2xeMbMG77uuSd"
+    },
+    {
+      "text": "Very Heavy Transport",
+      "range": [
+        66,
+        66
+      ],
+      "_id": "CoQ6aLNUSfYC2WpU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.CoQ6aLNUSfYC2WpU"
+    },
+    {
+      "text": "Running Water",
+      "range": [
+        67,
+        67
+      ],
+      "_id": "yv8ec0nWDmxR1Bpw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.yv8ec0nWDmxR1Bpw"
+    },
+    {
+      "text": "Drunk Singing",
+      "range": [
+        68,
+        68
+      ],
+      "_id": "ANdwLZ14WtD55VQ1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.ANdwLZ14WtD55VQ1"
+    },
+    {
+      "text": "Skateboards",
+      "range": [
+        69,
+        69
+      ],
+      "_id": "efYYPwvi9AmYT63I",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.efYYPwvi9AmYT63I"
+    },
+    {
+      "text": "Tattoo Gun",
+      "range": [
+        70,
+        70
+      ],
+      "_id": "SsEZOkUiZh0d5mSM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.SsEZOkUiZh0d5mSM"
+    },
+    {
+      "text": "Rolling Cans",
+      "range": [
+        71,
+        71
+      ],
+      "_id": "f4l4iHSYTD3JS0NV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.f4l4iHSYTD3JS0NV"
+    },
+    {
+      "text": "Obvious Porno",
+      "range": [
+        72,
+        72
+      ],
+      "_id": "TbtON3g4ZDSRad62",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.TbtON3g4ZDSRad62"
+    },
+    {
+      "text": "Riot or Demo",
+      "range": [
+        73,
+        73
+      ],
+      "_id": "p67DOGTyefk3QMiA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.p67DOGTyefk3QMiA"
+    },
+    {
+      "text": "Overhead Train",
+      "range": [
+        74,
+        74
+      ],
+      "_id": "avS2kdCE40ES7vUp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.avS2kdCE40ES7vUp"
+    },
+    {
+      "text": "Cats Fighting",
+      "range": [
+        75,
+        75
+      ],
+      "_id": "mkWrljEA1p3C8CQx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.mkWrljEA1p3C8CQx"
+    },
+    {
+      "text": "Shrill Whistling",
+      "range": [
+        76,
+        76
+      ],
+      "_id": "evkCwjBfZ8M9aDmi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.evkCwjBfZ8M9aDmi"
+    },
+    {
+      "text": "Bug Zapper",
+      "range": [
+        77,
+        77
+      ],
+      "_id": "7TapplHQUlwFqBKC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.7TapplHQUlwFqBKC"
+    },
+    {
+      "text": "Street Hawker",
+      "range": [
+        78,
+        78
+      ],
+      "_id": "1tAm9fyM112uVbu1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.1tAm9fyM112uVbu1"
+    },
+    {
+      "text": "Car Chase",
+      "range": [
+        79,
+        79
+      ],
+      "_id": "nAVyU5uKsI7VBAll",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.nAVyU5uKsI7VBAll"
+    },
+    {
+      "text": "Chilling War Cry",
+      "range": [
+        80,
+        80
+      ],
+      "_id": "ubyRGsCVxp0isirx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.ubyRGsCVxp0isirx"
+    },
+    {
+      "text": "Motorcycles",
+      "range": [
+        81,
+        81
+      ],
+      "_id": "LHKSfrlUFVpCKoU9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.LHKSfrlUFVpCKoU9"
+    },
+    {
+      "text": "Crackle Of Flames",
+      "range": [
+        82,
+        82
+      ],
+      "_id": "QPA0mjpp3YYeQd0N",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.QPA0mjpp3YYeQd0N"
+    },
+    {
+      "text": "Door Buzzer",
+      "range": [
+        83,
+        83
+      ],
+      "_id": "uP9MuPC5jGWsxKcg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.uP9MuPC5jGWsxKcg"
+    },
+    {
+      "text": "An Anguished Cry",
+      "range": [
+        84,
+        84
+      ],
+      "_id": "V0H4caqqwRcd3NRj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.V0H4caqqwRcd3NRj"
+    },
+    {
+      "text": "Sneaker Squeak",
+      "range": [
+        85,
+        85
+      ],
+      "_id": "lFs41N4OgxraXwiA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.lFs41N4OgxraXwiA"
+    },
+    {
+      "text": "Scraping Metal",
+      "range": [
+        86,
+        86
+      ],
+      "_id": "Jb6cmhhAM0ZbIm7I",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.Jb6cmhhAM0ZbIm7I"
+    },
+    {
+      "text": "Splashing",
+      "range": [
+        87,
+        87
+      ],
+      "_id": "iqZxdAzAwCeMknTb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.iqZxdAzAwCeMknTb"
+    },
+    {
+      "text": "Noisy Printer",
+      "range": [
+        88,
+        88
+      ],
+      "_id": "hsshqG7Yo6S7gsAe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.hsshqG7Yo6S7gsAe"
+    },
+    {
+      "text": "Laser Fire",
+      "range": [
+        89,
+        89
+      ],
+      "_id": "BMyRXmTPD32xsWfB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.BMyRXmTPD32xsWfB"
+    },
+    {
+      "text": "Jingle Of Keys",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "DBZ0nfy7ZLnoPD50",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.DBZ0nfy7ZLnoPD50"
+    },
+    {
+      "text": "Quiet Conversation",
+      "range": [
+        91,
+        91
+      ],
+      "_id": "7yvndSWzeButk6Tn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.7yvndSWzeButk6Tn"
+    },
+    {
+      "text": "Sirens Outbound",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "MUmE9JWBbnuDRPX6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.MUmE9JWBbnuDRPX6"
+    },
+    {
+      "text": "Aerocar Landing",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "XFu1xlhlgGxUEKf7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.XFu1xlhlgGxUEKf7"
+    },
+    {
+      "text": "Frying Food",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "m4f3I7hMk8Bgwnw1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.m4f3I7hMk8Bgwnw1"
+    },
+    {
+      "text": "A Brawl",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "i74JYqDRS8lKR7BS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.i74JYqDRS8lKR7BS"
+    },
+    {
+      "text": "Doors Slamming",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "GOwS0p4DwDwb131A",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.GOwS0p4DwDwb131A"
+    },
+    {
+      "text": "Ads (See @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.bja46Iy7QIojAUuv]{Sights})",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "xfse5rhyTJ8kVSPV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.xfse5rhyTJ8kVSPV"
+    },
+    {
+      "text": "Thunder",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "hjj2QnJKyQEB88y5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.hjj2QnJKyQEB88y5"
+    },
+    {
+      "text": "Hissing White Noise",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "1287025AqGAMRgcd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.1287025AqGAMRgcd"
+    },
+    {
+      "text": "Roll Twice",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "28Kk2EJOtgv7KGIJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!icpvSJXwHC4bofth.28Kk2EJOtgv7KGIJ"
+    }
+  ],
+  "folder": "ypSDgDocT5uhhzmf",
+  "sort": 1,
+  "_id": "icpvSJXwHC4bofth",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p><strong>Sense &amp; The City - Sounds </strong>is a <strong>D100 </strong>table designed to allow the GM to quickly generate the background noises for the city. roll on it once for the most noticeable sound in the area or interior space, or several times to emulate the cacophony of urban living.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569755771,
+    "modifiedTime": 1699646089397,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!icpvSJXwHC4bofth"
+}

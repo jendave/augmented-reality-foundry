@@ -1,0 +1,19 @@
+{
+  "name": "Hackable Assets",
+  "type": "RollTable",
+  "sorting": "a",
+  "_id": "t2WM2uWxU87LUkfM",
+  "folder": null,
+  "sort": 1300000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570735097,
+    "modifiedTime": 1699650935919,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "color": null,
+  "_key": "!folders!t2WM2uWxU87LUkfM"
+}

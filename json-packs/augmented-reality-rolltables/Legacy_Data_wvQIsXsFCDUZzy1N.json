@@ -1,0 +1,177 @@
+{
+  "name": "Legacy Data",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Obsolete, reformatted data vault, deep underground, poor information hygiene",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "6GadEKxn8rnry3vD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wvQIsXsFCDUZzy1N.6GadEKxn8rnry3vD"
+    },
+    {
+      "text": "Hard drive archive in the roof space, or located off site in purpose built library",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "aU97n3lTs1rSfZW6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wvQIsXsFCDUZzy1N.aU97n3lTs1rSfZW6"
+    },
+    {
+      "text": "Zero Day exploit via overlooked archeonet (the earlier website; uses an old OS)",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "rEDQYuas1mcVixd4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wvQIsXsFCDUZzy1N.rEDQYuas1mcVixd4"
+    },
+    {
+      "text": "Cloud account, covertly syncing data from devices in it's proximity",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "IAd2eKyskDJFcvpt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wvQIsXsFCDUZzy1N.IAd2eKyskDJFcvpt"
+    },
+    {
+      "text": "Ancient dial-up modem, still linked to the network, acts as possible back door",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "gemnY1sCXNufBCjp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wvQIsXsFCDUZzy1N.gemnY1sCXNufBCjp"
+    },
+    {
+      "text": "Web cameras on unused computers, still accessible via the net",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "Vks04yeHlkvWeDI1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wvQIsXsFCDUZzy1N.Vks04yeHlkvWeDI1"
+    },
+    {
+      "text": "Unauthorised porn or gaming account, log in still active, possible exploit",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "EG8PTTGSAKIlh5YZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wvQIsXsFCDUZzy1N.EG8PTTGSAKIlh5YZ"
+    },
+    {
+      "text": "Previously defeated hacking attempt left old code gate decrypted and open",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "2CuTq8GL7GomP4Jv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wvQIsXsFCDUZzy1N.2CuTq8GL7GomP4Jv"
+    },
+    {
+      "text": "Networked but obsolete peripherals remain powered on and in standby mode",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "ovq1oMPNNDx7FNBo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wvQIsXsFCDUZzy1N.ovq1oMPNNDx7FNBo"
+    },
+    {
+      "text": "Partially de-rezzed AI 'ghost' haunts the network and is, by now, quite insane",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "dzW7qAIBvGX86CID",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wvQIsXsFCDUZzy1N.dzW7qAIBvGX86CID"
+    }
+  ],
+  "folder": "oIEb7oUvGEPv05Pd",
+  "sort": 100000,
+  "_id": "wvQIsXsFCDUZzy1N",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569706067,
+    "modifiedTime": 1699845193103,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!wvQIsXsFCDUZzy1N"
+}

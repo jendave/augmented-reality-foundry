@@ -1,0 +1,177 @@
+{
+  "name": "First Impressions? Table 3",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Seems eerily artificial, very attractive",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "IwQDPRtQptru7BGe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!taxLlgGg3U5fDtjN.IwQDPRtQptru7BGe"
+    },
+    {
+      "text": "Unintelligent, aggressive, pock marks",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "oXwFInbcLYWgzclD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!taxLlgGg3U5fDtjN.oXwFInbcLYWgzclD"
+    },
+    {
+      "text": "Mismatched optics, black turtle neck",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "EBsfawsc8wWuvurW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!taxLlgGg3U5fDtjN.EBsfawsc8wWuvurW"
+    },
+    {
+      "text": "Overweight and dirty, layered cloths",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "DrhSB5nKIIFV3XOD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!taxLlgGg3U5fDtjN.DrhSB5nKIIFV3XOD"
+    },
+    {
+      "text": "Engorged musculature due to grafts",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "jPZHOG6JN0PO9NYN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!taxLlgGg3U5fDtjN.jPZHOG6JN0PO9NYN"
+    },
+    {
+      "text": "Furtive and on edge, unkempt, tattoos",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "1ZsZKvZrc8nAlnet",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!taxLlgGg3U5fDtjN.1ZsZKvZrc8nAlnet"
+    },
+    {
+      "text": "Misshapen by heavy augmentation",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "LnRVutdl0JhJrhhA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!taxLlgGg3U5fDtjN.LnRVutdl0JhJrhhA"
+    },
+    {
+      "text": "Narcotic haze, fidgety hands, shabby",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "Hk9zqYDLtWi9rOMm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!taxLlgGg3U5fDtjN.Hk9zqYDLtWi9rOMm"
+    },
+    {
+      "text": "Loud, camp, and showy, anaemic",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "jvPGg7iPWoifn1XP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!taxLlgGg3U5fDtjN.jvPGg7iPWoifn1XP"
+    },
+    {
+      "text": "Weary, apathetic, animated clothing",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "QmvaQYBXSBJJsJLA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!taxLlgGg3U5fDtjN.QmvaQYBXSBJJsJLA"
+    }
+  ],
+  "folder": "9y0OKd1D7qA8QNVH",
+  "sort": 3,
+  "_id": "taxLlgGg3U5fDtjN",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>The Instacitizen Roll Table is designed to enable unprepared or improvising cyberpunk GMs to generate city dwellers in the immediate area, quickly and easily, simply by dropping some dice and checking where they land.</p><p>Roll 4-5 times on this table to tell you the type of people your players have in their immediate area.</p><p>Roll the same amount of D10s. Now, the numbers shown on each dice can be used in different ways; to ascertain the number of people in a group, as the NPC’s prime stat for their role, and to determine if the citizens have any quirks or notable features on the First Impressions tables (optional; choose a table for each NPC generated). Decide gender.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570009666,
+    "modifiedTime": 1699651742337,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!taxLlgGg3U5fDtjN"
+}

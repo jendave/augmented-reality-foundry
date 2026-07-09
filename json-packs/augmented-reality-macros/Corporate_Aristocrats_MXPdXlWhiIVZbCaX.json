@@ -1,0 +1,27 @@
+{
+  "name": "Corporate Aristocrats",
+  "type": "script",
+  "_id": "MXPdXlWhiIVZbCaX",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let rollTablesUUIDPrefix = \"Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.\";\n\n    let title = \"<h3>Corporate Aristocrats</h3>\";\n\n    const givenNameTable = await fromUuid(rollTablesUUIDPrefix + \"qDgczL3VTg3uEHct\");\n    let givenNameRoll = await givenNameTable.roll();\n    let givenName = givenNameRoll.results[0].text;\n\n    const familyNameTable = await fromUuid(rollTablesUUIDPrefix + \"DLoLTBuo9Oc5K7ub\");\n    let familyNameRoll = await familyNameTable.roll();\n    let familyName = familyNameRoll.results[0].text;\n\n    const personalDetails1Table = await fromUuid(rollTablesUUIDPrefix + \"9IlOAwRzsqm33WaY\");\n    let personalDetails1Roll = await personalDetails1Table.roll();\n    let personalDetails1 = personalDetails1Roll.results[0].text;\n\n    const personalDetails2Table = await fromUuid(rollTablesUUIDPrefix + \"0ezmaGieyMrvpHut\");\n    let personalDetails2Roll = await personalDetails2Table.roll();\n    let personalDetails2 = personalDetails2Roll.results[0].text;\n\n    const appearanceTable = await fromUuid(rollTablesUUIDPrefix + \"4j56HwCjUO0ok6Cb\");\n    let appearanceRoll = await appearanceTable.roll();\n    let appearance = appearanceRoll.results[0].text;\n\n    const relationshipTable = await fromUuid(rollTablesUUIDPrefix + \"2LOTvrs3s0YB8sNP\");\n    let relationshipRoll = await relationshipTable.roll();\n    let relationship = relationshipRoll.results[0].text;\n\n    let message = \"Given Name: \" + givenName + \"<br>\";\n    message += \"Family Name: \" + familyName + \"<br>\";\n    message += \"Personal Details 1: \" + personalDetails1 + \"<br>\";\n    message += \"Personal Details 2: \" + personalDetails2 + \"<br>\";\n    message += \"Appearance/Demeanour: \" + appearance + \"<br>\";\n    message += \"Relationship: \" + relationship + \"<br>\";\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.329",
+    "createdTime": 1699867569312,
+    "modifiedTime": 1721407307034,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!macros!MXPdXlWhiIVZbCaX"
+}

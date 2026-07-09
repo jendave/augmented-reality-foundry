@@ -1,0 +1,1527 @@
+{
+  "name": "Expanded Building Features",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Extreme Security Protocols",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "Gc1vhASiJALkqSWW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.Gc1vhASiJALkqSWW"
+    },
+    {
+      "text": "Decrepit and Rundown",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "T8tombgFzWaHWofz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.T8tombgFzWaHWofz"
+    },
+    {
+      "text": "Graffitipocalypse/Street Art Heavy",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "SyVTbHV9l7SV78ad",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.SyVTbHV9l7SV78ad"
+    },
+    {
+      "text": "Obvious Gang Turf (See Urban Tribes: Street Gangs)",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "YiX3hDsfuw44Ooqp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.YiX3hDsfuw44Ooqp"
+    },
+    {
+      "text": "Back Room Brothel",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "nknp7F4RTAFx2ugr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.nknp7F4RTAFx2ugr"
+    },
+    {
+      "text": "Newly Renovated",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "gh1i0jJK4K2vJTua",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.gh1i0jJK4K2vJTua"
+    },
+    {
+      "text": "Unusually Busy",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "CPnvahBU2dfw5zbl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.CPnvahBU2dfw5zbl"
+    },
+    {
+      "text": "Empty/Quiet",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "7UYK18a5u7y5oYuY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.7UYK18a5u7y5oYuY"
+    },
+    {
+      "text": "Inadequate Security",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "CpR5uZOYlpQFZHc3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.CpR5uZOYlpQFZHc3"
+    },
+    {
+      "text": "High Tech Equipment",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "tJwK9859Rr5MQzDR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.tJwK9859Rr5MQzDR"
+    },
+    {
+      "text": "Abandoned Edifice",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "MmlX862rq5sEPgel",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.MmlX862rq5sEPgel"
+    },
+    {
+      "text": "Repurposed As... (Roll Again)",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "5pvd0OiyCBaYrAC0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.5pvd0OiyCBaYrAC0"
+    },
+    {
+      "text": "Front For Corporate Activity (See Corporate Aristocrats)",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "Vum3JCsc9Xl0Z7Gv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.Vum3JCsc9Xl0Z7Gv"
+    },
+    {
+      "text": "Front For Criminal Activity",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "cAwZxNAOj0fJexVH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.cAwZxNAOj0fJexVH"
+    },
+    {
+      "text": "Hidden Squatters",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "CEV4oUxeEsiWAnot",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.CEV4oUxeEsiWAnot"
+    },
+    {
+      "text": "Obscured By Ad Screens (See @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.4wwXFtYEc5AaovG0]{What's On That Big Screen?})",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "i7h7BldFJBW1ZY1V",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.i7h7BldFJBW1ZY1V"
+    },
+    {
+      "text": "'Grown' By Nanites",
+      "range": [
+        17,
+        17
+      ],
+      "_id": "OReKPcSxKd1yG46r",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.OReKPcSxKd1yG46r"
+    },
+    {
+      "text": "Incomplete",
+      "range": [
+        18,
+        18
+      ],
+      "_id": "Tm0tPt5e77hL6JeU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.Tm0tPt5e77hL6JeU"
+    },
+    {
+      "text": "Self Sufficient",
+      "range": [
+        19,
+        19
+      ],
+      "_id": "AQfGASRy6qszaHV1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.AQfGASRy6qszaHV1"
+    },
+    {
+      "text": "Crumbling Cheapcrete",
+      "range": [
+        20,
+        20
+      ],
+      "_id": "gB8CXfVNdv1Z9OVN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.gB8CXfVNdv1Z9OVN"
+    },
+    {
+      "text": "War Zone",
+      "range": [
+        21,
+        21
+      ],
+      "_id": "29JJjgQVGCPn8pTF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.29JJjgQVGCPn8pTF"
+    },
+    {
+      "text": "Fire Damage",
+      "range": [
+        22,
+        22
+      ],
+      "_id": "SCf5vO2kHOczGX5r",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.SCf5vO2kHOczGX5r"
+    },
+    {
+      "text": "Not A Building, But Mobile",
+      "range": [
+        23,
+        23
+      ],
+      "_id": "Al3IQ7uvkH5WEvUP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.Al3IQ7uvkH5WEvUP"
+    },
+    {
+      "text": "Elaborate Balconies",
+      "range": [
+        24,
+        24
+      ],
+      "_id": "4XycO0R1MyY52lr0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.4XycO0R1MyY52lr0"
+    },
+    {
+      "text": "Years Of Clumsy Modification",
+      "range": [
+        25,
+        25
+      ],
+      "_id": "jtGLAsQWjoirp8V0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.jtGLAsQWjoirp8V0"
+    },
+    {
+      "text": "For Sale/To Let",
+      "range": [
+        26,
+        26
+      ],
+      "_id": "1UzxhZkXcOLpTChe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.1UzxhZkXcOLpTChe"
+    },
+    {
+      "text": "Bright Emoji Glyphs and Graphics",
+      "range": [
+        27,
+        27
+      ],
+      "_id": "qpfWk6s1fejq34Ms",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.qpfWk6s1fejq34Ms"
+    },
+    {
+      "text": "Reinforced For Repair Work",
+      "range": [
+        28,
+        28
+      ],
+      "_id": "FUxUcRei07ZFr5yo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.FUxUcRei07ZFr5yo"
+    },
+    {
+      "text": "Extremely Leaky",
+      "range": [
+        29,
+        29
+      ],
+      "_id": "BJL3AAku09VxKCQg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.BJL3AAku09VxKCQg"
+    },
+    {
+      "text": "Gothic Style",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "QMJtWyNuCqYWGGQJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.QMJtWyNuCqYWGGQJ"
+    },
+    {
+      "text": "Chic and Minimalist",
+      "range": [
+        31,
+        31
+      ],
+      "_id": "gBi5Hvx8rj7paDfG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.gBi5Hvx8rj7paDfG"
+    },
+    {
+      "text": "Brutalist",
+      "range": [
+        32,
+        32
+      ],
+      "_id": "xxI4T1Z001EbM7Y3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.xxI4T1Z001EbM7Y3"
+    },
+    {
+      "text": "Encased In Plastic Siding",
+      "range": [
+        33,
+        33
+      ],
+      "_id": "bhnhHaLPzALXR0Xf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.bhnhHaLPzALXR0Xf"
+    },
+    {
+      "text": "Labyrinthine",
+      "range": [
+        34,
+        34
+      ],
+      "_id": "NNghYd3f91uMh6hp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.NNghYd3f91uMh6hp"
+    },
+    {
+      "text": "Skywalks To Other Buildings",
+      "range": [
+        35,
+        35
+      ],
+      "_id": "TV0XBwdasuYn9ohx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.TV0XBwdasuYn9ohx"
+    },
+    {
+      "text": "Industrial Style",
+      "range": [
+        36,
+        36
+      ],
+      "_id": "bvYVNgTpar194f6E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.bvYVNgTpar194f6E"
+    },
+    {
+      "text": "Anti-Drone System",
+      "range": [
+        37,
+        37
+      ],
+      "_id": "5DnbhxAalj3qjM6W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.5DnbhxAalj3qjM6W"
+    },
+    {
+      "text": "Nano Immune System",
+      "range": [
+        38,
+        38
+      ],
+      "_id": "DPecQrs6yHsrF8Wk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.DPecQrs6yHsrF8Wk"
+    },
+    {
+      "text": "People Queue To Enter",
+      "range": [
+        39,
+        39
+      ],
+      "_id": "O9KEOaN9YWs51kB0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.O9KEOaN9YWs51kB0"
+    },
+    {
+      "text": "Well Guarded",
+      "range": [
+        40,
+        40
+      ],
+      "_id": "4GqFYzsAWPQF5TAR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.4GqFYzsAWPQF5TAR"
+    },
+    {
+      "text": "AI Guardian",
+      "range": [
+        41,
+        41
+      ],
+      "_id": "tPulAe7Qba4ZSKOW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.tPulAe7Qba4ZSKOW"
+    },
+    {
+      "text": "AR Heavy (See @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.LnPEyTcIEqMGaOYZ]{Augmented Reality})",
+      "range": [
+        42,
+        42
+      ],
+      "_id": "q1t5pvYv79zdVKtF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.q1t5pvYv79zdVKtF"
+    },
+    {
+      "text": "Selective Access",
+      "range": [
+        43,
+        43
+      ],
+      "_id": "7YzeAUZBCrszStoT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.7YzeAUZBCrszStoT"
+    },
+    {
+      "text": "Buggy Security Net (See @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.drJSk7wxiPWrYr1s]{Bugs In The System})",
+      "range": [
+        44,
+        44
+      ],
+      "_id": "5Q2UwJTymEYFm9sn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.5Q2UwJTymEYFm9sn"
+    },
+    {
+      "text": "Taken Over By Junkies",
+      "range": [
+        45,
+        45
+      ],
+      "_id": "36W6cQemNLMNTQOJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.36W6cQemNLMNTQOJ"
+    },
+    {
+      "text": "Foreign Ghetto",
+      "range": [
+        46,
+        46
+      ],
+      "_id": "xLE25ZXPzoD9UEZ2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.xLE25ZXPzoD9UEZ2"
+    },
+    {
+      "text": "Sweatshop Conditions",
+      "range": [
+        47,
+        47
+      ],
+      "_id": "mXPINeDLLJJxy2Ng",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.mXPINeDLLJJxy2Ng"
+    },
+    {
+      "text": "Utilised Solely For Storage",
+      "range": [
+        48,
+        48
+      ],
+      "_id": "xDU5YegfGXFdb6AB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.xDU5YegfGXFdb6AB"
+    },
+    {
+      "text": "Veiled Behind Polymer Sheeting",
+      "range": [
+        49,
+        49
+      ],
+      "_id": "JElxgOlbfHlHUlMu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.JElxgOlbfHlHUlMu"
+    },
+    {
+      "text": "All Windows Damaged",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "VBXWlQVq4P1IH1KE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.VBXWlQVq4P1IH1KE"
+    },
+    {
+      "text": "External Utilities",
+      "range": [
+        51,
+        51
+      ],
+      "_id": "I1996pMDfthQjLhA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.I1996pMDfthQjLhA"
+    },
+    {
+      "text": "Extensive Solar Grid and Fog Catchers",
+      "range": [
+        52,
+        52
+      ],
+      "_id": "l0LufPdQmVrdrMuE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.l0LufPdQmVrdrMuE"
+    },
+    {
+      "text": "Bad Epoxy Repairs",
+      "range": [
+        53,
+        53
+      ],
+      "_id": "Qd2E4ghEl2Bk8Sp0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.Qd2E4ghEl2Bk8Sp0"
+    },
+    {
+      "text": "Unpleasant Micro-Climate",
+      "range": [
+        54,
+        54
+      ],
+      "_id": "cvWUpKfEwHbk4f28",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.cvWUpKfEwHbk4f28"
+    },
+    {
+      "text": "Infested With Rogue Remotes",
+      "range": [
+        55,
+        55
+      ],
+      "_id": "SR1K2OhWSncflkGO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.SR1K2OhWSncflkGO"
+    },
+    {
+      "text": "Self Aware",
+      "range": [
+        56,
+        56
+      ],
+      "_id": "Y2xxUfzGwC4mcFHf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.Y2xxUfzGwC4mcFHf"
+    },
+    {
+      "text": "Cellular Black Hole",
+      "range": [
+        57,
+        57
+      ],
+      "_id": "PwQC6V6hCJlxR2aI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.PwQC6V6hCJlxR2aI"
+    },
+    {
+      "text": "Mainly Populated By Hoarders",
+      "range": [
+        58,
+        58
+      ],
+      "_id": "4XaXJF1fDqFFqYlV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.4XaXJF1fDqFFqYlV"
+    },
+    {
+      "text": "Accumulated Trash Heaps",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "3OiazMr7ZQWsilM8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.3OiazMr7ZQWsilM8"
+    },
+    {
+      "text": "Unusual Smell (See @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.iWLStgXfVtgeHzIK]{Smells})",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "AtTvT0yrPh8pjCbx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.AtTvT0yrPh8pjCbx"
+    },
+    {
+      "text": "Very Few Working Lights",
+      "range": [
+        61,
+        61
+      ],
+      "_id": "yeIIZ8axcyTD29Ul",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.yeIIZ8axcyTD29Ul"
+    },
+    {
+      "text": "A Riot Of Satellite Dishes",
+      "range": [
+        62,
+        62
+      ],
+      "_id": "pzOWyaV9YNATR3dQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.pzOWyaV9YNATR3dQ"
+    },
+    {
+      "text": "Very Noisy Utilities",
+      "range": [
+        63,
+        63
+      ],
+      "_id": "rto1EioAeg8DrP1P",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.rto1EioAeg8DrP1P"
+    },
+    {
+      "text": "Catastrophically Polluted",
+      "range": [
+        64,
+        64
+      ],
+      "_id": "AFHsMOqPrP4CtXIc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.AFHsMOqPrP4CtXIc"
+    },
+    {
+      "text": "Unfinished Extension or Empty Levels",
+      "range": [
+        65,
+        65
+      ],
+      "_id": "vWXmcuPTJ7yb3vnr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.vWXmcuPTJ7yb3vnr"
+    },
+    {
+      "text": "Permadamp",
+      "range": [
+        66,
+        66
+      ],
+      "_id": "VYY1jMZuyLgbA3hv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.VYY1jMZuyLgbA3hv"
+    },
+    {
+      "text": "Legacy Infrastructure (See @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.NA4ZrtCfMCwhS6BM]{Legacy Infrastructure})",
+      "range": [
+        67,
+        67
+      ],
+      "_id": "8xUuGK7hHzIeHLY2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.8xUuGK7hHzIeHLY2"
+    },
+    {
+      "text": "Bad Wiring; High Emf; Black Outs",
+      "range": [
+        68,
+        68
+      ],
+      "_id": "CGABQSZotCuHmJpC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.CGABQSZotCuHmJpC"
+    },
+    {
+      "text": "Patrolled By Hired Rent-A-Cops (See @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.ctcriSpGlyXrJvX9]{First Responders})",
+      "range": [
+        69,
+        69
+      ],
+      "_id": "TOzT4PwpdDDBnWOW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.TOzT4PwpdDDBnWOW"
+    },
+    {
+      "text": "Aggressively Enforced No-Parking Zone",
+      "range": [
+        70,
+        70
+      ],
+      "_id": "yBob6bvFtGBgWKDI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.yBob6bvFtGBgWKDI"
+    },
+    {
+      "text": "Windows Boarded With Opaque Acrylic",
+      "range": [
+        71,
+        71
+      ],
+      "_id": "jIDvd8I74q3POnue",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.jIDvd8I74q3POnue"
+    },
+    {
+      "text": "Main Entrance Out Of Order",
+      "range": [
+        72,
+        72
+      ],
+      "_id": "5jTWKHZxHYrHFPRk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.5jTWKHZxHYrHFPRk"
+    },
+    {
+      "text": "Several Trashed Cars Out Front",
+      "range": [
+        73,
+        73
+      ],
+      "_id": "6c5u2dFoOXNvWiKt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.6c5u2dFoOXNvWiKt"
+    },
+    {
+      "text": "Being Audited By Fanatical City Inspectors",
+      "range": [
+        74,
+        74
+      ],
+      "_id": "I30Rfw8aCyUl7i3G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.I30Rfw8aCyUl7i3G"
+    },
+    {
+      "text": "Wind Tunnel",
+      "range": [
+        75,
+        75
+      ],
+      "_id": "3X3O3gyzLa9mHfnr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.3X3O3gyzLa9mHfnr"
+    },
+    {
+      "text": "Tinted Glass and Carbon Nano-Tubes",
+      "range": [
+        76,
+        76
+      ],
+      "_id": "Qj3LZnLZTJIFXdPX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.Qj3LZnLZTJIFXdPX"
+    },
+    {
+      "text": "Homeless Magnet",
+      "range": [
+        77,
+        77
+      ],
+      "_id": "a1Se63nezrO92lDF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.a1Se63nezrO92lDF"
+    },
+    {
+      "text": "Shakes When Trucks Pass",
+      "range": [
+        78,
+        78
+      ],
+      "_id": "xJqfZwhEY0WzTkN4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.xJqfZwhEY0WzTkN4"
+    },
+    {
+      "text": "Completely Automated",
+      "range": [
+        79,
+        79
+      ],
+      "_id": "hE6o3VJNBrm2LtAl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.hE6o3VJNBrm2LtAl"
+    },
+    {
+      "text": "Exotic/Foreign Architecture",
+      "range": [
+        80,
+        80
+      ],
+      "_id": "JtgApTruSCbvPsp4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.JtgApTruSCbvPsp4"
+    },
+    {
+      "text": "Obvious Corporate Sponsor",
+      "range": [
+        81,
+        81
+      ],
+      "_id": "pHSnKO2xLIDSoyCu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.pHSnKO2xLIDSoyCu"
+    },
+    {
+      "text": "Endorsed By Celebutant",
+      "range": [
+        82,
+        82
+      ],
+      "_id": "3AodfbINkQsWwf3a",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.3AodfbINkQsWwf3a"
+    },
+    {
+      "text": "Promotes Religion",
+      "range": [
+        83,
+        83
+      ],
+      "_id": "t5wwi6xD1LbVnGNI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.t5wwi6xD1LbVnGNI"
+    },
+    {
+      "text": "Independent Nation State",
+      "range": [
+        84,
+        84
+      ],
+      "_id": "0AE8y8bFBIOlMUx2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.0AE8y8bFBIOlMUx2"
+    },
+    {
+      "text": "Family Owned",
+      "range": [
+        85,
+        85
+      ],
+      "_id": "Fs9yq4JJQWEVUmVX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.Fs9yq4JJQWEVUmVX"
+    },
+    {
+      "text": "Scheduled For Demolition",
+      "range": [
+        86,
+        86
+      ],
+      "_id": "SHUN1iTWClm72Nt6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.SHUN1iTWClm72Nt6"
+    },
+    {
+      "text": "Rat or Roach Problem",
+      "range": [
+        87,
+        87
+      ],
+      "_id": "gUE5M7vLLAL5YBRO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.gUE5M7vLLAL5YBRO"
+    },
+    {
+      "text": "Security Camera Overkill",
+      "range": [
+        88,
+        88
+      ],
+      "_id": "f1jADSrGzFUPdhxl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.f1jADSrGzFUPdhxl"
+    },
+    {
+      "text": "A Crime Scene",
+      "range": [
+        89,
+        89
+      ],
+      "_id": "4L9rvWr8j6DgYwSm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.4L9rvWr8j6DgYwSm"
+    },
+    {
+      "text": "Target Of Net Terrorism",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "OCuciRRTbThPWaUU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.OCuciRRTbThPWaUU"
+    },
+    {
+      "text": "Malfunctioning Incessant Alarm",
+      "range": [
+        91,
+        91
+      ],
+      "_id": "KKbLBMrtoFelma5d",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.KKbLBMrtoFelma5d"
+    },
+    {
+      "text": "Slowly Collapsing or Subsiding",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "6jOvsH6CbrHar9zp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.6jOvsH6CbrHar9zp"
+    },
+    {
+      "text": "Under Surveillance",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "5CjalBSUPPL8K36n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.5CjalBSUPPL8K36n"
+    },
+    {
+      "text": "Enforced No Fly Zone",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "adPGeP1nQ087Ogn2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.adPGeP1nQ087Ogn2"
+    },
+    {
+      "text": "Prone To Flooding",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "QO5jZdMSsRWVTjmS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.QO5jZdMSsRWVTjmS"
+    },
+    {
+      "text": "Ecologically Sound; No Carbon Footprint",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "3oFTrtpWAzhb0De6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.3oFTrtpWAzhb0De6"
+    },
+    {
+      "text": "Popular With Particular Subculture",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "ZiN1v8ipNvxeqoPu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.ZiN1v8ipNvxeqoPu"
+    },
+    {
+      "text": "Totally Sterile",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "1gVoAxQ4hQUW951Q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.1gVoAxQ4hQUW951Q"
+    },
+    {
+      "text": "Extensive Drone Docks",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "p5HX2DmIGC8MHXrx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.p5HX2DmIGC8MHXrx"
+    },
+    {
+      "text": "Causes Sickness (See @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.oD4Zf2F89eMbClUL]{Urban Sickness})",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "nYnvlqJVR3Tz8Ozm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iStOB87CjnxOE7aw.nYnvlqJVR3Tz8Ozm"
+    }
+  ],
+  "folder": "6uM2lzeQEGOnlUfF",
+  "sort": 3,
+  "_id": "iStOB87CjnxOE7aw",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>This is an expanded D100 table of useful building features, to help add colour to your neighborhoods during pre-game prep.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569640575,
+    "modifiedTime": 1699637933623,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!iStOB87CjnxOE7aw"
+}

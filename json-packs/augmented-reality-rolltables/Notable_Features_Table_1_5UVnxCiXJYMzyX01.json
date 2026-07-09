@@ -1,0 +1,177 @@
+{
+  "name": "Notable Features Table 1",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Extreme Security Protocols",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "vDWT9ZcRrYb5dYWL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5UVnxCiXJYMzyX01.vDWT9ZcRrYb5dYWL"
+    },
+    {
+      "text": "Decrepit and Rundown",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "7W3EL7rNcxI0KhWv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5UVnxCiXJYMzyX01.7W3EL7rNcxI0KhWv"
+    },
+    {
+      "text": "Graffitipocalypse",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "htQW9DYur4sEUPXH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5UVnxCiXJYMzyX01.htQW9DYur4sEUPXH"
+    },
+    {
+      "text": "Obvious Gang Turf (See Urban Tribes: Street Gangs)",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "tmgsoMLMMTZVFgAC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5UVnxCiXJYMzyX01.tmgsoMLMMTZVFgAC"
+    },
+    {
+      "text": "Back Room Brothel",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "X5usziwGGx4OIxju",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5UVnxCiXJYMzyX01.X5usziwGGx4OIxju"
+    },
+    {
+      "text": "Newly Renovated",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "mMwq5BYy4IRscrdr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5UVnxCiXJYMzyX01.mMwq5BYy4IRscrdr"
+    },
+    {
+      "text": "Unusually Busy",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "Ch7cfd0ixhneBWx0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5UVnxCiXJYMzyX01.Ch7cfd0ixhneBWx0"
+    },
+    {
+      "text": "Empty/Quiet",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "sGqA5EIMj8ALgwsD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5UVnxCiXJYMzyX01.sGqA5EIMj8ALgwsD"
+    },
+    {
+      "text": "Inadequate Security",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "1hO9oIjXUENaHvx1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5UVnxCiXJYMzyX01.1hO9oIjXUENaHvx1"
+    },
+    {
+      "text": "High Tech Equipment",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "VkVWzep6sClnGGuj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!5UVnxCiXJYMzyX01.VkVWzep6sClnGGuj"
+    }
+  ],
+  "folder": "6uM2lzeQEGOnlUfF",
+  "sort": 1,
+  "_id": "5UVnxCiXJYMzyX01",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on this table to find to find if the building has any notable features.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569640557,
+    "modifiedTime": 1699581836853,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!5UVnxCiXJYMzyX01"
+}

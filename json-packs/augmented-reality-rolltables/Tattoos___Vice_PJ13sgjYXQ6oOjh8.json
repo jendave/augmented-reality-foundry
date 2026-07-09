@@ -1,0 +1,19 @@
+{
+  "name": "Tattoos & Vice",
+  "sorting": "a",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "PJ13sgjYXQ6oOjh8",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699652135798,
+    "modifiedTime": 1699652135798,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!folders!PJ13sgjYXQ6oOjh8"
+}

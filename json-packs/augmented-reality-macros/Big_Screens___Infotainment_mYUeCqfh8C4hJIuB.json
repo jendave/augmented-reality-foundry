@@ -1,0 +1,27 @@
+{
+  "name": "Big Screens & Infotainment",
+  "type": "script",
+  "_id": "mYUeCqfh8C4hJIuB",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let rollTablesUUIDPrefix = \"Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.\";\n\n    let title = \"<h3>Big Screens & Infotainment</h3>\";\n\n    const bigScreenTable = await fromUuid(rollTablesUUIDPrefix + \"4wwXFtYEc5AaovG0\");\n    let bigScreenRoll = await bigScreenTable.roll();\n    let bigScreen = bigScreenRoll.results[0].text;\n\n    const brandNameTable = await fromUuid(rollTablesUUIDPrefix + \"xc2S0ra9EYYzKtPG\");\n    let brandNameRoll = await brandNameTable.roll();\n    let brandName = brandNameRoll.results[0].text;\n\n    const rangeTable = await fromUuid(rollTablesUUIDPrefix + \"yUmR7XxYvFmdOuvi\");\n    let rangeRoll = await rangeTable.roll();\n    let range = rangeRoll.results[0].text;\n\n    const productLineTable = await fromUuid(rollTablesUUIDPrefix + \"TI2KoXHOR9V5qXbm\");\n    let productLineRoll = await productLineTable.roll();\n    let productLine = productLineRoll.results[0].text;\n\n    const marketingStyleTable = await fromUuid(rollTablesUUIDPrefix + \"c0UCZd2bb6vEWF4y\");\n    let marketingStyleRoll = await marketingStyleTable.roll();\n    let marketingStyle = marketingStyleRoll.results[0].text;\n\n    let message = \"What's On That Big Screen?:<br>\" + bigScreen + \"<br><br>\";\n    message += \"That's Infotainment:<br> \";\n    message += \"Brand Name: \" + brandName + \"<br>\";\n    message += \"Range: \" + range + \"<br>\";\n    message += \"Product Line: \" + productLine + \"<br>\";\n    message += \"Marketing Style: \" + marketingStyle + \"<br>\";\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.329",
+    "createdTime": 1699850559805,
+    "modifiedTime": 1721407302028,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!macros!mYUeCqfh8C4hJIuB"
+}

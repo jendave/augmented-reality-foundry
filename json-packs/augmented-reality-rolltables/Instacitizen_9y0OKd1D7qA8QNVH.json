@@ -1,0 +1,19 @@
+{
+  "name": "Instacitizen",
+  "type": "RollTable",
+  "sorting": "a",
+  "_id": "9y0OKd1D7qA8QNVH",
+  "folder": null,
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570009508,
+    "modifiedTime": 1699650942842,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "color": null,
+  "_key": "!folders!9y0OKd1D7qA8QNVH"
+}

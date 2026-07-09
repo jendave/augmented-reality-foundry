@@ -1,0 +1,177 @@
+{
+  "name": "Activity",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Speeding",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "CFMwMG2NC8cBpPeq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hlSK4dbR1DN5SyIh.CFMwMG2NC8cBpPeq"
+    },
+    {
+      "text": "Braking Hard",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "WWhRmyaC5mWIfXmK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hlSK4dbR1DN5SyIh.WWhRmyaC5mWIfXmK"
+    },
+    {
+      "text": "Parking",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "XEvQY43GXHqvo2r1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hlSK4dbR1DN5SyIh.XEvQY43GXHqvo2r1"
+    },
+    {
+      "text": "Pulling Into Traffic",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "mKHbuoRop97uxepH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hlSK4dbR1DN5SyIh.mKHbuoRop97uxepH"
+    },
+    {
+      "text": "Overtaking",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "5DiDYxKdJxdRf4Oe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hlSK4dbR1DN5SyIh.5DiDYxKdJxdRf4Oe"
+    },
+    {
+      "text": "Break Down",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "zhs9mWs0H6iDyhn5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hlSK4dbR1DN5SyIh.zhs9mWs0H6iDyhn5"
+    },
+    {
+      "text": "Crawling",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "dAfXqcMsCueXauME",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hlSK4dbR1DN5SyIh.dAfXqcMsCueXauME"
+    },
+    {
+      "text": "Collides With...",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "RRLzXaMYOlXM7pun",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hlSK4dbR1DN5SyIh.RRLzXaMYOlXM7pun"
+    },
+    {
+      "text": "U-Turn",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "rck1KCd5CcJPDTnR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hlSK4dbR1DN5SyIh.rck1KCd5CcJPDTnR"
+    },
+    {
+      "text": "Reversing",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "0yfU8JHRNzvq2aUK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!hlSK4dbR1DN5SyIh.0yfU8JHRNzvq2aUK"
+    }
+  ],
+  "folder": "oAmaA9LLRbAAz4UN",
+  "sort": 0,
+  "_id": "hlSK4dbR1DN5SyIh",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Activity, Notable Features and Condition tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569885636,
+    "modifiedTime": 1699648938404,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!hlSK4dbR1DN5SyIh"
+}

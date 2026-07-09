@@ -1,0 +1,177 @@
+{
+  "name": "Sex Workers",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Elegant Full Body Conversion, Aesthetically Pleasing",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "z5KtkFAGhWrKoRdH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bjY4AYUxwYsGuwFS.z5KtkFAGhWrKoRdH"
+    },
+    {
+      "text": "Augmented genitalia and tactile sensory upgrades",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "UEj5HKC5muFDyBMQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bjY4AYUxwYsGuwFS.UEj5HKC5muFDyBMQ"
+    },
+    {
+      "text": "Lean, attractive, loaded with hallucinatory pheromones",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "dMIV2wtsPdyI1Rza",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bjY4AYUxwYsGuwFS.dMIV2wtsPdyI1Rza"
+    },
+    {
+      "text": "Battered synthetic, needs repairs, garish vinyl clothing",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "7SP3jLi8Yy6uBYBQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bjY4AYUxwYsGuwFS.7SP3jLi8Yy6uBYBQ"
+    },
+    {
+      "text": "All limbs replaced with double-jointed cybernetics",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "dTeXpnoQ2D8ZpTnO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bjY4AYUxwYsGuwFS.dTeXpnoQ2D8ZpTnO"
+    },
+    {
+      "text": "Illegally young, brash, dead eyed - nearby junkie pimp",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "tjcRermcapovJDeQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bjY4AYUxwYsGuwFS.tjcRermcapovJDeQ"
+    },
+    {
+      "text": "Disabled exotic bioform, assisted by linear frame",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "Tr2dJIXTBS7Lcu5H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bjY4AYUxwYsGuwFS.Tr2dJIXTBS7Lcu5H"
+    },
+    {
+      "text": "Overweight, excessive make up, narcotic dependency",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "10kmpVwjphhVsldt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bjY4AYUxwYsGuwFS.10kmpVwjphhVsldt"
+    },
+    {
+      "text": "Old, has local knowledge, skilled, clean medical record",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "zjRR6fapKKmHfxM6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bjY4AYUxwYsGuwFS.zjRR6fapKKmHfxM6"
+    },
+    {
+      "text": "Neural cutouts, detached, implanted recorder suite",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "s3adYyzX4AVTql5Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bjY4AYUxwYsGuwFS.s3adYyzX4AVTql5Y"
+    }
+  ],
+  "folder": "fmIhTXMIc2ejfvcS",
+  "sort": 500000,
+  "_id": "bjY4AYUxwYsGuwFS",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Sex Workers and Identifies as… tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570112456,
+    "modifiedTime": 1699652368535,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!bjY4AYUxwYsGuwFS"
+}

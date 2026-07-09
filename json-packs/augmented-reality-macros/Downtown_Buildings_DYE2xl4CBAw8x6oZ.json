@@ -1,0 +1,27 @@
+{
+  "name": "Downtown Buildings",
+  "type": "script",
+  "_id": "DYE2xl4CBAw8x6oZ",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nfunction randomItemInArray(array) {\n    return array[(Math.floor(Math.random() * array.length))];\n}\n\ntry {\n    let numberOfBuildingsDialog = await Dialog.prompt({\n        title: \"Number of Downtown Buildings\",\n        content: `<p>Enter Number of Downtown Buildings:</p><input type=\"number\" id=\"input\" name=\"input\" min=\"0\" max=\"99\" value=\"4\"/>`,\n        rejectClose: true,\n        callback: (html) => html.find('input').val()\n    });\n\n    let rollTablesUUIDPrefix = \"Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.\";\n\n    let numberOfBuildings = parseInt(numberOfBuildingsDialog);\n\n    let title = \"<h3>Downtown Buildings</h3>\";\n    let message = \"<b>Building Type</b><br>\";\n    message += \"<b>- Floors (Optional x2)</b><br>\";\n    message += \"<b>- Notable Feature</b><br>\";\n    message += \"<b>- Expanded Feature</b><br><br>\";\n\n    let buildingTypeTable = await fromUuid(rollTablesUUIDPrefix + \"RAhL2yZlsv1q7AKS\");\n    let buildingTypeRoll = \"\";\n    let buildingType = \"\";\n\n    let expandedFeatureTable = await fromUuid(rollTablesUUIDPrefix + \"iStOB87CjnxOE7aw\");\n    let expandedFeatureRoll = \"\";\n    let expandedFeature = \"\";\n    let floorsFeaturesRoll = \"\";\n    let floors = 0;\n    const notableFeaturesArray = [\"5UVnxCiXJYMzyX01\", \"NzWJIe6KyLfRjTh4\"];\n    let notableFeatureRoll = \"\";\n    let notableFeatureTable = \"\";\n    let notableFeatureTableArray = \"\";\n    let notableFeature = \"\";\n\n    for (let i = 1; i <= numberOfBuildings; i++) {\n        buildingTypeRoll = await buildingTypeTable.roll();\n        buildingType = buildingTypeRoll.results[0].text;\n        floorsFeaturesRoll = new Roll('1d10');\n        await floorsFeaturesRoll.evaluate();\n        floors = floorsFeaturesRoll.total;\n        notableFeatureTable = await fromUuid(rollTablesUUIDPrefix + randomItemInArray(notableFeaturesArray));\n        notableFeatureRoll = floorsFeaturesRoll.total;\n        notableFeatureTableArray = notableFeatureTable.getResultsForRoll(notableFeatureRoll);\n        notableFeature = notableFeatureTableArray[0].getChatText()\n        expandedFeatureRoll = await expandedFeatureTable.roll();\n        expandedFeature = expandedFeatureRoll.results[0].text;\n        message += i + \". \";\n        message += buildingType + \"<br>\";\n        message += \"-   \" + floors + \" floors(s)<br>\";\n        message += \"-   \" + notableFeature + \"<br>\";\n        message += \"-   \" + expandedFeature + \"<br><br>\";\n    }\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.329",
+    "createdTime": 1699694969637,
+    "modifiedTime": 1721407314930,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!macros!DYE2xl4CBAw8x6oZ"
+}

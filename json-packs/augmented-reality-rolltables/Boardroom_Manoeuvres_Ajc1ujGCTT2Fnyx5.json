@@ -1,0 +1,1527 @@
+{
+  "name": "Boardroom Manoeuvres",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Testing New Weapons",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "upH9TfEDo37NAlqS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.upH9TfEDo37NAlqS"
+    },
+    {
+      "text": "Deadly Waste Disposal",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "Fp0C3MLeZYFQ76RY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.Fp0C3MLeZYFQ76RY"
+    },
+    {
+      "text": "Engineered Pandemic",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "9BoibEZi0ONw1VwL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.9BoibEZi0ONw1VwL"
+    },
+    {
+      "text": "Snatching Transients",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "GwA5mblp4w4Nv3Xc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.GwA5mblp4w4Nv3Xc"
+    },
+    {
+      "text": "Manipulating Media",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "R19gutb6iUCrrOsq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.R19gutb6iUCrrOsq"
+    },
+    {
+      "text": "Bribing Politicians",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "5h84laOrmIZm9MYn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.5h84laOrmIZm9MYn"
+    },
+    {
+      "text": "Financial Manipulation",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "bMJ8uJhfGft4zAwZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.bMJ8uJhfGft4zAwZ"
+    },
+    {
+      "text": "Land Grab",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "HDkFKZf5dJvsTNOd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.HDkFKZf5dJvsTNOd"
+    },
+    {
+      "text": "Tracking Consumers",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "aqDjXMC1bZgPAmdW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.aqDjXMC1bZgPAmdW"
+    },
+    {
+      "text": "Testing New Drugs",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "s7AT7zdq5NjQDrVN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.s7AT7zdq5NjQDrVN"
+    },
+    {
+      "text": "Altering Consumer Law",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "gK4eRAFvibbw07nV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.gK4eRAFvibbw07nV"
+    },
+    {
+      "text": "Manipulating Market",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "f1LXYCqd5VPGLojL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.f1LXYCqd5VPGLojL"
+    },
+    {
+      "text": "Stockpiling Medicines",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "iKBquLxVZyRO28aV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.iKBquLxVZyRO28aV"
+    },
+    {
+      "text": "Corrupting Technology",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "e3jdR6CpFvBht52O",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.e3jdR6CpFvBht52O"
+    },
+    {
+      "text": "Targeting Rivals",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "BEGwIBuSuWLpDr8e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.BEGwIBuSuWLpDr8e"
+    },
+    {
+      "text": "Subliminal Advertising",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "FzKrd0DvRtcDEzqI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.FzKrd0DvRtcDEzqI"
+    },
+    {
+      "text": "Eliminate Flawed Stock",
+      "range": [
+        17,
+        17
+      ],
+      "_id": "UAwmagm86kgcdCIf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.UAwmagm86kgcdCIf"
+    },
+    {
+      "text": "Rigging Safety Standards",
+      "range": [
+        18,
+        18
+      ],
+      "_id": "xdXpoqcJNkIPFFvH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.xdXpoqcJNkIPFFvH"
+    },
+    {
+      "text": "Full Blown Civil War",
+      "range": [
+        19,
+        19
+      ],
+      "_id": "2Ep8S0dwEnOzfXgi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.2Ep8S0dwEnOzfXgi"
+    },
+    {
+      "text": "Undermine Rival Brand",
+      "range": [
+        20,
+        20
+      ],
+      "_id": "xoQQkMS2avcwo2Ye",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.xoQQkMS2avcwo2Ye"
+    },
+    {
+      "text": "Offworld Banking Scam",
+      "range": [
+        21,
+        21
+      ],
+      "_id": "sR11fdEK0rECnqnQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.sR11fdEK0rECnqnQ"
+    },
+    {
+      "text": "Covering Up Insane AI",
+      "range": [
+        22,
+        22
+      ],
+      "_id": "CVhaqarFYgjxqMEV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.CVhaqarFYgjxqMEV"
+    },
+    {
+      "text": "Testing New Bioware",
+      "range": [
+        23,
+        23
+      ],
+      "_id": "TxAMKmQ8sVcQ2ikD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.TxAMKmQ8sVcQ2ikD"
+    },
+    {
+      "text": "Harvesting Organs",
+      "range": [
+        24,
+        24
+      ],
+      "_id": "IyXQey1XYOZWOTcl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.IyXQey1XYOZWOTcl"
+    },
+    {
+      "text": "Management Cull",
+      "range": [
+        25,
+        25
+      ],
+      "_id": "r1RWHVRwVnuNvSy9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.r1RWHVRwVnuNvSy9"
+    },
+    {
+      "text": "Buying Up Patents",
+      "range": [
+        26,
+        26
+      ],
+      "_id": "EJ1c3M44Fy4Kskyz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.EJ1c3M44Fy4Kskyz"
+    },
+    {
+      "text": "Fixing Stock Levels",
+      "range": [
+        27,
+        27
+      ],
+      "_id": "t2V6WHWTAyvWZ13N",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.t2V6WHWTAyvWZ13N"
+    },
+    {
+      "text": "Interdepartment War",
+      "range": [
+        28,
+        28
+      ],
+      "_id": "ay1IkkVQqIKo6fgt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.ay1IkkVQqIKo6fgt"
+    },
+    {
+      "text": "Enforcing Copyright",
+      "range": [
+        29,
+        29
+      ],
+      "_id": "LNQaCpASzqNwD02J",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.LNQaCpASzqNwD02J"
+    },
+    {
+      "text": "Creating Subsidiaries",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "QEHk63RGYLh9Svcf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.QEHk63RGYLh9Svcf"
+    },
+    {
+      "text": "Product Flaw Cover Up",
+      "range": [
+        31,
+        31
+      ],
+      "_id": "WE8WXYCWGTsQxpgc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.WE8WXYCWGTsQxpgc"
+    },
+    {
+      "text": "New Product Launch",
+      "range": [
+        32,
+        32
+      ],
+      "_id": "2zJjYk2Mbh3g2bfR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.2zJjYk2Mbh3g2bfR"
+    },
+    {
+      "text": "Department Merger",
+      "range": [
+        33,
+        33
+      ],
+      "_id": "7bihgmqr4A6v2oen",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.7bihgmqr4A6v2oen"
+    },
+    {
+      "text": "Brainwashing Key Figures",
+      "range": [
+        34,
+        34
+      ],
+      "_id": "tppnBI6kSONhQVwr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.tppnBI6kSONhQVwr"
+    },
+    {
+      "text": "Abducting Street Kids",
+      "range": [
+        35,
+        35
+      ],
+      "_id": "rFfeE1ldyzNQPjY6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.rFfeE1ldyzNQPjY6"
+    },
+    {
+      "text": "Adulterating The Water",
+      "range": [
+        36,
+        36
+      ],
+      "_id": "t6ppMns784PC49OQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.t6ppMns784PC49OQ"
+    },
+    {
+      "text": "Marketing Surveillance",
+      "range": [
+        37,
+        37
+      ],
+      "_id": "XYYTMCoOQHjfYDf4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.XYYTMCoOQHjfYDf4"
+    },
+    {
+      "text": "Bid For Nation Status",
+      "range": [
+        38,
+        38
+      ],
+      "_id": "VsDDRq3MZ2NIPt0v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.VsDDRq3MZ2NIPt0v"
+    },
+    {
+      "text": "Hostile Takeover",
+      "range": [
+        39,
+        39
+      ],
+      "_id": "dMvcWo6MD8jBdF3n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.dMvcWo6MD8jBdF3n"
+    },
+    {
+      "text": "Arming Street Gangs",
+      "range": [
+        40,
+        40
+      ],
+      "_id": "ierBRl2sgtdfkMUb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.ierBRl2sgtdfkMUb"
+    },
+    {
+      "text": "Targeting Undesirables",
+      "range": [
+        41,
+        41
+      ],
+      "_id": "hGPHL9yAVqzJwG3p",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.hGPHL9yAVqzJwG3p"
+    },
+    {
+      "text": "Collecting Biometrics",
+      "range": [
+        42,
+        42
+      ],
+      "_id": "Uxr1PV2QNEw3Ug2i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.Uxr1PV2QNEw3Ug2i"
+    },
+    {
+      "text": "Testing New Synthetics",
+      "range": [
+        43,
+        43
+      ],
+      "_id": "66ME2rXLDE4RDxaD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.66ME2rXLDE4RDxaD"
+    },
+    {
+      "text": "Quantum Net Launch",
+      "range": [
+        44,
+        44
+      ],
+      "_id": "S6GTTued6F3EijuV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.S6GTTued6F3EijuV"
+    },
+    {
+      "text": "Buy Minor Nation State",
+      "range": [
+        45,
+        45
+      ],
+      "_id": "hX8mdXwPUlcKZP6N",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.hX8mdXwPUlcKZP6N"
+    },
+    {
+      "text": "Testing New Cyberware",
+      "range": [
+        46,
+        46
+      ],
+      "_id": "zTUTnyxY43YnWLd3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.zTUTnyxY43YnWLd3"
+    },
+    {
+      "text": "Political Assassination",
+      "range": [
+        47,
+        47
+      ],
+      "_id": "vhQjuRISvOLQQnFQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.vhQjuRISvOLQQnFQ"
+    },
+    {
+      "text": "Blackmailing Scientists",
+      "range": [
+        48,
+        48
+      ],
+      "_id": "BqJP6uq7l1V35fWQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.BqJP6uq7l1V35fWQ"
+    },
+    {
+      "text": "Extract Rival Employee",
+      "range": [
+        49,
+        49
+      ],
+      "_id": "xW4Qr4hStz6avQER",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.xW4Qr4hStz6avQER"
+    },
+    {
+      "text": "Hire Hostile Hackers",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "PKhT505xBLKIJZhu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.PKhT505xBLKIJZhu"
+    },
+    {
+      "text": "Preparing To Defect",
+      "range": [
+        51,
+        51
+      ],
+      "_id": "rLNLWQGKOCCgq05v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.rLNLWQGKOCCgq05v"
+    },
+    {
+      "text": "Looking For Own Cure",
+      "range": [
+        52,
+        52
+      ],
+      "_id": "0aNRJyQ7FRIqyPUi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.0aNRJyQ7FRIqyPUi"
+    },
+    {
+      "text": "Hidden Warehouses",
+      "range": [
+        53,
+        53
+      ],
+      "_id": "pl6Uheh3SX9Xz0zF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.pl6Uheh3SX9Xz0zF"
+    },
+    {
+      "text": "Channeling Funds",
+      "range": [
+        54,
+        54
+      ],
+      "_id": "Oy7VK73T2NNJcFnV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.Oy7VK73T2NNJcFnV"
+    },
+    {
+      "text": "Designing Bio-Plague",
+      "range": [
+        55,
+        55
+      ],
+      "_id": "Ea3iSxZESGQWXLCT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.Ea3iSxZESGQWXLCT"
+    },
+    {
+      "text": "Building Private Army",
+      "range": [
+        56,
+        56
+      ],
+      "_id": "whZq86Q2ylHEcJLQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.whZq86Q2ylHEcJLQ"
+    },
+    {
+      "text": "Covert Parallel Netsite",
+      "range": [
+        57,
+        57
+      ],
+      "_id": "ySfu2sBmsw17us5S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.ySfu2sBmsw17us5S"
+    },
+    {
+      "text": "Cloning Self",
+      "range": [
+        58,
+        58
+      ],
+      "_id": "Z17I0nvDWC68Fkj5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.Z17I0nvDWC68Fkj5"
+    },
+    {
+      "text": "Damaged Brand Salvage",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "a9zuxHhGuDcLP54t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.a9zuxHhGuDcLP54t"
+    },
+    {
+      "text": "Create False Charity",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "Siyr5SPdtcm5eCwC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.Siyr5SPdtcm5eCwC"
+    },
+    {
+      "text": "Assassinate Rivals",
+      "range": [
+        61,
+        61
+      ],
+      "_id": "btKh8zUbPNVN1d3u",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.btKh8zUbPNVN1d3u"
+    },
+    {
+      "text": "Adulterating Medicines",
+      "range": [
+        62,
+        62
+      ],
+      "_id": "3w8RhcjrltFP6nI6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.3w8RhcjrltFP6nI6"
+    },
+    {
+      "text": "Engineered Promotion",
+      "range": [
+        63,
+        63
+      ],
+      "_id": "N0WW06tmhL68tCHz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.N0WW06tmhL68tCHz"
+    },
+    {
+      "text": "Planning Rival's Exile",
+      "range": [
+        64,
+        64
+      ],
+      "_id": "yWXfp1fL5E08INAn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.yWXfp1fL5E08INAn"
+    },
+    {
+      "text": "Being Head-Hunted",
+      "range": [
+        65,
+        65
+      ],
+      "_id": "MmJE2IUbYZeHrBDR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.MmJE2IUbYZeHrBDR"
+    },
+    {
+      "text": "Faking Own Death",
+      "range": [
+        66,
+        66
+      ],
+      "_id": "UH1ejlHF6T85KmfO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.UH1ejlHF6T85KmfO"
+    },
+    {
+      "text": "Lost Bioweapon",
+      "range": [
+        67,
+        67
+      ],
+      "_id": "vvCY2jYWYfhtb3eH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.vvCY2jYWYfhtb3eH"
+    },
+    {
+      "text": "Cover Up Of Suicides",
+      "range": [
+        68,
+        68
+      ],
+      "_id": "bG7BFPWCazJ1CjV9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.bG7BFPWCazJ1CjV9"
+    },
+    {
+      "text": "Internal Investigation",
+      "range": [
+        69,
+        69
+      ],
+      "_id": "fuX5GMZyc9ru9ypR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.fuX5GMZyc9ru9ypR"
+    },
+    {
+      "text": "Automating Jobs",
+      "range": [
+        70,
+        70
+      ],
+      "_id": "lOChn6ehJpnOdwdU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.lOChn6ehJpnOdwdU"
+    },
+    {
+      "text": "Creating A War",
+      "range": [
+        71,
+        71
+      ],
+      "_id": "nThWZE4YfkZMn6Jo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.nThWZE4YfkZMn6Jo"
+    },
+    {
+      "text": "Buying Law Enforcers",
+      "range": [
+        72,
+        72
+      ],
+      "_id": "FRd9cyCoPKi545kP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.FRd9cyCoPKi545kP"
+    },
+    {
+      "text": "Real-Estate Purchases",
+      "range": [
+        73,
+        73
+      ],
+      "_id": "G2KWuEusyecjljDe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.G2KWuEusyecjljDe"
+    },
+    {
+      "text": "Phantom Accounting",
+      "range": [
+        74,
+        74
+      ],
+      "_id": "GDhBwysyWaTtpmH6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.GDhBwysyWaTtpmH6"
+    },
+    {
+      "text": "Adulterating Foods",
+      "range": [
+        75,
+        75
+      ],
+      "_id": "2VVZAB7VTMFyB8vW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.2VVZAB7VTMFyB8vW"
+    },
+    {
+      "text": "Manipulating Expenses",
+      "range": [
+        76,
+        76
+      ],
+      "_id": "ZHonARvlTfNzK0qI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.ZHonARvlTfNzK0qI"
+    },
+    {
+      "text": "Doctoring Records",
+      "range": [
+        77,
+        77
+      ],
+      "_id": "4QbAEa2d1tPE81uO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.4QbAEa2d1tPE81uO"
+    },
+    {
+      "text": "Wrecking Ecosystem",
+      "range": [
+        78,
+        78
+      ],
+      "_id": "tGG5K5J3em2zNNgr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.tGG5K5J3em2zNNgr"
+    },
+    {
+      "text": "Targeting Employees",
+      "range": [
+        79,
+        79
+      ],
+      "_id": "Yl2jrTuJfak0iCDc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.Yl2jrTuJfak0iCDc"
+    },
+    {
+      "text": "Creates Net Exploits",
+      "range": [
+        80,
+        80
+      ],
+      "_id": "kUDEOuccOdJdJLsa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.kUDEOuccOdJdJLsa"
+    },
+    {
+      "text": "Purchasing Start-Ups",
+      "range": [
+        81,
+        81
+      ],
+      "_id": "LICqVhzdUdD6IcKX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.LICqVhzdUdD6IcKX"
+    },
+    {
+      "text": "Eliminate R&amp;D Failure",
+      "range": [
+        82,
+        82
+      ],
+      "_id": "iiJXinS3PZmcqInX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.iiJXinS3PZmcqInX"
+    },
+    {
+      "text": "Supporting Coup",
+      "range": [
+        83,
+        83
+      ],
+      "_id": "MIBdjnp7gxWKCvqh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.MIBdjnp7gxWKCvqh"
+    },
+    {
+      "text": "Covering Up Blackmail",
+      "range": [
+        84,
+        84
+      ],
+      "_id": "J9c6e2gXIlNPaHve",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.J9c6e2gXIlNPaHve"
+    },
+    {
+      "text": "Slashing Wages",
+      "range": [
+        85,
+        85
+      ],
+      "_id": "1k0zdV0sD48zZ2YL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.1k0zdV0sD48zZ2YL"
+    },
+    {
+      "text": "Buying Bankers",
+      "range": [
+        86,
+        86
+      ],
+      "_id": "RTbspCf6c7kSIVvW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.RTbspCf6c7kSIVvW"
+    },
+    {
+      "text": "Framing Rival(s)",
+      "range": [
+        87,
+        87
+      ],
+      "_id": "Oiz7yubIoe3Df0Je",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.Oiz7yubIoe3Df0Je"
+    },
+    {
+      "text": "Intimidate Reviewers",
+      "range": [
+        88,
+        88
+      ],
+      "_id": "eQS9hZHtULLf3dDm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.eQS9hZHtULLf3dDm"
+    },
+    {
+      "text": "Wants To Be CEO",
+      "range": [
+        89,
+        89
+      ],
+      "_id": "KFJPpDSpY3bIBX0W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.KFJPpDSpY3bIBX0W"
+    },
+    {
+      "text": "Bribes Oversight Group",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "rKc7Dxey8ZeMVORq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.rKc7Dxey8ZeMVORq"
+    },
+    {
+      "text": "Triggering Civil War",
+      "range": [
+        91,
+        91
+      ],
+      "_id": "ak93UCF7LLeUyB4n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.ak93UCF7LLeUyB4n"
+    },
+    {
+      "text": "Funding Counterfeits",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "t4QpqQlo3s76WNhU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.t4QpqQlo3s76WNhU"
+    },
+    {
+      "text": "Doctoring Judicial Ais",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "jN3jh03vITltZE9e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.jN3jh03vITltZE9e"
+    },
+    {
+      "text": "Purchasing Hospitals",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "xslCC426cfiyoM54",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.xslCC426cfiyoM54"
+    },
+    {
+      "text": "Controlling Alt-Media",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "YGQEOXTmmWKJYVyQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.YGQEOXTmmWKJYVyQ"
+    },
+    {
+      "text": "Creating Monopoly",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "DCz7EZabFUu91R8I",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.DCz7EZabFUu91R8I"
+    },
+    {
+      "text": "False Advertising",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "J2arRGWnxZ9buupR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.J2arRGWnxZ9buupR"
+    },
+    {
+      "text": "Cutting Job Roles",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "b7fhx07UItt6at9b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.b7fhx07UItt6at9b"
+    },
+    {
+      "text": "Will Destroy Company",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "O44phX0QENX91n25",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.O44phX0QENX91n25"
+    },
+    {
+      "text": "Roll Twice",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "asPyXi9is4Te4m7P",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.asPyXi9is4Te4m7P"
+    }
+  ],
+  "folder": "HXvV7kpdcaIxfbLJ",
+  "sort": 0,
+  "_id": "Ajc1ujGCTT2Fnyx5",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Boardroom Manoeuvres is a simple D100 table designed to allow the GM to quickly generate the personal black operations of the corporate elite in the city. roll on it once for a single main project, or several times to determine a web of dubious company projects, and use them as a spring board for further intrigues.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570159169,
+    "modifiedTime": 1699652589913,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!Ajc1ujGCTT2Fnyx5"
+}

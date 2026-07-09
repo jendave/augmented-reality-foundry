@@ -1,0 +1,777 @@
+{
+  "name": "Name",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Darkus Garvey",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "8OlmYh6x0n9Vs6Ji",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.8OlmYh6x0n9Vs6Ji"
+    },
+    {
+      "text": "Logan Tanner",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "x6O2U6DJnE3t0Ito",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.x6O2U6DJnE3t0Ito"
+    },
+    {
+      "text": "The Pink Panzer",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "ZTQmfXagBlQQOv2q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.ZTQmfXagBlQQOv2q"
+    },
+    {
+      "text": "Vincent Conrad",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "axRQPU3sFfwl7XsE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.axRQPU3sFfwl7XsE"
+    },
+    {
+      "text": "Jinjiro Yasuda",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "YA8GZBfB48bIn67m",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.YA8GZBfB48bIn67m"
+    },
+    {
+      "text": "Hiroshima Black",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "AMJ7DOjQ76ScQfAB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.AMJ7DOjQ76ScQfAB"
+    },
+    {
+      "text": "Plastic Bernard",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "6V7kvGK4skJxIUUV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.6V7kvGK4skJxIUUV"
+    },
+    {
+      "text": "Dominic West",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "zDEgmQ4tMRb4SYOh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.zDEgmQ4tMRb4SYOh"
+    },
+    {
+      "text": "Tango Sinclair",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "ycoDRQoNfs3M2qLB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.ycoDRQoNfs3M2qLB"
+    },
+    {
+      "text": "Janik The Ghost",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "tmoa8WzUklQOuAss",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.tmoa8WzUklQOuAss"
+    },
+    {
+      "text": "Napoleon Dean",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "Zq4oVN7X5Rfq1unz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.Zq4oVN7X5Rfq1unz"
+    },
+    {
+      "text": "Trixie Paladin",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "xfwGkmwbWI2enP7v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.xfwGkmwbWI2enP7v"
+    },
+    {
+      "text": "Terence Van Stratten",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "G9fne8ePA7ggbXH3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.G9fne8ePA7ggbXH3"
+    },
+    {
+      "text": "Nip Lacey",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "PKgR2DI9EtY94Djr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.PKgR2DI9EtY94Djr"
+    },
+    {
+      "text": "Spiros Giannopoulos",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "fUqWDbkMVl4qhk7h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.fUqWDbkMVl4qhk7h"
+    },
+    {
+      "text": "Demi Oblique",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "lf8d8jsQ1V53mvVH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.lf8d8jsQ1V53mvVH"
+    },
+    {
+      "text": "Mike Bravo",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "L63y5BTjdvpZRD0n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.L63y5BTjdvpZRD0n"
+    },
+    {
+      "text": "Storm Haussmann",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "0NwJ2CQSao7EOyDQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.0NwJ2CQSao7EOyDQ"
+    },
+    {
+      "text": "Indigo Jones",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "VL8Isr0UpK4TTNrj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.VL8Isr0UpK4TTNrj"
+    },
+    {
+      "text": "Mildred Gaia",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "OsX0VUrTRxOwdwo7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.OsX0VUrTRxOwdwo7"
+    },
+    {
+      "text": "Joe Montero",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "AEDGpKI1faZ0XhGM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.AEDGpKI1faZ0XhGM"
+    },
+    {
+      "text": "Chance Baptiste",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "zjK9Ymi2QTYnYDc5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.zjK9Ymi2QTYnYDc5"
+    },
+    {
+      "text": "Oliver Mckee",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "7Z2HeEzSkXP4qDqV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.7Z2HeEzSkXP4qDqV"
+    },
+    {
+      "text": "Saber Numan",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "C9EmFXHAs80DCL73",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.C9EmFXHAs80DCL73"
+    },
+    {
+      "text": "Zaneta Zone",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "NcLPrus7bHBUoSpO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.NcLPrus7bHBUoSpO"
+    },
+    {
+      "text": "Brandon Skinner",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "zZzfVYiutwtBM3sz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.zZzfVYiutwtBM3sz"
+    },
+    {
+      "text": "Mina Radisson",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "kk9hK2uAbgAyNVyq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.kk9hK2uAbgAyNVyq"
+    },
+    {
+      "text": "Johnny Namibia",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "HLjthkvMXm6nGfSt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.HLjthkvMXm6nGfSt"
+    },
+    {
+      "text": "Aisha Hussein",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "hthBhGUaq6YKFztg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.hthBhGUaq6YKFztg"
+    },
+    {
+      "text": "Boyd Blackwood",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "jFWMtGx9GVO8ksLY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.jFWMtGx9GVO8ksLY"
+    },
+    {
+      "text": "Emmanuel King",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "0tlMMF9uPj1yjm3y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.0tlMMF9uPj1yjm3y"
+    },
+    {
+      "text": "Huey Ventura",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "TL9fyJUec91Crn3H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.TL9fyJUec91Crn3H"
+    },
+    {
+      "text": "Lorenzo Babylon",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "23GhHF7RnM2jnQhG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.23GhHF7RnM2jnQhG"
+    },
+    {
+      "text": "Thaddeus Schwartz",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "LvicSNgnVsMvmx3i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.LvicSNgnVsMvmx3i"
+    },
+    {
+      "text": "Lazarus Mendez",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "xAX0ezLcyPuMJSv3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.xAX0ezLcyPuMJSv3"
+    },
+    {
+      "text": "Maria Goldovskoya",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "fSo9QwMxDfTVgxsw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.fSo9QwMxDfTVgxsw"
+    },
+    {
+      "text": "Sady Sakura",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "u8XQZVW9b2H5CZxk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.u8XQZVW9b2H5CZxk"
+    },
+    {
+      "text": "Rudolph Washington",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "uHhbCPShkKvsCCla",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.uHhbCPShkKvsCCla"
+    },
+    {
+      "text": "Angel De Santo",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "ZdpDjerKnsxIQD5P",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.ZdpDjerKnsxIQD5P"
+    },
+    {
+      "text": "Dien Bien Phu",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "tpnzqus85hM1uMJW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.tpnzqus85hM1uMJW"
+    },
+    {
+      "text": "Otto Kruger",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "6RVv6eXRI3ixsPNq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.6RVv6eXRI3ixsPNq"
+    },
+    {
+      "text": "Pandora Frost",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "V17W4Mmq32VIo6dC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.V17W4Mmq32VIo6dC"
+    },
+    {
+      "text": "Buntaro 'Bushi' Tanaka",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "nRMjasIDYLnpa1Tg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.nRMjasIDYLnpa1Tg"
+    },
+    {
+      "text": "Scarlett Harvest",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "vjUWEJahD3f9uK3k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.vjUWEJahD3f9uK3k"
+    },
+    {
+      "text": "Ryan Edwards",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "O83YuDwB8RCFKJem",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.O83YuDwB8RCFKJem"
+    },
+    {
+      "text": "Slade Bennett",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "tdIBejhkFZ4ux6We",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.tdIBejhkFZ4ux6We"
+    },
+    {
+      "text": "Splicer Takeda",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "cGO5VyTB8Is2x8bd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.cGO5VyTB8Is2x8bd"
+    },
+    {
+      "text": "Kurt Kellerman",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "pIymuU2pstk2MPNx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.pIymuU2pstk2MPNx"
+    },
+    {
+      "text": "Heywood Nash",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "JwNXdF53tJOozY5y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.JwNXdF53tJOozY5y"
+    },
+    {
+      "text": "Manuel Override",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "NsZJ8uqPtJvLyvyC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1fbVZi8u2cG6qHmg.NsZJ8uqPtJvLyvyC"
+    }
+  ],
+  "folder": "zSEl74tKMvfweqFo",
+  "sort": 0,
+  "_id": "1fbVZi8u2cG6qHmg",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on the Name, Description, Weapon, Appearance/Demeanour and Relationship tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570449246,
+    "modifiedTime": 1700004579686,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!1fbVZi8u2cG6qHmg"
+}

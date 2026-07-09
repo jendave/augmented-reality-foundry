@@ -1,0 +1,777 @@
+{
+  "name": "Name 1",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Cortical",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "gJR7qOY9NI0C7cNi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.gJR7qOY9NI0C7cNi"
+    },
+    {
+      "text": "Subway",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "uCm4GblMQkBIK3zB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.uCm4GblMQkBIK3zB"
+    },
+    {
+      "text": "Radical",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "zX9eRbIf6lolyBGm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.zX9eRbIf6lolyBGm"
+    },
+    {
+      "text": "Binary",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "zCvlh8VG6SuRbuKk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.zCvlh8VG6SuRbuKk"
+    },
+    {
+      "text": "Fragile",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "qepbm8Vjb4ZUdI8o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.qepbm8Vjb4ZUdI8o"
+    },
+    {
+      "text": "Hate",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "aFkk7VDltsWkkoCQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.aFkk7VDltsWkkoCQ"
+    },
+    {
+      "text": "Electric",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "CoaKC8UYilYEhnst",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.CoaKC8UYilYEhnst"
+    },
+    {
+      "text": "Mobile",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "aEtd8LjfMAa7Aj2W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.aEtd8LjfMAa7Aj2W"
+    },
+    {
+      "text": "Endgame",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "z8o1f7BTfc14Cr4U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.z8o1f7BTfc14Cr4U"
+    },
+    {
+      "text": "Bubblegum",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "iGz7KbPoCyDycrN0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.iGz7KbPoCyDycrN0"
+    },
+    {
+      "text": "Biological",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "Y8YaURQWVkpqJsbr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.Y8YaURQWVkpqJsbr"
+    },
+    {
+      "text": "Shaolin",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "WBHB6iwedsAyidVQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.WBHB6iwedsAyidVQ"
+    },
+    {
+      "text": "Chrome",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "0smmZPaAOLLKyxdn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.0smmZPaAOLLKyxdn"
+    },
+    {
+      "text": "Polymer",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "TzifTIrKbolUHtBk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.TzifTIrKbolUHtBk"
+    },
+    {
+      "text": "Rudeboy",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "wFlfwXrff8ryyxSc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.wFlfwXrff8ryyxSc"
+    },
+    {
+      "text": "Terminal",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "pWsGZTUFROUm23BJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.pWsGZTUFROUm23BJ"
+    },
+    {
+      "text": "Shadow",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "bmMoW7JNUMen4QmP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.bmMoW7JNUMen4QmP"
+    },
+    {
+      "text": "Subsonic",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "khmS3SuUOMJRzHyv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.khmS3SuUOMJRzHyv"
+    },
+    {
+      "text": "Chemical",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "ObGvsMheULrZfV8X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.ObGvsMheULrZfV8X"
+    },
+    {
+      "text": "Chosen",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "jOljbIr6aEkVEuM5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.jOljbIr6aEkVEuM5"
+    },
+    {
+      "text": "Toxic",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "ZOuHLdg7X1tF1yKu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.ZOuHLdg7X1tF1yKu"
+    },
+    {
+      "text": "Steel",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "TQpdcuj6S7seylIN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.TQpdcuj6S7seylIN"
+    },
+    {
+      "text": "Waffen",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "FeCJWlf2sDplod7X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.FeCJWlf2sDplod7X"
+    },
+    {
+      "text": "Cannibal",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "s0jmN9BK4CKowLMo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.s0jmN9BK4CKowLMo"
+    },
+    {
+      "text": "Panzer",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "q5nO5y5g9ikJLoCT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.q5nO5y5g9ikJLoCT"
+    },
+    {
+      "text": "Gun",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "g2bN1aKGZb2DZDSn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.g2bN1aKGZb2DZDSn"
+    },
+    {
+      "text": "Disposable",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "abyAKbLNLkkIvW72",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.abyAKbLNLkkIvW72"
+    },
+    {
+      "text": "Iron",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "ZsXrt5uRFsQoFU0H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.ZsXrt5uRFsQoFU0H"
+    },
+    {
+      "text": "Speedball",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "8a6ZaQ5TpzQ4ppAD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.8a6ZaQ5TpzQ4ppAD"
+    },
+    {
+      "text": "AK",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "g29ysMBEFVNXyxm3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.g29ysMBEFVNXyxm3"
+    },
+    {
+      "text": "Liquid",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "1iTdIrVI6IEcLsed",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.1iTdIrVI6IEcLsed"
+    },
+    {
+      "text": "Junky",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "aT8kZ3WEgIaaDoqg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.aT8kZ3WEgIaaDoqg"
+    },
+    {
+      "text": "Instant",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "pe0a4WjSlKeFTERB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.pe0a4WjSlKeFTERB"
+    },
+    {
+      "text": "Zone",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "4Ll6OaEbGLIip1XS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.4Ll6OaEbGLIip1XS"
+    },
+    {
+      "text": "Sushi",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "QnO7gbBuahk931CP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.QnO7gbBuahk931CP"
+    },
+    {
+      "text": "Lucifer's",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "InoZFqCqMmsPKX4p",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.InoZFqCqMmsPKX4p"
+    },
+    {
+      "text": "Remodelled",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "fHRWVnMkIkpGmQxK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.fHRWVnMkIkpGmQxK"
+    },
+    {
+      "text": "Faceless",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "BSpx1VOiEytuECg6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.BSpx1VOiEytuECg6"
+    },
+    {
+      "text": "Vampire",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "UYWmRmqZXmPrYLAp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.UYWmRmqZXmPrYLAp"
+    },
+    {
+      "text": "Crosstown",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "Li4JECfpfHrPFr3f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.Li4JECfpfHrPFr3f"
+    },
+    {
+      "text": "Aryan",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "bK8RRCAPkIcKIqRK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.bK8RRCAPkIcKIqRK"
+    },
+    {
+      "text": "Spirit",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "jW18EFrWy5nht0tO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.jW18EFrWy5nht0tO"
+    },
+    {
+      "text": "Nomad",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "kKNEv8uOXaptmr2S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.kKNEv8uOXaptmr2S"
+    },
+    {
+      "text": "Hydraulic",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "qNKODhKg4QBQG9g7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.qNKODhKg4QBQG9g7"
+    },
+    {
+      "text": "Fractal",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "Y5OKsjdPZb6yZuds",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.Y5OKsjdPZb6yZuds"
+    },
+    {
+      "text": "Brain",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "fKk0TaepwV0IWNQs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.fKk0TaepwV0IWNQs"
+    },
+    {
+      "text": "Screaming",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "49tTJLordmfgQpWx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.49tTJLordmfgQpWx"
+    },
+    {
+      "text": "Lucid",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "mVDA0pM2gwkcbFCL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.mVDA0pM2gwkcbFCL"
+    },
+    {
+      "text": "Napalm",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "Bk0krlGGEPQ9yHVa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.Bk0krlGGEPQ9yHVa"
+    },
+    {
+      "text": "Happy",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "jnjhCXsOyASnY6oK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wXKMKFaCiuP4NYWO.jnjhCXsOyASnY6oK"
+    }
+  ],
+  "folder": "UF516sJdM2UFFkvf",
+  "sort": 100000,
+  "_id": "wXKMKFaCiuP4NYWO",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Name 1, Name 2, Description 1, Description 2, Description 3, Sphere of Influence and Relationship tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570185243,
+    "modifiedTime": 1699926507903,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!wXKMKFaCiuP4NYWO"
+}

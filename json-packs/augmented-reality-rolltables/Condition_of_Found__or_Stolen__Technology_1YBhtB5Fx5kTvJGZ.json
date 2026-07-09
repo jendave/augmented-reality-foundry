@@ -1,0 +1,177 @@
+{
+  "name": "Condition of Found (or Stolen) Technology",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Checquered history, well used, possible damaged",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "OUrQvoukmN8HPMgc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1YBhtB5Fx5kTvJGZ.OUrQvoukmN8HPMgc"
+    },
+    {
+      "text": "State-of-the-art, designer, cutting edge aesthetics",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "kQWzV7hXwGehZB2h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1YBhtB5Fx5kTvJGZ.kQWzV7hXwGehZB2h"
+    },
+    {
+      "text": "Buggy and unpredictable, resets to factory default",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "oXnyzQIUTOK4Sa4l",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1YBhtB5Fx5kTvJGZ.oXnyzQIUTOK4Sa4l"
+    },
+    {
+      "text": "Sought after but unstable R&amp;D prototype, defective",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "kHY5GbXn009XE3Fh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1YBhtB5Fx5kTvJGZ.kHY5GbXn009XE3Fh"
+    },
+    {
+      "text": "Obvious foreign counterfeit, compatibility issues",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "hxsvOQhOdfX3fC6T",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1YBhtB5Fx5kTvJGZ.hxsvOQhOdfX3fC6T"
+    },
+    {
+      "text": "Sturdy, basic, idiot-proof, in good working order",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "wXUk1P89QGHJrvBs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1YBhtB5Fx5kTvJGZ.wXUk1P89QGHJrvBs"
+    },
+    {
+      "text": "Military spec, bomb-proof, very robust, ugly",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "g9WxzAckwb10ruOZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1YBhtB5Fx5kTvJGZ.g9WxzAckwb10ruOZ"
+    },
+    {
+      "text": "Elegant design, but fragile, possibly bespoke",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "s99Aj3iwtyoCVhtv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1YBhtB5Fx5kTvJGZ.s99Aj3iwtyoCVhtv"
+    },
+    {
+      "text": "Unlicensed clone copy, brand new, can't be updated",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "6nRyRjINAlt4Tsrg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1YBhtB5Fx5kTvJGZ.6nRyRjINAlt4Tsrg"
+    },
+    {
+      "text": "Intuitive interface, plug-and-play, modular design",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "ZBU4nqKcfmzn6izR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1YBhtB5Fx5kTvJGZ.ZBU4nqKcfmzn6izR"
+    }
+  ],
+  "folder": "UTGjjpPfdHgDVdKy",
+  "sort": 100000,
+  "_id": "1YBhtB5Fx5kTvJGZ",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Condition of Found (or Stolen) Technology and Type of Device tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570409660,
+    "modifiedTime": 1699654597134,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!1YBhtB5Fx5kTvJGZ"
+}

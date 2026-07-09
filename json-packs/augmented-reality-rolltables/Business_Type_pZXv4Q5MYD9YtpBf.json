@@ -1,0 +1,177 @@
+{
+  "name": "Business Type",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "3D Printshop",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "dKgnZdk4kQYO4mDs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pZXv4Q5MYD9YtpBf.dKgnZdk4kQYO4mDs"
+    },
+    {
+      "text": "AR Designer",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "cDApy5dleEa7OCCB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pZXv4Q5MYD9YtpBf.cDApy5dleEa7OCCB"
+    },
+    {
+      "text": "City-Farm Stack",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "i2xXEgyHdl7wn70Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pZXv4Q5MYD9YtpBf.i2xXEgyHdl7wn70Y"
+    },
+    {
+      "text": "Cyber Support",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "s0nD8DHy0f14eT32",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pZXv4Q5MYD9YtpBf.s0nD8DHy0f14eT32"
+    },
+    {
+      "text": "Info Bank",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "0vMuwdQ2vla6IcDN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pZXv4Q5MYD9YtpBf.0vMuwdQ2vla6IcDN"
+    },
+    {
+      "text": "Assist Frames",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "ghCb4J0OaSmlMMKZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pZXv4Q5MYD9YtpBf.ghCb4J0OaSmlMMKZ"
+    },
+    {
+      "text": "Retro Crafts",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "uCnOMVMBnjhQXCCz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pZXv4Q5MYD9YtpBf.uCnOMVMBnjhQXCCz"
+    },
+    {
+      "text": "SCOP (Single Cell Organic Proteins) Franchise",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "ICZ1TPSEzjwNbaxM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pZXv4Q5MYD9YtpBf.ICZ1TPSEzjwNbaxM"
+    },
+    {
+      "text": "Sim Sense",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "qek3ujVOlrZ9CpEt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pZXv4Q5MYD9YtpBf.qek3ujVOlrZ9CpEt"
+    },
+    {
+      "text": "Puppet Rental",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "JPgm6TbY8tA7umth",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pZXv4Q5MYD9YtpBf.JPgm6TbY8tA7umth"
+    }
+  ],
+  "folder": "cv0epClNmHPBj0TF",
+  "sort": 0,
+  "_id": "pZXv4Q5MYD9YtpBf",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Business Type, Quality, Security and Status tables.</p><p></p><p>* Single Cell Organic Proteins - the nation’s favourite nutrient soup</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569706022,
+    "modifiedTime": 1699648880644,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!pZXv4Q5MYD9YtpBf"
+}

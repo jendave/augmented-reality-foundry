@@ -1,0 +1,777 @@
+{
+  "name": "Description 3",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Combat Gang",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "dCs9LfgAoHmh0yHT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.dCs9LfgAoHmh0yHT"
+    },
+    {
+      "text": "Skaters",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "WzGL2mfuP1fJz2za",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.WzGL2mfuP1fJz2za"
+    },
+    {
+      "text": "Martial Artists",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "0x8Sp0D70VqFU4kq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.0x8Sp0D70VqFU4kq"
+    },
+    {
+      "text": "Tech-Jackers",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "vMKXsiwg4unRPP1t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.vMKXsiwg4unRPP1t"
+    },
+    {
+      "text": "Party Artistes",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "YMO62oXG4TAJRKJV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.YMO62oXG4TAJRKJV"
+    },
+    {
+      "text": "Street Fighters",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "srPDepKlZLNumgCD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.srPDepKlZLNumgCD"
+    },
+    {
+      "text": "Wireheads",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "6aKZkD6PzQ4E66vn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.6aKZkD6PzQ4E66vn"
+    },
+    {
+      "text": "Go-Gang",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "g3tdjMHebrHa82tT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.g3tdjMHebrHa82tT"
+    },
+    {
+      "text": "Boosters",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "1jtASNgA2c2uL9gd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.1jtASNgA2c2uL9gd"
+    },
+    {
+      "text": "Combat Gang",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "ZyANXMrWjCyeQ9l6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.ZyANXMrWjCyeQ9l6"
+    },
+    {
+      "text": "Boosters",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "NVofdhChAcVkLaxd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.NVofdhChAcVkLaxd"
+    },
+    {
+      "text": "Martial Artists",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "0zQdufwAscLgHLwq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.0zQdufwAscLgHLwq"
+    },
+    {
+      "text": "Chromers",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "fSciBRZ92rKscA7Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.fSciBRZ92rKscA7Y"
+    },
+    {
+      "text": "Boosters",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "3sB22HibXYZWbSaQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.3sB22HibXYZWbSaQ"
+    },
+    {
+      "text": "Combat Gang",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "mrSZLwlNIWMK0ZGL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.mrSZLwlNIWMK0ZGL"
+    },
+    {
+      "text": "Chromers",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "8bnd62x1ARbNME0g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.8bnd62x1ARbNME0g"
+    },
+    {
+      "text": "Combat Gang",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "M4xjHfQKhLfvKjUL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.M4xjHfQKhLfvKjUL"
+    },
+    {
+      "text": "Party Artistes",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "NR2Vaq6Ia8oijurH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.NR2Vaq6Ia8oijurH"
+    },
+    {
+      "text": "Cultists",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "Aba4hVNIXQDzJEdj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.Aba4hVNIXQDzJEdj"
+    },
+    {
+      "text": "Combat Gang",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "N4Xu5Qb6AhYJC5IF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.N4Xu5Qb6AhYJC5IF"
+    },
+    {
+      "text": "Boosters",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "pgiKReSIHiTJagmh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.pgiKReSIHiTJagmh"
+    },
+    {
+      "text": "Chromers",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "xdKH0iiCQJilsDd1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.xdKH0iiCQJilsDd1"
+    },
+    {
+      "text": "Moto-Cultists",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "n8vRyktuFZIehZrg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.n8vRyktuFZIehZrg"
+    },
+    {
+      "text": "Pranksters",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "8frX7uuvP6zgFP4m",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.8frX7uuvP6zgFP4m"
+    },
+    {
+      "text": "Street Fighters",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "iyYj027y8b3zM1RZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.iyYj027y8b3zM1RZ"
+    },
+    {
+      "text": "Street Kids",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "RCD62E45liowGHh6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.RCD62E45liowGHh6"
+    },
+    {
+      "text": "Nihilists",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "juTl4014oTeKOX2A",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.juTl4014oTeKOX2A"
+    },
+    {
+      "text": "Chromers",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "pNlRSOUyh9hOnLvA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.pNlRSOUyh9hOnLvA"
+    },
+    {
+      "text": "Skaters",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "jEnolS0P6hGnnXgt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.jEnolS0P6hGnnXgt"
+    },
+    {
+      "text": "Guardians",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "wBgwkzo2ksXgjfuK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.wBgwkzo2ksXgjfuK"
+    },
+    {
+      "text": "Boosters",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "UNZQOpINbLLW3bOq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.UNZQOpINbLLW3bOq"
+    },
+    {
+      "text": "Street Kids",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "0RvNza7lnriW3v4g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.0RvNza7lnriW3v4g"
+    },
+    {
+      "text": "Combat Gang",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "ZQ4xclxIjFFULepo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.ZQ4xclxIjFFULepo"
+    },
+    {
+      "text": "Guardians",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "qylSHPYCzx97xSYC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.qylSHPYCzx97xSYC"
+    },
+    {
+      "text": "Street Fighters",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "TJHCXw0QFCuRtd5w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.TJHCXw0QFCuRtd5w"
+    },
+    {
+      "text": "Nihilists",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "YSflw0OyWxT7kNjg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.YSflw0OyWxT7kNjg"
+    },
+    {
+      "text": "Boosters",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "nfldK3SAjMFCUcCa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.nfldK3SAjMFCUcCa"
+    },
+    {
+      "text": "Nihilists",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "BvErUbX5fyCN7coA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.BvErUbX5fyCN7coA"
+    },
+    {
+      "text": "Skaters",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "DeDvYU9thBI1NG2m",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.DeDvYU9thBI1NG2m"
+    },
+    {
+      "text": "Go-Gang",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "gvIepPH1yzX96gFR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.gvIepPH1yzX96gFR"
+    },
+    {
+      "text": "Policlub",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "gSUHotEyp4LqatZt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.gSUHotEyp4LqatZt"
+    },
+    {
+      "text": "Guardians",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "yKbl0aAdP8Tw5mil",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.yKbl0aAdP8Tw5mil"
+    },
+    {
+      "text": "Go-Gang",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "x8OhmgTFRp0lkrN6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.x8OhmgTFRp0lkrN6"
+    },
+    {
+      "text": "Chromers",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "dpwsOyspcvnFAxgH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.dpwsOyspcvnFAxgH"
+    },
+    {
+      "text": "Policlub",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "6BhvEzWperQq2wfV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.6BhvEzWperQq2wfV"
+    },
+    {
+      "text": "Nihilists",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "t8hbFZ9cUKZQHWEc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.t8hbFZ9cUKZQHWEc"
+    },
+    {
+      "text": "Boosters",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "JOjBxmtZx5LdJF7u",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.JOjBxmtZx5LdJF7u"
+    },
+    {
+      "text": "Pranksters",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "eVNdKlSefZiPBO8f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.eVNdKlSefZiPBO8f"
+    },
+    {
+      "text": "Chromers",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "iWz5LL8N9W1A2VSv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.iWz5LL8N9W1A2VSv"
+    },
+    {
+      "text": "Party Artistes",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "cOBh1o3XuiFkSwRm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzysTEgDDYpf0LTN.cOBh1o3XuiFkSwRm"
+    }
+  ],
+  "folder": "UF516sJdM2UFFkvf",
+  "sort": 600000,
+  "_id": "NzysTEgDDYpf0LTN",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Name 1, Name 2, Description 1, Description 2, Description 3, Sphere of Influence and Relationship tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570185308,
+    "modifiedTime": 1699926507903,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!NzysTEgDDYpf0LTN"
+}

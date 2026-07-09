@@ -1,0 +1,177 @@
+{
+  "name": "Range",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Phoenix",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "Q3VISyxWEID3ZWtE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yUmR7XxYvFmdOuvi.Q3VISyxWEID3ZWtE"
+    },
+    {
+      "text": "Omni",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "CB99uKBFE6kfLj4S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yUmR7XxYvFmdOuvi.CB99uKBFE6kfLj4S"
+    },
+    {
+      "text": "AEX",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "Psr24JRmECkuweQr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yUmR7XxYvFmdOuvi.Psr24JRmECkuweQr"
+    },
+    {
+      "text": "Luxuria",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "Wf09CadvIPJegwyP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yUmR7XxYvFmdOuvi.Wf09CadvIPJegwyP"
+    },
+    {
+      "text": "Solaris",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "SqD4x8CwTXmyOGmM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yUmR7XxYvFmdOuvi.SqD4x8CwTXmyOGmM"
+    },
+    {
+      "text": "Rapide",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "Ww8NceWi8BQCsx8h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yUmR7XxYvFmdOuvi.Ww8NceWi8BQCsx8h"
+    },
+    {
+      "text": "Hydra",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "2Zx4lQUwODy0wLqq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yUmR7XxYvFmdOuvi.2Zx4lQUwODy0wLqq"
+    },
+    {
+      "text": "Eco+",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "dMhrsusCwLCr6YUV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yUmR7XxYvFmdOuvi.dMhrsusCwLCr6YUV"
+    },
+    {
+      "text": "Nexus",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "dtHuZPqaCKz6Qcyq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yUmR7XxYvFmdOuvi.dtHuZPqaCKz6Qcyq"
+    },
+    {
+      "text": "Platina",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "eRiFWE40dEO6DxFp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!yUmR7XxYvFmdOuvi.eRiFWE40dEO6DxFp"
+    }
+  ],
+  "folder": "20I59u1HEW8g551S",
+  "sort": 1,
+  "_id": "yUmR7XxYvFmdOuvi",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Brand Name, Range, Product Line and Marketing Style tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569830928,
+    "modifiedTime": 1699850778360,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!yUmR7XxYvFmdOuvi"
+}

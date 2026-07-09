@@ -1,0 +1,777 @@
+{
+  "name": "Conversation Topic",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "The state of the city",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "LkAz7DBugE3zm3Cn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.LkAz7DBugE3zm3Cn"
+    },
+    {
+      "text": "Big combat sports fan",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "9TDFvnV3d78FWFZ9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.9TDFvnV3d78FWFZ9"
+    },
+    {
+      "text": "Driverless vehicles",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "tVu8gMhfFnA78snB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.tVu8gMhfFnA78snB"
+    },
+    {
+      "text": "Gangs in the area",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "DdJr42MbkzN3f2du",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.DdJr42MbkzN3f2du"
+    },
+    {
+      "text": "Their huge family",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "GgttCh2Y8ZfH8dYw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.GgttCh2Y8ZfH8dYw"
+    },
+    {
+      "text": "Extreme alt-politics",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "EHylfhdbJQOUQlXl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.EHylfhdbJQOUQlXl"
+    },
+    {
+      "text": "Their tricked out vehicle",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "3i34C4USYvcS8rLg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.3i34C4USYvcS8rLg"
+    },
+    {
+      "text": "The ecopocalypse",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "SghhytU70YVukiWt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.SghhytU70YVukiWt"
+    },
+    {
+      "text": "Conspiracy theories",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "dRCi91h5m2xjtgFU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.dRCi91h5m2xjtgFU"
+    },
+    {
+      "text": "Cod philosophy",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "XwinqOBCsGVbkgh2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.XwinqOBCsGVbkgh2"
+    },
+    {
+      "text": "Classic rock music",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "6IyqXNvZojAUHyth",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.6IyqXNvZojAUHyth"
+    },
+    {
+      "text": "How connected they are",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "ftAW2xmRfCnEJ15h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.ftAW2xmRfCnEJ15h"
+    },
+    {
+      "text": "The erratic weather",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "TRtNjnvKQxBcRH6x",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.TRtNjnvKQxBcRH6x"
+    },
+    {
+      "text": "Favourite TV shows",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "XtsBRUwvGytLUXlj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.XtsBRUwvGytLUXlj"
+    },
+    {
+      "text": "Cyberware brands",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "8TfCN1rbTrWb8Y0b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.8TfCN1rbTrWb8Y0b"
+    },
+    {
+      "text": "The recent/ongoing war",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "Wywxg4kDC61oBXPa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.Wywxg4kDC61oBXPa"
+    },
+    {
+      "text": "They used to be rich",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "a5vdxC3N71Ndu8wW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.a5vdxC3N71Ndu8wW"
+    },
+    {
+      "text": "Racist tirades",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "dnIF8dIOfLhD3yhc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.dnIF8dIOfLhD3yhc"
+    },
+    {
+      "text": "Corporate gossip (fake)",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "nOotMSKmp2xTh2gf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.nOotMSKmp2xTh2gf"
+    },
+    {
+      "text": "Kung-fu movies",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "LgnMgoPriSaILYuN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.LgnMgoPriSaILYuN"
+    },
+    {
+      "text": "Was once a surgeon",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "0Eeyzi6gLFq5ijFN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.0Eeyzi6gLFq5ijFN"
+    },
+    {
+      "text": "Their sexual conquests",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "AiX1Peg3UFXAwjqp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.AiX1Peg3UFXAwjqp"
+    },
+    {
+      "text": "Reality TV shows suck",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "UWBmmaMI8A1en5si",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.UWBmmaMI8A1en5si"
+    },
+    {
+      "text": "Their deep dislike of AR",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "SrqIAQq8jCjYotmh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.SrqIAQq8jCjYotmh"
+    },
+    {
+      "text": "Their pet synthetic goat",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "6kKppmDG8UwiDfvW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.6kKppmDG8UwiDfvW"
+    },
+    {
+      "text": "Global politics",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "Nhl66cFTS3UuA8Jm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.Nhl66cFTS3UuA8Jm"
+    },
+    {
+      "text": "The spectre of terrorism",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "LhFf8FO43Z95CaTn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.LhFf8FO43Z95CaTn"
+    },
+    {
+      "text": "Hi-tech weaponry",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "iNorYrHCWfoZaEuS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.iNorYrHCWfoZaEuS"
+    },
+    {
+      "text": "Their many ex-partners",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "zj16rtpc9QGILruD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.zj16rtpc9QGILruD"
+    },
+    {
+      "text": "Their work on their PhD",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "uQhy425lAejav7ED",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.uQhy425lAejav7ED"
+    },
+    {
+      "text": "Their missing daughter",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "3kgP4NhCRMjjOfbw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.3kgP4NhCRMjjOfbw"
+    },
+    {
+      "text": "Rampant crime",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "VHlF1rgmuFH42TRf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.VHlF1rgmuFH42TRf"
+    },
+    {
+      "text": "The latest VR games",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "iBIihkU6vtnS9KOW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.iBIihkU6vtnS9KOW"
+    },
+    {
+      "text": "Their favourite eateries",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "JRgx6Lk7kMH5WXQu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.JRgx6Lk7kMH5WXQu"
+    },
+    {
+      "text": "Info-Socialist revolution",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "4pz18ix5ZPIYB4hG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.4pz18ix5ZPIYB4hG"
+    },
+    {
+      "text": "Their aggressive cancer",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "yhhOhsRz2VuTKE9t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.yhhOhsRz2VuTKE9t"
+    },
+    {
+      "text": "Disdain for the police",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "uQMjcObugPvM8G14",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.uQMjcObugPvM8G14"
+    },
+    {
+      "text": "Was once a pilot",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "G9sfNyKDxxxSt6RD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.G9sfNyKDxxxSt6RD"
+    },
+    {
+      "text": "Today's youth/drugs",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "ojPCg1GPyK7L7kl4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.ojPCg1GPyK7L7kl4"
+    },
+    {
+      "text": "The rich/poor divide",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "QBeznJfeyWUHwuj3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.QBeznJfeyWUHwuj3"
+    },
+    {
+      "text": "Desire to be an actor",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "TmKPEhWfdEzVu9nt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.TmKPEhWfdEzVu9nt"
+    },
+    {
+      "text": "The ethics of cloning",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "2AdsID76Iihss0HO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.2AdsID76Iihss0HO"
+    },
+    {
+      "text": "Endorses brands (paid)",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "BCPHj6U2jvVcL0rJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.BCPHj6U2jvVcL0rJ"
+    },
+    {
+      "text": "Making own net show",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "4tQmcd8Pp7nHirLI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.4tQmcd8Pp7nHirLI"
+    },
+    {
+      "text": "Pushing PCs for a job",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "yLKHXZkf8aog05fL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.yLKHXZkf8aog05fL"
+    },
+    {
+      "text": "The welfare system",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "I7sXZBP313oEdtik",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.I7sXZBP313oEdtik"
+    },
+    {
+      "text": "Getting out the business",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "FevDeSmd38d35EfP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.FevDeSmd38d35EfP"
+    },
+    {
+      "text": "Extreme sex SimStims",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "uh6W0vEwyrLNXZBK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.uh6W0vEwyrLNXZBK"
+    },
+    {
+      "text": "State of their slum-cube",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "S1eYXcf8VkYfaK20",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.S1eYXcf8VkYfaK20"
+    },
+    {
+      "text": "How they live in the cab",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "YruLh8cJxH7mZ0se",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!r1SlGvUxWFSp6gx2.YruLh8cJxH7mZ0se"
+    }
+  ],
+  "folder": "doPllvlsFqECp9Es",
+  "sort": 3,
+  "_id": "r1SlGvUxWFSp6gx2",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Appearance, Nationality, Conversation Topic, Demeanour and Gender tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570032268,
+    "modifiedTime": 1699652035972,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!r1SlGvUxWFSp6gx2"
+}

@@ -1,0 +1,177 @@
+{
+  "name": "Peccadilloes, Vices, Addictions",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Child-like Sex Dolls or Synthetics",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "hxQ8UvdcXsIeNuaz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DucGtnHL96UfS0FI.hxQ8UvdcXsIeNuaz"
+    },
+    {
+      "text": "Prohibited Designer Narcotics",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "nV54sGN9EmO6a6JT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DucGtnHL96UfS0FI.nV54sGN9EmO6a6JT"
+    },
+    {
+      "text": "Street legal, But harmful - Alcohol/Caffeine/Nicotine",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "4kRMoK7FNLFZKZFB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DucGtnHL96UfS0FI.4kRMoK7FNLFZKZFB"
+    },
+    {
+      "text": "SimStim/SimSense/VR Gaming",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "zBm5TCSzi058GsrA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DucGtnHL96UfS0FI.zBm5TCSzi058GsrA"
+    },
+    {
+      "text": "Atrocity Images or Footage",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "WPGcgPeoMvZ3TtWj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DucGtnHL96UfS0FI.WPGcgPeoMvZ3TtWj"
+    },
+    {
+      "text": "Prostitutes (Secretly Same Sex?) (see Street Walkers)",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "Xc3AzzbHmQXBQiCy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DucGtnHL96UfS0FI.Xc3AzzbHmQXBQiCy"
+    },
+    {
+      "text": "Pornographic Material (Particular Acts or Fetish?)",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "tOBMD8yJ0xHaQrCh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DucGtnHL96UfS0FI.tOBMD8yJ0xHaQrCh"
+    },
+    {
+      "text": "Bizarre Fetish Wear or Activity",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "8thbBJyMSXo6ZwT4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DucGtnHL96UfS0FI.8thbBJyMSXo6ZwT4"
+    },
+    {
+      "text": "Pain/Sexual Violence (Towards Self or Others)",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "64uV1Kv5ZGQcHOKO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DucGtnHL96UfS0FI.64uV1Kv5ZGQcHOKO"
+    },
+    {
+      "text": "Abuses Synthetic (or Real) Animals",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "UgSeWf9luPBUlj0b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DucGtnHL96UfS0FI.UgSeWf9luPBUlj0b"
+    }
+  ],
+  "folder": "NRKOGYO2FF2nyKJn",
+  "sort": 0,
+  "_id": "DucGtnHL96UfS0FI",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on \"Peccadilloes, Vices, Addictions\" and Level of Need tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570045481,
+    "modifiedTime": 1699652214894,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!DucGtnHL96UfS0FI"
+}

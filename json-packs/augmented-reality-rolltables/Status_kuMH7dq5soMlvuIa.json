@@ -1,0 +1,177 @@
+{
+  "name": "Status",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Start Up",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "TZ16hWGxowJV2ksh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kuMH7dq5soMlvuIa.TZ16hWGxowJV2ksh"
+    },
+    {
+      "text": "Closing Down",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "skOxyMg0xcrEwLFJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kuMH7dq5soMlvuIa.skOxyMg0xcrEwLFJ"
+    },
+    {
+      "text": "Struggling",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "Vf1WQwfeIApgMT7F",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kuMH7dq5soMlvuIa.Vf1WQwfeIApgMT7F"
+    },
+    {
+      "text": "Profitable",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "hyR7XrLfGIqwpwYk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kuMH7dq5soMlvuIa.hyR7XrLfGIqwpwYk"
+    },
+    {
+      "text": "High Demand",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "FIGcrGS7TxbVj7vL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kuMH7dq5soMlvuIa.FIGcrGS7TxbVj7vL"
+    },
+    {
+      "text": "Haemorrhaging",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "V1z466EDN0HNBO07",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kuMH7dq5soMlvuIa.V1z466EDN0HNBO07"
+    },
+    {
+      "text": "For Sale",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "YdSJvGqoFKU4m2PV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kuMH7dq5soMlvuIa.YdSJvGqoFKU4m2PV"
+    },
+    {
+      "text": "Franchise",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "GSo7KbJFa7KHQ7uu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kuMH7dq5soMlvuIa.GSo7KbJFa7KHQ7uu"
+    },
+    {
+      "text": "Criminal Front",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "GlFKx2zKcqDKLMSG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kuMH7dq5soMlvuIa.GlFKx2zKcqDKLMSG"
+    },
+    {
+      "text": "Bad Reputation",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "pt2MWMfzglFWgxPH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!kuMH7dq5soMlvuIa.pt2MWMfzglFWgxPH"
+    }
+  ],
+  "folder": "cv0epClNmHPBj0TF",
+  "sort": 3,
+  "_id": "kuMH7dq5soMlvuIa",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Business Type, Quality, Security and Status tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569706042,
+    "modifiedTime": 1699644213065,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!kuMH7dq5soMlvuIa"
+}

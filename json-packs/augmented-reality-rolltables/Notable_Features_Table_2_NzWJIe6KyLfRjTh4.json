@@ -1,0 +1,177 @@
+{
+  "name": "Notable Features Table 2",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Abandoned Edifice",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "kLrqvPtlK2caDGR3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzWJIe6KyLfRjTh4.kLrqvPtlK2caDGR3"
+    },
+    {
+      "text": "Repurposed As (Roll Again)",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "VaEixsy6COnDJEmh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzWJIe6KyLfRjTh4.VaEixsy6COnDJEmh"
+    },
+    {
+      "text": "Front For Corporate Activity",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "dbLEGnzbQwHtlyvc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzWJIe6KyLfRjTh4.dbLEGnzbQwHtlyvc"
+    },
+    {
+      "text": "Front For Criminal Activity",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "sqIAx3j4yMLA5287",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzWJIe6KyLfRjTh4.sqIAx3j4yMLA5287"
+    },
+    {
+      "text": "Hidden Squatters",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "5LhLRThH9ivO7qVr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzWJIe6KyLfRjTh4.5LhLRThH9ivO7qVr"
+    },
+    {
+      "text": "Obscured By Ad Screens (see @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.4wwXFtYEc5AaovG0]{What's On That Big Screen?})",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "ZPQ7ZQzqVpHOIERr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzWJIe6KyLfRjTh4.ZPQ7ZQzqVpHOIERr"
+    },
+    {
+      "text": "Nano 'Grown'",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "9x0VsVERqNWE3OrA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzWJIe6KyLfRjTh4.9x0VsVERqNWE3OrA"
+    },
+    {
+      "text": "Incomplete",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "6uywtisiAakR2pR4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzWJIe6KyLfRjTh4.6uywtisiAakR2pR4"
+    },
+    {
+      "text": "Self Sufficient",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "PjkkWhGjpOa2EOL7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzWJIe6KyLfRjTh4.PjkkWhGjpOa2EOL7"
+    },
+    {
+      "text": "Crumbling Cheapcrete",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "VdXwCaMl9mZzqpns",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NzWJIe6KyLfRjTh4.VdXwCaMl9mZzqpns"
+    }
+  ],
+  "folder": "6uM2lzeQEGOnlUfF",
+  "sort": 2,
+  "_id": "NzWJIe6KyLfRjTh4",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on this table to find to find if the building has any notable features.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569640566,
+    "modifiedTime": 1699582602884,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!NzWJIe6KyLfRjTh4"
+}

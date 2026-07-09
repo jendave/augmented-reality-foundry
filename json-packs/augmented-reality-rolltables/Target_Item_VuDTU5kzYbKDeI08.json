@@ -1,0 +1,777 @@
+{
+  "name": "Target Item",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Neural Processor",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "Hp0PoQXe8AnArDFQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.Hp0PoQXe8AnArDFQ"
+    },
+    {
+      "text": "Vintage Wine",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "jCDp3U2oIjXgvnaZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.jCDp3U2oIjXgvnaZ"
+    },
+    {
+      "text": "Photograph(s)",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "NjKmWNWnJkvvgOuK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.NjKmWNWnJkvvgOuK"
+    },
+    {
+      "text": "IFF Tags",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "QBYA5W5UZh7LYaUd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.QBYA5W5UZh7LYaUd"
+    },
+    {
+      "text": "Narcotic",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "Zfxl8wOLOXhhptbc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.Zfxl8wOLOXhhptbc"
+    },
+    {
+      "text": "Weapon",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "UZTrnc9WAL2M3M1l",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.UZTrnc9WAL2M3M1l"
+    },
+    {
+      "text": "ID Card",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "24l32ehnMsnrrRhB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.24l32ehnMsnrrRhB"
+    },
+    {
+      "text": "Jewellery",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "lbVNqXe2hAczZAer",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.lbVNqXe2hAczZAer"
+    },
+    {
+      "text": "Software",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "MdEvjFNTfVs1A1Qo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.MdEvjFNTfVs1A1Qo"
+    },
+    {
+      "text": "Security Passcard",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "TCJC6SqvZvLtjTq5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.TCJC6SqvZvLtjTq5"
+    },
+    {
+      "text": "Target's DNA",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "PdbZ4aOvpgRwqVyf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.PdbZ4aOvpgRwqVyf"
+    },
+    {
+      "text": "Cybermodem",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "RSvbRFETEMcq9cPm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.RSvbRFETEMcq9cPm"
+    },
+    {
+      "text": "Offline Digital Files",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "6fA5UauD5Nved8vJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.6fA5UauD5Nved8vJ"
+    },
+    {
+      "text": "Hard Drive",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "fMZxyIGkvrd6IYVV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.fMZxyIGkvrd6IYVV"
+    },
+    {
+      "text": "Designer Virus",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "bJeY9HA5l9XnG6Nk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.bJeY9HA5l9XnG6Nk"
+    },
+    {
+      "text": "Attache Case",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "kKOABzzz06h35Q3z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.kKOABzzz06h35Q3z"
+    },
+    {
+      "text": "Data/Vid Chip",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "v8xVOWsFdTRTuyoA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.v8xVOWsFdTRTuyoA"
+    },
+    {
+      "text": "Holdall of Drugs",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "7etRqyUFxXd0tCv5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.7etRqyUFxXd0tCv5"
+    },
+    {
+      "text": "Vehicle",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "pozlWG3yujA6ZUUP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.pozlWG3yujA6ZUUP"
+    },
+    {
+      "text": "Keys/Key Card",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "6QI8Va8eLA1KxtLa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.6QI8Va8eLA1KxtLa"
+    },
+    {
+      "text": "Computer Virus",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "wgpDTwlpZ5Bm6vkc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.wgpDTwlpZ5Bm6vkc"
+    },
+    {
+      "text": "Cybernetic Limb",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "75JrzXSXL2epgFGI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.75JrzXSXL2epgFGI"
+    },
+    {
+      "text": "Synthetic Brain",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "bQOQnAre37SripBM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.bQOQnAre37SripBM"
+    },
+    {
+      "text": "Personality Module",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "EPJL5U7QUocGmaKx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.EPJL5U7QUocGmaKx"
+    },
+    {
+      "text": "Cell Phone/Agent",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "ewcnP9k9Z1s2udc8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.ewcnP9k9Z1s2udc8"
+    },
+    {
+      "text": "Exo-Womb",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "pJuGpDn0hPYVTHak",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.pJuGpDn0hPYVTHak"
+    },
+    {
+      "text": "Hardcopy Schematic",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "pRCYRab460WfZEoN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.pRCYRab460WfZEoN"
+    },
+    {
+      "text": "Military ICE Breaker",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "9jQPfWP9UDoEQCr1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.9jQPfWP9UDoEQCr1"
+    },
+    {
+      "text": "Nano Fabricator",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "A2HnFkSeSkm04MXC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.A2HnFkSeSkm04MXC"
+    },
+    {
+      "text": "Antique Katana",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "B2ngYFDLMBwPGJnb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.B2ngYFDLMBwPGJnb"
+    },
+    {
+      "text": "Cloned Coca leaf",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "1vJE0mil2v70FBun",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.1vJE0mil2v70FBun"
+    },
+    {
+      "text": "Antidote/Medicine",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "fK1y6WSvbSEadvim",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.fK1y6WSvbSEadvim"
+    },
+    {
+      "text": "Human eye/Thumb",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "MCNdXtErWwCfoaSj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.MCNdXtErWwCfoaSj"
+    },
+    {
+      "text": "Artificial Intelligence",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "OPxyvM88GVAkHDcK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.OPxyvM88GVAkHDcK"
+    },
+    {
+      "text": "Cybernetic Optics",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "pBVs966dd6liRrK5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.pBVs966dd6liRrK5"
+    },
+    {
+      "text": "SimStim Recording",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "J9G3ZwBNNupCpqdP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.J9G3ZwBNNupCpqdP"
+    },
+    {
+      "text": "Robot",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "uAPVexE8wSDYhsjY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.uAPVexE8wSDYhsjY"
+    },
+    {
+      "text": "Operating System",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "Gkhb9vc3n0OWwAhp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.Gkhb9vc3n0OWwAhp"
+    },
+    {
+      "text": "Tablet Device",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "GFCrQpyNWZZePXi2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.GFCrQpyNWZZePXi2"
+    },
+    {
+      "text": "Memory Chip",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "FGphQtoXKCLMSPfG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.FGphQtoXKCLMSPfG"
+    },
+    {
+      "text": "Server",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "QAdIVVSUJ4COEyHl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.QAdIVVSUJ4COEyHl"
+    },
+    {
+      "text": "Holdall of Cash",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "5pYktt8wdn8AFt2w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.5pYktt8wdn8AFt2w"
+    },
+    {
+      "text": "Bioware",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "yY2hgpRtHR42IyFC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.yY2hgpRtHR42IyFC"
+    },
+    {
+      "text": "Augmented Pet",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "nHmudcXAzLD8Dfr3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.nHmudcXAzLD8Dfr3"
+    },
+    {
+      "text": "Chemical",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "NRTXFuwi1T2W6Jb7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.NRTXFuwi1T2W6Jb7"
+    },
+    {
+      "text": "Human Organ(s)",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "CMM9q1uGAXZEH9Lp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.CMM9q1uGAXZEH9Lp"
+    },
+    {
+      "text": "Patient In Cryo Vat",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "jPpIe26YkMXjBvmF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.jPpIe26YkMXjBvmF"
+    },
+    {
+      "text": "Work of Art",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "YaDRs6uL6x5yIhUQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.YaDRs6uL6x5yIhUQ"
+    },
+    {
+      "text": "Drone/Remote",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "Bj2KZsz3pgRjZ1KC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.Bj2KZsz3pgRjZ1KC"
+    },
+    {
+      "text": "Cybernetic Implant",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "rmPjKNcOvgmAz4PB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VuDTU5kzYbKDeI08.rmPjKNcOvgmAz4PB"
+    }
+  ],
+  "folder": "oO1mcebGOOYKS7GG",
+  "sort": 3,
+  "_id": "VuDTU5kzYbKDeI08",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Client, Want, Action and Target Item tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570389692,
+    "modifiedTime": 1699654296462,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!VuDTU5kzYbKDeI08"
+}

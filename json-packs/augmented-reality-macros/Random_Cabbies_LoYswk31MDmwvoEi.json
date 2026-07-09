@@ -1,0 +1,27 @@
+{
+  "name": "Random Cabbies",
+  "type": "script",
+  "_id": "LoYswk31MDmwvoEi",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\ntry {\n    let rollTablesUUIDPrefix = \"Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.\";\n\n    let title = \"<h3>Random Cabbies</h3>\";\n\n    const appearanceTable = await fromUuid(rollTablesUUIDPrefix + \"furEiJ1WH8B00qW8\");\n    let appearanceRoll = await appearanceTable.roll();\n    let appearance = appearanceRoll.results[0].text;\n\n    const nationalityTable = await fromUuid(rollTablesUUIDPrefix + \"jnUXB1vmA1bPSa7O\");\n    let nationalityRoll = await nationalityTable.roll();\n    let nationality = nationalityRoll.results[0].text;\n\n    const conversationTopicTable = await fromUuid(rollTablesUUIDPrefix + \"r1SlGvUxWFSp6gx2\");\n    let conversationTopicRoll = await conversationTopicTable.roll();\n    let conversationTopic = conversationTopicRoll.results[0].text;\n\n    const demeanourTable = await fromUuid(rollTablesUUIDPrefix + \"88FkIZSEL1jN3fub\");\n    let demeanourRoll = await demeanourTable.roll();\n    let demeanour = demeanourRoll.results[0].text;\n\n    const genderTable = await fromUuid(rollTablesUUIDPrefix + \"V8ONNipLiOtZhDNZ\");\n    let genderRoll = await genderTable.roll();\n    let gender = genderRoll.results[0].text;\n\n    let message = \"Appearance: \" + appearance + \"<br>\";\n    message += \"Nationality: \" + nationality + \"<br>\";\n    message += \"Conversation Topic: \" + conversationTopic + \"<br>\";\n    message += \"Demeanour: \" + demeanour + \"<br>\";\n    message += \"Gender: \" + gender + \"<br>\";\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.329",
+    "createdTime": 1699857563047,
+    "modifiedTime": 1721407394028,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!macros!LoYswk31MDmwvoEi"
+}

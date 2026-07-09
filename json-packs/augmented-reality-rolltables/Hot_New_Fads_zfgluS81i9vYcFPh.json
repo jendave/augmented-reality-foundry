@@ -1,0 +1,177 @@
+{
+  "name": "Hot New Fads",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Everybody loves neutraceuticals",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "gLH5UxhNkxTHH5EM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zfgluS81i9vYcFPh.gLH5UxhNkxTHH5EM"
+    },
+    {
+      "text": "Weatherproof glowing ponchos",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "00hEdWTgu8qhsq7H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zfgluS81i9vYcFPh.00hEdWTgu8qhsq7H"
+    },
+    {
+      "text": "Slacktivist angst-lit forums",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "WrsElazTJyJfkOrT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zfgluS81i9vYcFPh.WrsElazTJyJfkOrT"
+    },
+    {
+      "text": "Smeat™ (smart meat; pick flavour)",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "suJvc2j3FxgQi3Fv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zfgluS81i9vYcFPh.suJvc2j3FxgQi3Fv"
+    },
+    {
+      "text": "Zone dancing in public places",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "R3DaF8g93Vx8WqgU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zfgluS81i9vYcFPh.R3DaF8g93Vx8WqgU"
+    },
+    {
+      "text": "Expensive Sumo Food® kale shakes",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "gmPe79NjMA36uhrR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zfgluS81i9vYcFPh.gmPe79NjMA36uhrR"
+    },
+    {
+      "text": "Randomiser-app-driven conversation",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "cTmb5KQKJEflTSgt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zfgluS81i9vYcFPh.cTmb5KQKJEflTSgt"
+    },
+    {
+      "text": "Freak Fighter brand endorsements",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "YY9Ok97SaUxOxIxG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zfgluS81i9vYcFPh.YY9Ok97SaUxOxIxG"
+    },
+    {
+      "text": "Info-socialism - secret-free society",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "S85BXIAiyWSNMppL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zfgluS81i9vYcFPh.S85BXIAiyWSNMppL"
+    },
+    {
+      "text": "Fabrics change colour with mood",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "GRi519Y60FRP9Lsq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zfgluS81i9vYcFPh.GRi519Y60FRP9Lsq"
+    }
+  ],
+  "folder": "zGQqV29PjqpCt7n5",
+  "sort": 3,
+  "_id": "zfgluS81i9vYcFPh",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>What’s in this week?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570513345,
+    "modifiedTime": 1699656094917,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!zfgluS81i9vYcFPh"
+}

@@ -1,0 +1,177 @@
+{
+  "name": "Condition",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "More Dirt Than Paint",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "JWesFfHLNs9oXU5B",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!neBHEYghazTEHDqg.JWesFfHLNs9oXU5B"
+    },
+    {
+      "text": "Factory Fresh",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "wgpLvrh1xdSueLlC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!neBHEYghazTEHDqg.wgpLvrh1xdSueLlC"
+    },
+    {
+      "text": "Rust Bucket",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "b0rJeAjjZkhQ7yad",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!neBHEYghazTEHDqg.b0rJeAjjZkhQ7yad"
+    },
+    {
+      "text": "Held Together By Epoxy",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "C9H6VYFxDOBREJLA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!neBHEYghazTEHDqg.C9H6VYFxDOBREJLA"
+    },
+    {
+      "text": "Well Maintained",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "RGkwQk7Nb9O66Wol",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!neBHEYghazTEHDqg.RGkwQk7Nb9O66Wol"
+    },
+    {
+      "text": "Partial Respray",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "2K6Up0nxSEt5flt6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!neBHEYghazTEHDqg.2K6Up0nxSEt5flt6"
+    },
+    {
+      "text": "Mobile Trashcan",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "2Na3HShBUR2LyvPL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!neBHEYghazTEHDqg.2Na3HShBUR2LyvPL"
+    },
+    {
+      "text": "Burned Out Engine",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "AsSvW8s49Krqent0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!neBHEYghazTEHDqg.AsSvW8s49Krqent0"
+    },
+    {
+      "text": "Dents and Scratches",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "MAtm7fC7B88cRPi3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!neBHEYghazTEHDqg.MAtm7fC7B88cRPi3"
+    },
+    {
+      "text": "Overtly Armoured",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "CGsrR9iJmiTWNcEv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!neBHEYghazTEHDqg.CGsrR9iJmiTWNcEv"
+    }
+  ],
+  "folder": "oAmaA9LLRbAAz4UN",
+  "sort": 2,
+  "_id": "neBHEYghazTEHDqg",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Activity, Notable Features and Condition tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569885646,
+    "modifiedTime": 1699648948361,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!neBHEYghazTEHDqg"
+}

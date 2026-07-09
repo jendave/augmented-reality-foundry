@@ -1,0 +1,27 @@
+{
+  "name": "One Man's Trash...",
+  "type": "script",
+  "_id": "aUaC9BjqSxCS5B9x",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let rollTablesUUIDPrefix = \"Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.\";\n\n    let title = \"<h3>One Man's Trash...?</h3>\";\n\n    const oneMansTrashTable = await fromUuid(rollTablesUUIDPrefix + \"pUjJJy6YTISP6uEC\");\n    let oneMansTrashRoll = await oneMansTrashTable.roll();\n    let oneMansTrash = oneMansTrashRoll.results[0].text;\n\n    let message = \"One Man's Trash...: \" + oneMansTrash + \"<br>\";\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.329",
+    "createdTime": 1700005727802,
+    "modifiedTime": 1721407386217,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!macros!aUaC9BjqSxCS5B9x"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "That's Infotainment",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "20I59u1HEW8g551S",
+  "folder": "8pYm7Gqe6NtxvRgt",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569830826,
+    "modifiedTime": 1699570985827,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!folders!20I59u1HEW8g551S"
+}

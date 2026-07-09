@@ -1,0 +1,1527 @@
+{
+  "name": "Smells",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Cigarette Smoke",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "LLUeA95TmxyXNqUO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.LLUeA95TmxyXNqUO"
+    },
+    {
+      "text": "Cheap Perfume",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "6WcSpnoaIg96pRPQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.6WcSpnoaIg96pRPQ"
+    },
+    {
+      "text": "Expensive Cologne",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "HMLIje5n8AAX8cTM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.HMLIje5n8AAX8cTM"
+    },
+    {
+      "text": "Exhaust Fumes",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "URSJzB7Ua8p3GSBC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.URSJzB7Ua8p3GSBC"
+    },
+    {
+      "text": "Stale Refuse",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "kHtL6b9BvHbo9DHI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.kHtL6b9BvHbo9DHI"
+    },
+    {
+      "text": "Urine",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "EnMAu9PaLN1z0adx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.EnMAu9PaLN1z0adx"
+    },
+    {
+      "text": "Vomit",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "YccIcTvFU0A25Ekr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.YccIcTvFU0A25Ekr"
+    },
+    {
+      "text": "Burning Plastic",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "kteaGLC7iiNDC0WG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.kteaGLC7iiNDC0WG"
+    },
+    {
+      "text": "Ash",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "GlNn125M0IM42t8N",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.GlNn125M0IM42t8N"
+    },
+    {
+      "text": "Acrid Chemicals",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "6W7iqYxcbjF8apNy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.6W7iqYxcbjF8apNy"
+    },
+    {
+      "text": "Cordite",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "4j62fniW5oLVNFJh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.4j62fniW5oLVNFJh"
+    },
+    {
+      "text": "Blood",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "fVvQlpQVITh3e2vP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.fVvQlpQVITh3e2vP"
+    },
+    {
+      "text": "Wet Hair",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "XYo3WWlzB67n80d4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.XYo3WWlzB67n80d4"
+    },
+    {
+      "text": "Motor Oil",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "glfuaDLOelA3ashf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.glfuaDLOelA3ashf"
+    },
+    {
+      "text": "Faeces",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "ivzgJIcJsl5il0nX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.ivzgJIcJsl5il0nX"
+    },
+    {
+      "text": "Soda Pop Sweetness",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "jKdkZCiFr1lrVzkL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.jKdkZCiFr1lrVzkL"
+    },
+    {
+      "text": "Noodles",
+      "range": [
+        17,
+        17
+      ],
+      "_id": "fy7hj7vKjwdbhILR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.fy7hj7vKjwdbhILR"
+    },
+    {
+      "text": "Rubber",
+      "range": [
+        18,
+        18
+      ],
+      "_id": "7ClLoUCCmP6w0drF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.7ClLoUCCmP6w0drF"
+    },
+    {
+      "text": "Burnt Meat",
+      "range": [
+        19,
+        19
+      ],
+      "_id": "0gg5MZ7Ks4rrCYlc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.0gg5MZ7Ks4rrCYlc"
+    },
+    {
+      "text": "Dirty Sneakers",
+      "range": [
+        20,
+        20
+      ],
+      "_id": "iS9klz4aywCqu0sT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.iS9klz4aywCqu0sT"
+    },
+    {
+      "text": "Fried Food",
+      "range": [
+        21,
+        21
+      ],
+      "_id": "LYIyLIzf1YSXt8Gx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.LYIyLIzf1YSXt8Gx"
+    },
+    {
+      "text": "Beer",
+      "range": [
+        22,
+        22
+      ],
+      "_id": "MXDXP8Kna07fT3Bk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.MXDXP8Kna07fT3Bk"
+    },
+    {
+      "text": "Perfumed Bleach",
+      "range": [
+        23,
+        23
+      ],
+      "_id": "d0jrbT4TWSEN9dcT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.d0jrbT4TWSEN9dcT"
+    },
+    {
+      "text": "Body Odour",
+      "range": [
+        24,
+        24
+      ],
+      "_id": "OjaIFJZpIM0f1m1g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.OjaIFJZpIM0f1m1g"
+    },
+    {
+      "text": "Varnish",
+      "range": [
+        25,
+        25
+      ],
+      "_id": "EKF48BESpnlwLD4x",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.EKF48BESpnlwLD4x"
+    },
+    {
+      "text": "Insecticide",
+      "range": [
+        26,
+        26
+      ],
+      "_id": "fsCSbHqkLNj6guby",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.fsCSbHqkLNj6guby"
+    },
+    {
+      "text": "Soap",
+      "range": [
+        27,
+        27
+      ],
+      "_id": "v4PnZnG38cgOEAOH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.v4PnZnG38cgOEAOH"
+    },
+    {
+      "text": "Sulphur",
+      "range": [
+        28,
+        28
+      ],
+      "_id": "DV5hQ3SoQBjhSlkg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.DV5hQ3SoQBjhSlkg"
+    },
+    {
+      "text": "Hairspray",
+      "range": [
+        29,
+        29
+      ],
+      "_id": "o2PxLB3X3jLBHzER",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.o2PxLB3X3jLBHzER"
+    },
+    {
+      "text": "Printed Polyamides",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "Pn5FIfLbP33hLg2a",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.Pn5FIfLbP33hLg2a"
+    },
+    {
+      "text": "Hydraulic Fluid",
+      "range": [
+        31,
+        31
+      ],
+      "_id": "NV3QP7T44Wys1ghp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.NV3QP7T44Wys1ghp"
+    },
+    {
+      "text": "Coffee",
+      "range": [
+        32,
+        32
+      ],
+      "_id": "LNOy01a9MhbLPbT2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.LNOy01a9MhbLPbT2"
+    },
+    {
+      "text": "Resin",
+      "range": [
+        33,
+        33
+      ],
+      "_id": "sBeEE9XoqLkQnPg9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.sBeEE9XoqLkQnPg9"
+    },
+    {
+      "text": "Antiseptic",
+      "range": [
+        34,
+        34
+      ],
+      "_id": "qEagt71nUB90fhVv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.qEagt71nUB90fhVv"
+    },
+    {
+      "text": "Candy",
+      "range": [
+        35,
+        35
+      ],
+      "_id": "ULpRz7VXYnGR8M93",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.ULpRz7VXYnGR8M93"
+    },
+    {
+      "text": "Mint",
+      "range": [
+        36,
+        36
+      ],
+      "_id": "n2MTMegVrI1lbeok",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.n2MTMegVrI1lbeok"
+    },
+    {
+      "text": "Salt",
+      "range": [
+        37,
+        37
+      ],
+      "_id": "oqLWB6QTy9DrCD2R",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.oqLWB6QTy9DrCD2R"
+    },
+    {
+      "text": "Tea",
+      "range": [
+        38,
+        38
+      ],
+      "_id": "JpNSG9xrgG9527aO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.JpNSG9xrgG9527aO"
+    },
+    {
+      "text": "Fresh Sweat",
+      "range": [
+        39,
+        39
+      ],
+      "_id": "qDLWMy4llpBvzATC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.qDLWMy4llpBvzATC"
+    },
+    {
+      "text": "Infected Tissue",
+      "range": [
+        40,
+        40
+      ],
+      "_id": "O28UdpndGQSuWo2g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.O28UdpndGQSuWo2g"
+    },
+    {
+      "text": "Paint",
+      "range": [
+        41,
+        41
+      ],
+      "_id": "WluOsTIVZBNtqJTU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.WluOsTIVZBNtqJTU"
+    },
+    {
+      "text": "Mold &amp; Mildew",
+      "range": [
+        42,
+        42
+      ],
+      "_id": "Hil2P4rHzARxAR8E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.Hil2P4rHzARxAR8E"
+    },
+    {
+      "text": "Baby Powder",
+      "range": [
+        43,
+        43
+      ],
+      "_id": "RwA7q4ju61WS6MIz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.RwA7q4ju61WS6MIz"
+    },
+    {
+      "text": "Acid",
+      "range": [
+        44,
+        44
+      ],
+      "_id": "S4KuOdrZWOUG8AB2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.S4KuOdrZWOUG8AB2"
+    },
+    {
+      "text": "Feet",
+      "range": [
+        45,
+        45
+      ],
+      "_id": "J3SfbbbXk6wExRmT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.J3SfbbbXk6wExRmT"
+    },
+    {
+      "text": "Cinnamon",
+      "range": [
+        46,
+        46
+      ],
+      "_id": "3nFpblaEXVixReKo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.3nFpblaEXVixReKo"
+    },
+    {
+      "text": "Leather",
+      "range": [
+        47,
+        47
+      ],
+      "_id": "2lnoirCQe2gxvDzm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.2lnoirCQe2gxvDzm"
+    },
+    {
+      "text": "Lemon Zest",
+      "range": [
+        48,
+        48
+      ],
+      "_id": "zTc9WarE6k6q3xxI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.zTc9WarE6k6q3xxI"
+    },
+    {
+      "text": "Damp",
+      "range": [
+        49,
+        49
+      ],
+      "_id": "GV0tZDG7tg3ZG8uZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.GV0tZDG7tg3ZG8uZ"
+    },
+    {
+      "text": "Rot",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "hfaFPs2zZvLt9K5g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.hfaFPs2zZvLt9K5g"
+    },
+    {
+      "text": "Overheated Circuit Board",
+      "range": [
+        51,
+        51
+      ],
+      "_id": "JTAj44N0YFsvgFoR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.JTAj44N0YFsvgFoR"
+    },
+    {
+      "text": "Cigars",
+      "range": [
+        52,
+        52
+      ],
+      "_id": "CG7jYbl2W3ebhjOp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.CG7jYbl2W3ebhjOp"
+    },
+    {
+      "text": "Floral Scent",
+      "range": [
+        53,
+        53
+      ],
+      "_id": "zTjAFYEzgsnmdBWG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.zTjAFYEzgsnmdBWG"
+    },
+    {
+      "text": "Pizza",
+      "range": [
+        54,
+        54
+      ],
+      "_id": "qWZtmMZA91wJnkjv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.qWZtmMZA91wJnkjv"
+    },
+    {
+      "text": "Spices",
+      "range": [
+        55,
+        55
+      ],
+      "_id": "Qgau7znL0ql7zmin",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.Qgau7znL0ql7zmin"
+    },
+    {
+      "text": "Lavender",
+      "range": [
+        56,
+        56
+      ],
+      "_id": "uuoZ5EgoD92Lx5q4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.uuoZ5EgoD92Lx5q4"
+    },
+    {
+      "text": "Sewage",
+      "range": [
+        57,
+        57
+      ],
+      "_id": "lOKYwBMuIglIfWUn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.lOKYwBMuIglIfWUn"
+    },
+    {
+      "text": "Pine",
+      "range": [
+        58,
+        58
+      ],
+      "_id": "CrWpusNlwpLwTXbA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.CrWpusNlwpLwTXbA"
+    },
+    {
+      "text": "Crack Cocaine",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "wRbdn8caukPYX2YA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.wRbdn8caukPYX2YA"
+    },
+    {
+      "text": "Cat Piss",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "5N7KlizGuNK2zhoo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.5N7KlizGuNK2zhoo"
+    },
+    {
+      "text": "Gas",
+      "range": [
+        61,
+        61
+      ],
+      "_id": "XUKauxwwp461j3Vz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.XUKauxwwp461j3Vz"
+    },
+    {
+      "text": "Latex",
+      "range": [
+        62,
+        62
+      ],
+      "_id": "V4ifwyt6yRsvWrU8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.V4ifwyt6yRsvWrU8"
+    },
+    {
+      "text": "French Fries",
+      "range": [
+        63,
+        63
+      ],
+      "_id": "gvEIjDMIGhHnYZUc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.gvEIjDMIGhHnYZUc"
+    },
+    {
+      "text": "New Cyberlimb Smell",
+      "range": [
+        64,
+        64
+      ],
+      "_id": "TOdAKX4MPt2himTv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.TOdAKX4MPt2himTv"
+    },
+    {
+      "text": "Sex",
+      "range": [
+        65,
+        65
+      ],
+      "_id": "iTWsLS3UYyZvELjO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.iTWsLS3UYyZvELjO"
+    },
+    {
+      "text": "Menthol",
+      "range": [
+        66,
+        66
+      ],
+      "_id": "xp60bC65A0s5Fa8g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.xp60bC65A0s5Fa8g"
+    },
+    {
+      "text": "Cheese",
+      "range": [
+        67,
+        67
+      ],
+      "_id": "jLmSwlQCDSNB3Zn4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.jLmSwlQCDSNB3Zn4"
+    },
+    {
+      "text": "Wet Concrete",
+      "range": [
+        68,
+        68
+      ],
+      "_id": "59Vf8hbpeCnLXa0W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.59Vf8hbpeCnLXa0W"
+    },
+    {
+      "text": "Disinfectant",
+      "range": [
+        69,
+        69
+      ],
+      "_id": "4oNFCD0GVClUffkZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.4oNFCD0GVClUffkZ"
+    },
+    {
+      "text": "Polythene",
+      "range": [
+        70,
+        70
+      ],
+      "_id": "6dbm9y4XxkhotxuK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.6dbm9y4XxkhotxuK"
+    },
+    {
+      "text": "Nail Varnish",
+      "range": [
+        71,
+        71
+      ],
+      "_id": "FPd9hX9rLMyMggtr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.FPd9hX9rLMyMggtr"
+    },
+    {
+      "text": "Whiskey",
+      "range": [
+        72,
+        72
+      ],
+      "_id": "xnyrj64Jw84gZX0y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.xnyrj64Jw84gZX0y"
+    },
+    {
+      "text": "Coconut Oil",
+      "range": [
+        73,
+        73
+      ],
+      "_id": "NNfhrtQIaz03BHeO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.NNfhrtQIaz03BHeO"
+    },
+    {
+      "text": "Vinyl",
+      "range": [
+        74,
+        74
+      ],
+      "_id": "GwY0vVVRpKGBpdNM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.GwY0vVVRpKGBpdNM"
+    },
+    {
+      "text": "Wine",
+      "range": [
+        75,
+        75
+      ],
+      "_id": "yuy7t3wl6DC2HuyG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.yuy7t3wl6DC2HuyG"
+    },
+    {
+      "text": "Acetone",
+      "range": [
+        76,
+        76
+      ],
+      "_id": "5QLpdbNydb3HzSUf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.5QLpdbNydb3HzSUf"
+    },
+    {
+      "text": "Cookies",
+      "range": [
+        77,
+        77
+      ],
+      "_id": "zJzaXMerEBBJQQdB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.zJzaXMerEBBJQQdB"
+    },
+    {
+      "text": "Ammonia",
+      "range": [
+        78,
+        78
+      ],
+      "_id": "KJsJdPELe9eaRHqX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.KJsJdPELe9eaRHqX"
+    },
+    {
+      "text": "Biodiesel",
+      "range": [
+        79,
+        79
+      ],
+      "_id": "Yb5z2kugkXrUUb25",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.Yb5z2kugkXrUUb25"
+    },
+    {
+      "text": "Polish",
+      "range": [
+        80,
+        80
+      ],
+      "_id": "zEYIMFW5dyLIQIPl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.zEYIMFW5dyLIQIPl"
+    },
+    {
+      "text": "Printer Toner",
+      "range": [
+        81,
+        81
+      ],
+      "_id": "QGGh3uKSUhDqn3eZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.QGGh3uKSUhDqn3eZ"
+    },
+    {
+      "text": "Dust",
+      "range": [
+        82,
+        82
+      ],
+      "_id": "So5jojqJE3bwabfC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.So5jojqJE3bwabfC"
+    },
+    {
+      "text": "Glasscleaner",
+      "range": [
+        83,
+        83
+      ],
+      "_id": "WvcQPgazo615wU4b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.WvcQPgazo615wU4b"
+    },
+    {
+      "text": "Musty",
+      "range": [
+        84,
+        84
+      ],
+      "_id": "P3RH9kqoh4VwMkdw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.P3RH9kqoh4VwMkdw"
+    },
+    {
+      "text": "Opiates",
+      "range": [
+        85,
+        85
+      ],
+      "_id": "VHGrHkTPM8BMp6YI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.VHGrHkTPM8BMp6YI"
+    },
+    {
+      "text": "Raw Meat",
+      "range": [
+        86,
+        86
+      ],
+      "_id": "5UcXB2P7YNtSGywk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.5UcXB2P7YNtSGywk"
+    },
+    {
+      "text": "Laminate",
+      "range": [
+        87,
+        87
+      ],
+      "_id": "VJp6pDd4EsdpAwhj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.VJp6pDd4EsdpAwhj"
+    },
+    {
+      "text": "Weed/Skunk",
+      "range": [
+        88,
+        88
+      ],
+      "_id": "TTpFu65q1llECD2T",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.TTpFu65q1llECD2T"
+    },
+    {
+      "text": "Drains",
+      "range": [
+        89,
+        89
+      ],
+      "_id": "K2Kp4qGrWsgANycv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.K2Kp4qGrWsgANycv"
+    },
+    {
+      "text": "Thinners",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "4HZflOCnNf6JjRc5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.4HZflOCnNf6JjRc5"
+    },
+    {
+      "text": "Old Food",
+      "range": [
+        91,
+        91
+      ],
+      "_id": "UMOKzNihKygbFefM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.UMOKzNihKygbFefM"
+    },
+    {
+      "text": "Incense",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "kX6DP0XbMBKg2sGh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.kX6DP0XbMBKg2sGh"
+    },
+    {
+      "text": "Fused Wiring",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "EX4bkKIsKqa8a8dt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.EX4bkKIsKqa8a8dt"
+    },
+    {
+      "text": "Lube",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "n5wePmPYIgU7RcNa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.n5wePmPYIgU7RcNa"
+    },
+    {
+      "text": "Sour Milk",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "R8CkptU7KMVFB3bK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.R8CkptU7KMVFB3bK"
+    },
+    {
+      "text": "Garlic",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "uz5WPRanmVIABub1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.uz5WPRanmVIABub1"
+    },
+    {
+      "text": "Alcohol Sanitiser",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "6isoJWsfp9TZxqHZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.6isoJWsfp9TZxqHZ"
+    },
+    {
+      "text": "Cheap Aftershave",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "rn1ZycRgyRC67Ddy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.rn1ZycRgyRC67Ddy"
+    },
+    {
+      "text": "Gun Oil",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "fFusQYtue4VpSdPV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.fFusQYtue4VpSdPV"
+    },
+    {
+      "text": "Roll Twice",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "quvrIgmbxO33h3oM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.quvrIgmbxO33h3oM"
+    }
+  ],
+  "folder": "ypSDgDocT5uhhzmf",
+  "sort": 0,
+  "_id": "iWLStgXfVtgeHzIK",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p><strong>Sense &amp; The City - Smells </strong>is a <strong>D100 </strong>table designed to allow the GM to quickly generate the most prominent scent in a given city area, or as a PC enters an interior space such as a room or elevator. roll on it once for a particularly dominant smell, or several times for a more interesting olfactory experience.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569755739,
+    "modifiedTime": 1699845213023,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!iWLStgXfVtgeHzIK"
+}

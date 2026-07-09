@@ -1,0 +1,777 @@
+{
+  "name": "Sphere of Influence",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Deal in prohibited neural boosts, intellect stims, sakawa charms",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "UaiMoLxc9BPRkFyn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.UaiMoLxc9BPRkFyn"
+    },
+    {
+      "text": "Operate a stash house in the old Metro system and fence goods",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "fvfL17pGEHBUMwvI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.fvfL17pGEHBUMwvI"
+    },
+    {
+      "text": "Import, crack and distribute VR games and hong Kong action sims",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "lcXzJGAyMPOnvN4V",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.lcXzJGAyMPOnvN4V"
+    },
+    {
+      "text": "Hack and tap electronic infrastructure, for a price",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "vewP6pQPnJR602mB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.vewP6pQPnJR602mB"
+    },
+    {
+      "text": "Will put on one hell of a party in exchange for hot information",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "YIJyjt1wwEWEoFz6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.YIJyjt1wwEWEoFz6"
+    },
+    {
+      "text": "Trade in counterfeit sportswear, tickets and fan merchandise",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "DeH6x6uooAA0zxV7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.DeH6x6uooAA0zxV7"
+    },
+    {
+      "text": "Supply banned pornographic SimStims and vid-chips",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "t1CFHOB4hUJipVPo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.t1CFHOB4hUJipVPo"
+    },
+    {
+      "text": "Sell Chiba-grade imported black market implants and upgrades",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "c4GnW5NHatAkDzb9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.c4GnW5NHatAkDzb9"
+    },
+    {
+      "text": "Prolific dumpster-divers and parts-hunters; trade and exchange",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "udSoCaaJkhrDcrJj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.udSoCaaJkhrDcrJj"
+    },
+    {
+      "text": "Premier suppliers of street-level artificial pheremones",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "q6to3gHohOFqoqpv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.q6to3gHohOFqoqpv"
+    },
+    {
+      "text": "Leader hires out her most neurologically damaged boys as muscle",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "LUkGrE3ySCDjXyTU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.LUkGrE3ySCDjXyTU"
+    },
+    {
+      "text": "Currently making a killing in the underground fighting scene",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "zaFCCtOz5aC3y0ZQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.zaFCCtOz5aC3y0ZQ"
+    },
+    {
+      "text": "Bargain basement prices for spectacular acts of arson",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "NHYuUYcDSjPlOBsk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.NHYuUYcDSjPlOBsk"
+    },
+    {
+      "text": "Specialists in smash and grab jobs, for money and firearms",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "IuCMwdKSf5eix0D7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.IuCMwdKSf5eix0D7"
+    },
+    {
+      "text": "Own and operate a warehouse nightclub in the factory district",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "tMm9xAIEXqoJ2asi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.tMm9xAIEXqoJ2asi"
+    },
+    {
+      "text": "Digital surveillance and stalking, seamless manipulation of video",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "jxk044WFetusdWpT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.jxk044WFetusdWpT"
+    },
+    {
+      "text": "Happy to be hired as rooftop street guides and expert sneaks",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "3P8fkqG1h0rzN6RT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.3P8fkqG1h0rzN6RT"
+    },
+    {
+      "text": "Doctor common drugs, altering their composition and legality",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "lEhnpvBBJ4jjXZBU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.lEhnpvBBJ4jjXZBU"
+    },
+    {
+      "text": "Take protection money, cook drugs and provide bespoke curses",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "KWyl9wGjbdY9eroD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.KWyl9wGjbdY9eroD"
+    },
+    {
+      "text": "Work protection on a number of chip-hop bars and clubs",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "8k4JlIGbN4GrLPJu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.8k4JlIGbN4GrLPJu"
+    },
+    {
+      "text": "3D-print their own implanted weapons (fragile)",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "a9MjVnemmrsgZaim",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.a9MjVnemmrsgZaim"
+    },
+    {
+      "text": "Several members are skilled AR coders",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "KdHELGFFPfpTK81e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.KdHELGFFPfpTK81e"
+    },
+    {
+      "text": "Make their money dealing in heavy weapons and stolen cars",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "a9qTiD8VjBCcJ4I0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.a9qTiD8VjBCcJ4I0"
+    },
+    {
+      "text": "Grow synthetic opium in hydroponic blisters and sell it on",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "QEUTz2MnkGkZ4Wo4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.QEUTz2MnkGkZ4Wo4"
+    },
+    {
+      "text": "Target small-fry fixers and gangers and steal their shit to sell on",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "VmzkOHhdetM9oDFP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.VmzkOHhdetM9oDFP"
+    },
+    {
+      "text": "Sell stolen fashions, counterfeits and cloned credit cards",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "95S7yCqM4SrA7D8L",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.95S7yCqM4SrA7D8L"
+    },
+    {
+      "text": "Professional-level hits and heists, unfettered by rules of warfare",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "kH8X8k9DMxyUcXCM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.kH8X8k9DMxyUcXCM"
+    },
+    {
+      "text": "Promise them in-game bitcoins and they'll perform any 'quest'",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "6TRQkgQqZY2de13Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.6TRQkgQqZY2de13Y"
+    },
+    {
+      "text": "Fat allowances and legal back-up allow extreme road race stunts",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "Xh2pVG5eyauJLAHE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.Xh2pVG5eyauJLAHE"
+    },
+    {
+      "text": "Smuggle Russian military hardware and protect 'their' hab stacks",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "yvoPR3wjYG60k0iy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.yvoPR3wjYG60k0iy"
+    },
+    {
+      "text": "Slave traffickers and suppliers of stolen consumer electronics",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "Uom5hdFuwAbAwx4e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.Uom5hdFuwAbAwx4e"
+    },
+    {
+      "text": "Suspected organ-leggers and kidnappers",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "tlMEW4nBnTH7b4lK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.tlMEW4nBnTH7b4lK"
+    },
+    {
+      "text": "Experts at depopulating hab stacks quickly and brutally",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "485LsKxu8ZEp5FUt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.485LsKxu8ZEp5FUt"
+    },
+    {
+      "text": "Brew their own alcohol, trade it for SCOP; do gig work for SCOP",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "ezvCrxxjsYadbu4f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.ezvCrxxjsYadbu4f"
+    },
+    {
+      "text": "Skin-traders and flesh peddlars, buy and sell pretty young things",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "W74dzzRF97zuOz0F",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.W74dzzRF97zuOz0F"
+    },
+    {
+      "text": "Find and sell corpses or parts to the body banks",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "eM5jumnorbAmEdfr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.eM5jumnorbAmEdfr"
+    },
+    {
+      "text": "Self-styled free-company, market themselves as street condottieri",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "CjFnopw0BSTI5izw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.CjFnopw0BSTI5izw"
+    },
+    {
+      "text": "Fence and sell black market cybernetic limbs of dubious origin",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "GIcQOioLuNys4w0D",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.GIcQOioLuNys4w0D"
+    },
+    {
+      "text": "Selling synthesized copies of virulent, manufactured hIVPlus strain",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "bsRxsEnCX8NAIYpe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.bsRxsEnCX8NAIYpe"
+    },
+    {
+      "text": "Will consider any job for new bikes or fuel; flaky, unpredictable",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "VPFZu0MHPe3p3TRm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.VPFZu0MHPe3p3TRm"
+    },
+    {
+      "text": "Frighteningly good propagandists and excellent rent-a-thugs",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "GCuaddvKLreuXHm2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.GCuaddvKLreuXHm2"
+    },
+    {
+      "text": "Paid to protect a number of local Christian agri-businesses",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "YFSHehVH0peAzWCM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.YFSHehVH0peAzWCM"
+    },
+    {
+      "text": "No-questions-asked bike courier service, as well as ride-by hits",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "4TKyxzguyEdNhXJI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.4TKyxzguyEdNhXJI"
+    },
+    {
+      "text": "Taken over a wrecking yard so they can just, ya know, wreck stuff",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "yVYnv11QHo7pWTXc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.yVYnv11QHo7pWTXc"
+    },
+    {
+      "text": "Minifacture their own flechette weapons and needleguns",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "M58n9FCZ41Z7EdXe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.M58n9FCZ41Z7EdXe"
+    },
+    {
+      "text": "Run an angst-soaked cloud forum, behind a secure pay wall",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "2LkyJiAI8Vdjh3TJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.2LkyJiAI8Vdjh3TJ"
+    },
+    {
+      "text": "Hormone-farm captive young males to sell online",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "O5R0XbAOPgIgFkMz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.O5R0XbAOPgIgFkMz"
+    },
+    {
+      "text": "Blackmail and harass prominent civil servants and create fake news",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "xj3K0S4k7SI1FZif",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.xj3K0S4k7SI1FZif"
+    },
+    {
+      "text": "Carjacking and auto theft, as well as elaborate respraying",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "tqFaxgAY14hKjlfY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.tqFaxgAY14hKjlfY"
+    },
+    {
+      "text": "Do a roaring trade in illegally downloaded, DrM-free music",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "K0eAkYoLGpxdYmny",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AhaQArpQwQ8s7vYY.K0eAkYoLGpxdYmny"
+    }
+  ],
+  "folder": "UF516sJdM2UFFkvf",
+  "sort": 700000,
+  "_id": "AhaQArpQwQ8s7vYY",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Name 1, Name 2, Description 1, Description 2, Description 3, Sphere of Influence and Relationship tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570185323,
+    "modifiedTime": 1699926507903,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!AhaQArpQwQ8s7vYY"
+}

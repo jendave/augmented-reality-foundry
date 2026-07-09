@@ -1,0 +1,179 @@
+{
+  "name": "Augmented Reality",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Direction - Typographic Overlays - Crisp/Bright",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "AXBxXDaqMjfrBxZK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LnPEyTcIEqMGaOYZ.AXBxXDaqMjfrBxZK"
+    },
+    {
+      "text": "Logo Storm - Bright and Garish Glyphs - Animated 3-D",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "zKoKDTaUqTOLzkbT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LnPEyTcIEqMGaOYZ.zKoKDTaUqTOLzkbT"
+    },
+    {
+      "text": "Assistant - Animated Persona - High resolution",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "qpaxT7rHicJBYUqU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LnPEyTcIEqMGaOYZ.qpaxT7rHicJBYUqU"
+    },
+    {
+      "text": "Blipvert - See That's Infotainment",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "eHklwdSnRZIAnB9i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LnPEyTcIEqMGaOYZ.eHklwdSnRZIAnB9i"
+    },
+    {
+      "text": "Political - Emotive Imagery - Sophisticated",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "8yd3bTUi68bp5Fb9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LnPEyTcIEqMGaOYZ.8yd3bTUi68bp5Fb9"
+    },
+    {
+      "text": "Promotion* - Rapid Motion/Distracting - Cheap/low resolution",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "N8u5aSsjLHbzPFQg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LnPEyTcIEqMGaOYZ.N8u5aSsjLHbzPFQg"
+    },
+    {
+      "text": "Advice - Reassuring Infomemes - Clear, Yet Subtle",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "IWGXFgM4VdsVIOmH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LnPEyTcIEqMGaOYZ.IWGXFgM4VdsVIOmH"
+    },
+    {
+      "text": "Menu System - Unobtrusive and Integrated - Technical/Sci-fi",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "7XcqwXsfVqUvzQb8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LnPEyTcIEqMGaOYZ.7XcqwXsfVqUvzQb8"
+    },
+    {
+      "text": "Filter - Fantastical and Otherworldly - Surreal/Immersive/Arty",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "J3f4Caa38hzVKR5l",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LnPEyTcIEqMGaOYZ.J3f4Caa38hzVKR5l"
+    },
+    {
+      "text": "Prohibition - Bold/Dramatic/Authorative - Flat Vector Graphics",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "8ABoj6RZ18n0hkgB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LnPEyTcIEqMGaOYZ.8ABoj6RZ18n0hkgB"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Type - Aesthetic - Image Style</p><p>* Promotion refers to services and entertainment eg: bars, job agencies etc., and is designed to coax you in their direction.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "5jeVi0k51S3NKQYr",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569991848,
+    "modifiedTime": 1700038984090,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "LnPEyTcIEqMGaOYZ",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "_key": "!tables!LnPEyTcIEqMGaOYZ"
+}

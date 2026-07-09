@@ -1,0 +1,19 @@
+{
+  "name": "What's In The Sky?",
+  "type": "RollTable",
+  "sorting": "a",
+  "_id": "YctnHCl8xyuSWzJ2",
+  "folder": "gRI65AcWGJxLyp4j",
+  "sort": 200000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569961544,
+    "modifiedTime": 1699651027210,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "color": null,
+  "_key": "!folders!YctnHCl8xyuSWzJ2"
+}

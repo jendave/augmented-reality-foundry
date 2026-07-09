@@ -1,0 +1,167 @@
+{
+  "name": "The Street Finds Its Own Uses For Things",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Power plant from main battle tank, used as a generator for a squat or shanty",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "gCdlXBI23P9FqvaL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!DZRvR9tah4MdCthW.gCdlXBI23P9FqvaL"
+    },
+    {
+      "text": "Hydroponics rig from scrapped research ship, used to breed modified food-algae",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "4E6VvHvyv2oXQVGO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!DZRvR9tah4MdCthW.4E6VvHvyv2oXQVGO"
+    },
+    {
+      "text": "Atmosphere recycling taken from orbital work shack, for a sealed environment",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "C68B5vBa8TBYmTQW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!DZRvR9tah4MdCthW.C68B5vBa8TBYmTQW"
+    },
+    {
+      "text": "Automotive industry robotic arms fitted with tasers, utilised for entrance security",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "rGS1EvQNlR7Ao9qS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!DZRvR9tah4MdCthW.rGS1EvQNlR7Ao9qS"
+    },
+    {
+      "text": "Chinese banking servers, used as a fixer's offline data archive",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "j67jGGxTiKSJ6l5b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!DZRvR9tah4MdCthW.j67jGGxTiKSJ6l5b"
+    },
+    {
+      "text": "Shipping container homes, mounted on scaffolding with industrial adhesives",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "SXXU0wcsXtVEueeI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!DZRvR9tah4MdCthW.SXXU0wcsXtVEueeI"
+    },
+    {
+      "text": "Aircraft seating used as makeshift furniture, within parachute nylon shelters",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "swkC9zh1hIMyBJ0y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!DZRvR9tah4MdCthW.swkC9zh1hIMyBJ0y"
+    },
+    {
+      "text": "Downed corporate surveillance drone, reconfigured to enable secure phone calls",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "ccYJzuyWZeGMD17S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!DZRvR9tah4MdCthW.ccYJzuyWZeGMD17S"
+    },
+    {
+      "text": "Salvaged fast food friers and ovens, co-opted for mass drug production",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "Lhtc8jfxkbTNzCT7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!DZRvR9tah4MdCthW.Lhtc8jfxkbTNzCT7"
+    },
+    {
+      "text": "Outmoded clinical CAT scanner, jury-rigged into rudimentary security screen",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "HSMGGwoHE3jzPIaF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!DZRvR9tah4MdCthW.HSMGGwoHE3jzPIaF"
+    }
+  ],
+  "folder": "5jeVi0k51S3NKQYr",
+  "sort": 400000,
+  "_id": "DZRvR9tah4MdCthW",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569706048,
+    "modifiedTime": 1699656356526,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!DZRvR9tah4MdCthW"
+}

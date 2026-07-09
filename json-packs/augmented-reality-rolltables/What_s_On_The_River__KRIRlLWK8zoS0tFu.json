@@ -1,0 +1,179 @@
+{
+  "name": "What's On The River?",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "A long, thin, high-powered speedboat ('cigarette' boat) races past",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "nLscFVBj7lTTfAl9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KRIRlLWK8zoS0tFu.nLscFVBj7lTTfAl9"
+    },
+    {
+      "text": "An air-cushion taxi GEV (Ground effect Vehicle), slips down to the water (see Random Cabbies)",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "rRJwGoLJg655L0Ew",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KRIRlLWK8zoS0tFu.rRJwGoLJg655L0Ew"
+    },
+    {
+      "text": "A garishly illuminated party boat, packed with revellers, loud music (see @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.sBdOklHtWTBK2IEo]{Sonic Youth})",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "nYabTXqcYD8OX7xo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KRIRlLWK8zoS0tFu.nYabTXqcYD8OX7xo"
+    },
+    {
+      "text": "A quiet and unassuming modern houseboat, moored to the embankment",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "CuXRAFXvPkzKxacF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KRIRlLWK8zoS0tFu.CuXRAFXvPkzKxacF"
+    },
+    {
+      "text": "An improvised submersible surfaces, seemingly lost, crew appear to be armed",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "6BvzITnyGTJaZ887",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KRIRlLWK8zoS0tFu.6BvzITnyGTJaZ887"
+    },
+    {
+      "text": "An automated cargo transport barge, weaving through traffic using GPS",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "pAoNA8r0i1ZlX6wr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KRIRlLWK8zoS0tFu.pAoNA8r0i1ZlX6wr"
+    },
+    {
+      "text": "Clusters of detritus, plastics and thick yellow foam float on the oily surface",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "zPc78KMW0EYS1ZrW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KRIRlLWK8zoS0tFu.zPc78KMW0EYS1ZrW"
+    },
+    {
+      "text": "Clearly marked security hydrofoil, slowly patrolling, HMGs and searchlights",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "XYjBe8MgiDIpZh4b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KRIRlLWK8zoS0tFu.XYjBe8MgiDIpZh4b"
+    },
+    {
+      "text": "Rescue Service tug, hi-vis wearing crew dredging bloated bodies from the water",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "UZM0NM6DL38AygOT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KRIRlLWK8zoS0tFu.UZM0NM6DL38AygOT"
+    },
+    {
+      "text": "A local go-gang has 'upgraded' to tricked-out jet skis and are causing havoc",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "kDtwzxtW3G1rc5eK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KRIRlLWK8zoS0tFu.kDtwzxtW3G1rc5eK"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "gRI65AcWGJxLyp4j",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569984581,
+    "modifiedTime": 1700038787273,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "KRIRlLWK8zoS0tFu",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "_key": "!tables!KRIRlLWK8zoS0tFu"
+}

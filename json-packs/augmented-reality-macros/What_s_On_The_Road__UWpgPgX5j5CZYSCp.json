@@ -1,0 +1,27 @@
+{
+  "name": "What's On The Road?",
+  "type": "script",
+  "_id": "UWpgPgX5j5CZYSCp",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let rollTablesUUIDPrefix = \"Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.\";\n\n    let title = \"<h3>What's On The Road?</h3>\";\n\n    const whatsOnTheRoadTable = await fromUuid(rollTablesUUIDPrefix + \"uufZfnhmiCu1LnaU\");\n    let whatsOnTheRoadRoll = await whatsOnTheRoadTable.roll();\n    let whatsOnTheRoad = whatsOnTheRoadRoll.results[0].text;\n\n    const activityTable = await fromUuid(rollTablesUUIDPrefix + \"hlSK4dbR1DN5SyIh\");\n    let activityRoll = await activityTable.roll();\n    let activity = activityRoll.results[0].text;\n\n    const notableFeatureTable = await fromUuid(rollTablesUUIDPrefix + \"hDoOrQfebECLKDp0\");\n    let notableFeatureRoll = await notableFeatureTable.roll();\n    let notableFeature = notableFeatureRoll.results[0].text;\n\n    const conditionTable = await fromUuid(rollTablesUUIDPrefix + \"neBHEYghazTEHDqg\");\n    let conditionRoll = await conditionTable.roll();\n    let condition = conditionRoll.results[0].text;\n\n    let message = \"What's On The Road: \" + whatsOnTheRoad + \"<br>\";\n    message += \"Activity: \" + activity + \"<br>\";\n    message += \"Notable Feature: \" + notableFeature + \"<br>\";\n    message += \"Condition: \" + condition + \"<br>\";\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.329",
+    "createdTime": 1699851076238,
+    "modifiedTime": 1721407454828,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!macros!UWpgPgX5j5CZYSCp"
+}

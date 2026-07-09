@@ -1,0 +1,777 @@
+{
+  "name": "Relationship",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Turf war with...",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "5qOTQcypqsTW3SV8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.5qOTQcypqsTW3SV8"
+    },
+    {
+      "text": "Steal from...",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "ybz6yp1dYdaZNqmw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.ybz6yp1dYdaZNqmw"
+    },
+    {
+      "text": "Merger with...",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "fshMLGQmJw78S4lC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.fshMLGQmJw78S4lC"
+    },
+    {
+      "text": "Rivalry with...",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "ZSuA6Qmyl0PYVpeS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.ZSuA6Qmyl0PYVpeS"
+    },
+    {
+      "text": "Employed by...",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "UD4OQ3Inp5l9Txec",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.UD4OQ3Inp5l9Txec"
+    },
+    {
+      "text": "Preys on...",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "egxusGtzFOjbcF2q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.egxusGtzFOjbcF2q"
+    },
+    {
+      "text": "Despises...",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "WFbCBOz3OWnOZr49",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.WFbCBOz3OWnOZr49"
+    },
+    {
+      "text": "Trades with...",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "DRchf4GvwfxUjQDU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.DRchf4GvwfxUjQDU"
+    },
+    {
+      "text": "Actively targets...",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "IY1Bg8IJAuyTug6d",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.IY1Bg8IJAuyTug6d"
+    },
+    {
+      "text": "Protected by...",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "Ctsxz5yDoEFyMdka",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.Ctsxz5yDoEFyMdka"
+    },
+    {
+      "text": "Jealous of...",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "egmQdbxJH9y3wBny",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.egmQdbxJH9y3wBny"
+    },
+    {
+      "text": "Turf war with...",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "7XjwVmHksocGY7c6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.7XjwVmHksocGY7c6"
+    },
+    {
+      "text": "Betrayed by...",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "yTAK6fcWRKlrNTWO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.yTAK6fcWRKlrNTWO"
+    },
+    {
+      "text": "Wary of...",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "LBBTEUc79N9wJN2K",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.LBBTEUc79N9wJN2K"
+    },
+    {
+      "text": "Monitored by...",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "3bvd9fX29uL4CLyk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.3bvd9fX29uL4CLyk"
+    },
+    {
+      "text": "Employs...",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "CWVzQGbpBzg3J7f9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.CWVzQGbpBzg3J7f9"
+    },
+    {
+      "text": "Trades with...",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "d3TKyHcJhNrTOqs3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.d3TKyHcJhNrTOqs3"
+    },
+    {
+      "text": "Owe money to...",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "AqCNcU7fQfMhMwdw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.AqCNcU7fQfMhMwdw"
+    },
+    {
+      "text": "Insulted MC of...",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "KQGDGPjL3wxeQmqL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.KQGDGPjL3wxeQmqL"
+    },
+    {
+      "text": "Supplied by...",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "CIceejechton7YuX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.CIceejechton7YuX"
+    },
+    {
+      "text": "Turf war with...",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "ENPpaZpaJC7aEpZK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.ENPpaZpaJC7aEpZK"
+    },
+    {
+      "text": "Allied to...",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "YCkGRQ9Xiyj6J3i4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.YCkGRQ9Xiyj6J3i4"
+    },
+    {
+      "text": "Despises...",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "Yi3S7SEEj5cNgqQk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.Yi3S7SEEj5cNgqQk"
+    },
+    {
+      "text": "Targeted by...",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "PnVDyARU7bORNPkM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.PnVDyARU7bORNPkM"
+    },
+    {
+      "text": "Protects...",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "SjdCtzzR7BZaCXGF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.SjdCtzzR7BZaCXGF"
+    },
+    {
+      "text": "Terrified of...",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "JQakGunhe9n2ZKuk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.JQakGunhe9n2ZKuk"
+    },
+    {
+      "text": "Amused by...",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "oTWsN72TVvTNlLsB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.oTWsN72TVvTNlLsB"
+    },
+    {
+      "text": "Humiliated by...",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "LKkaRvVuPoHda2LD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.LKkaRvVuPoHda2LD"
+    },
+    {
+      "text": "Threatened by...",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "9Mv0x8TlUyZrC3nA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.9Mv0x8TlUyZrC3nA"
+    },
+    {
+      "text": "Turf war with...",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "ZcpiPk6CcUIX7Xpd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.ZcpiPk6CcUIX7Xpd"
+    },
+    {
+      "text": "Works with...",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "DZJnBCo2sezqA1Uf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.DZJnBCo2sezqA1Uf"
+    },
+    {
+      "text": "Despises...",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "QGUc7VZo05P0zbQ8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.QGUc7VZo05P0zbQ8"
+    },
+    {
+      "text": "Trades with...",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "TFihy7xPw4t1qpiy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.TFihy7xPw4t1qpiy"
+    },
+    {
+      "text": "Tend to avoid...",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "oQkAhgCduzOOpQYB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.oQkAhgCduzOOpQYB"
+    },
+    {
+      "text": "Trades with...",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "vvW52OFb3bQ31jWQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.vvW52OFb3bQ31jWQ"
+    },
+    {
+      "text": "Wary of...",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "CaKq9bP6B6u1hmyS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.CaKq9bP6B6u1hmyS"
+    },
+    {
+      "text": "Turf war with...",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "cpRMW8s4NvOiMz1I",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.cpRMW8s4NvOiMz1I"
+    },
+    {
+      "text": "Make use of...",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "HkrjunQGuL84pElr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.HkrjunQGuL84pElr"
+    },
+    {
+      "text": "Rivalry with...",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "R4kBmt7YurUZUL9o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.R4kBmt7YurUZUL9o"
+    },
+    {
+      "text": "Tend to avoid...",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "CvrBJ50IErbP6kDo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.CvrBJ50IErbP6kDo"
+    },
+    {
+      "text": "In talks with...",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "IJsNqz7Ld3RymzRs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.IJsNqz7Ld3RymzRs"
+    },
+    {
+      "text": "Make use of...",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "VbMdLYPdRxrCjAkG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.VbMdLYPdRxrCjAkG"
+    },
+    {
+      "text": "Threatened by...",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "wF5lsbgzdludsfkU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.wF5lsbgzdludsfkU"
+    },
+    {
+      "text": "Owe money to...",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "ZosjW3DdZkrVhN06",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.ZosjW3DdZkrVhN06"
+    },
+    {
+      "text": "Trades with...",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "6kG9ivhDCfynqWvD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.6kG9ivhDCfynqWvD"
+    },
+    {
+      "text": "Turf war with...",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "8YRktT4yEK0UO5Tp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.8YRktT4yEK0UO5Tp"
+    },
+    {
+      "text": "Want to destroy...",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "zG1BeuYF16A919np",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.zG1BeuYF16A919np"
+    },
+    {
+      "text": "Wary of...",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "9M9uNdKBOGj2wykK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.9M9uNdKBOGj2wykK"
+    },
+    {
+      "text": "Buys from...",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "IHSjevAxUsKmtcJE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.IHSjevAxUsKmtcJE"
+    },
+    {
+      "text": "Allied to... (1-2)",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "d2EK2mnH6KSksUcS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tOcfatbCcF9L4J1P.d2EK2mnH6KSksUcS"
+    }
+  ],
+  "folder": "UF516sJdM2UFFkvf",
+  "sort": 800000,
+  "_id": "tOcfatbCcF9L4J1P",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Name 1, Name 2, Description 1, Description 2, Description 3, Sphere of Influence and Relationship tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570185339,
+    "modifiedTime": 1699926507903,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!tOcfatbCcF9L4J1P"
+}

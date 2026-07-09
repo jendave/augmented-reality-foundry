@@ -1,0 +1,27 @@
+{
+  "name": "Nightlife",
+  "type": "script",
+  "_id": "jUPN0c9HyF6wKye5",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let rollTablesUUIDPrefix = \"Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.\";\n\n    let title = \"<h3>Nightlife</h3>\";\n\n    const barTable = await fromUuid(rollTablesUUIDPrefix + \"9HiS7NikrmTH2Udz\");\n    let barRoll = await barTable.roll();\n    let bar = barRoll.results[0].text;\n\n    const statusTable = await fromUuid(rollTablesUUIDPrefix + \"adQjdk4F0PTndjAt\");\n    let statusRoll = await statusTable.roll();\n    let status = statusRoll.results[0].text;\n\n    const securityTable = await fromUuid(rollTablesUUIDPrefix + \"AT8WDSZ5xV8Kg685\");\n    let securityRoll = await securityTable.roll();\n    let security = securityRoll.results[0].text;\n\n    const vibeTable = await fromUuid(rollTablesUUIDPrefix + \"tcjcqaSfu6p3NnTI\");\n    let vibeRoll = await vibeTable.roll();\n    let vibe = vibeRoll.results[0].text;\n\n    let message = \"Bar or Club: \" + bar + \"<br>\";\n    message += \"Status: \" + status + \"<br>\";\n    message += \"Security: \" + security + \"<br>\";\n    message += \"Vibe: \" + vibe + \"<br>\";\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.329",
+    "createdTime": 1699850124777,
+    "modifiedTime": 1721407382276,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!macros!jUPN0c9HyF6wKye5"
+}

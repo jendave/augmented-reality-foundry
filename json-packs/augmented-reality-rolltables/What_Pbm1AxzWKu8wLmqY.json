@@ -1,0 +1,177 @@
+{
+  "name": "What",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Skulls/Bones",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "pNMU7rhnGEF3Blgn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Pbm1AxzWKu8wLmqY.pNMU7rhnGEF3Blgn"
+    },
+    {
+      "text": "Roses/Flowers",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "d2AnCh10bbKbRgDW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Pbm1AxzWKu8wLmqY.d2AnCh10bbKbRgDW"
+    },
+    {
+      "text": "Crossed Guns/Blades",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "I1TTfNhi7BOGigsN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Pbm1AxzWKu8wLmqY.I1TTfNhi7BOGigsN"
+    },
+    {
+      "text": "Snake/reptile",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "Vtb6wiv7G6zMNWLF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Pbm1AxzWKu8wLmqY.Vtb6wiv7G6zMNWLF"
+    },
+    {
+      "text": "Dragon/Mythical Beast",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "OOR2YeToyJtiVCu8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Pbm1AxzWKu8wLmqY.OOR2YeToyJtiVCu8"
+    },
+    {
+      "text": "Animal/Predator",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "1PSctVScw7P0sRY2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Pbm1AxzWKu8wLmqY.1PSctVScw7P0sRY2"
+    },
+    {
+      "text": "Nautical",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "3yJ9VITyuw1YoWlE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Pbm1AxzWKu8wLmqY.3yJ9VITyuw1YoWlE"
+    },
+    {
+      "text": "Script/Message/Numbers",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "OxwFcBes6GlahZav",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Pbm1AxzWKu8wLmqY.OxwFcBes6GlahZav"
+    },
+    {
+      "text": "Geometric/Abstract",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "KS7fOqWmns1lgc9Q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Pbm1AxzWKu8wLmqY.KS7fOqWmns1lgc9Q"
+    },
+    {
+      "text": "Technology/Circuitry",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "pGYi8g3cm09VyNYf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Pbm1AxzWKu8wLmqY.pGYi8g3cm09VyNYf"
+    }
+  ],
+  "folder": "xAawSkJgqlyMoGBA",
+  "sort": 0,
+  "_id": "Pbm1AxzWKu8wLmqY",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on the What, Style and Where tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570102406,
+    "modifiedTime": 1699652299641,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!Pbm1AxzWKu8wLmqY"
+}

@@ -1,0 +1,777 @@
+{
+  "name": "Name 2",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Dogs",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "PmvvBj2GXDmpYqOl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.PmvvBj2GXDmpYqOl"
+    },
+    {
+      "text": "Assassins",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "YBXC61q11ym8q7Ut",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.YBXC61q11ym8q7Ut"
+    },
+    {
+      "text": "Dragons",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "shqJs6iRw588B2MR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.shqJs6iRw588B2MR"
+    },
+    {
+      "text": "Prophets",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "3P1u94WULafVgejo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.3P1u94WULafVgejo"
+    },
+    {
+      "text": "Machine",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "Ek5ZNkZGNw9sI6hZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.Ek5ZNkZGNw9sI6hZ"
+    },
+    {
+      "text": "Society",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "6LynGRg95gRJTU58",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.6LynGRg95gRJTU58"
+    },
+    {
+      "text": "Freaks",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "xM3rJfhUPsEeqhPr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.xM3rJfhUPsEeqhPr"
+    },
+    {
+      "text": "Girls",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "XvY8gyOEbahk9PcT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.XvY8gyOEbahk9PcT"
+    },
+    {
+      "text": "Militia",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "k5eeXvkRZjHJSt64",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.k5eeXvkRZjHJSt64"
+    },
+    {
+      "text": "Atrocity",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "j9GgJrrPS2i53M49",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.j9GgJrrPS2i53M49"
+    },
+    {
+      "text": "Impulse",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "WAV4I808eLod98Ak",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.WAV4I808eLod98Ak"
+    },
+    {
+      "text": "Rippers",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "kDFf3k4CWSPJODFH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.kDFf3k4CWSPJODFH"
+    },
+    {
+      "text": "Savages",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "8AJdwIEnHLdmwfhH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.8AJdwIEnHLdmwfhH"
+    },
+    {
+      "text": "Riot",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "5wuHRJYeq1YJs5Cq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.5wuHRJYeq1YJs5Cq"
+    },
+    {
+      "text": "Apocalypse",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "T7Mnx2jBz5Tn3kV2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.T7Mnx2jBz5Tn3kV2"
+    },
+    {
+      "text": "Storm",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "r3dcZVjUjzxqskcd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.r3dcZVjUjzxqskcd"
+    },
+    {
+      "text": "Soldiers",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "F3ZRezPD5X2SsKKk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.F3ZRezPD5X2SsKKk"
+    },
+    {
+      "text": "Cult",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "USvAhM2hU5i6qLFC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.USvAhM2hU5i6qLFC"
+    },
+    {
+      "text": "Loas",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "SAXHhG1Ri5MUvDk9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.SAXHhG1Ri5MUvDk9"
+    },
+    {
+      "text": "Kidz",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "BG4Wl12sRHUiEZoc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.BG4Wl12sRHUiEZoc"
+    },
+    {
+      "text": "Ghosts",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "tUOqtKi7cJuSgCiK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.tUOqtKi7cJuSgCiK"
+    },
+    {
+      "text": "Church",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "Xle6oQHA9NzFGOhP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.Xle6oQHA9NzFGOhP"
+    },
+    {
+      "text": "Technicals",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "Bte0FM6gxTvmmlUj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.Bte0FM6gxTvmmlUj"
+    },
+    {
+      "text": "Clowns",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "S7dY2hH3LsrzSjm3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.S7dY2hH3LsrzSjm3"
+    },
+    {
+      "text": "Fists",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "VUn885JkDY18HOZA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.VUn885JkDY18HOZA"
+    },
+    {
+      "text": "Sharks",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "DUF3XmMDzcpk6Ok5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.DUF3XmMDzcpk6Ok5"
+    },
+    {
+      "text": "Boys",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "zYZ0abpftwX45XSj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.zYZ0abpftwX45XSj"
+    },
+    {
+      "text": "Maniacs",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "JA4SmT10o6uowwkJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.JA4SmT10o6uowwkJ"
+    },
+    {
+      "text": "Ultimates",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "RoaoUVMdbpYmMpFx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.RoaoUVMdbpYmMpFx"
+    },
+    {
+      "text": "Legends",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "8ILoeXy5u82j5b3V",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.8ILoeXy5u82j5b3V"
+    },
+    {
+      "text": "Killaz",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "p7kAunBhjpFRljaj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.p7kAunBhjpFRljaj"
+    },
+    {
+      "text": "Bullets",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "jp9i7QiM7soFApwa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.jp9i7QiM7soFApwa"
+    },
+    {
+      "text": "Revolvers",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "qIA3byhdbB8njNKm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.qIA3byhdbB8njNKm"
+    },
+    {
+      "text": "Bosses",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "tgot7pN18zZ0AxeE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.tgot7pN18zZ0AxeE"
+    },
+    {
+      "text": "Thugs",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "uk9UKADHj38lFEeC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.uk9UKADHj38lFEeC"
+    },
+    {
+      "text": "Babies",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "0GgWjHm85URJqlie",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.0GgWjHm85URJqlie"
+    },
+    {
+      "text": "Army",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "MlvfA94oFdiqDOCl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.MlvfA94oFdiqDOCl"
+    },
+    {
+      "text": "Fanatics",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "Pb6SE7LsuTy1tbeT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.Pb6SE7LsuTy1tbeT"
+    },
+    {
+      "text": "Daddies",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "EALIG2fuGB8MBxo1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.EALIG2fuGB8MBxo1"
+    },
+    {
+      "text": "Chaos",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "sMIfGyiIF0CFgfXq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.sMIfGyiIF0CFgfXq"
+    },
+    {
+      "text": "Hammer",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "I8oE9rBcf2PRqNpO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.I8oE9rBcf2PRqNpO"
+    },
+    {
+      "text": "Method",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "MmmMl9MPtkI80tK7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.MmmMl9MPtkI80tK7"
+    },
+    {
+      "text": "Clan",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "K202QDleyMzxzowU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.K202QDleyMzxzowU"
+    },
+    {
+      "text": "Terror",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "63XsevBmuCmW9ITZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.63XsevBmuCmW9ITZ"
+    },
+    {
+      "text": "State",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "g5efGz8f3zP7JZoZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.g5efGz8f3zP7JZoZ"
+    },
+    {
+      "text": "Wasters",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "UrijLVhC22HlcrnT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.UrijLVhC22HlcrnT"
+    },
+    {
+      "text": "Shards",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "2aH8SMUJ8mTV8bmE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.2aH8SMUJ8mTV8bmE"
+    },
+    {
+      "text": "Moderns",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "iIKSKizq0XHX3PHM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.iIKSKizq0XHX3PHM"
+    },
+    {
+      "text": "Harvest",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "VtHk1gjyYnYC3sCN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.VtHk1gjyYnYC3sCN"
+    },
+    {
+      "text": "Losers",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "TihAp8jSbCOHOJ2c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XWpo8CpZudwCCrqH.TihAp8jSbCOHOJ2c"
+    }
+  ],
+  "folder": "UF516sJdM2UFFkvf",
+  "sort": 200000,
+  "_id": "XWpo8CpZudwCCrqH",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Name 1, Name 2, Description 1, Description 2, Description 3, Sphere of Influence and Relationship tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570185260,
+    "modifiedTime": 1699926507903,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!XWpo8CpZudwCCrqH"
+}

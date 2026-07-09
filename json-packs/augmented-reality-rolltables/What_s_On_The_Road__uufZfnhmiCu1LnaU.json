@@ -1,0 +1,781 @@
+{
+  "name": "What's On The Road?",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Armoured Intercity Bus",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "YxlVL3Bei38fxPp5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.YxlVL3Bei38fxPp5"
+    },
+    {
+      "text": "Carbon-Fibre Pedicab (See Random Cabbies)",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "KX3E7pehTYnYsPYx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.KX3E7pehTYnYsPYx"
+    },
+    {
+      "text": "GEV Taxi (Air Cushion) (See Random Cabbies)",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "7YpY6VsJ7EBneDz0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.7YpY6VsJ7EBneDz0"
+    },
+    {
+      "text": "Automated Uber/AI Taxi Sedan",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "solfhCZhzwiOGC0k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.solfhCZhzwiOGC0k"
+    },
+    {
+      "text": "Food/SCOP (Single Cell Organic Proteins) Vending Truck",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "jfRYyXvKdIQmcf20",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.jfRYyXvKdIQmcf20"
+    },
+    {
+      "text": "Cyclist(s)",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "gZJzxl7gvctq1py2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.gZJzxl7gvctq1py2"
+    },
+    {
+      "text": "Police Patrol Car",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "IQSboQazi3pm0DcY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.IQSboQazi3pm0DcY"
+    },
+    {
+      "text": "Small City Electric",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "whCOua2ZNZXDAqXi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.whCOua2ZNZXDAqXi"
+    },
+    {
+      "text": "Limousine",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "eF56dUdC3vRB9mgY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.eF56dUdC3vRB9mgY"
+    },
+    {
+      "text": "Sports Car",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "nUAv1HQHORLJRVBz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.nUAv1HQHORLJRVBz"
+    },
+    {
+      "text": "HMMWV (Humvee)",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "UOrp2mDfxm9G9350",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.UOrp2mDfxm9G9350"
+    },
+    {
+      "text": "Suburban Utility Vehicle (SUV)",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "LbNt8raJZDfAWDtz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.LbNt8raJZDfAWDtz"
+    },
+    {
+      "text": "Estate Car/Stationwagon",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "N83WeXt17QOCFOGC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.N83WeXt17QOCFOGC"
+    },
+    {
+      "text": "Moped/Scooter",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "6byDbbwJcUE38eJc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.6byDbbwJcUE38eJc"
+    },
+    {
+      "text": "4x4/MRAP",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "Y8QryvVroxLXE9Kl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.Y8QryvVroxLXE9Kl"
+    },
+    {
+      "text": "Very Heavy Goods Vehicle",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "U6FZd01VHQUkpzPw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.U6FZd01VHQUkpzPw"
+    },
+    {
+      "text": "Armoured Truck",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "YNNIjmYQFEnsiG70",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.YNNIjmYQFEnsiG70"
+    },
+    {
+      "text": "Police Van",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "3PY0NrPsSA7AYUdr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.3PY0NrPsSA7AYUdr"
+    },
+    {
+      "text": "Sports Motorcycle",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "RXfitsbH2Teg5GCT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.RXfitsbH2Teg5GCT"
+    },
+    {
+      "text": "Utility Van/Minivan",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "00QmCxN57h8n1sJQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.00QmCxN57h8n1sJQ"
+    },
+    {
+      "text": "Refrigerated Transport",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "hDE7rxCBQOJrqSxs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.hDE7rxCBQOJrqSxs"
+    },
+    {
+      "text": "Off Road Motorcycle",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "tdCppyLS71tkkIaQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.tdCppyLS71tkkIaQ"
+    },
+    {
+      "text": "Flatbed/Pick-Up",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "n1lTFwt2CYTsDuw0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.n1lTFwt2CYTsDuw0"
+    },
+    {
+      "text": "Tram/Metro-Train",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "AjWk8AIBbJ549Gfe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.AjWk8AIBbJ549Gfe"
+    },
+    {
+      "text": "Hatchback",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "eKdn23JH86e3lW7K",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.eKdn23JH86e3lW7K"
+    },
+    {
+      "text": "Classic Car",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "mbUzrKtpSzAtGUN8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.mbUzrKtpSzAtGUN8"
+    },
+    {
+      "text": "Aero Using Road Wheels",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "25EgMEfEWZq6NilK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.25EgMEfEWZq6NilK"
+    },
+    {
+      "text": "Luxury Sedan",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "I1km2RqaOqfYytyZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.I1km2RqaOqfYytyZ"
+    },
+    {
+      "text": "Monowheel",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "CUPlRWeKWgL0inkp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.CUPlRWeKWgL0inkp"
+    },
+    {
+      "text": "Hazardous Container Truck",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "M0RGBGIvKfPyV1Lz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.M0RGBGIvKfPyV1Lz"
+    },
+    {
+      "text": "Three-Wheeler",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "lSJ1qH2Ij5VPGjXU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.lSJ1qH2Ij5VPGjXU"
+    },
+    {
+      "text": "Waste Management Truck",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "KKGFC1OD7iDAXsKn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.KKGFC1OD7iDAXsKn"
+    },
+    {
+      "text": "Automated Road Sweeper",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "8DRj98zFMU44dpk6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.8DRj98zFMU44dpk6"
+    },
+    {
+      "text": "Police Motorcycle",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "ydEdSnXK7kFlQo97",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.ydEdSnXK7kFlQo97"
+    },
+    {
+      "text": "Courier/Delivery Van",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "NBxllNdzEkCU2sVc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.NBxllNdzEkCU2sVc"
+    },
+    {
+      "text": "Scrap Built Rickshaw (See Random Cabbies)",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "8WQOYfZTP2ok3VgV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.8WQOYfZTP2ok3VgV"
+    },
+    {
+      "text": "Standard Sedan",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "buHncNueCDqYHrNI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.buHncNueCDqYHrNI"
+    },
+    {
+      "text": "Mobile Home/RV/MoPad",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "IbPfi54QD23L15Nb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.IbPfi54QD23L15Nb"
+    },
+    {
+      "text": "Muscle Car/Roadster",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "vVFESYnZBEptemnx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.vVFESYnZBEptemnx"
+    },
+    {
+      "text": "Construction Vehicle",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "5ixasAIcQdcSmzhg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.5ixasAIcQdcSmzhg"
+    },
+    {
+      "text": "Fire Tender",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "YbJQqhcd327pnkI1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.YbJQqhcd327pnkI1"
+    },
+    {
+      "text": "Buggy/ATV",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "5ckMEirTtaiTwKUw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.5ckMEirTtaiTwKUw"
+    },
+    {
+      "text": "Powered Armour Rickshaw (Cradle)",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "ohkBrua5ra0XatCN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.ohkBrua5ra0XatCN"
+    },
+    {
+      "text": "EMT/Paramedic/Ambulance",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "4m3GPsXS8OHZViP4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.4m3GPsXS8OHZViP4"
+    },
+    {
+      "text": "Armoured Personnel Carrier",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "6U2ZBSnWC4qAyyKY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.6U2ZBSnWC4qAyyKY"
+    },
+    {
+      "text": "Quad Bike",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "mjh368I6QgVeiqkO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.mjh368I6QgVeiqkO"
+    },
+    {
+      "text": "Tow Truck (Roll Again For Tow)",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "mT3aJmS9mydIQysl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.mT3aJmS9mydIQysl"
+    },
+    {
+      "text": "Car/Vehicle/PA Transporter",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "c1aVJ6cJVpD2Iufe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.c1aVJ6cJVpD2Iufe"
+    },
+    {
+      "text": "Regular City Bus (1-3 Decks)",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "Y97n39HKZuT5uX4D",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.Y97n39HKZuT5uX4D"
+    },
+    {
+      "text": "Trike",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "VlJH9DNAY7zkgc6o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!uufZfnhmiCu1LnaU.VlJH9DNAY7zkgc6o"
+    }
+  ],
+  "_id": "uufZfnhmiCu1LnaU",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>* Single Cell Organic Proteins - the nation’s favourite nutrient soup</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "rawnSoN59EswOVZi",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.uufZfnhmiCu1LnaU"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569855594,
+    "modifiedTime": 1699851037893,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!uufZfnhmiCu1LnaU"
+}

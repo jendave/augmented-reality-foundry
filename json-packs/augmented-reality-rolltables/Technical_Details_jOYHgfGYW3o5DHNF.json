@@ -1,0 +1,19 @@
+{
+  "name": "Technical Details",
+  "type": "RollTable",
+  "sorting": "a",
+  "_id": "jOYHgfGYW3o5DHNF",
+  "folder": null,
+  "sort": 2400000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570409586,
+    "modifiedTime": 1699654450837,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "color": null,
+  "_key": "!folders!jOYHgfGYW3o5DHNF"
+}

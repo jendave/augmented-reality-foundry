@@ -1,0 +1,19 @@
+{
+  "name": "Corporate Aristocrats",
+  "type": "RollTable",
+  "sorting": "a",
+  "_id": "pLxhKVOlJ6EbD5eZ",
+  "folder": null,
+  "sort": 900000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570138244,
+    "modifiedTime": 1699650915803,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "color": null,
+  "_key": "!folders!pLxhKVOlJ6EbD5eZ"
+}

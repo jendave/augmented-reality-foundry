@@ -1,0 +1,777 @@
+{
+  "name": "Description",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Despises being based out of the local Consumertopia™",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "YSHHCmzxEEBijiKh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.YSHHCmzxEEBijiKh"
+    },
+    {
+      "text": "Once an indentured child, tends to sympathise too much",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "zDSoswo0SfhSoxEH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.zDSoswo0SfhSoxEH"
+    },
+    {
+      "text": "Many implants, diminished empathy, she's not afraid to kill",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "d9Mv5D04uJKQnJI7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.d9Mv5D04uJKQnJI7"
+    },
+    {
+      "text": "Records all business conversations covertly, just in case",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "nWL4t30BUywj7NTi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.nWL4t30BUywj7NTi"
+    },
+    {
+      "text": "Lives an opulent lifestyle well beyond his means",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "PEEgtE1srxx1xbbQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.PEEgtE1srxx1xbbQ"
+    },
+    {
+      "text": "Head of the so-called Flesh Cartel, self-styled King of Pimps",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "JYFLwEKIL3AZVyky",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.JYFLwEKIL3AZVyky"
+    },
+    {
+      "text": "Into cheap sex dolls, leaving scars due to latex allergies",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "irCJa2xvicki2Wvy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.irCJa2xvicki2Wvy"
+    },
+    {
+      "text": "Hormone-locked 'teen' (actually 30); outrageous flirt",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "i6w43x0YJSHs0OY1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.i6w43x0YJSHs0OY1"
+    },
+    {
+      "text": "Some-time stripper and cam girl, lover taught her to shoot",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "1bhgexnegygbJisI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.1bhgexnegygbJisI"
+    },
+    {
+      "text": "Relishes the power his tailored drugs give him over others",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "4afGJYVDK8p64SIR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.4afGJYVDK8p64SIR"
+    },
+    {
+      "text": "Struggles with a debilitating narcotic dependency",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "yWS6Jfu6kIdoUmQo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.yWS6Jfu6kIdoUmQo"
+    },
+    {
+      "text": "Desperate to keep his children a secret from his enemies",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "A7aoHIcBE6Y2cxRw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.A7aoHIcBE6Y2cxRw"
+    },
+    {
+      "text": "Being blackmailed by corporate aristocrat Fatima rasheed",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "kBwC0nRkTyDRkCm8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.kBwC0nRkTyDRkCm8"
+    },
+    {
+      "text": "Cold, soulless narcissist, proud of her migrating glo-tatts",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "IyxMds9AASmgcSaS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.IyxMds9AASmgcSaS"
+    },
+    {
+      "text": "Chubby, jovial and a registered independent nation-state",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "0Y6L5Rkk8PyzmHtF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.0Y6L5Rkk8PyzmHtF"
+    },
+    {
+      "text": "Just one AI of a distributed identinet, with shared awareness",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "tNEgC1615q5fWmOE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.tNEgC1615q5fWmOE"
+    },
+    {
+      "text": "Deep cover cop, losing himself to his current artificial life",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "wAaBMz8bitFhkBvE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.wAaBMz8bitFhkBvE"
+    },
+    {
+      "text": "Surprisingly conservative, suburban, family-centric lifestyle",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "RXrLILYAZRu9kdCh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.RXrLILYAZRu9kdCh"
+    },
+    {
+      "text": "Unassuming ex-ganger, ex-Catholic priest, ex-porn actor",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "qw1PkCgja4iYK5fh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.qw1PkCgja4iYK5fh"
+    },
+    {
+      "text": "Determined to make enough money to leave city behind",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "vKfzsaiEDwSn8V7g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.vKfzsaiEDwSn8V7g"
+    },
+    {
+      "text": "Trying hard to care for elderly father permalinked to porn sims",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "Gej23iRtdNZL0mhz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.Gej23iRtdNZL0mhz"
+    },
+    {
+      "text": "Well connected across the Pacific Prosperity Sphere",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "Pduo5cdmEGfXoDln",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.Pduo5cdmEGfXoDln"
+    },
+    {
+      "text": "Extremely ambitious, with an obvious superiority complex",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "OTdMLhFMhBwf0JIY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.OTdMLhFMhBwf0JIY"
+    },
+    {
+      "text": "Unfortunate racist and obsessive-compulsive neat freak",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "uYlA9DN2yHAIvUCq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.uYlA9DN2yHAIvUCq"
+    },
+    {
+      "text": "Must painfully inject nanites hourly due to congenital illness",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "71xSfpbqvsk79qHu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.71xSfpbqvsk79qHu"
+    },
+    {
+      "text": "Paranoid, wears spiderweave body-glove under clothing",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "geIHo3WzDCT0ZCuC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.geIHo3WzDCT0ZCuC"
+    },
+    {
+      "text": "Obsessively collects snakes, liking them more than people",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "IyGN8aT51ahg7iwd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.IyGN8aT51ahg7iwd"
+    },
+    {
+      "text": "Secretly employed by corporation, follows their instructions",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "6UVA764EA5pXBoFb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.6UVA764EA5pXBoFb"
+    },
+    {
+      "text": "Twin clones, supermodel hot, operate Orbital Mafia franchise",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "mPm8051g0SUOXcLL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.mPm8051g0SUOXcLL"
+    },
+    {
+      "text": "Back doors for Cambodian data-havens, but fears reprisals",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "96q8pCm74kRQb71K",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.96q8pCm74kRQb71K"
+    },
+    {
+      "text": "Hypochondriac; terrified his cheap organ implants will fail",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "vx9cuCJMJ3aHBQiS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.vx9cuCJMJ3aHBQiS"
+    },
+    {
+      "text": "Openly gay, secretly straight, desperately addicted to sex",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "HVQS9Q7huyR7jKLK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.HVQS9Q7huyR7jKLK"
+    },
+    {
+      "text": "Can only be reached by using a particular hacked pay phone",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "openPJojWgsTTKko",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.openPJojWgsTTKko"
+    },
+    {
+      "text": "Over-confident emancipated juvenile; sexual deviant",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "hAgHVvVi13trW2OT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.hAgHVvVi13trW2OT"
+    },
+    {
+      "text": "Walking the line between worlds exacerbates heart problem",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "EWfAVs2qbwszsX4a",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.EWfAVs2qbwszsX4a"
+    },
+    {
+      "text": "Goods traceable by cops to avoid brainwipe sentence",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "l5nZaKxCdn14iVre",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.l5nZaKxCdn14iVre"
+    },
+    {
+      "text": "Believes he is a synthetic controlled by corporations",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "WwHUelHpR0GBqaOn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.WwHUelHpR0GBqaOn"
+    },
+    {
+      "text": "Finances a stable of Freak Fighters, all of whom he despises",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "HSvbMditEC875shC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.HSvbMditEC875shC"
+    },
+    {
+      "text": "Disgusted by the work he does, he drinks to block it out",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "I3oFO052fJDtJLvb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.I3oFO052fJDtJLvb"
+    },
+    {
+      "text": "Financed by the Binh Xuyen, but looking for a way out",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "vRU6Ahk1hxCSoCL6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.vRU6Ahk1hxCSoCL6"
+    },
+    {
+      "text": "Aggressive vigilance suite protects tiered neural processors",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "tXvU7gg19IfxWmh2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.tXvU7gg19IfxWmh2"
+    },
+    {
+      "text": "Overly enthusiastic and extremely sadistic; loves music",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "gL5QbyMqFYzXSg7K",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.gL5QbyMqFYzXSg7K"
+    },
+    {
+      "text": "Loaded with enough intelligent bioplastic that he can't die",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "SRHsgW6M5wsKABqp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.SRHsgW6M5wsKABqp"
+    },
+    {
+      "text": "The strippers at his club are all biomodded clones of himself",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "7y2QoIz4PS0sN532",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.7y2QoIz4PS0sN532"
+    },
+    {
+      "text": "Stressed due to several secret families with different women",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "eYDSWieEZStjtNzu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.eYDSWieEZStjtNzu"
+    },
+    {
+      "text": "Has the best of intentions, but is deeply unreliable",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "PwkQOv3i0KTH5Yb1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.PwkQOv3i0KTH5Yb1"
+    },
+    {
+      "text": "Self-doubt, but wants to be head-hunted by a corporation",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "byj0AkY1LrY6CQL5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.byj0AkY1LrY6CQL5"
+    },
+    {
+      "text": "No self worth, always high, easily distracted",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "JNSTJm8hZgsMWpsR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.JNSTJm8hZgsMWpsR"
+    },
+    {
+      "text": "Suffers from PTSD, nightmares, has poorly timed flashbacks",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "ikNMTInScsRVpatz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.ikNMTInScsRVpatz"
+    },
+    {
+      "text": "Struck off, operates a failing back street clinic, depressed",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "kIcMpGHlMvKY9Ybm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qDnY3aLcnsDkp0Rv.kIcMpGHlMvKY9Ybm"
+    }
+  ],
+  "folder": "VL5EsatfIFO9X12s",
+  "sort": 1,
+  "_id": "qDnY3aLcnsDkp0Rv",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Name, Description, Job, Appearance/Demeanour and Relationship tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570257779,
+    "modifiedTime": 1699654051201,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!qDnY3aLcnsDkp0Rv"
+}

@@ -1,0 +1,177 @@
+{
+  "name": "Vibe",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Total Dive",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "shHcEYyd6RdAs0C3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tcjcqaSfu6p3NnTI.shHcEYyd6RdAs0C3"
+    },
+    {
+      "text": "Atmospheric",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "m5WKODg2gknmVLlh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tcjcqaSfu6p3NnTI.m5WKODg2gknmVLlh"
+    },
+    {
+      "text": "Gang Turf",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "xymgZNGB7wEi0Mna",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tcjcqaSfu6p3NnTI.xymgZNGB7wEi0Mna"
+    },
+    {
+      "text": "Fashionable",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "b8T1JKWQF6VFU7zm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tcjcqaSfu6p3NnTI.b8T1JKWQF6VFU7zm"
+    },
+    {
+      "text": "Permaparty",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "esMX50LlMTzzhqkD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tcjcqaSfu6p3NnTI.esMX50LlMTzzhqkD"
+    },
+    {
+      "text": "Sleazy",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "0HuzQ5AaQV8M0jNX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tcjcqaSfu6p3NnTI.0HuzQ5AaQV8M0jNX"
+    },
+    {
+      "text": "Quiet",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "L6liPHEQacsjQYz1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tcjcqaSfu6p3NnTI.L6liPHEQacsjQYz1"
+    },
+    {
+      "text": "Franchise",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "YeXr8tK5Yt1HaMjy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tcjcqaSfu6p3NnTI.YeXr8tK5Yt1HaMjy"
+    },
+    {
+      "text": "Popular",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "97ITK7wm3LnpfqwP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tcjcqaSfu6p3NnTI.97ITK7wm3LnpfqwP"
+    },
+    {
+      "text": "Exclusive",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "X8TwUfxqa8akrXzx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tcjcqaSfu6p3NnTI.X8TwUfxqa8akrXzx"
+    }
+  ],
+  "folder": "vAY9yzP2BZwCvs9a",
+  "sort": 3,
+  "_id": "tcjcqaSfu6p3NnTI",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Bar/Club, Status, Security and Vibe tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569738179,
+    "modifiedTime": 1699645852802,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!tcjcqaSfu6p3NnTI"
+}

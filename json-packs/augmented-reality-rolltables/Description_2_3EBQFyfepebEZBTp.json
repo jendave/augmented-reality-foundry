@@ -1,0 +1,777 @@
+{
+  "name": "Description 2",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Wirehead",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "P2ihkcdDUt4SvcSw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.P2ihkcdDUt4SvcSw"
+    },
+    {
+      "text": "Nerve Boosted",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "Ge938Wb3D9QKA8Wx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.Ge938Wb3D9QKA8Wx"
+    },
+    {
+      "text": "Frame Assisted",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "0AkeQ0Sx2a5bF7A0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.0AkeQ0Sx2a5bF7A0"
+    },
+    {
+      "text": "Scavenger",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "yJwSV6MUu7zzj13C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.yJwSV6MUu7zzj13C"
+    },
+    {
+      "text": "Info-Socialist",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "tKZ6g4t5gXm4jk49",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.tKZ6g4t5gXm4jk49"
+    },
+    {
+      "text": "Sports Fan",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "eNSQ1VaMn2aM9Zv6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.eNSQ1VaMn2aM9Zv6"
+    },
+    {
+      "text": "Sex Predator",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "MmJaGFeL0OELTDJY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.MmJaGFeL0OELTDJY"
+    },
+    {
+      "text": "All Female",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "WM2APvhL443rbDvc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.WM2APvhL443rbDvc"
+    },
+    {
+      "text": "Doom Cult",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "qbMXhelzW8cYXhs8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.qbMXhelzW8cYXhs8"
+    },
+    {
+      "text": "Cyberfetish",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "0sj6haw08dhU0quN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.0sj6haw08dhU0quN"
+    },
+    {
+      "text": "Brain Damaged",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "gltCNsPMlsudUxTM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.gltCNsPMlsudUxTM"
+    },
+    {
+      "text": "Skill Chipping",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "MP5nRJPrTyC3Udjy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.MP5nRJPrTyC3Udjy"
+    },
+    {
+      "text": "Scrap Tech",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "UTTCPFOaDeWrsZ4G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.UTTCPFOaDeWrsZ4G"
+    },
+    {
+      "text": "Dog-Faced",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "icKphhnicqRZjuH2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.icKphhnicqRZjuH2"
+    },
+    {
+      "text": "Racist",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "YhZ7aEQC5Qq6cjqx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.YhZ7aEQC5Qq6cjqx"
+    },
+    {
+      "text": "Media Savvy",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "WHNGmgzo8E305AXn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.WHNGmgzo8E305AXn"
+    },
+    {
+      "text": "Parkour",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "YzMNy01hheorj09D",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.YzMNy01hheorj09D"
+    },
+    {
+      "text": "Alcoholic",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "zzQTthHfM7zbflny",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.zzQTthHfM7zbflny"
+    },
+    {
+      "text": "Drug Cooking",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "EYRjpSCsvxrQnJsb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.EYRjpSCsvxrQnJsb"
+    },
+    {
+      "text": "Political",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "eES6bZU4kNk8mZOf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.eES6bZU4kNk8mZOf"
+    },
+    {
+      "text": "Tech-Junkie",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "76wzSBkFAPZlNnYo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.76wzSBkFAPZlNnYo"
+    },
+    {
+      "text": "Evangelical",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "c3eUuuvGqxB5Hu4v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.c3eUuuvGqxB5Hu4v"
+    },
+    {
+      "text": "übermensch",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "7FjO2DfAvZuLQgQQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.7FjO2DfAvZuLQgQQ"
+    },
+    {
+      "text": "Juggalo",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "fv0A337DELq38Jyu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.fv0A337DELq38Jyu"
+    },
+    {
+      "text": "Cyborg",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "kFeGtJx95a86SCMW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.kFeGtJx95a86SCMW"
+    },
+    {
+      "text": "Psychotic",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "f42i13eeQiAL6aOz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.f42i13eeQiAL6aOz"
+    },
+    {
+      "text": "War Veteran",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "oBwVZ2s8xaPHjvey",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.oBwVZ2s8xaPHjvey"
+    },
+    {
+      "text": "Armour Clad",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "k2iGYA2YF834tstM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.k2iGYA2YF834tstM"
+    },
+    {
+      "text": "Rich Kid",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "eWKBRXlOzxCqxinT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.eWKBRXlOzxCqxinT"
+    },
+    {
+      "text": "Drug Enhanced",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "36Nz9l3GI0obI8I3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.36Nz9l3GI0obI8I3"
+    },
+    {
+      "text": "Home Invading",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "yJEM67lpT75hDndH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.yJEM67lpT75hDndH"
+    },
+    {
+      "text": "Cannibal",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "MyIgjHY6nRJiOYMI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.MyIgjHY6nRJiOYMI"
+    },
+    {
+      "text": "Suicidal",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "FNgVIOqZixReU4WZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.FNgVIOqZixReU4WZ"
+    },
+    {
+      "text": "Homeless",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "TBnp8p0d1SrzXu5f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.TBnp8p0d1SrzXu5f"
+    },
+    {
+      "text": "Steroid Using",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "khQDcaSzUKh8ToT1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.khQDcaSzUKh8ToT1"
+    },
+    {
+      "text": "Pseudo-Satanic",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "ZME5pbO3zTV0jCCA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.ZME5pbO3zTV0jCCA"
+    },
+    {
+      "text": "Militant",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "mWIRaWSqJ2JEXUxO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.mWIRaWSqJ2JEXUxO"
+    },
+    {
+      "text": "Mask Wearing",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "SoZA3Tc4NycozlNL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.SoZA3Tc4NycozlNL"
+    },
+    {
+      "text": "Asexual",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "Z77u2Nfuk7qLc3XV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.Z77u2Nfuk7qLc3XV"
+    },
+    {
+      "text": "Anarchist",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "hnZRp6BF1ELi9Qg3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.hnZRp6BF1ELi9Qg3"
+    },
+    {
+      "text": "Alt-Right",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "eNlebRwAbYNma7MP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.eNlebRwAbYNma7MP"
+    },
+    {
+      "text": "Religious",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "soAFsvdbxTcq4wUE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.soAFsvdbxTcq4wUE"
+    },
+    {
+      "text": "Peddle Biking",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "HdH3gTmx0HzOhWOk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.HdH3gTmx0HzOhWOk"
+    },
+    {
+      "text": "Psychotic",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "jvljb1qOzfxw7Kg3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.jvljb1qOzfxw7Kg3"
+    },
+    {
+      "text": "Eco-Socialist",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "w5KXFleBkL6akJON",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.w5KXFleBkL6akJON"
+    },
+    {
+      "text": "Philosophical",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "NvdpY2w0f1jUDSiV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.NvdpY2w0f1jUDSiV"
+    },
+    {
+      "text": "Feminist",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "U5Zg72xHXwcycuCL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.U5Zg72xHXwcycuCL"
+    },
+    {
+      "text": "Political",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "UTKRyYk81vZe1Idr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.UTKRyYk81vZe1Idr"
+    },
+    {
+      "text": "Multi-Optic",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "blSeTwYv8e9NrmxC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.blSeTwYv8e9NrmxC"
+    },
+    {
+      "text": "Anti-Corporate",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "yGOiTZpYs3Mb4zaJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3EBQFyfepebEZBTp.yGOiTZpYs3Mb4zaJ"
+    }
+  ],
+  "folder": "UF516sJdM2UFFkvf",
+  "sort": 500000,
+  "_id": "3EBQFyfepebEZBTp",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Name 1, Name 2, Description 1, Description 2, Description 3, Sphere of Influence and Relationship tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570185291,
+    "modifiedTime": 1699926507903,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!3EBQFyfepebEZBTp"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Sense & The City",
+  "type": "RollTable",
+  "sorting": "a",
+  "_id": "ypSDgDocT5uhhzmf",
+  "folder": null,
+  "sort": 2200000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569755683,
+    "modifiedTime": 1699650994234,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "color": null,
+  "_key": "!folders!ypSDgDocT5uhhzmf"
+}

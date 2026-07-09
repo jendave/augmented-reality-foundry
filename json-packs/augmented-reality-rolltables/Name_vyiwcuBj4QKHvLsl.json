@@ -1,0 +1,777 @@
+{
+  "name": "Name",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Phreakworm",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "71C4sta6ODJjnibn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.71C4sta6ODJjnibn"
+    },
+    {
+      "text": "Spiderhead",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "qUCc3aVBUUNec4td",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.qUCc3aVBUUNec4td"
+    },
+    {
+      "text": "The Venomous Pao",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "PxWqEMTlSRVg6fxS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.PxWqEMTlSRVg6fxS"
+    },
+    {
+      "text": "Robotnik",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "6oAJLn3Uh1IntmII",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.6oAJLn3Uh1IntmII"
+    },
+    {
+      "text": "The Shadow Sphere",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "9Qw64d5FUejfjUxs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.9Qw64d5FUejfjUxs"
+    },
+    {
+      "text": "Agent Orange",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "xWzzeMJ4ET3b01GJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.xWzzeMJ4ET3b01GJ"
+    },
+    {
+      "text": "Javier Script",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "XZWxr2vf6HpvzfKL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.XZWxr2vf6HpvzfKL"
+    },
+    {
+      "text": "Kid Terminal",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "7Nb4AvbGLFRuPnPo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.7Nb4AvbGLFRuPnPo"
+    },
+    {
+      "text": "Feedfetcher",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "8CSLk2zjtujJizft",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.8CSLk2zjtujJizft"
+    },
+    {
+      "text": "Mr ∞",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "ZueeexVYEResW2Tx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.ZueeexVYEResW2Tx"
+    },
+    {
+      "text": "Lady Probability",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "3zXw3NHxzD3SEAy0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.3zXw3NHxzD3SEAy0"
+    },
+    {
+      "text": "Chip Boy",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "2OcReGv97fx5uMDW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.2OcReGv97fx5uMDW"
+    },
+    {
+      "text": "Pixelgeist",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "w3zfY70iZkd2mRNs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.w3zfY70iZkd2mRNs"
+    },
+    {
+      "text": "Datamancer",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "nlBIHEeaqsSrZkJ0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.nlBIHEeaqsSrZkJ0"
+    },
+    {
+      "text": "Modal Fraction",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "CwfhheS4wZWfWPI5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.CwfhheS4wZWfWPI5"
+    },
+    {
+      "text": "Deathwatch",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "nqgTJnobPGPgXtzG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.nqgTJnobPGPgXtzG"
+    },
+    {
+      "text": "Neurocide",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "ZoJtDzooa7rHrfGr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.ZoJtDzooa7rHrfGr"
+    },
+    {
+      "text": "Zauberer",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "OsOrSEJuTna2UwjL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.OsOrSEJuTna2UwjL"
+    },
+    {
+      "text": "Patient Zero",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "bU7PzwAZ1SyFqV7k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.bU7PzwAZ1SyFqV7k"
+    },
+    {
+      "text": "Fractal Artifice",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "Rfuw0O2zFfhng6Y9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.Rfuw0O2zFfhng6Y9"
+    },
+    {
+      "text": "Winston Smith",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "N7jFbcbycEC1Q9Nv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.N7jFbcbycEC1Q9Nv"
+    },
+    {
+      "text": "Quantum Clan",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "SFkLlV5nt70X4FS2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.SFkLlV5nt70X4FS2"
+    },
+    {
+      "text": "Mr Peepers",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "pE0L3iICAkhTEKNx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.pE0L3iICAkhTEKNx"
+    },
+    {
+      "text": "Seraphim",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "EOfI5ZueNMC8uFHS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.EOfI5ZueNMC8uFHS"
+    },
+    {
+      "text": "Billy Headcrash",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "zCeK3uAK5xZadiA8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.zCeK3uAK5xZadiA8"
+    },
+    {
+      "text": "Dancer",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "4emXfIONXDkmvz3o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.4emXfIONXDkmvz3o"
+    },
+    {
+      "text": "The Invisible Hand",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "KmS2U3BazEQNX7JC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.KmS2U3BazEQNX7JC"
+    },
+    {
+      "text": "Oblivia 404",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "zsIde4zrOY8riqaA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.zsIde4zrOY8riqaA"
+    },
+    {
+      "text": "Infobahn",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "XElhncteNwnz7kv8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.XElhncteNwnz7kv8"
+    },
+    {
+      "text": "Hungry Ghost",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "1QkvVGNQ3i90LwtF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.1QkvVGNQ3i90LwtF"
+    },
+    {
+      "text": "Cortical Mafia",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "IR93dVanJf7pC1Yg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.IR93dVanJf7pC1Yg"
+    },
+    {
+      "text": "Jake/Finn/Beemo",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "7ZkzFw3OSMrb8qzd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.7ZkzFw3OSMrb8qzd"
+    },
+    {
+      "text": "Synaptica",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "U30obiWrkFwdHVSA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.U30obiWrkFwdHVSA"
+    },
+    {
+      "text": "Phantom Paradigm",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "eKtcNJW0hIZ84fhI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.eKtcNJW0hIZ84fhI"
+    },
+    {
+      "text": "Mother_bored",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "4hsyIjWBuO7Xt3bw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.4hsyIjWBuO7Xt3bw"
+    },
+    {
+      "text": "Bit Rat",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "jbCGdVztcgfsHg2n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.jbCGdVztcgfsHg2n"
+    },
+    {
+      "text": "Daemonbot",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "uLUruNIpE9ig1nT3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.uLUruNIpE9ig1nT3"
+    },
+    {
+      "text": "Samizdat",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "m5HWxpWtWRpNmnsB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.m5HWxpWtWRpNmnsB"
+    },
+    {
+      "text": "Lexicon Bandit",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "psaTjoaPebgWChe0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.psaTjoaPebgWChe0"
+    },
+    {
+      "text": "Happy Panda",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "QSRtkgl5gKZE7SBb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.QSRtkgl5gKZE7SBb"
+    },
+    {
+      "text": "Mod.Net",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "OlzkZ3wXszzfJoqc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.OlzkZ3wXszzfJoqc"
+    },
+    {
+      "text": "Heatseeker",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "hbYR9ueOKj1zFx7Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.hbYR9ueOKj1zFx7Y"
+    },
+    {
+      "text": "Solid State",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "r7Q0dBZUDcsGIG3K",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.r7Q0dBZUDcsGIG3K"
+    },
+    {
+      "text": "Chaos Theory",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "rlJBTRNjyEEwtJ6B",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.rlJBTRNjyEEwtJ6B"
+    },
+    {
+      "text": "The Havoc",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "SlqjWk9DF3idu626",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.SlqjWk9DF3idu626"
+    },
+    {
+      "text": "Fuzzy Logic",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "o121Qm54paf1U6FE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.o121Qm54paf1U6FE"
+    },
+    {
+      "text": "Wardroids",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "yINFSPtZk5Yz144s",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.yINFSPtZk5Yz144s"
+    },
+    {
+      "text": "White Knight",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "5Ix4TD89GaN41z2X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.5Ix4TD89GaN41z2X"
+    },
+    {
+      "text": "Rominatrix",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "ggm6NCz43dyE6N2B",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.ggm6NCz43dyE6N2B"
+    },
+    {
+      "text": "Underscourge",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "YtMUvriai3XDRuZM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vyiwcuBj4QKHvLsl.YtMUvriai3XDRuZM"
+    }
+  ],
+  "folder": "1BCddB25I3iSV6V4",
+  "sort": 0,
+  "_id": "vyiwcuBj4QKHvLsl",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Name, Description 1, Description 2, Appearance/Demeanour and Relationship tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570757613,
+    "modifiedTime": 1699657518934,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!vyiwcuBj4QKHvLsl"
+}

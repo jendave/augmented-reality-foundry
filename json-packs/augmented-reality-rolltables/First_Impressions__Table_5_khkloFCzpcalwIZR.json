@@ -1,0 +1,177 @@
+{
+  "name": "First Impressions? Table 5",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Obvious cosmetic surgeries",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "j0FKa4Ji4W7qM7R0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!khkloFCzpcalwIZR.j0FKa4Ji4W7qM7R0"
+    },
+    {
+      "text": "White enamel cyberlimb; expensive",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "KRUOozYJbBHqHlpU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!khkloFCzpcalwIZR.KRUOozYJbBHqHlpU"
+    },
+    {
+      "text": "Gangsta bling, lisps, friendly",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "BTdchyqpJpAinphN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!khkloFCzpcalwIZR.BTdchyqpJpAinphN"
+    },
+    {
+      "text": "Permanent plastic rictus grin",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "5yaqajhYn3X4UP3r",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!khkloFCzpcalwIZR.5yaqajhYn3X4UP3r"
+    },
+    {
+      "text": "Highly strung, with overly long fingers",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "xaPltXUp1305en4B",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!khkloFCzpcalwIZR.xaPltXUp1305en4B"
+    },
+    {
+      "text": "Pushed for time, bulky backpack",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "sbB4Qi47myEApR6s",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!khkloFCzpcalwIZR.sbB4Qi47myEApR6s"
+    },
+    {
+      "text": "Poorly groomed, with a raspy voice",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "n88EB14i6Rnj9zCB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!khkloFCzpcalwIZR.n88EB14i6Rnj9zCB"
+    },
+    {
+      "text": "Focussed on AR, poor listener",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "JK8C6El2O0xer44h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!khkloFCzpcalwIZR.JK8C6El2O0xer44h"
+    },
+    {
+      "text": "Workwear under overcoat, nods sagely",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "SUHx9vC3eNHk2UQg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!khkloFCzpcalwIZR.SUHx9vC3eNHk2UQg"
+    },
+    {
+      "text": "Thick foreign accent, glowing optics",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "CLeouhCQG7B4YY3W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!khkloFCzpcalwIZR.CLeouhCQG7B4YY3W"
+    }
+  ],
+  "folder": "9y0OKd1D7qA8QNVH",
+  "sort": 5,
+  "_id": "khkloFCzpcalwIZR",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>The Instacitizen Roll Table is designed to enable unprepared or improvising cyberpunk GMs to generate city dwellers in the immediate area, quickly and easily, simply by dropping some dice and checking where they land.</p><p>Roll 4-5 times on this table to tell you the type of people your players have in their immediate area.</p><p>Roll the same amount of D10s. Now, the numbers shown on each dice can be used in different ways; to ascertain the number of people in a group, as the NPC’s prime stat for their role, and to determine if the citizens have any quirks or notable features on the First Impressions tables (optional; choose a table for each NPC generated). Decide gender.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570009683,
+    "modifiedTime": 1699651762304,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!khkloFCzpcalwIZR"
+}

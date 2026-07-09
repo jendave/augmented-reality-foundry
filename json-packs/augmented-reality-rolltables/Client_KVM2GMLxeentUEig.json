@@ -1,0 +1,777 @@
+{
+  "name": "Client",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Street Gang Member",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "0VpwZgpCFabQnKSh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.0VpwZgpCFabQnKSh"
+    },
+    {
+      "text": "Corporate Aristocrat",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "pvc6l2GUcdxRYQ9p",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.pvc6l2GUcdxRYQ9p"
+    },
+    {
+      "text": "Pimp",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "IbPZ0f5RQP4Y934u",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.IbPZ0f5RQP4Y934u"
+    },
+    {
+      "text": "Thug",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "Hthmly58q4z4xAfM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.Hthmly58q4z4xAfM"
+    },
+    {
+      "text": "Prostitute",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "fLwozZWAuBNYvhR0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.fLwozZWAuBNYvhR0"
+    },
+    {
+      "text": "Fixer",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "ulFPxZu2Pbdifruc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.ulFPxZu2Pbdifruc"
+    },
+    {
+      "text": "Priest",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "C1MgBiLG95bolVSk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.C1MgBiLG95bolVSk"
+    },
+    {
+      "text": "Business Owner",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "C3rldJxuWrgqOcMM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.C3rldJxuWrgqOcMM"
+    },
+    {
+      "text": "Solo or Mercenary",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "w2xzwvLySWvcGNy7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.w2xzwvLySWvcGNy7"
+    },
+    {
+      "text": "Hacker",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "zyw98v922Oix9a8D",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.zyw98v922Oix9a8D"
+    },
+    {
+      "text": "Scientist",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "tWqtaWi6af0w2hIw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.tWqtaWi6af0w2hIw"
+    },
+    {
+      "text": "Cop",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "oTeDDQPrl93N2Efk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.oTeDDQPrl93N2Efk"
+    },
+    {
+      "text": "Mobster",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "JtWB7RQzQeulSCjB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.JtWB7RQzQeulSCjB"
+    },
+    {
+      "text": "Smuggler",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "D8Gc9twvsP2tl1fb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.D8Gc9twvsP2tl1fb"
+    },
+    {
+      "text": "Bounty Hunter",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "SV9iyWOMYQZhHvmc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.SV9iyWOMYQZhHvmc"
+    },
+    {
+      "text": "Syndicate Boss",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "QOX3ARWNBbweCf0Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.QOX3ARWNBbweCf0Y"
+    },
+    {
+      "text": "Concubine",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "8mbGIOVELFHIobpL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.8mbGIOVELFHIobpL"
+    },
+    {
+      "text": "Tech Specialist",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "dMGGoRjFXdw9C6jo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.dMGGoRjFXdw9C6jo"
+    },
+    {
+      "text": "Soldier",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "tHvkfj1GJPjwyfJ5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.tHvkfj1GJPjwyfJ5"
+    },
+    {
+      "text": "Scavenger",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "OQWbyPGLKFSSRL0t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.OQWbyPGLKFSSRL0t"
+    },
+    {
+      "text": "Agent",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "sdX0HmjjwTrjEUbP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.sdX0HmjjwTrjEUbP"
+    },
+    {
+      "text": "Doctor",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "3WnuOp8EG6AiCuPX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.3WnuOp8EG6AiCuPX"
+    },
+    {
+      "text": "Drug Dealer",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "3nFsfpLHvAl9E7tB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.3nFsfpLHvAl9E7tB"
+    },
+    {
+      "text": "Celebrity",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "euwmxpmcTj5LGu8G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.euwmxpmcTj5LGu8G"
+    },
+    {
+      "text": "Artificial Intelligence",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "XsfFGw67XtN3v2Uz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.XsfFGw67XtN3v2Uz"
+    },
+    {
+      "text": "Artist",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "ghdUndoRPerUgIEF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.ghdUndoRPerUgIEF"
+    },
+    {
+      "text": "Thief",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "BQ4onE9Slb052a5v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.BQ4onE9Slb052a5v"
+    },
+    {
+      "text": "Media",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "DNzzdCprpTJoGDtP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.DNzzdCprpTJoGDtP"
+    },
+    {
+      "text": "Nomad",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "hCqOy8LSt9WnnXcQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.hCqOy8LSt9WnnXcQ"
+    },
+    {
+      "text": "Synthetic",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "9vF0ffP4l4hmdx1G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.9vF0ffP4l4hmdx1G"
+    },
+    {
+      "text": "Driver",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "MaCq2HMQM7Dne824",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.MaCq2HMQM7Dne824"
+    },
+    {
+      "text": "Child",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "VD96EldKNwz2a4ds",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.VD96EldKNwz2a4ds"
+    },
+    {
+      "text": "Broker",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "OBUFe1MP9hQcsz2W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.OBUFe1MP9hQcsz2W"
+    },
+    {
+      "text": "Unemployed Person",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "GHbg3moGHyM7Bhv3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.GHbg3moGHyM7Bhv3"
+    },
+    {
+      "text": "Clone",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "0aKyo3Vq3X6alTo0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.0aKyo3Vq3X6alTo0"
+    },
+    {
+      "text": "Programmer",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "zs7IQHfJCcuFHl4X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.zs7IQHfJCcuFHl4X"
+    },
+    {
+      "text": "Designer",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "iIeqOq6MCvKXU3dT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.iIeqOq6MCvKXU3dT"
+    },
+    {
+      "text": "Homeless Person",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "SENjW36yB51xPRK6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.SENjW36yB51xPRK6"
+    },
+    {
+      "text": "People Trafficker",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "LUZMirMtzOHKznAy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.LUZMirMtzOHKznAy"
+    },
+    {
+      "text": "Revolutionary",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "iygf9g1zg23uFO7I",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.iygf9g1zg23uFO7I"
+    },
+    {
+      "text": "Psychiatrist",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "Ayd5w0vqND5ZfAo2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.Ayd5w0vqND5ZfAo2"
+    },
+    {
+      "text": "Cyborg",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "bNXbPZ0A2SgT7Wd5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.bNXbPZ0A2SgT7Wd5"
+    },
+    {
+      "text": "Intelligent Animal",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "C9T8pZRBH3DdhXaP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.C9T8pZRBH3DdhXaP"
+    },
+    {
+      "text": "Courier",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "gsboqTGUNZTxyLa9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.gsboqTGUNZTxyLa9"
+    },
+    {
+      "text": "Image Consultant",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "UUTMaM4yG4ULptDf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.UUTMaM4yG4ULptDf"
+    },
+    {
+      "text": "Forger",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "rvAAvLrAvUXswKgY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.rvAAvLrAvUXswKgY"
+    },
+    {
+      "text": "Ex-Con",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "DBOh1A1AbhqfBYAO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.DBOh1A1AbhqfBYAO"
+    },
+    {
+      "text": "Fanatic/Extremist",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "SB1Kn7sg5xhjvpxe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.SB1Kn7sg5xhjvpxe"
+    },
+    {
+      "text": "Performer",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "nIPNTyLtyQy14u0Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.nIPNTyLtyQy14u0Z"
+    },
+    {
+      "text": "Junkie",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "rZZJC5Tbg0CfaQs7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!KVM2GMLxeentUEig.rZZJC5Tbg0CfaQs7"
+    }
+  ],
+  "folder": "V9xcGno7gjkY0MAt",
+  "sort": 200000,
+  "_id": "KVM2GMLxeentUEig",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Client, Want, Action and Target Person tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570374576,
+    "modifiedTime": 1699654248178,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!KVM2GMLxeentUEig"
+}

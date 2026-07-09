@@ -1,0 +1,177 @@
+{
+  "name": "Style",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Minimalist",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "3Qgy91wlBW9UTvix",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xl4GhEfHYejxMJYy.3Qgy91wlBW9UTvix"
+    },
+    {
+      "text": "Industrial",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "OXR1h7sz4j8Nbveh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xl4GhEfHYejxMJYy.OXR1h7sz4j8Nbveh"
+    },
+    {
+      "text": "Shabby-Chic",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "LqC9GcpthZ2KPpm8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xl4GhEfHYejxMJYy.LqC9GcpthZ2KPpm8"
+    },
+    {
+      "text": "(Bio)Organic",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "6HauqXxRFdS7ONsU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xl4GhEfHYejxMJYy.6HauqXxRFdS7ONsU"
+    },
+    {
+      "text": "Brushed Steel",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "YVHNBXUvEJiZdJGm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xl4GhEfHYejxMJYy.YVHNBXUvEJiZdJGm"
+    },
+    {
+      "text": "Polymer Baroque",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "MtbbRR3TC34mbPqh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xl4GhEfHYejxMJYy.MtbbRR3TC34mbPqh"
+    },
+    {
+      "text": "Gothic",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "8XkigEuDkxUCM0m1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xl4GhEfHYejxMJYy.8XkigEuDkxUCM0m1"
+    },
+    {
+      "text": "Rustic",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "UiQslTahBpGqOpSR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xl4GhEfHYejxMJYy.UiQslTahBpGqOpSR"
+    },
+    {
+      "text": "Office Beige",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "LxRJSPecq8oXd5k0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xl4GhEfHYejxMJYy.LxRJSPecq8oXd5k0"
+    },
+    {
+      "text": "Hexagonal Tiles",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "KEWZq162HgkPxWoV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xl4GhEfHYejxMJYy.KEWZq162HgkPxWoV"
+    }
+  ],
+  "folder": "Zv2ehUmeOm2R0BF0",
+  "sort": 0,
+  "_id": "xl4GhEfHYejxMJYy",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Style, State, Unusual Feature and Secret Roll Tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569655381,
+    "modifiedTime": 1699638520710,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!xl4GhEfHYejxMJYy"
+}

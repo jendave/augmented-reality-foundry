@@ -1,0 +1,177 @@
+{
+  "name": "Where",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Back/Shoulders",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "IceXeFeleAItMUdt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!dL6O2ixp5s4LsJMX.IceXeFeleAItMUdt"
+    },
+    {
+      "text": "Bicep/Forearm",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "H4EV9tPaBILrnDRQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!dL6O2ixp5s4LsJMX.H4EV9tPaBILrnDRQ"
+    },
+    {
+      "text": "Hip/Groin",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "QfgFNVSbANo46Gct",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!dL6O2ixp5s4LsJMX.QfgFNVSbANo46Gct"
+    },
+    {
+      "text": "Face/Scalp",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "7mer8pg6cMz4zvP4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!dL6O2ixp5s4LsJMX.7mer8pg6cMz4zvP4"
+    },
+    {
+      "text": "Stomach",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "D7vkwlLLNU1CNx1i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!dL6O2ixp5s4LsJMX.D7vkwlLLNU1CNx1i"
+    },
+    {
+      "text": "Lower leg/Calf",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "pSmTydw3KFcNrJP1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!dL6O2ixp5s4LsJMX.pSmTydw3KFcNrJP1"
+    },
+    {
+      "text": "Thigh",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "EfZg4im1F3ioz5uc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!dL6O2ixp5s4LsJMX.EfZg4im1F3ioz5uc"
+    },
+    {
+      "text": "Ribs/Chest",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "mTS1JJkyDQFm2ypn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!dL6O2ixp5s4LsJMX.mTS1JJkyDQFm2ypn"
+    },
+    {
+      "text": "Neck/Collar Bone",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "URUeK79j7mHfulnr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!dL6O2ixp5s4LsJMX.URUeK79j7mHfulnr"
+    },
+    {
+      "text": "Buttock(s)",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "P3wty9YpXk2OcGIF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!dL6O2ixp5s4LsJMX.P3wty9YpXk2OcGIF"
+    }
+  ],
+  "folder": "xAawSkJgqlyMoGBA",
+  "sort": 2,
+  "_id": "dL6O2ixp5s4LsJMX",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on the What, Style and Where tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570102421,
+    "modifiedTime": 1699652303729,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!dL6O2ixp5s4LsJMX"
+}

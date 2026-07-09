@@ -1,0 +1,102 @@
+{
+  "name": "Call For Backup (ETA [[1d6]] minutes)",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "[[1d6]] Support Drones - Cameras, Tasers, Flechette Weapons",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "dm9QFYweSIKk3pJC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZarDaMOR5VLYO9nc.dm9QFYweSIKk3pJC"
+    },
+    {
+      "text": "Uniformed Officers - [[1d3]] Patrol Cars, Armoured Officers, SMGs/Shotguns",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "z51qbHTBhRh8sdOe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZarDaMOR5VLYO9nc.z51qbHTBhRh8sdOe"
+    },
+    {
+      "text": "SWAT Team - Heavy/hard Armour, Combat rifles, Augmented",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "583O1vi1DU6ZyhOM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZarDaMOR5VLYO9nc.583O1vi1DU6ZyhOM"
+    },
+    {
+      "text": "Heavy Support remote = Teleoperated Walker, HMG and/or Missiles",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "Mj8c15Yqej4Nmv2T",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZarDaMOR5VLYO9nc.Mj8c15Yqej4Nmv2T"
+    },
+    {
+      "text": "Powered Armour Suit - Heavy Weapon, ECM, Grenade launchers",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "jLgGEkxV3SFkoj6q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZarDaMOR5VLYO9nc.jLgGEkxV3SFkoj6q"
+    }
+  ],
+  "folder": "fjFPpeu1ppaCPoef",
+  "sort": 4,
+  "_id": "ZarDaMOR5VLYO9nc",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>ETA <span style=\"font-family:monospace\">[[1d6]]</span> minutes</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570234037,
+    "modifiedTime": 1699653928442,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!ZarDaMOR5VLYO9nc"
+}

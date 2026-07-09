@@ -1,0 +1,177 @@
+{
+  "name": "Vehicle Type",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Luxury Aero/Limo",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "kbuR7Ax0HKc0voWH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NQh0zGi2BeKYwM5p.kbuR7Ax0HKc0voWH"
+    },
+    {
+      "text": "Utility Aero Transport",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "xV8VVe1f0AlpYmHf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NQh0zGi2BeKYwM5p.xV8VVe1f0AlpYmHf"
+    },
+    {
+      "text": "Aerobus/Aerocab (See Random Cabbies)",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "6JDCF2eBQ109legp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NQh0zGi2BeKYwM5p.6JDCF2eBQ109legp"
+    },
+    {
+      "text": "Helicopter/Tilt-Rotor",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "A1bOGqDzDnIFNMdh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NQh0zGi2BeKYwM5p.A1bOGqDzDnIFNMdh"
+    },
+    {
+      "text": "Ad Blimp (See @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.4wwXFtYEc5AaovG0]{What's On That Big Screen?})",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "YZDwcbR7I6CAFCir",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NQh0zGi2BeKYwM5p.YZDwcbR7I6CAFCir"
+    },
+    {
+      "text": "Gunship (Aero or Chopper)",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "ZnL3nnj6QOTSTjPb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NQh0zGi2BeKYwM5p.ZnL3nnj6QOTSTjPb"
+    },
+    {
+      "text": "Drone Cluster/UAV",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "gXjsrnfwgIiCHW1X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NQh0zGi2BeKYwM5p.gXjsrnfwgIiCHW1X"
+    },
+    {
+      "text": "Police Aero",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "SJnP3iKyAVgqRmWq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NQh0zGi2BeKYwM5p.SJnP3iKyAVgqRmWq"
+    },
+    {
+      "text": "Aero Sedan",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "wICde0aVVlLisZ4Q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NQh0zGi2BeKYwM5p.wICde0aVVlLisZ4Q"
+    },
+    {
+      "text": "EMT/Paramedic Aero",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "XvldJ9tj2Ry0tgNQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NQh0zGi2BeKYwM5p.XvldJ9tj2Ry0tgNQ"
+    }
+  ],
+  "folder": "YctnHCl8xyuSWzJ2",
+  "sort": 0,
+  "_id": "NQh0zGi2BeKYwM5p",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on the Vehicle Type and Vehicle Currently… tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569961571,
+    "modifiedTime": 1699851557416,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!NQh0zGi2BeKYwM5p"
+}

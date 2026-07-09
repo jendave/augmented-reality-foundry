@@ -1,0 +1,27 @@
+{
+  "name": "Street Finds Its Uses For Things",
+  "type": "script",
+  "_id": "AborMP6QGKOgq272",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let rollTablesUUIDPrefix = \"Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.\";\n\n    let title = \"<h3>The Street Finds Its Uses For Things</h3>\";\n\n    const streetFindsTable = await fromUuid(rollTablesUUIDPrefix + \"DZRvR9tah4MdCthW\");\n    let streetFindsRoll = await streetFindsTable.roll();\n    let streetFinds = streetFindsRoll.results[0].text;\n\n    let message = \"The Street Finds Its Uses For Things: \" + streetFinds + \"<br>\";\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.329",
+    "createdTime": 1700014602205,
+    "modifiedTime": 1721407410947,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!macros!AborMP6QGKOgq272"
+}

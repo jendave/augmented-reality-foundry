@@ -1,0 +1,177 @@
+{
+  "name": "Vendomat Goods",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Hot/Cold Beverages - Coffee, tea, cocoa, sodas, water, juice, shakes, energy drinks",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "0FZVXr0wb0Hvp41H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4NjmuEulOR378I3f.0FZVXr0wb0Hvp41H"
+    },
+    {
+      "text": "Hot/Cold Food - Burritos, noodles, burgers, fries, SCOP, sandwiches, 'sushi'",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "jcfDwNSzRZA4Pufz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4NjmuEulOR378I3f.jcfDwNSzRZA4Pufz"
+    },
+    {
+      "text": "Stimulants - Cigarettes, cigars, e-cig fluid, patches, caffeine tabs, alcohol",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "KaZhlqQoM6mAJ63n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4NjmuEulOR378I3f.KaZhlqQoM6mAJ63n"
+    },
+    {
+      "text": "Travel Packs - Toiletries, travel guides, cosmetics, sanitaries, sunglasses",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "12QuKmhj5QngYKmI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4NjmuEulOR378I3f.12QuKmhj5QngYKmI"
+    },
+    {
+      "text": "Electronics  - Headphones, batteries, phones, torches, cameras, radios",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "V3RicYEthPRVV5GR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4NjmuEulOR378I3f.V3RicYEthPRVV5GR"
+    },
+    {
+      "text": "Personal Defense - Tasers, pepper spray, telescoping batons, polymer oneshots",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "EUNNYTmaTzFP80Hg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4NjmuEulOR378I3f.EUNNYTmaTzFP80Hg"
+    },
+    {
+      "text": "Clothing - Rainwear, underclothes, thermals, hats, t-shirts, socks",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "3TMyRrne2t9tNgVZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4NjmuEulOR378I3f.3TMyRrne2t9tNgVZ"
+    },
+    {
+      "text": "Media - Newsprint, digital music, games, films, simstim, e-books",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "TUSn1QO8XcII7zD6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4NjmuEulOR378I3f.TUSn1QO8XcII7zD6"
+    },
+    {
+      "text": "Pharmaceuticals  - Medicines, contraceptives, first aid, sensory aids, vitamins",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "HCudcpjA87My7cFi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4NjmuEulOR378I3f.HCudcpjA87My7cFi"
+    },
+    {
+      "text": "Snacks - Gum, candy, chips/crisps, popcorn, nuts, cryo-dried fruits",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "Q7iOo5iL49yPWd85",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4NjmuEulOR378I3f.Q7iOo5iL49yPWd85"
+    }
+  ],
+  "folder": "zGQqV29PjqpCt7n5",
+  "sort": 4,
+  "_id": "4NjmuEulOR378I3f",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>* SCOP - Single Cell Organic Proteins - the nation’s favourite nutrient soup</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570513356,
+    "modifiedTime": 1699656194579,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!4NjmuEulOR378I3f"
+}

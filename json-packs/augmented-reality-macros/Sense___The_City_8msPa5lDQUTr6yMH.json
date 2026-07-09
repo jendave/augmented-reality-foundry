@@ -1,0 +1,27 @@
+{
+  "name": "Sense & The City",
+  "type": "script",
+  "_id": "8msPa5lDQUTr6yMH",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let rollTablesUUIDPrefix = \"Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.\";\n\n    let title = \"<h3>Sense & The City</h3>\";\n\n    const smellsTable = await fromUuid(rollTablesUUIDPrefix + \"iWLStgXfVtgeHzIK\");\n    let smellsRoll = await smellsTable.roll();\n    let smells = smellsRoll.results[0].text;\n\n    const soundsTable = await fromUuid(rollTablesUUIDPrefix + \"icpvSJXwHC4bofth\");\n    let soundsRoll = await soundsTable.roll();\n    let sounds = soundsRoll.results[0].text;\n\n    const sightsTable = await fromUuid(rollTablesUUIDPrefix + \"bja46Iy7QIojAUuv\");\n    let sightsRoll = await sightsTable.roll();\n    let sights = sightsRoll.results[0].text;\n\n    let message = \"Smells: \" + smells + \"<br>\";\n    message += \"Sounds: \" + sounds + \"<br>\";\n    message += \"Sights: \" + sights + \"<br>\";\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.329",
+    "createdTime": 1700026468227,
+    "modifiedTime": 1721407397650,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!macros!8msPa5lDQUTr6yMH"
+}

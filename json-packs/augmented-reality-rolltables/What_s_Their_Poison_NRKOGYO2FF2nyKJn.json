@@ -1,0 +1,19 @@
+{
+  "name": "What's Their Poison",
+  "type": "RollTable",
+  "sorting": "a",
+  "_id": "NRKOGYO2FF2nyKJn",
+  "folder": "PJ13sgjYXQ6oOjh8",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570045392,
+    "modifiedTime": 1699652152606,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "color": null,
+  "_key": "!folders!NRKOGYO2FF2nyKJn"
+}

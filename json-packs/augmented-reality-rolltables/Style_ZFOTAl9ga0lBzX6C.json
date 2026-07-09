@@ -1,0 +1,177 @@
+{
+  "name": "Style",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Mexican/Aztec",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "aCPe7WcnXY8JLVgx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZFOTAl9ga0lBzX6C.aCPe7WcnXY8JLVgx"
+    },
+    {
+      "text": "Pixilated/Computerised",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "U3iTDtcWECQ3lKhh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZFOTAl9ga0lBzX6C.U3iTDtcWECQ3lKhh"
+    },
+    {
+      "text": "Photorealistic Colour/Grey",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "AS2kKY4q9zhK0Bh6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZFOTAl9ga0lBzX6C.AS2kKY4q9zhK0Bh6"
+    },
+    {
+      "text": "Migratory/Animated",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "Ze8qHHB9wn0ZuuqI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZFOTAl9ga0lBzX6C.Ze8qHHB9wn0ZuuqI"
+    },
+    {
+      "text": "Oriental",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "DzIgJbqoSlUyivrk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZFOTAl9ga0lBzX6C.DzIgJbqoSlUyivrk"
+    },
+    {
+      "text": "Tribal",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "Fuw3kQGnr1253Ahf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZFOTAl9ga0lBzX6C.Fuw3kQGnr1253Ahf"
+    },
+    {
+      "text": "Rockabilly Punk",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "VrZoe6alZD4UKahx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZFOTAl9ga0lBzX6C.VrZoe6alZD4UKahx"
+    },
+    {
+      "text": "Solid Monotone Graphics",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "OL54PzADzzjcKqm0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZFOTAl9ga0lBzX6C.OL54PzADzzjcKqm0"
+    },
+    {
+      "text": "Neon Glow",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "DNhvcQfeJGawQkX6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZFOTAl9ga0lBzX6C.DNhvcQfeJGawQkX6"
+    },
+    {
+      "text": "Old School Blue Ink",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "TUR88cHxd773G1bT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZFOTAl9ga0lBzX6C.TUR88cHxd773G1bT"
+    }
+  ],
+  "folder": "xAawSkJgqlyMoGBA",
+  "sort": 1,
+  "_id": "ZFOTAl9ga0lBzX6C",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on the What, Style and Where tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570102414,
+    "modifiedTime": 1699652295203,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!ZFOTAl9ga0lBzX6C"
+}

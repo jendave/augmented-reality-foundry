@@ -1,0 +1,177 @@
+{
+  "name": "Level of Need",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Take It Or Leave It",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "98J6nOkRUR2AUdOF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6pCBgqgZHep8ihXE.98J6nOkRUR2AUdOF"
+    },
+    {
+      "text": "Light Interest",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "GdyNgA4Mq8Eo12NO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6pCBgqgZHep8ihXE.GdyNgA4Mq8Eo12NO"
+    },
+    {
+      "text": "Ghoulish Fascination",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "5uEwE3UN2ooQdpML",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6pCBgqgZHep8ihXE.5uEwE3UN2ooQdpML"
+    },
+    {
+      "text": "If The Opportunity Arises",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "7oJ81FG9eBzfqYPt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6pCBgqgZHep8ihXE.7oJ81FG9eBzfqYPt"
+    },
+    {
+      "text": "Regular Routine User",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "jSgctOXv8AaFGxlN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6pCBgqgZHep8ihXE.jSgctOXv8AaFGxlN"
+    },
+    {
+      "text": "Intrinsic To Personality",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "Cp038CniqLmAc9sS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6pCBgqgZHep8ihXE.Cp038CniqLmAc9sS"
+    },
+    {
+      "text": "Only To Destress",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "wHJlL0jIYprWi7l7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6pCBgqgZHep8ihXE.wHJlL0jIYprWi7l7"
+    },
+    {
+      "text": "Needed To Function",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "qyf7f66c843WYfaT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6pCBgqgZHep8ihXE.qyf7f66c843WYfaT"
+    },
+    {
+      "text": "Unhealthy Obsession",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "TprSODMcBrWxKC6i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6pCBgqgZHep8ihXE.TprSODMcBrWxKC6i"
+    },
+    {
+      "text": "All Consuming",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "HD4YKh0i91jXuN2W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6pCBgqgZHep8ihXE.HD4YKh0i91jXuN2W"
+    }
+  ],
+  "folder": "NRKOGYO2FF2nyKJn",
+  "sort": 1,
+  "_id": "6pCBgqgZHep8ihXE",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on \"Peccadilloes, Vices, Addictions\" and Level of Need tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570045489,
+    "modifiedTime": 1699652219038,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!6pCBgqgZHep8ihXE"
+}

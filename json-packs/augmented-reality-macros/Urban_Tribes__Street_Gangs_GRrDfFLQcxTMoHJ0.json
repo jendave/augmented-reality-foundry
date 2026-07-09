@@ -1,0 +1,27 @@
+{
+  "name": "Urban Tribes: Street Gangs",
+  "type": "script",
+  "_id": "GRrDfFLQcxTMoHJ0",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let rollTablesUUIDPrefix = \"Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.\";\n\n    let title = \"<h3>Urban Tribes: Street Gangs</h3>\";\n\n    const name1Table = await fromUuid(rollTablesUUIDPrefix + \"wXKMKFaCiuP4NYWO\");\n    let name1Roll = await name1Table.roll();\n    let name1 = name1Roll.results[0].text;\n\n    const name2Table = await fromUuid(rollTablesUUIDPrefix + \"XWpo8CpZudwCCrqH\");\n    let name2Roll = await name2Table.roll();\n    let name2 = name2Roll.results[0].text;\n\n    const description1Table = await fromUuid(rollTablesUUIDPrefix + \"tN5ZvupJuaOAVkuf\");\n    let description1Roll = await description1Table.roll();\n    let description1 = description1Roll.results[0].text;\n\n    const description2Table = await fromUuid(rollTablesUUIDPrefix + \"3EBQFyfepebEZBTp\");\n    let description2Roll = await description2Table.roll();\n    let description2 = description2Roll.results[0].text;\n\n    const description3Table = await fromUuid(rollTablesUUIDPrefix + \"NzysTEgDDYpf0LTN\");\n    let description3Roll = await description3Table.roll();\n    let description3 = description3Roll.results[0].text;\n\n    const sphereOfInfluenceTable = await fromUuid(rollTablesUUIDPrefix + \"AhaQArpQwQ8s7vYY\");\n    let sphereOfInfluenceRoll = await sphereOfInfluenceTable.roll();\n    let sphereOfInfluence = sphereOfInfluenceRoll.results[0].text;\n\n    const relationshipTable = await fromUuid(rollTablesUUIDPrefix + \"tOcfatbCcF9L4J1P\");\n    let relationshipRoll = await relationshipTable.roll();\n    let relationship = relationshipRoll.results[0].text;\n\n    const whatAreTheyUpToTable = await fromUuid(rollTablesUUIDPrefix + \"BKxJwxmW1R7DzYUJ\");\n    let whatAreTheyUpToRoll = await whatAreTheyUpToTable.roll();\n    let whatAreTheyUpTo = whatAreTheyUpToRoll.results[0].text;\n\n    const npcsTable = await fromUuid(rollTablesUUIDPrefix + \"C9SrIr6bFoZbd6Cd\");\n    let npcsRoll = await npcsTable.roll();\n    let npcs = npcsRoll.results[0].text;\n\n    const otherNpcsTable = await fromUuid(rollTablesUUIDPrefix + \"kFmWR6PRTeJeeqLB\");\n    let otherNpcsRoll = await otherNpcsTable.roll();\n    let otherNpcs = otherNpcsRoll.results[0].text;\n\n    const rumoursHooksTable = await fromUuid(rollTablesUUIDPrefix + \"BKxJwxmW1R7DzYUJ\");\n    let rumoursHooksRoll = await rumoursHooksTable.roll();\n    let rumoursHooks = rumoursHooksRoll.results[0].text;\n\n    let message = \"Name: \" + name1 + \" \" + name2 + \"<br>\";\n    message += \"Description: \" + description1 + \", \" + description2 + \", \" + description3 + \"<br>\";\n    message += \"Sphere Of Influence: \" + sphereOfInfluence + \"<br>\";\n    message += \"Relationship: \" + relationship + \"<br>\";\n    message += \"What Are They Up To?: \" + whatAreTheyUpTo + \"<br>\";\n    message += \"NPCs: \" + npcs + \" and \" + otherNpcs + \"<br>\";\n    message += \"Rumours/Hooks: \" + rumoursHooks + \"<br>\";\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.329",
+    "createdTime": 1699926224126,
+    "modifiedTime": 1721407437848,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!macros!GRrDfFLQcxTMoHJ0"
+}

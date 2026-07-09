@@ -1,0 +1,779 @@
+{
+  "name": "What's On The Corpse?",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Scrap of paper - Work-in-progress death haiku scrawled on hotel note paper",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "SyMHHMsqFuFkN45E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.SyMHHMsqFuFkN45E"
+    },
+    {
+      "text": "Human eyeball - In climate controlled transparent jar, residential address on label",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "z12epZTJb6XpwLNS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.z12epZTJb6XpwLNS"
+    },
+    {
+      "text": "Blister pack of pills - Half-taken medication for virulently contagious illness",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "8xqdgfdrIJgfJJxn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.8xqdgfdrIJgfJJxn"
+    },
+    {
+      "text": "Plain clip-on IFF tag - [[1d6]]: 1-2 Police, 3-4 Major Corporation, 5-6 local Cartel ([[1d3]] days)",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "reINsEdgBAZu2XvZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.reINsEdgBAZu2XvZ"
+    },
+    {
+      "text": "Smooth plastic blob - Memory-plastic knife, requires a sharp tap to reconfigure blade",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "hpXSE3dFCbsY0wGu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.hpXSE3dFCbsY0wGu"
+    },
+    {
+      "text": "Ziplock of grey dust - [[1d6]] 'doses' of surveillance nanites; need transmission frequency",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "6umiRzatLNhqrYF7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.6umiRzatLNhqrYF7"
+    },
+    {
+      "text": "Used pregnancy test - The low grade AI just can't wait to tell you the good news...",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "65iXHewb2Ef42e7L",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.65iXHewb2Ef42e7L"
+    },
+    {
+      "text": "Battered e-cig - The liquid well contains 12ml of a previously unknown narcotic",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "nV12FzOse2n8s7lS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.nV12FzOse2n8s7lS"
+    },
+    {
+      "text": "Three 7.62 bullets - One of which is laser-etched with a PC's name",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "1ejICnLxpCvB8ITb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.1ejICnLxpCvB8ITb"
+    },
+    {
+      "text": "Plastic envelope - Keycard and address for very hidden, very private cyber clinic",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "MKxYAjNn9mY1YteY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.MKxYAjNn9mY1YteY"
+    },
+    {
+      "text": "Packet of condoms - Expensive, with STD detection sensors, phone number on back",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "Vb7jL2Ak1pyyxBqi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.Vb7jL2Ak1pyyxBqi"
+    },
+    {
+      "text": "'Fitbit' biomonitor - Hack reveals owner's movements, heart-rate and drug intake",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "pknmMw3MK71IVZ3H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.pknmMw3MK71IVZ3H"
+    },
+    {
+      "text": "DeStress Xpress - [[1d6]] anti-anxiety capsules, laced with tracking nanites",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "qFVz9TXvFsdAExjx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.qFVz9TXvFsdAExjx"
+    },
+    {
+      "text": "Small grey brick - Carbon nanobar, required substrate for illegal nano fabricators",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "EvdEMhw6nc5JcW3N",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.EvdEMhw6nc5JcW3N"
+    },
+    {
+      "text": "Business plasticard - Contact details for a gig-economy agent at 'reputelligent Inc'.",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "crE4F1bESlkHCJV6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.crE4F1bESlkHCJV6"
+    },
+    {
+      "text": "Fancy boots - Synthetic crocodile skin Chelsea boots, hideously expensive",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "Q6Opr655JNnZmqyP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.Q6Opr655JNnZmqyP"
+    },
+    {
+      "text": "Cybernetic hand - Spare chromed hand, fitted with flashlight and motion sensor",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "lUnwULBCHbM2hMMq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.lUnwULBCHbM2hMMq"
+    },
+    {
+      "text": "Chinese cigarettes - Rare, prohibited imports, only one fixer known to smuggle them",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "T6qgaqwuzzNLj1WN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.T6qgaqwuzzNLj1WN"
+    },
+    {
+      "text": "25ml plastic bottle - Labelled as NanoBrite dental hygiene fluid, contains DNA sample",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "hgjMdpbOHjk11ya8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.hgjMdpbOHjk11ya8"
+    },
+    {
+      "text": "Shrink wrapped cell - Unused vendomat burner phone, monitored by corporation",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "pEWAv6vIrKQlfeBq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.pEWAv6vIrKQlfeBq"
+    },
+    {
+      "text": "Puck-like disk - Olive drab casing, cyrillic script on how to use the monowire mine",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "AiDE79aKirQdWyOC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.AiDE79aKirQdWyOC"
+    },
+    {
+      "text": "Plush 'Hello Kitty' - Tiny T-shirt states \"let them eat chaos\", grenade hidden inside",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "uIg56Y9fgbYvuZNQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.uIg56Y9fgbYvuZNQ"
+    },
+    {
+      "text": "Unlocked datastick - Contains 500GB of banned Jihadipop tracks, DrMstill intact",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "szTkQpugshRYk1da",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.szTkQpugshRYk1da"
+    },
+    {
+      "text": "Painted filter mask - Anti-pollution rebreather, daubed in gang colours (see Urban Tribes: Street Gangs)",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "7UlI0zFAIl9NL4BB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.7UlI0zFAIl9NL4BB"
+    },
+    {
+      "text": "40mm resin figurine - Religious icon, showing Nelson Mandela healing a blind woman",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "n2BIz0ZjsViLz1LY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.n2BIz0ZjsViLz1LY"
+    },
+    {
+      "text": "3D printed ring - Ornate white gold wedding ring, unique, worn on a neck chain",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "VJL68srZgV63J45Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.VJL68srZgV63J45Z"
+    },
+    {
+      "text": "Small bodycam - Memory chip reveals meeting with prominent fixer hours ago",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "3IUvJorDZFv4bOB8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.3IUvJorDZFv4bOB8"
+    },
+    {
+      "text": "Small metal key - Key for a safety deposit box (303) at nearby monorail station",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "7gvKlPY6CYlyTqiO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.7gvKlPY6CYlyTqiO"
+    },
+    {
+      "text": "Medical aid card - Belongs to person with different face and gender to the corpse",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "ORww9eUOyHoZF1DR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.ORww9eUOyHoZF1DR"
+    },
+    {
+      "text": "Body lotto ticket - 25% chance that the owner's death resulted in a winning number",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "qv5OXlFgkefj8HxU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.qv5OXlFgkefj8HxU"
+    },
+    {
+      "text": "Durable glass vial - Containing a live venomous spider and eggs, not natural breed",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "fDyFagLNp0S2STVp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.fDyFagLNp0S2STVp"
+    },
+    {
+      "text": "Loose RFID tag - Angry pimp hunting for the prostitute it used to be implanted in",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "0NIydp7Myl9GewkX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.0NIydp7Myl9GewkX"
+    },
+    {
+      "text": "1KG pack of 'flour' - Calcium feed for nano-enhanced killer; stops the nano eating him",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "uLghMB6AyVC2Bmpy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.uLghMB6AyVC2Bmpy"
+    },
+    {
+      "text": "Blue lipstick - Loaded with aggressive immunosuppressing toxin",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "vOg34FpY7FK5CG3o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.vOg34FpY7FK5CG3o"
+    },
+    {
+      "text": "Plastic motel key - The room it opens contains [[1d6]] bound, unconscious street kids",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "ep0i3v7G3r9p9gz5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.ep0i3v7G3r9p9gz5"
+    },
+    {
+      "text": "Thumb-sized fob - Remote with agonizing dog-whistle effect on neural processors",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "5danfk8auGmv12Ml",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.5danfk8auGmv12Ml"
+    },
+    {
+      "text": "3 chromed 'almonds' - Small situational awareness drones, feed view back to user",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "RfZwEqjlvPfz4pdF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.RfZwEqjlvPfz4pdF"
+    },
+    {
+      "text": "Baggy of blue hexes - Contaminated or adulterated speed-like narcotics (d6 doses)",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "vjlIFrjxvkBAAMZ7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.vjlIFrjxvkBAAMZ7"
+    },
+    {
+      "text": "Visitor's pass card - For geodesic-covered gated community (good for [[1d3]] days)",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "vlcC6UgSwtBvXO2L",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.vlcC6UgSwtBvXO2L"
+    },
+    {
+      "text": "Cheap airhypo - With three cassettes of insulin and one of an opiate derivative",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "BMWLmJBnu4lhQnv3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.BMWLmJBnu4lhQnv3"
+    },
+    {
+      "text": "Wad of receipts - One for expensive neural backup, upload performed yesterday",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "6ycEatyUDt7h2Az2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.6ycEatyUDt7h2Az2"
+    },
+    {
+      "text": "'Breguet' wristwatch - Prohibitively expensive, bespoke craftsmanship, easily traced",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "6uWrmFyNbeFglNBd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.6uWrmFyNbeFglNBd"
+    },
+    {
+      "text": "Police ID - Same name and face as corpse, but expertly crafted forgery",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "WmgINP45UvjDOgZ0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.WmgINP45UvjDOgZ0"
+    },
+    {
+      "text": "Foil wrapped ooze - Pale &amp; pink 'jellypig' bioweapon, smothers and dissolves target",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "moHLS1cJq4dePCWe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.moHLS1cJq4dePCWe"
+    },
+    {
+      "text": "Vac-sealed Flish™ - [[1d6]] questionably nutritious artificial fish flesh sticks, each 3\" long",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "eQdYvC82ebuBruqW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.eQdYvC82ebuBruqW"
+    },
+    {
+      "text": "Silver hip flask - Engraved with elite unit crest, holds 'Shanghai White' vodka",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "JDNIJeGKItXjBeNq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.JDNIJeGKItXjBeNq"
+    },
+    {
+      "text": "Printed photo of PC - Folded acetate photo, with date 3 days hence penned in border",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "2bLp2clEyLmeJH5N",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.2bLp2clEyLmeJH5N"
+    },
+    {
+      "text": "Black, logo'd card - Corporate loyalty card, entitles bearer to generous discounts",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "1WsDJ1IrjSKL0JAc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.1WsDJ1IrjSKL0JAc"
+    },
+    {
+      "text": "Stubby aerosol can - Spray-on dry shampoo, also changes hair colour and texture",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "qnhULDQjzv6jsfV9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.qnhULDQjzv6jsfV9"
+    },
+    {
+      "text": "Boxy palmtop GPS - Active icon shows target on the move less than half a mile away",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "ObPOLnOMV7JIXWVW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!55gomDlMCDdGDJ5J.ObPOLnOMV7JIXWVW"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll either once or roll several times to fill that stiff’s pockets.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "5jeVi0k51S3NKQYr",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570427234,
+    "modifiedTime": 1699656373750,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "55gomDlMCDdGDJ5J",
+  "sort": 600000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "_key": "!tables!55gomDlMCDdGDJ5J"
+}

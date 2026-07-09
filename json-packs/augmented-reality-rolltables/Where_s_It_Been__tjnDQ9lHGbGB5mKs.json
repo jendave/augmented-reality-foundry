@@ -1,0 +1,177 @@
+{
+  "name": "Where's It Been?",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Stolen - the original owner(s) want it found and returned, offering a reward",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "eB8QqOiqrIdy61KY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tjnDQ9lHGbGB5mKs.eB8QqOiqrIdy61KY"
+    },
+    {
+      "text": "Misplaced - the owner(s) lost it and are desperate to find the device",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "jOrdfPHPM14QgjUm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tjnDQ9lHGbGB5mKs.jOrdfPHPM14QgjUm"
+    },
+    {
+      "text": "Traded - the device has been through several owners in recent months",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "mguKkpp0Sifhy05x",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tjnDQ9lHGbGB5mKs.mguKkpp0Sifhy05x"
+    },
+    {
+      "text": "Found On Corpse - the device was obtained by scavengers after finding the body",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "XqMdVkP5rgI67Zbv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tjnDQ9lHGbGB5mKs.XqMdVkP5rgI67Zbv"
+    },
+    {
+      "text": "Used For Crime - the device was used to commit crime, forensically compromised",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "pY1iL3XwgrwciVDG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tjnDQ9lHGbGB5mKs.pY1iL3XwgrwciVDG"
+    },
+    {
+      "text": "Thrown Away - device mistakenly discarded and is believed to no longer exist",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "OvBaR4CTISksGhYp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tjnDQ9lHGbGB5mKs.OvBaR4CTISksGhYp"
+    },
+    {
+      "text": "Hidden - the device was secreted somewhere with the intention of later retrieval",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "HiSLh87WTZcrS6JY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tjnDQ9lHGbGB5mKs.HiSLh87WTZcrS6JY"
+    },
+    {
+      "text": "Hacked - device was infiltrated from outside source, discarded, back doors intact",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "nzDODwmknW6zOiS4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tjnDQ9lHGbGB5mKs.nzDODwmknW6zOiS4"
+    },
+    {
+      "text": "Found In Vehicle - device was taken from an abandoned or stolen vehicle",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "AgsHIXKSfchz2vEE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tjnDQ9lHGbGB5mKs.AgsHIXKSfchz2vEE"
+    },
+    {
+      "text": "Sold On - the device was sold as it was no longer required, or money was needed",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "1hXegezmSUnxoie2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tjnDQ9lHGbGB5mKs.1hXegezmSUnxoie2"
+    }
+  ],
+  "folder": "jOYHgfGYW3o5DHNF",
+  "sort": 3,
+  "_id": "tjnDQ9lHGbGB5mKs",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Device History</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570409679,
+    "modifiedTime": 1699654508909,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!tjnDQ9lHGbGB5mKs"
+}

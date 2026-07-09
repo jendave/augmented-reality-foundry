@@ -1,0 +1,177 @@
+{
+  "name": "Social Media",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Impossibly dull, mainly life memes",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "oWKaJgVEBqiFW2oq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YqqvvmELYXzloDGG.oWKaJgVEBqiFW2oq"
+    },
+    {
+      "text": "Sickening, cute, GIF-heavy, juvenile",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "mUBJP8jvfXDrfmVz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YqqvvmELYXzloDGG.mUBJP8jvfXDrfmVz"
+    },
+    {
+      "text": "Dominated by political viewpoint",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "rZrFHw9DVSgHgrOj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YqqvvmELYXzloDGG.rZrFHw9DVSgHgrOj"
+    },
+    {
+      "text": "Social Justice Champion",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "LvIXRlOxQ8m2mVEO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YqqvvmELYXzloDGG.LvIXRlOxQ8m2mVEO"
+    },
+    {
+      "text": "Work related self-promotion",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "c4fPAOaPEsRXcy1m",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YqqvvmELYXzloDGG.c4fPAOaPEsRXcy1m"
+    },
+    {
+      "text": "Fan of unlikely musical genre",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "NAkBqDTFMMCSkDlm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YqqvvmELYXzloDGG.NAkBqDTFMMCSkDlm"
+    },
+    {
+      "text": "Lonely - desperate to make friends",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "wrkjxJx4EjDT5Jqc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YqqvvmELYXzloDGG.wrkjxJx4EjDT5Jqc"
+    },
+    {
+      "text": "Mainly family and friends (lots)",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "de78nQz635MqDy4a",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YqqvvmELYXzloDGG.de78nQz635MqDy4a"
+    },
+    {
+      "text": "Sexually predatory, catfish/stalker",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "KOdixNMYnjp4r0Zk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YqqvvmELYXzloDGG.KOdixNMYnjp4r0Zk"
+    },
+    {
+      "text": "Hobby focused (gaming/making)",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "ZhG1kQL53eZTWVtO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YqqvvmELYXzloDGG.ZhG1kQL53eZTWVtO"
+    }
+  ],
+  "folder": "zGQqV29PjqpCt7n5",
+  "sort": 2,
+  "_id": "YqqvvmELYXzloDGG",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p> Online Presence</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570513341,
+    "modifiedTime": 1699656066013,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!YqqvvmELYXzloDGG"
+}

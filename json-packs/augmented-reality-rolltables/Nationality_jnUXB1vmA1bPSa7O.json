@@ -1,0 +1,777 @@
+{
+  "name": "Nationality",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Russian",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "AlyITHKO5KszIRWI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.AlyITHKO5KszIRWI"
+    },
+    {
+      "text": "Jamaican",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "xvMVzb0YTklufmQW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.xvMVzb0YTklufmQW"
+    },
+    {
+      "text": "French",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "X9xsw15YjVs3MEHO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.X9xsw15YjVs3MEHO"
+    },
+    {
+      "text": "Sikh Indian",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "DawwQme7589yignw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.DawwQme7589yignw"
+    },
+    {
+      "text": "Libyan",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "tdq14ly2WHZsKn5Q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.tdq14ly2WHZsKn5Q"
+    },
+    {
+      "text": "Nigerian",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "ULz8TZ4jz3iHzCct",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.ULz8TZ4jz3iHzCct"
+    },
+    {
+      "text": "Uzbek",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "bM1FFIGnUnuEtdsi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.bM1FFIGnUnuEtdsi"
+    },
+    {
+      "text": "American",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "aLRmL6ZwbgzxYxly",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.aLRmL6ZwbgzxYxly"
+    },
+    {
+      "text": "Chinese",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "zBipJUh5NICkj3x9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.zBipJUh5NICkj3x9"
+    },
+    {
+      "text": "German",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "8Vr0DfszuoqAW2GC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.8Vr0DfszuoqAW2GC"
+    },
+    {
+      "text": "Dutch",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "cQRrLNARLweJbcqN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.cQRrLNARLweJbcqN"
+    },
+    {
+      "text": "Mexican",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "uXK6qpFByoPpM1CR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.uXK6qpFByoPpM1CR"
+    },
+    {
+      "text": "Scottish",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "GgJdg1gQHybYJxs0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.GgJdg1gQHybYJxs0"
+    },
+    {
+      "text": "Irish",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "ABG4YYBEtuehRV5O",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.ABG4YYBEtuehRV5O"
+    },
+    {
+      "text": "Syrian",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "ZKeX1tx7MYsaMkjA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.ZKeX1tx7MYsaMkjA"
+    },
+    {
+      "text": "Ukrainian",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "WKubcN5AoxYVvIQ0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.WKubcN5AoxYVvIQ0"
+    },
+    {
+      "text": "Thai",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "H6SqPXtmpTL1bUgf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.H6SqPXtmpTL1bUgf"
+    },
+    {
+      "text": "Mongolian",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "EdTmu9JMz6xb0sIL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.EdTmu9JMz6xb0sIL"
+    },
+    {
+      "text": "Somali",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "6tegtrWYNKqO0Ztj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.6tegtrWYNKqO0Ztj"
+    },
+    {
+      "text": "Local",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "QhtVae2mxxrkGus8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.QhtVae2mxxrkGus8"
+    },
+    {
+      "text": "Saudi",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "Ey5C1rwL5tkYK6na",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.Ey5C1rwL5tkYK6na"
+    },
+    {
+      "text": "Portuguese",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "ja57Kxl7p889RKsc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.ja57Kxl7p889RKsc"
+    },
+    {
+      "text": "Local",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "aQvYtLg0zz0ukoya",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.aQvYtLg0zz0ukoya"
+    },
+    {
+      "text": "Innuit",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "og6RHfopnyyOLmCD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.og6RHfopnyyOLmCD"
+    },
+    {
+      "text": "Spanish",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "q658LDNlmEDrCWo1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.q658LDNlmEDrCWo1"
+    },
+    {
+      "text": "Turkish",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "wwXB00RD85j3cUpc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.wwXB00RD85j3cUpc"
+    },
+    {
+      "text": "Danish",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "QTwf5FaOxho74vLy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.QTwf5FaOxho74vLy"
+    },
+    {
+      "text": "Latvian",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "r5CJ9lhRiqsiXL0N",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.r5CJ9lhRiqsiXL0N"
+    },
+    {
+      "text": "Romany",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "sLuWTMIFdCh1xGY1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.sLuWTMIFdCh1xGY1"
+    },
+    {
+      "text": "Greek",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "JxiDYvflqwu974vE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.JxiDYvflqwu974vE"
+    },
+    {
+      "text": "Local",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "dHvMyhNpUs2Xta92",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.dHvMyhNpUs2Xta92"
+    },
+    {
+      "text": "Romanian",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "ejDXxZgniWXO9Nna",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.ejDXxZgniWXO9Nna"
+    },
+    {
+      "text": "Finn",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "uNBvRjtFifgZl6Fs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.uNBvRjtFifgZl6Fs"
+    },
+    {
+      "text": "Flemish",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "yiAQ8bpiIc1vW6Wf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.yiAQ8bpiIc1vW6Wf"
+    },
+    {
+      "text": "Pakistani",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "zS33uvCapdoPRXba",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.zS33uvCapdoPRXba"
+    },
+    {
+      "text": "Italian",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "88RfrSulxU84E7RQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.88RfrSulxU84E7RQ"
+    },
+    {
+      "text": "Siberian",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "rjdsccilU34Z53JV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.rjdsccilU34Z53JV"
+    },
+    {
+      "text": "Local",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "LbO7qxnBZ3y0ufOZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.LbO7qxnBZ3y0ufOZ"
+    },
+    {
+      "text": "Bulgarian",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "K2tqS6ajHqWY9T1J",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.K2tqS6ajHqWY9T1J"
+    },
+    {
+      "text": "South African",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "UfE3vz6HMPE01aDT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.UfE3vz6HMPE01aDT"
+    },
+    {
+      "text": "Malay",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "tFJlEfxEOZizaKNe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.tFJlEfxEOZizaKNe"
+    },
+    {
+      "text": "Kenyan",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "kb6Pum0eN1HloY3J",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.kb6Pum0eN1HloY3J"
+    },
+    {
+      "text": "Tibetan",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "00ERXqyIacOIDgsX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.00ERXqyIacOIDgsX"
+    },
+    {
+      "text": "Polish",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "9qJOTtAa7pJBfNny",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.9qJOTtAa7pJBfNny"
+    },
+    {
+      "text": "Swedish",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "Ts3Y21c656CvAaiP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.Ts3Y21c656CvAaiP"
+    },
+    {
+      "text": "Hungarian",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "cmDty7UR1lQC2JiT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.cmDty7UR1lQC2JiT"
+    },
+    {
+      "text": "Congolese",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "QgQNAnHZuYTraJxS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.QgQNAnHZuYTraJxS"
+    },
+    {
+      "text": "Moldovan",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "FBU55Rxnn48Q4N12",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.FBU55Rxnn48Q4N12"
+    },
+    {
+      "text": "Afghan",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "ernaSOSthcqHZ3p3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.ernaSOSthcqHZ3p3"
+    },
+    {
+      "text": "Kashmiri",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "ZHU1InhcX1ia09Ff",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jnUXB1vmA1bPSa7O.ZHU1InhcX1ia09Ff"
+    }
+  ],
+  "folder": "doPllvlsFqECp9Es",
+  "sort": 2,
+  "_id": "jnUXB1vmA1bPSa7O",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Appearance, Nationality, Conversation Topic, Demeanour and Gender tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570032251,
+    "modifiedTime": 1699652048713,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!jnUXB1vmA1bPSa7O"
+}

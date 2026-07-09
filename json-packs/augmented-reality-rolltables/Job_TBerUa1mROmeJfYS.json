@@ -1,0 +1,777 @@
+{
+  "name": "Job",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Talent Agent",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "8tBmcy7REiEZht8a",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.8tBmcy7REiEZht8a"
+    },
+    {
+      "text": "Repoman",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "b6i5OzxdVZWvMPQJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.b6i5OzxdVZWvMPQJ"
+    },
+    {
+      "text": "Black Marketeer",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "nPEfvbCjmvhOB649",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.nPEfvbCjmvhOB649"
+    },
+    {
+      "text": "Identities Broker",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "70j1kaaHhJusI8EE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.70j1kaaHhJusI8EE"
+    },
+    {
+      "text": "Transporter/Mover",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "ecPs9iUjdLkyv4vM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.ecPs9iUjdLkyv4vM"
+    },
+    {
+      "text": "Skin Trader/Pimp",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "vfbhu6A7gzbVU7hS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.vfbhu6A7gzbVU7hS"
+    },
+    {
+      "text": "PersonalitySmuggler",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "O5RKupxEsBVHaKlz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.O5RKupxEsBVHaKlz"
+    },
+    {
+      "text": "Tech Dealer",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "wxEg0iTMDtd0ub2i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.wxEg0iTMDtd0ub2i"
+    },
+    {
+      "text": "Secrets hunter",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "pftamZ29nWkj6HEG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.pftamZ29nWkj6HEG"
+    },
+    {
+      "text": "Drug Designer",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "4124llnxkNRDWsIw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.4124llnxkNRDWsIw"
+    },
+    {
+      "text": "Wheelman",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "Yqt1EWfIZEaFzpo0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.Yqt1EWfIZEaFzpo0"
+    },
+    {
+      "text": "Talent Scout",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "5CRQagmHofCsVX0L",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.5CRQagmHofCsVX0L"
+    },
+    {
+      "text": "Syndicate Diplomat",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "jILvNvqS2AkwzkBc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.jILvNvqS2AkwzkBc"
+    },
+    {
+      "text": "Drug Pusher",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "Y6yjMWctWjfjxBHN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.Y6yjMWctWjfjxBHN"
+    },
+    {
+      "text": "Go-Between",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "ngG1wjV14hIsKQyG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.ngG1wjV14hIsKQyG"
+    },
+    {
+      "text": "Hacker Stable",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "TALu4Uzl1dQWscit",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.TALu4Uzl1dQWscit"
+    },
+    {
+      "text": "Tech Fence",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "J8Pw0xBGKqShWkaC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.J8Pw0xBGKqShWkaC"
+    },
+    {
+      "text": "Prowler/Thief",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "n6D7wEyMdf8ASNJm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.n6D7wEyMdf8ASNJm"
+    },
+    {
+      "text": "Smuggler",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "RMoPeiUxTzAsF8Bz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.RMoPeiUxTzAsF8Bz"
+    },
+    {
+      "text": "Squealer",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "aYiWbEUsng63AVri",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.aYiWbEUsng63AVri"
+    },
+    {
+      "text": "Bookie",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "UyB7uidDQYeg7Lpm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.UyB7uidDQYeg7Lpm"
+    },
+    {
+      "text": "Gun runner",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "qal1hFjqaLreeNDK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.qal1hFjqaLreeNDK"
+    },
+    {
+      "text": "Procurement",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "hgOUxhUdftOG6c1o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.hgOUxhUdftOG6c1o"
+    },
+    {
+      "text": "Electronics handler",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "bUkwmIyncJDJXp3U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.bUkwmIyncJDJXp3U"
+    },
+    {
+      "text": "Blackmailer",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "jXWHMPWj7PrwqEYj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.jXWHMPWj7PrwqEYj"
+    },
+    {
+      "text": "Data Crypt Owner",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "XIY2U5PE1iJwKu6C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.XIY2U5PE1iJwKu6C"
+    },
+    {
+      "text": "Nanotech Dealer",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "BqYdCW4I96YuhCzN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.BqYdCW4I96YuhCzN"
+    },
+    {
+      "text": "Mediator",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "Hon7270zU4HEIL8Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.Hon7270zU4HEIL8Y"
+    },
+    {
+      "text": "Loansharks",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "HxkVb3IRdA4NnLGg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.HxkVb3IRdA4NnLGg"
+    },
+    {
+      "text": "Information Broker",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "MBuNvQRVocHRU8bO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.MBuNvQRVocHRU8bO"
+    },
+    {
+      "text": "Weapon Fence",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "wlD2GuVH6KPQUy0V",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.wlD2GuVH6KPQUy0V"
+    },
+    {
+      "text": "Ghost Accountant",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "akfor2IYsXoi4pcS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.akfor2IYsXoi4pcS"
+    },
+    {
+      "text": "Gang liaison",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "WVVY8PS2gyTH3mpl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.WVVY8PS2gyTH3mpl"
+    },
+    {
+      "text": "Finder",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "MGN32Y4HtAy5N0pu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.MGN32Y4HtAy5N0pu"
+    },
+    {
+      "text": "Bent lawyer",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "Lt91JasXV8yknRQR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.Lt91JasXV8yknRQR"
+    },
+    {
+      "text": "Vehicle Dealer",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "1NKYOIhA4iP4tRYQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.1NKYOIhA4iP4tRYQ"
+    },
+    {
+      "text": "Contract Facilitator",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "izVft4tzX3M6vKa4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.izVft4tzX3M6vKa4"
+    },
+    {
+      "text": "Bioware Fence",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "ETYyJXpkmvQH06Nh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.ETYyJXpkmvQH06Nh"
+    },
+    {
+      "text": "Digital Manipulator",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "fuQXi2C67hi0n4my",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.fuQXi2C67hi0n4my"
+    },
+    {
+      "text": "Madam",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "RrfcqoSu8vvQC7qH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.RrfcqoSu8vvQC7qH"
+    },
+    {
+      "text": "Troubleshooter",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "x02yQbYXhSMosX1N",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.x02yQbYXhSMosX1N"
+    },
+    {
+      "text": "Persuader",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "NPwmisEOHuuKmYy4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.NPwmisEOHuuKmYy4"
+    },
+    {
+      "text": "Bioware handler",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "IIb3DTKzPGlJUr0w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.IIb3DTKzPGlJUr0w"
+    },
+    {
+      "text": "Club Owner",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "luv7QZWyynKKBMJs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.luv7QZWyynKKBMJs"
+    },
+    {
+      "text": "Landlord",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "GJ5BhfAY2JJa5EGv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.GJ5BhfAY2JJa5EGv"
+    },
+    {
+      "text": "Med Tech Dealer",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "QcpmkafuZ38tpodk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.QcpmkafuZ38tpodk"
+    },
+    {
+      "text": "Negotiator",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "ijrYreZRSued4oTL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.ijrYreZRSued4oTL"
+    },
+    {
+      "text": "Synth Pimp",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "Wtxvjj7UQbyAUz2m",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.Wtxvjj7UQbyAUz2m"
+    },
+    {
+      "text": "Cleaner",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "qbp1TZ69srDtVHMP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.qbp1TZ69srDtVHMP"
+    },
+    {
+      "text": "Implant Dealer",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "KpG55HLIwnIcYkjf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TBerUa1mROmeJfYS.KpG55HLIwnIcYkjf"
+    }
+  ],
+  "folder": "VL5EsatfIFO9X12s",
+  "sort": 2,
+  "_id": "TBerUa1mROmeJfYS",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Name, Description, Job, Appearance/Demeanour and Relationship tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570257800,
+    "modifiedTime": 1699654055113,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!TBerUa1mROmeJfYS"
+}

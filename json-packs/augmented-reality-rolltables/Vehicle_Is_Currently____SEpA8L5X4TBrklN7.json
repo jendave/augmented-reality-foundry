@@ -1,0 +1,177 @@
+{
+  "name": "Vehicle Is Currently...",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Banking",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "AseUifpWa0rXFA3h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SEpA8L5X4TBrklN7.AseUifpWa0rXFA3h"
+    },
+    {
+      "text": "Descending",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "md9QKHXO1fV3Bhb2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SEpA8L5X4TBrklN7.md9QKHXO1fV3Bhb2"
+    },
+    {
+      "text": "Ascending",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "GaNOpctDQD14kSNu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SEpA8L5X4TBrklN7.GaNOpctDQD14kSNu"
+    },
+    {
+      "text": "Hovering",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "5OXAqOcybMvTZqRv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SEpA8L5X4TBrklN7.5OXAqOcybMvTZqRv"
+    },
+    {
+      "text": "Circling",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "GlGNZyGdfP7S8trs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SEpA8L5X4TBrklN7.GlGNZyGdfP7S8trs"
+    },
+    {
+      "text": "Speeding or In Pursuit (Roll Again)",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "3VKAI8igBvLM4rhY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SEpA8L5X4TBrklN7.3VKAI8igBvLM4rhY"
+    },
+    {
+      "text": "Cruising",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "5r2YnPkJSXbvrxOp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SEpA8L5X4TBrklN7.5r2YnPkJSXbvrxOp"
+    },
+    {
+      "text": "Weaving",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "Wg72Zc1C4JkGCtep",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SEpA8L5X4TBrklN7.Wg72Zc1C4JkGCtep"
+    },
+    {
+      "text": "Overtaking",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "KqrCG5qtYAi3tWqN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SEpA8L5X4TBrklN7.KqrCG5qtYAi3tWqN"
+    },
+    {
+      "text": "Clipping (Roll Again For what is hit)",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "CJECdgSktv5e5GLS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SEpA8L5X4TBrklN7.CJECdgSktv5e5GLS"
+    }
+  ],
+  "folder": "YctnHCl8xyuSWzJ2",
+  "sort": 1,
+  "_id": "SEpA8L5X4TBrklN7",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on the Vehicle and Vehicle Currently… tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569961577,
+    "modifiedTime": 1699649531154,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!SEpA8L5X4TBrklN7"
+}

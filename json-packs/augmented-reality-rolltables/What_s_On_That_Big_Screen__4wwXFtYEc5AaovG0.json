@@ -1,0 +1,181 @@
+{
+  "name": "What's On That Big Screen?",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Video gaming event",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "qEzLXAFYc99lFJFi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4wwXFtYEc5AaovG0.qEzLXAFYc99lFJFi"
+    },
+    {
+      "text": "Highlights from major sporting event",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "jxQNXTrVpvODCcae",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4wwXFtYEc5AaovG0.jxQNXTrVpvODCcae"
+    },
+    {
+      "text": "System error message/connection failure",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "9sKxVeJXrvGgCr36",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4wwXFtYEc5AaovG0.9sKxVeJXrvGgCr36"
+    },
+    {
+      "text": "The time and date",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "MfPscoptMJa0d2SC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4wwXFtYEc5AaovG0.MfPscoptMJa0d2SC"
+    },
+    {
+      "text": "The latest news headlines and lottery result",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "qkG8bn5swZGZvfvD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4wwXFtYEc5AaovG0.qkG8bn5swZGZvfvD"
+    },
+    {
+      "text": "Infomercial/Advertainment (see That's Infotainment)",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "oq51s11RUn9xMaVv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4wwXFtYEc5AaovG0.oq51s11RUn9xMaVv"
+    },
+    {
+      "text": "The weather forecast/air quality statistics",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "dSXT4P4NCsptM5B8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4wwXFtYEc5AaovG0.dSXT4P4NCsptM5B8"
+    },
+    {
+      "text": "Pornography (hacked and then squirtcast?)",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "jjYuLyYf0fMyFcpg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4wwXFtYEc5AaovG0.jjYuLyYf0fMyFcpg"
+    },
+    {
+      "text": "Music videos or movie trailers",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "INjJUjIQaKGqfVKq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4wwXFtYEc5AaovG0.INjJUjIQaKGqfVKq"
+    },
+    {
+      "text": "Traffic information",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "6iPEv7VIwDaQMwIJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4wwXFtYEc5AaovG0.6iPEv7VIwDaQMwIJ"
+    }
+  ],
+  "_id": "4wwXFtYEc5AaovG0",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll a <strong>D10 </strong>to see what the mediocracy are piping to the masses. Roll more dice for split screen content.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "8pYm7Gqe6NtxvRgt",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.4wwXFtYEc5AaovG0"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569802256,
+    "modifiedTime": 1699698298207,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!4wwXFtYEc5AaovG0"
+}

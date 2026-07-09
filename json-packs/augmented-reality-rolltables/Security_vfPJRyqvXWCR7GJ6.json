@@ -1,0 +1,177 @@
+{
+  "name": "Security",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "None",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "DlBOaBT41ftd3Rkz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vfPJRyqvXWCR7GJ6.DlBOaBT41ftd3Rkz"
+    },
+    {
+      "text": "Cameras &amp; Alarm",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "JOcxIINNUcrN6w4V",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vfPJRyqvXWCR7GJ6.JOcxIINNUcrN6w4V"
+    },
+    {
+      "text": "Armed Owner",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "WkYcTdOau6YGDG3C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vfPJRyqvXWCR7GJ6.WkYcTdOau6YGDG3C"
+    },
+    {
+      "text": "Local Gang",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "4YNS7mK5QVb7UbLm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vfPJRyqvXWCR7GJ6.4YNS7mK5QVb7UbLm"
+    },
+    {
+      "text": "Security Guard(s)",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "f2WwaOKblqy5Zmiv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vfPJRyqvXWCR7GJ6.f2WwaOKblqy5Zmiv"
+    },
+    {
+      "text": "24 Hour Security",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "v7wWfIMNPdcHUfXy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vfPJRyqvXWCR7GJ6.v7wWfIMNPdcHUfXy"
+    },
+    {
+      "text": "Biometrics",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "1HmZbNKr8Q3pmkuX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vfPJRyqvXWCR7GJ6.1HmZbNKr8Q3pmkuX"
+    },
+    {
+      "text": "Drones",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "MFVGOvUkUqv0HKYl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vfPJRyqvXWCR7GJ6.MFVGOvUkUqv0HKYl"
+    },
+    {
+      "text": "Guard Animal",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "ABc1Awnp95JEZBpt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vfPJRyqvXWCR7GJ6.ABc1Awnp95JEZBpt"
+    },
+    {
+      "text": "State-Of-The-Art",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "2jqX3hWxVPLKBcAC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vfPJRyqvXWCR7GJ6.2jqX3hWxVPLKBcAC"
+    }
+  ],
+  "folder": "cv0epClNmHPBj0TF",
+  "sort": 2,
+  "_id": "vfPJRyqvXWCR7GJ6",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Business Type, Quality, Security and Status tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569706035,
+    "modifiedTime": 1699644209802,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!vfPJRyqvXWCR7GJ6"
+}

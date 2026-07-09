@@ -1,0 +1,177 @@
+{
+  "name": "Rumours/Hooks",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "The gang is in danger of being destroyed by a more powerful rival (roll a gang)",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "qiLOSmlHPuqqwbFt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!MF6YL0cl3oOKeuEI.qiLOSmlHPuqqwbFt"
+    },
+    {
+      "text": "The gang are showing symptoms of having contracted a disease (see @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.oD4Zf2F89eMbClUL]{Urban Sickness})",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "jI8nItCXLKAhG1gt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!MF6YL0cl3oOKeuEI.jI8nItCXLKAhG1gt"
+    },
+    {
+      "text": "The gang knows of hidden ways through the city or into a building (see @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.NA4ZrtCfMCwhS6BM]{Legacy Infrastructure})",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "cvnIxXKeNh4Wo0Nf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!MF6YL0cl3oOKeuEI.cvnIxXKeNh4Wo0Nf"
+    },
+    {
+      "text": "The gang have procured (or manufactured) a dangerous narcotic or toxin",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "LXyhX8aPyXxTMIGK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!MF6YL0cl3oOKeuEI.LXyhX8aPyXxTMIGK"
+    },
+    {
+      "text": "The gang harbours an exile or outcast from a wealthy and powerful family",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "9KW6roOfRsBVoq3e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!MF6YL0cl3oOKeuEI.9KW6roOfRsBVoq3e"
+    },
+    {
+      "text": "The gang have discovered valuable technology lost by powerful NPC",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "NzYsPTmWQwtPoBTN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!MF6YL0cl3oOKeuEI.NzYsPTmWQwtPoBTN"
+    },
+    {
+      "text": "The gang has a splinter cell of powerful members, who are impossible to control",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "GnwxpXSpyInxdlfs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!MF6YL0cl3oOKeuEI.GnwxpXSpyInxdlfs"
+    },
+    {
+      "text": "The gang are grabbing runaways for corporate experiments, and getting bolder",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "j8jHxPc0PbCWO8Pn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!MF6YL0cl3oOKeuEI.j8jHxPc0PbCWO8Pn"
+    },
+    {
+      "text": "A member has fallen in love with a rival gang member and fled, knowing too much",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "XddC3SePTo0wmfWQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!MF6YL0cl3oOKeuEI.XddC3SePTo0wmfWQ"
+    },
+    {
+      "text": "The gang has access to unusual cybernetics, and it's drawing attention to them",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "sGXzr1gp7lVyOYdw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!MF6YL0cl3oOKeuEI.sGXzr1gp7lVyOYdw"
+    }
+  ],
+  "folder": "UF516sJdM2UFFkvf",
+  "sort": 300000,
+  "_id": "MF6YL0cl3oOKeuEI",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>What’s The Deal With These Guys?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570204230,
+    "modifiedTime": 1699926540804,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!MF6YL0cl3oOKeuEI"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Hackable Assets",
+  "type": "script",
+  "_id": "kNsvJxsTL1yvFOHM",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let hackableAssetsDialog = await Dialog.prompt({\n        title: \"Hackable Assets\",\n        content: `<p>Enter Number of Nearby Systems:</p><input type=\"number\" id=\"input\" name=\"input\" min=\"0\" max=\"99\" value=\"5\"/>`,\n        rejectClose: true,\n        callback: (html) => html.find('input').val()\n    });\n\n    let rollTablesUUIDPrefix = \"Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.\";\n\n    let hackableAssetsNumber = parseInt(hackableAssetsDialog);\n\n    let title = \"<h3>Hackable Assets</h3>\";\n    let message = \"<b>Hackable Assets - Interpretations</b><br>\";\n    message += \"<b>- Security Level (1=No Security, 10=Killer ICE)</b><br>\";\n    message += \"<b>- Target System's 'Intelligence' Level</b><br>\";\n    message += \"<b>- How Many Other Linked Systems Are Connected to the First</b><br>\";\n    message += \"<b>- How Many Rounds Before a Sysadmin Notices</b><br>\";\n    message += \"<b>- Bugs In The System, Quirks, Features</b><br><br>\";\n\n    let hackableAssetsTable = await fromUuid(rollTablesUUIDPrefix + \"pOubweTcsrplLPN3\");\n    let hackableAssetsRoll = \"\";\n    let hackableAssets = \"\";\n\n    let bugsInTheSystemTable = await fromUuid(rollTablesUUIDPrefix + \"drJSk7wxiPWrYr1s\");\n    let bugsInTheSystemRoll = \"\";\n    let bugsInTheSystem = \"\";\n\n    let additionalInfoRoll = \"\";\n\n    for (let i = 1; i <= hackableAssetsNumber; i++) {\n        hackableAssetsRoll = await hackableAssetsTable.roll();\n        hackableAssets = hackableAssetsRoll.results[0].text;\n\n        additionalInfoRoll = new Roll('1d10');\n        await additionalInfoRoll.evaluate();\n        additionalInfo = additionalInfoRoll.total;\n        \n        bugsInTheSystemRoll = await bugsInTheSystemTable.roll();\n        bugsInTheSystem = bugsInTheSystemRoll.results[0].text;\n\n        message += i + \". \";\n        message += hackableAssets + \"<br>\";\n        message += \"- Security Level: \" + additionalInfo + \"<br>\";\n        message += \"- System's Intelligence: \" + additionalInfo + \"<br>\";\n        message += \"- Linked Systems: \" + additionalInfo + \"<br>\";\n        message += \"- Rounds for Sysadmin: \" + additionalInfo + \"<br>\";\n        message += \"- Quirks/Features: \" + bugsInTheSystem + \"<br><br>\";\n    }\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.329",
+    "createdTime": 1700011163736,
+    "modifiedTime": 1721407339467,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!macros!kNsvJxsTL1yvFOHM"
+}

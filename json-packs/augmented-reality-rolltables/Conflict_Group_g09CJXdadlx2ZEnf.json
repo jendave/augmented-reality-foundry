@@ -1,0 +1,177 @@
+{
+  "name": "Conflict Group",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Street Gang (See Urban Tribes: Street Gangs)",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "hozJUR9oplXyZVRH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!g09CJXdadlx2ZEnf.hozJUR9oplXyZVRH"
+    },
+    {
+      "text": "Corporate Aristocrat (See Corporate Aristocrats)",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "rsfewtboDtwckUMD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!g09CJXdadlx2ZEnf.rsfewtboDtwckUMD"
+    },
+    {
+      "text": "Fixer Network (See Fixers &amp; Facemen)",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "89921AIVuhqYwtHA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!g09CJXdadlx2ZEnf.89921AIVuhqYwtHA"
+    },
+    {
+      "text": "Netrunner Collective (See Hackers &amp; Slicers)",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "uTEiBeFfOZOImivg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!g09CJXdadlx2ZEnf.uTEiBeFfOZOImivg"
+    },
+    {
+      "text": "Solo Condotta/Pmc (See Guns For Hire)",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "3whCBO3mUenPcfQ9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!g09CJXdadlx2ZEnf.3whCBO3mUenPcfQ9"
+    },
+    {
+      "text": "Criminal Syndicate",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "VsZiPbCtxP7tj2Ue",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!g09CJXdadlx2ZEnf.VsZiPbCtxP7tj2Ue"
+    },
+    {
+      "text": "Drug Dealers",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "0rTbWB6obsDj1Wx8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!g09CJXdadlx2ZEnf.0rTbWB6obsDj1Wx8"
+    },
+    {
+      "text": "Transient Clan",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "fxa1zwasIop2Kbi4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!g09CJXdadlx2ZEnf.fxa1zwasIop2Kbi4"
+    },
+    {
+      "text": "Indentured Workers",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "pbOVDouTbQpF3q60",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!g09CJXdadlx2ZEnf.pbOVDouTbQpF3q60"
+    },
+    {
+      "text": "Media Web",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "iIsBRdaOjUbydwaK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!g09CJXdadlx2ZEnf.iIsBRdaOjUbydwaK"
+    }
+  ],
+  "folder": "VWRUQtMQZKxj15Xx",
+  "sort": 200000,
+  "_id": "g09CJXdadlx2ZEnf",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Conflict Group, Conflict Source and Opposing Group Tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569670083,
+    "modifiedTime": 1699643274323,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!g09CJXdadlx2ZEnf"
+}

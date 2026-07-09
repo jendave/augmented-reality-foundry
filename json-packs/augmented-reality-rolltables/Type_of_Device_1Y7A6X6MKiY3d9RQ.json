@@ -1,0 +1,177 @@
+{
+  "name": "Type of Device",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Weapon",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "c0t8NOgZjAeaQWL2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1Y7A6X6MKiY3d9RQ.c0t8NOgZjAeaQWL2"
+    },
+    {
+      "text": "Computer/Tablet/HD",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "jJuzBBp4jHngApBW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1Y7A6X6MKiY3d9RQ.jJuzBBp4jHngApBW"
+    },
+    {
+      "text": "Drone/Remote",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "dw6DCne3SByUc9Cy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1Y7A6X6MKiY3d9RQ.dw6DCne3SByUc9Cy"
+    },
+    {
+      "text": "Cybernetic Implant",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "YuSgUKRR1OtQ2TOx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1Y7A6X6MKiY3d9RQ.YuSgUKRR1OtQ2TOx"
+    },
+    {
+      "text": "Cell Phone/Agent",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "LXuLxFibb8Q7POZ3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1Y7A6X6MKiY3d9RQ.LXuLxFibb8Q7POZ3"
+    },
+    {
+      "text": "SimStim Rig",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "pVswdlZkiHSt7Hqd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1Y7A6X6MKiY3d9RQ.pVswdlZkiHSt7Hqd"
+    },
+    {
+      "text": "Cybermodem",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "eGJDhjIWX6VvZHoB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1Y7A6X6MKiY3d9RQ.eGJDhjIWX6VvZHoB"
+    },
+    {
+      "text": "Diagnostic Scanner",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "br7JApckSYdwytNO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1Y7A6X6MKiY3d9RQ.br7JApckSYdwytNO"
+    },
+    {
+      "text": "Cam/Recorder/Bug",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "F2xo4VtkISw5fcDU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1Y7A6X6MKiY3d9RQ.F2xo4VtkISw5fcDU"
+    },
+    {
+      "text": "3D Printer/Peripheral",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "WU5UIBvG9hKpGn0M",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!1Y7A6X6MKiY3d9RQ.WU5UIBvG9hKpGn0M"
+    }
+  ],
+  "folder": "UTGjjpPfdHgDVdKy",
+  "sort": 200000,
+  "_id": "1Y7A6X6MKiY3d9RQ",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Condition of Found (or Stolen) Technology and Type of Device tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570409667,
+    "modifiedTime": 1699654632863,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!1Y7A6X6MKiY3d9RQ"
+}

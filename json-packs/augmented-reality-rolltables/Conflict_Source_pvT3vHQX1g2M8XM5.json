@@ -1,0 +1,177 @@
+{
+  "name": "Conflict Source",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Treachery",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "c8NDeYrOlTlnzQO0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pvT3vHQX1g2M8XM5.c8NDeYrOlTlnzQO0"
+    },
+    {
+      "text": "Adultery",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "gN6cfLwHeArioMuv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pvT3vHQX1g2M8XM5.gN6cfLwHeArioMuv"
+    },
+    {
+      "text": "Fraud or Theft",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "lZt9f4ALJr1Bbbl0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pvT3vHQX1g2M8XM5.lZt9f4ALJr1Bbbl0"
+    },
+    {
+      "text": "Addiction",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "QnP8Sbzs1vLrRv3M",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pvT3vHQX1g2M8XM5.QnP8Sbzs1vLrRv3M"
+    },
+    {
+      "text": "Ambition",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "Lb0Jubz5YQdgNd4k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pvT3vHQX1g2M8XM5.Lb0Jubz5YQdgNd4k"
+    },
+    {
+      "text": "Madness",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "0ARB3c4PVVdT326H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pvT3vHQX1g2M8XM5.0ARB3c4PVVdT326H"
+    },
+    {
+      "text": "Love",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "vNWMEUbig5MTOWPU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pvT3vHQX1g2M8XM5.vNWMEUbig5MTOWPU"
+    },
+    {
+      "text": "Folly",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "bHdY6Fml3hh78I0T",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pvT3vHQX1g2M8XM5.bHdY6Fml3hh78I0T"
+    },
+    {
+      "text": "Paranoia",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "yWpOw1bhls0KQ4OC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pvT3vHQX1g2M8XM5.yWpOw1bhls0KQ4OC"
+    },
+    {
+      "text": "Rivalry (see @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.QKQbV5ziOv97cXg9]{Rivalry})",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "htZVNqqioAKyMsco",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pvT3vHQX1g2M8XM5.htZVNqqioAKyMsco"
+    }
+  ],
+  "folder": "VWRUQtMQZKxj15Xx",
+  "sort": 300000,
+  "_id": "pvT3vHQX1g2M8XM5",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Conflict Group, Conflict Source and Opposing Group Tables.</p><p><strong>Rivals: 1-5 </strong>Within Same Group, <strong>6-10 </strong>Different Group</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569670090,
+    "modifiedTime": 1699643330823,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!pvT3vHQX1g2M8XM5"
+}

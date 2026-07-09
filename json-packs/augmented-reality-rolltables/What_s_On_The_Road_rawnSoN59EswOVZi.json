@@ -1,0 +1,19 @@
+{
+  "name": "What's On The Road",
+  "sorting": "a",
+  "folder": "gRI65AcWGJxLyp4j",
+  "type": "RollTable",
+  "_id": "rawnSoN59EswOVZi",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699649096258,
+    "modifiedTime": 1699649096258,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!folders!rawnSoN59EswOVZi"
+}

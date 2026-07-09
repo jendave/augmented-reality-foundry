@@ -1,0 +1,822 @@
+{
+  "name": "Hackable Assets",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Smart Appliance With Camera or Microphone",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "jhnOHRbv1DQG3Xcd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.jhnOHRbv1DQG3Xcd"
+    },
+    {
+      "text": "Environmental Sensor System",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "blJ5CEjjfVi35U4c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.blJ5CEjjfVi35U4c"
+    },
+    {
+      "text": "Intelligent Washroom",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "bnkwNjlx9jJRW8CW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.bnkwNjlx9jJRW8CW"
+    },
+    {
+      "text": "Ad Blimp",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "F3mR1nM0yqAv9dBr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.F3mR1nM0yqAv9dBr"
+    },
+    {
+      "text": "Advertising Broadcast System",
+      "range": [
+        7,
+        9
+      ],
+      "_id": "lXMtxLJXmZ0M6QO4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.lXMtxLJXmZ0M6QO4"
+    },
+    {
+      "text": "Active GPS Device",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "6rcROxKXMNBN0Ns4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.6rcROxKXMNBN0Ns4"
+    },
+    {
+      "text": "Tablet",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "rNBXkAOBuC1zOCYC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.rNBXkAOBuC1zOCYC"
+    },
+    {
+      "text": "Local Server or Computer",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "Nzhn44NxsZAx0Hwo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.Nzhn44NxsZAx0Hwo"
+    },
+    {
+      "text": "Motion Sensor",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "p1hUIl0MhZ6xk1Dc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.p1hUIl0MhZ6xk1Dc"
+    },
+    {
+      "text": "Laptop",
+      "range": [
+        16,
+        18
+      ],
+      "_id": "rpn1TsvNPtEIYDm1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.rpn1TsvNPtEIYDm1"
+    },
+    {
+      "text": "Maintenance Robot",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "vFDLk2g36wNEQxLW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.vFDLk2g36wNEQxLW"
+    },
+    {
+      "text": "Remote Loader",
+      "range": [
+        21,
+        21
+      ],
+      "_id": "gzF37n5zOBNdGL6z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.gzF37n5zOBNdGL6z"
+    },
+    {
+      "text": "Fire Safety or Evacuation System",
+      "range": [
+        22,
+        24
+      ],
+      "_id": "gjxjLBdbVJZrLsJp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.gjxjLBdbVJZrLsJp"
+    },
+    {
+      "text": "Drone",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "cw8Wf0ZyPj3Wfaak",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.cw8Wf0ZyPj3Wfaak"
+    },
+    {
+      "text": "Site's Defense Network",
+      "range": [
+        27,
+        27
+      ],
+      "_id": "yJ1fnlV07oVvWXT1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.yJ1fnlV07oVvWXT1"
+    },
+    {
+      "text": "Traffic Light System or Adaptable Smart Lanes",
+      "range": [
+        28,
+        29
+      ],
+      "_id": "Yxrvia3dEdrHV60f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.Yxrvia3dEdrHV60f"
+    },
+    {
+      "text": "Wifi Toy",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "zO4xFuqHoY4vqECQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.zO4xFuqHoY4vqECQ"
+    },
+    {
+      "text": "Driverless Car/Aero",
+      "range": [
+        31,
+        34
+      ],
+      "_id": "7bARddf1tQV8I3il",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.7bARddf1tQV8I3il"
+    },
+    {
+      "text": "Hub, Router or Exchange",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "G4gtlvOrv8qaB7KO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.G4gtlvOrv8qaB7KO"
+    },
+    {
+      "text": "Security Camera or CCTV",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "GAgiZZciSRUlu4sI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.GAgiZZciSRUlu4sI"
+    },
+    {
+      "text": "Driver Assist Link",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "7E406vaucVvDhEQY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.7E406vaucVvDhEQY"
+    },
+    {
+      "text": "Elevators",
+      "range": [
+        41,
+        43
+      ],
+      "_id": "JLJVgyi0Gdi146iC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.JLJVgyi0Gdi146iC"
+    },
+    {
+      "text": "Cybermodem",
+      "range": [
+        44,
+        45
+      ],
+      "_id": "GLVvZtYfkqdgMccd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.GLVvZtYfkqdgMccd"
+    },
+    {
+      "text": "Cellular Comms Mast or Satellite Receiver",
+      "range": [
+        46,
+        47
+      ],
+      "_id": "su1T6kzErQrQ02nx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.su1T6kzErQrQ02nx"
+    },
+    {
+      "text": "Automated Heavy Transport Vehicle",
+      "range": [
+        48,
+        49
+      ],
+      "_id": "t91U5zgCAQwkdNxn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.t91U5zgCAQwkdNxn"
+    },
+    {
+      "text": "Mobile Trash Can",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "UR4WYNdI8fWAjsmW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.UR4WYNdI8fWAjsmW"
+    },
+    {
+      "text": "Construction Remote or Concrete Printer",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "VeNp57hrgw6Pehel",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.VeNp57hrgw6Pehel"
+    },
+    {
+      "text": "TV Console",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "SJgNkKodZCy2iZzG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.SJgNkKodZCy2iZzG"
+    },
+    {
+      "text": "3D Printer(s)",
+      "range": [
+        55,
+        57
+      ],
+      "_id": "yQ43cQZy4omFmn5q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.yQ43cQZy4omFmn5q"
+    },
+    {
+      "text": "Synthetic's Neural Net",
+      "range": [
+        58,
+        58
+      ],
+      "_id": "8nlWQoaHEtINIPjC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.8nlWQoaHEtINIPjC"
+    },
+    {
+      "text": "Wireless Smart Gun",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "n9gf9MmIImfk0re7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.n9gf9MmIImfk0re7"
+    },
+    {
+      "text": "Anti-Nanite Immune System",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "C3CdrCaPlAbC3B6k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.C3CdrCaPlAbC3B6k"
+    },
+    {
+      "text": "Mobility Assistance Linear Frame",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "xjYLOvTmPGIZuYYz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.xjYLOvTmPGIZuYYz"
+    },
+    {
+      "text": "RFID Tag",
+      "range": [
+        63,
+        63
+      ],
+      "_id": "EjaSaL9n5YyZzhBP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.EjaSaL9n5YyZzhBP"
+    },
+    {
+      "text": "Smartphone or Agent",
+      "range": [
+        64,
+        67
+      ],
+      "_id": "DZc4ROl015vYWecO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.DZc4ROl015vYWecO"
+    },
+    {
+      "text": "Augmented Reality Projector Hub",
+      "range": [
+        68,
+        70
+      ],
+      "_id": "FztARU87OaeEzNkk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.FztARU87OaeEzNkk"
+    },
+    {
+      "text": "Acoustic Weapon Sensor",
+      "range": [
+        71,
+        71
+      ],
+      "_id": "P3iFSgW0B8FddX0o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.P3iFSgW0B8FddX0o"
+    },
+    {
+      "text": "Neural Processor",
+      "range": [
+        72,
+        74
+      ],
+      "_id": "qXvkh0AVEOowIBbs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.qXvkh0AVEOowIBbs"
+    },
+    {
+      "text": "Wearable Meds Dispenser",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "6ZLSPNRZD3SoEmBQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.6ZLSPNRZD3SoEmBQ"
+    },
+    {
+      "text": "Hud Visor or Goggles",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "IqEXe9HoqnZa41lj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.IqEXe9HoqnZa41lj"
+    },
+    {
+      "text": "Infant Monitoring System",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "ZeC0n0q8vDYRBHyG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.ZeC0n0q8vDYRBHyG"
+    },
+    {
+      "text": "Utilities Monitoring System",
+      "range": [
+        81,
+        83
+      ],
+      "_id": "p1dpEJ6PaR3SBz7m",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.p1dpEJ6PaR3SBz7m"
+    },
+    {
+      "text": "Self-Serve Recharging or Refueling Point",
+      "range": [
+        84,
+        85
+      ],
+      "_id": "TrAny6SzczSagPtk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.TrAny6SzczSagPtk"
+    },
+    {
+      "text": "Public Vid-Phone",
+      "range": [
+        86,
+        87
+      ],
+      "_id": "ORC9oYe8NEbMViEi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.ORC9oYe8NEbMViEi"
+    },
+    {
+      "text": "Saleable AR Tagged Consumables",
+      "range": [
+        88,
+        89
+      ],
+      "_id": "WgYWzizmBRghomR5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.WgYWzizmBRghomR5"
+    },
+    {
+      "text": "Smart Morphwear",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "WSryCyQZrP5pcDJc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.WSryCyQZrP5pcDJc"
+    },
+    {
+      "text": "Manufacturing Robot",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "rsOBDuTidlwp2eTE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.rsOBDuTidlwp2eTE"
+    },
+    {
+      "text": "Vendomat",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "bJC1sQsZq3HCQ3ut",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.bJC1sQsZq3HCQ3ut"
+    },
+    {
+      "text": "Bio-Monitor",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "nOSV3VTdX17FAHvT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.nOSV3VTdX17FAHvT"
+    },
+    {
+      "text": "Bodycam or Go-Pro",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "Dmjra6uuAcXM4U5U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.Dmjra6uuAcXM4U5U"
+    },
+    {
+      "text": "Payment Reader (Chip/Pin or Contactless)",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "AAcGAfYIYS9vN2q2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.AAcGAfYIYS9vN2q2"
+    },
+    {
+      "text": "Tacnet Comms",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "vUNeCyPb5pDwwAqb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.vUNeCyPb5pDwwAqb"
+    },
+    {
+      "text": "Cyberpet Processor",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "kmIUSndIMlHwgIbt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pOubweTcsrplLPN3.kmIUSndIMlHwgIbt"
+    }
+  ],
+  "folder": "t2WM2uWxU87LUkfM",
+  "sort": 0,
+  "_id": "pOubweTcsrplLPN3",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p><strong>The Hackable Assets Roll Table </strong>has been created to enable the unprepared or improvising cyberpunk GM to generate net-linked assets in the PC’s vicinity, quickly and easily, simply by rolling some dice.</p><p></p><p>Roll 4-5 times on the table to tell you the type of systems your players have in their proximity.</p><p>Roll the same number of D10s. e used in different ways; to determine the relative security levels on a scale of 1 (no security) to 10 (killer ICE), as the target inked systems are connected to the first, or how many rounds before a sysadmin notices any spurious activity on their network.</p><p>To ascertain if nearby the system has any quirks or notable features, roll D100 on the @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.drJSk7wxiPWrYr1s]{Bugs In The System} table.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570735137,
+    "modifiedTime": 1699657328956,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!pOubweTcsrplLPN3"
+}

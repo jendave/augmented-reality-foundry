@@ -1,0 +1,177 @@
+{
+  "name": "Marketing Style",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Loud Hard Sell",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "gmpJi3BRlsUZ7elI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0UCZd2bb6vEWF4y.gmpJi3BRlsUZ7elI"
+    },
+    {
+      "text": "Cartoony/Manga",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "xSUvIvHRVeIdMxSQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0UCZd2bb6vEWF4y.xSUvIvHRVeIdMxSQ"
+    },
+    {
+      "text": "Sexualised",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "UhFswbAgZ9uMkhK6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0UCZd2bb6vEWF4y.UhFswbAgZ9uMkhK6"
+    },
+    {
+      "text": "Sophisticated",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "lq5E8zvVX5eiQahF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0UCZd2bb6vEWF4y.lq5E8zvVX5eiQahF"
+    },
+    {
+      "text": "Abstract",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "6cUMyqX0CyYEqWat",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0UCZd2bb6vEWF4y.6cUMyqX0CyYEqWat"
+    },
+    {
+      "text": "Humorous",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "pwTsGHVbkYtFaXaQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0UCZd2bb6vEWF4y.pwTsGHVbkYtFaXaQ"
+    },
+    {
+      "text": "Gender Specific",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "7fBwgQTj1bv2GUyA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0UCZd2bb6vEWF4y.7fBwgQTj1bv2GUyA"
+    },
+    {
+      "text": "Cheap",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "lTwRLONWUMZuq1sA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0UCZd2bb6vEWF4y.lTwRLONWUMZuq1sA"
+    },
+    {
+      "text": "Exotic/Arty",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "n49pUkVsVj3riTuP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0UCZd2bb6vEWF4y.n49pUkVsVj3riTuP"
+    },
+    {
+      "text": "Aspirational",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "bZVbG9cxk2wSWJWf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!c0UCZd2bb6vEWF4y.bZVbG9cxk2wSWJWf"
+    }
+  ],
+  "folder": "20I59u1HEW8g551S",
+  "sort": 3,
+  "_id": "c0UCZd2bb6vEWF4y",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Brand Name, Range, Product Line and Marketing Style tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569830942,
+    "modifiedTime": 1699648741104,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!c0UCZd2bb6vEWF4y"
+}

@@ -1,0 +1,177 @@
+{
+  "name": "Unlawful Trespass",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Crime Scene - A recent crime has the space crawling with forensics drones",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "Bhzq3tQfoOAP7PjH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!11gRI4JXqjhWnq1n.Bhzq3tQfoOAP7PjH"
+    },
+    {
+      "text": "Coding Stable - Temporary pop-up AR ad studio, staffed by low paid coders",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "4NHi4l8McZ2RtFQi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!11gRI4JXqjhWnq1n.4NHi4l8McZ2RtFQi"
+    },
+    {
+      "text": "Sweat Shop - Illegal 3D minifactury manned by weary indentured immigrants",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "syhO1b8AVI7ZaZAr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!11gRI4JXqjhWnq1n.syhO1b8AVI7ZaZAr"
+    },
+    {
+      "text": "Burglary - Drug addicted wrecks stripping out what's left of the utilities",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "PnPgBJiFjKAf2Msx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!11gRI4JXqjhWnq1n.PnPgBJiFjKAf2Msx"
+    },
+    {
+      "text": "Shelter - Homeless people with failing implants gather for mutual safety",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "JGurIOPDhmqFbnOQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!11gRI4JXqjhWnq1n.JGurIOPDhmqFbnOQ"
+    },
+    {
+      "text": "Drug Den - Old mattresses, threadbare sleeping bags, drug paraphernalia",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "0XvttzdY8YjFQXBG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!11gRI4JXqjhWnq1n.0XvttzdY8YjFQXBG"
+    },
+    {
+      "text": "Stash Point - Holes in the walls hide shrink-wrapped weaponry/munitions",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "oKmjxwwBmgPEmIOB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!11gRI4JXqjhWnq1n.oKmjxwwBmgPEmIOB"
+    },
+    {
+      "text": "Street Artists - Creatively motivated teens spray their masterpiece on the walls",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "Np8vB4sbmhWhXoQO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!11gRI4JXqjhWnq1n.Np8vB4sbmhWhXoQO"
+    },
+    {
+      "text": "Porn Set - Hollow-eyed actors perform under the glare of sim-recorders",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "EeijlhXYSeRQf0Sz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!11gRI4JXqjhWnq1n.EeijlhXYSeRQf0Sz"
+    },
+    {
+      "text": "Field Surgery - Mobile ripperdoc fights to save the life of poorly sedated cyborg",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "p2JuOLrw6E5VwQdJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!11gRI4JXqjhWnq1n.p2JuOLrw6E5VwQdJ"
+    }
+  ],
+  "folder": "2Nkwf7OogrEjyO11",
+  "sort": 2,
+  "_id": "11gRI4JXqjhWnq1n",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Who's already been in that building?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570668893,
+    "modifiedTime": 1699656677634,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!11gRI4JXqjhWnq1n"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "What's On That Corpse?",
+  "type": "script",
+  "_id": "WrDE8JfQXoaQ2k6Q",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let rollTablesUUIDPrefix = \"Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.\";\n\n    let title = \"<h3>What's On That Corpse?</h3>\";\n\n    const whatsOnThatCorpseTable = await fromUuid(rollTablesUUIDPrefix + \"55gomDlMCDdGDJ5J\");\n    let whatsOnThatCorpseRoll = await whatsOnThatCorpseTable.roll();\n    let whatsOnThatCorpse = whatsOnThatCorpseRoll.results[0].text;\n\n    let message = \"What's On That Corpse?: \" + whatsOnThatCorpse + \"<br>\";\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.329",
+    "createdTime": 1700004164939,
+    "modifiedTime": 1721407446339,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!macros!WrDE8JfQXoaQ2k6Q"
+}

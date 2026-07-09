@@ -1,0 +1,27 @@
+{
+  "name": "Armed Response",
+  "type": "script",
+  "_id": "hOFxyGNKGOcuxamA",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let rollTablesUUIDPrefix = \"Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.\";\n\n    let title = \"<h3>Armed Response</h3>\";\n\n    const firstRespondersTable = await fromUuid(rollTablesUUIDPrefix + \"ctcriSpGlyXrJvX9\");\n    let firstRespondersRoll = await firstRespondersTable.roll();\n    let firstResponders = firstRespondersRoll.results[0].text;\n    let firstRespondersTotal = firstRespondersRoll.roll.total\n    let wearingRiotGear = false;\n\n    if (firstRespondersTotal >= 3 && firstRespondersTotal <= 8 && firstRespondersTotal % 2 == 1) {\n        wearingRiotGear = true;\n    }\n\n    const departmentTable = await fromUuid(rollTablesUUIDPrefix + \"6MUwF4DBtsyKdkEN\");\n    let departmentRoll = await departmentTable.roll();\n    let department = departmentRoll.results[0].text;\n\n    const responseLevelTable = await fromUuid(rollTablesUUIDPrefix + \"g8hRofgrpgRLOKrQ\");\n    let responseLevelRoll = await responseLevelTable.roll();\n    let responseLevel = responseLevelRoll.results[0].text;\n\n    const jobSheetTable = await fromUuid(rollTablesUUIDPrefix + \"hXgc3qwgHNOGYAYF\");\n    let jobSheetRoll = await jobSheetTable.roll();\n    let jobSheet = jobSheetRoll.results[0].text;\n\n    let callForBackupETARoll = new Roll('1d6');\n    await callForBackupETARoll.evaluate();\n    let callForBackupETA = callForBackupETARoll.total;\n\n    const callForBackupTable = await fromUuid(rollTablesUUIDPrefix + \"ZarDaMOR5VLYO9nc\");\n    let callForBackupRoll = await callForBackupTable.roll();\n    let callForBackup = callForBackupRoll.results[0].text;\n\n    let message = \"First Responders: \" + firstResponders + (wearingRiotGear ? \"<br>Wearing Riot Gear\" : \"\") + \"<br><br>\";\n    message += \"The Department: \" + department + \"<br><br>\";\n    message += \"Response Level: \" + responseLevel + \"<br><br>\";\n    message += \"Job Sheet: \" + jobSheet + \"<br><br>\";\n    message += \"Call For Backup: \" + callForBackup + \"<br><br>\";\n    message += \"ETA: \" + callForBackupETA + \" Minute(s)\";\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.329",
+    "createdTime": 1699927235606,
+    "modifiedTime": 1721407293213,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!macros!hOFxyGNKGOcuxamA"
+}

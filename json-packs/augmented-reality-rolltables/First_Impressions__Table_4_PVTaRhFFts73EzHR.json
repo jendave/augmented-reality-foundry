@@ -1,0 +1,177 @@
+{
+  "name": "First Impressions? Table 4",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Acts deaf but isn't, knows people",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "pr5stXqPsNPug0me",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PVTaRhFFts73EzHR.pr5stXqPsNPug0me"
+    },
+    {
+      "text": "Boxy e-cig, coat/hoodie, mirrorshades",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "PGAYCjyqymdV5zf3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PVTaRhFFts73EzHR.PGAYCjyqymdV5zf3"
+    },
+    {
+      "text": "Shy and apologetic, rubber raincoat",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "vxsGx5494CmdPqru",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PVTaRhFFts73EzHR.vxsGx5494CmdPqru"
+    },
+    {
+      "text": "Oily skin, constantly checks watch",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "n1dqqKel1J2bhzSi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PVTaRhFFts73EzHR.n1dqqKel1J2bhzSi"
+    },
+    {
+      "text": "Oddball dress sense, way too literal",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "llDhVVTVMaSXJjb0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PVTaRhFFts73EzHR.llDhVVTVMaSXJjb0"
+    },
+    {
+      "text": "Long hair, metal fan in downtime",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "lNWtbJTBsnb57sNe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PVTaRhFFts73EzHR.lNWtbJTBsnb57sNe"
+    },
+    {
+      "text": "Trashy, overtly sexual, self-loathing",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "Ea1mRiKBF50vANDm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PVTaRhFFts73EzHR.Ea1mRiKBF50vANDm"
+    },
+    {
+      "text": "Overclocked nervous system, sweats",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "xHY4BKxKGbBHffxy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PVTaRhFFts73EzHR.xHY4BKxKGbBHffxy"
+    },
+    {
+      "text": "Conservative, business-like",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "qaPJhaKwDbd4jBMX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PVTaRhFFts73EzHR.qaPJhaKwDbd4jBMX"
+    },
+    {
+      "text": "Toned, adjusts latest style clothes",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "gywggWBNFC3ZnEVQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!PVTaRhFFts73EzHR.gywggWBNFC3ZnEVQ"
+    }
+  ],
+  "folder": "9y0OKd1D7qA8QNVH",
+  "sort": 4,
+  "_id": "PVTaRhFFts73EzHR",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>The Instacitizen Roll Table is designed to enable unprepared or improvising cyberpunk GMs to generate city dwellers in the immediate area, quickly and easily, simply by dropping some dice and checking where they land.</p><p>Roll 4-5 times on this table to tell you the type of people your players have in their immediate area.</p><p>Roll the same amount of D10s. Now, the numbers shown on each dice can be used in different ways; to ascertain the number of people in a group, as the NPC’s prime stat for their role, and to determine if the citizens have any quirks or notable features on the First Impressions tables (optional; choose a table for each NPC generated). Decide gender.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570009674,
+    "modifiedTime": 1699651775075,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!PVTaRhFFts73EzHR"
+}

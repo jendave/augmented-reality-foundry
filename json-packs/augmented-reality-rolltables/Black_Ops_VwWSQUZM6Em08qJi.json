@@ -1,0 +1,177 @@
+{
+  "name": "Black Ops",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Parked SUV with lone netrunner, jacked in, cross-legged in the back, walky on seat",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "xOjsctSl1RQZpJqz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VwWSQUZM6Em08qJi.xOjsctSl1RQZpJqz"
+    },
+    {
+      "text": "Four figures in black coveralls with SMGs carry unconscious wage-slave to a van",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "AfSU1PPpOQk1DPHS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VwWSQUZM6Em08qJi.AfSU1PPpOQk1DPHS"
+    },
+    {
+      "text": "Sleek car screeches to a halt, long coated gunmen get out, readying weapons",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "1JkOrcXZQcjjROuH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VwWSQUZM6Em08qJi.1JkOrcXZQcjjROuH"
+    },
+    {
+      "text": "Spider-like cybershell leaps from roof to roof, pausing to observe PC group",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "5Uc0HIvLPVW7vIpn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VwWSQUZM6Em08qJi.5Uc0HIvLPVW7vIpn"
+    },
+    {
+      "text": "Sleek exo-wombs being unloaded from aero transport by armed street gang",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "XcsWTftMU2WAW53V",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VwWSQUZM6Em08qJi.XcsWTftMU2WAW53V"
+    },
+    {
+      "text": "Gunman with railgun and targeting drone takes aim at nearby apartment window",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "PAhyzkQSPX77eqsS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VwWSQUZM6Em08qJi.PAhyzkQSPX77eqsS"
+    },
+    {
+      "text": "Several yakuza footsoldiers rapidly leaving residence, wiping their katanas clean",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "sjxwfLNL3m7qgAyx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VwWSQUZM6Em08qJi.sjxwfLNL3m7qgAyx"
+    },
+    {
+      "text": "Obvious synthetic in grubby coveralls stumbles into bar, then detonates skull bomb",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "4Z8ylIRnFYBuBIyh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VwWSQUZM6Em08qJi.4Z8ylIRnFYBuBIyh"
+    },
+    {
+      "text": "Syndicate thugs argue with heavily armed group in car park over contents of a bag",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "M3LUGnGhlVpZqhtX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VwWSQUZM6Em08qJi.M3LUGnGhlVpZqhtX"
+    },
+    {
+      "text": "Three smartly dressed operatives with biotracker observe disembarking passengers",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "QSnRPzNmFg3jCjRE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VwWSQUZM6Em08qJi.QSnRPzNmFg3jCjRE"
+    }
+  ],
+  "folder": "QMBGISks0IJtfhTP",
+  "sort": 0,
+  "_id": "VwWSQUZM6Em08qJi",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p> What did we just stumble into?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570551300,
+    "modifiedTime": 1699656408043,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!VwWSQUZM6Em08qJi"
+}

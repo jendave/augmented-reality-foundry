@@ -1,0 +1,177 @@
+{
+  "name": "Security",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "None",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "E11O5QdtUVJvWO5L",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AT8WDSZ5xV8Kg685.E11O5QdtUVJvWO5L"
+    },
+    {
+      "text": "Cameras &amp; Alarm",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "VjNWTY2p6UqKkN4c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AT8WDSZ5xV8Kg685.VjNWTY2p6UqKkN4c"
+    },
+    {
+      "text": "Armed Owner",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "1NCg8STdjAZvoaEE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AT8WDSZ5xV8Kg685.1NCg8STdjAZvoaEE"
+    },
+    {
+      "text": "Local Gang",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "zcybZRKWktyKMUoT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AT8WDSZ5xV8Kg685.zcybZRKWktyKMUoT"
+    },
+    {
+      "text": "Armed Bouncers",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "WQ3jo0LygbhmsLrO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AT8WDSZ5xV8Kg685.WQ3jo0LygbhmsLrO"
+    },
+    {
+      "text": "24 Hour Security",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "ozHmrbA9AA6bkIFh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AT8WDSZ5xV8Kg685.ozHmrbA9AA6bkIFh"
+    },
+    {
+      "text": "Hired Thugs",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "ThWk8PSCbVmHlAyX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AT8WDSZ5xV8Kg685.ThWk8PSCbVmHlAyX"
+    },
+    {
+      "text": "Weapon Scanners",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "Sc02BjpOCOY1WtiE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AT8WDSZ5xV8Kg685.Sc02BjpOCOY1WtiE"
+    },
+    {
+      "text": "Cyborg Bouncers",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "ZhhHt4oHFQ1eYcWO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AT8WDSZ5xV8Kg685.ZhhHt4oHFQ1eYcWO"
+    },
+    {
+      "text": "State-Of-The-Art",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "Bmg1kt6QpzUkkVKp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AT8WDSZ5xV8Kg685.Bmg1kt6QpzUkkVKp"
+    }
+  ],
+  "folder": "vAY9yzP2BZwCvs9a",
+  "sort": 2,
+  "_id": "AT8WDSZ5xV8Kg685",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Bar/Club, Status, Security and Vibe tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569738175,
+    "modifiedTime": 1699645848281,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!AT8WDSZ5xV8Kg685"
+}

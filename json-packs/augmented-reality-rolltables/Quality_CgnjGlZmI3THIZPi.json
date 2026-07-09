@@ -1,0 +1,177 @@
+{
+  "name": "Quality",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Mom N Pop",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "PKzleOwzUGHXPLHQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgnjGlZmI3THIZPi.PKzleOwzUGHXPLHQ"
+    },
+    {
+      "text": "Discount",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "zK8cg9mY7AsWxoqI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgnjGlZmI3THIZPi.zK8cg9mY7AsWxoqI"
+    },
+    {
+      "text": "Local Loyalty",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "9ToQGtQYlNot9bKc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgnjGlZmI3THIZPi.9ToQGtQYlNot9bKc"
+    },
+    {
+      "text": "Exclusive",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "Vr4yNJnMD3DeyCoD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgnjGlZmI3THIZPi.Vr4yNJnMD3DeyCoD"
+    },
+    {
+      "text": "Reliable Brand",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "oYqVgCL6kYPEIaNn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgnjGlZmI3THIZPi.oYqVgCL6kYPEIaNn"
+    },
+    {
+      "text": "Mass Market",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "FAMufJL04o2goAdm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgnjGlZmI3THIZPi.FAMufJL04o2goAdm"
+    },
+    {
+      "text": "Fashionable",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "rnzH6WTypD18X219",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgnjGlZmI3THIZPi.rnzH6WTypD18X219"
+    },
+    {
+      "text": "Luxury Brand",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "cezCsGfEl2BsyBzh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgnjGlZmI3THIZPi.cezCsGfEl2BsyBzh"
+    },
+    {
+      "text": "High End Luxury",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "sL5ToEaQi94CDOeY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgnjGlZmI3THIZPi.sL5ToEaQi94CDOeY"
+    },
+    {
+      "text": "Bespoke/Custom",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "eRlixrjscAw4jU5S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgnjGlZmI3THIZPi.eRlixrjscAw4jU5S"
+    }
+  ],
+  "folder": "cv0epClNmHPBj0TF",
+  "sort": 1,
+  "_id": "CgnjGlZmI3THIZPi",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Business Type, Quality, Security and Status tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569706030,
+    "modifiedTime": 1699644206742,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!CgnjGlZmI3THIZPi"
+}

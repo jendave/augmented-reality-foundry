@@ -1,0 +1,177 @@
+{
+  "name": "Gig Economy",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Mobile AR Ad Hub - Supplied body rig outputs 'augverts' as you wander streets",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "OuJ69LU2CQYDIOuo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Z9AepG3NVXs8MN5r.OuJ69LU2CQYDIOuo"
+    },
+    {
+      "text": "Human CCTV - Cyberoptics required, must allow remote access &amp; sign NDA",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "bPFbg2DyGBulBZ95",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Z9AepG3NVXs8MN5r.bPFbg2DyGBulBZ95"
+    },
+    {
+      "text": "Gig Groomer - Given a quota of potential gig workers to sign up for agent",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "WZD6KzrWmJNSjxgJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Z9AepG3NVXs8MN5r.WZD6KzrWmJNSjxgJ"
+    },
+    {
+      "text": "Hygiene Dispenser - Loiter in lobbies wearing a tank full of hand sanitiser",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "Aq1sFcjUKoq0Q9EA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Z9AepG3NVXs8MN5r.Aq1sFcjUKoq0Q9EA"
+    },
+    {
+      "text": "Substrate Fairy - Find and collect recyclables to be reused for 3D printing",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "vaZqD5S2eJZQR5CJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Z9AepG3NVXs8MN5r.vaZqD5S2eJZQR5CJ"
+    },
+    {
+      "text": "Organ Surrogate - Mature cloned organs prior to implantation",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "9dJJrg9gDX8eATXi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Z9AepG3NVXs8MN5r.9dJJrg9gDX8eATXi"
+    },
+    {
+      "text": "Meds Manager - Deliver medications to the old and infirm, ensure ingestion",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "0BIIGjKTc6ZWaGfD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Z9AepG3NVXs8MN5r.0BIIGjKTc6ZWaGfD"
+    },
+    {
+      "text": "Brand Spammer - Promote brand/product/ideology to strangers in public",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "VyR6RTEoGfmve3Pc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Z9AepG3NVXs8MN5r.VyR6RTEoGfmve3Pc"
+    },
+    {
+      "text": "Pest Microwaver - Issued with RFID tagged microwaver to zap vermin",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "e6LHF03j4fNAzjDa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Z9AepG3NVXs8MN5r.e6LHF03j4fNAzjDa"
+    },
+    {
+      "text": "Drone Repoman - Trace and recover downed courier drones",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "pAEI8zbvm6sAzIxs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Z9AepG3NVXs8MN5r.pAEI8zbvm6sAzIxs"
+    }
+  ],
+  "folder": "2Nkwf7OogrEjyO11",
+  "sort": 1,
+  "_id": "Z9AepG3NVXs8MN5r",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>What's my agent got lined up for me today?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570668889,
+    "modifiedTime": 1699656624689,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!Z9AepG3NVXs8MN5r"
+}

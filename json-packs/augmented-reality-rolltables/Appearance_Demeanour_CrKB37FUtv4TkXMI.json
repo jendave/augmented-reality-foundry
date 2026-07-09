@@ -1,0 +1,777 @@
+{
+  "name": "Appearance/Demeanour",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Boxy, plain, emotion suppression chips",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "g59scNon1iqgUJU1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.g59scNon1iqgUJU1"
+    },
+    {
+      "text": "Skinny jeans, vinyl bomber jacket, joker",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "UYMS8cv6gr7c35tX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.UYMS8cv6gr7c35tX"
+    },
+    {
+      "text": "Elfin, humourless, pale duster, blue hair",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "CbBc8sYJzS7zpUeF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.CbBc8sYJzS7zpUeF"
+    },
+    {
+      "text": "Muscular, balding, sophisticated, diligent",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "CnoK6AmiS2qQNGcS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.CnoK6AmiS2qQNGcS"
+    },
+    {
+      "text": "Well groomed, youthful, boastful, snob",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "ixXKPIGeztczpseD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.ixXKPIGeztczpseD"
+    },
+    {
+      "text": "Ostentatious, traditional, bearded, careful",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "c2aGuKVsdTS7v6HB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.c2aGuKVsdTS7v6HB"
+    },
+    {
+      "text": "Blistered, strong cologne, shiny blue suit",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "mFH9WzxzzjIPrRdQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.mFH9WzxzzjIPrRdQ"
+    },
+    {
+      "text": "Willowy, hauntingly beautiful, kimonos",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "QqQCHeMdsEKrA8ug",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.QqQCHeMdsEKrA8ug"
+    },
+    {
+      "text": "Tall, lithe and busty, probing, determined",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "ca6nsZvlRPUHxeej",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.ca6nsZvlRPUHxeej"
+    },
+    {
+      "text": "Oily, obsequious, formal and spiteful",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "kWKP2eIWclKsZltg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.kWKP2eIWclKsZltg"
+    },
+    {
+      "text": "Pale, shaky, numerous vehicle link plugs",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "kwIjvdllpGqDi9lI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.kwIjvdllpGqDi9lI"
+    },
+    {
+      "text": "Approachable, guarded, sharp dresser",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "OL5nzJfBOFFM1j92",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.OL5nzJfBOFFM1j92"
+    },
+    {
+      "text": "Shaven head, grey suit, bulky, sombre",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "KBhdMmIaaewUtG8j",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.KBhdMmIaaewUtG8j"
+    },
+    {
+      "text": "Exhibitionist, tease, clear vinyl raincoat",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "d9irc6md28f3AERh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.d9irc6md28f3AERh"
+    },
+    {
+      "text": "Fat, confident, well-mannered, Mao suits",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "bDENFqyCnnDAqyVN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.bDENFqyCnnDAqyVN"
+    },
+    {
+      "text": "Geisha-chic, teenage girl, dark eyed, cold",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "PFZKRLTBGuCZIdPL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.PFZKRLTBGuCZIdPL"
+    },
+    {
+      "text": "Deep turquoise leather coat, friendly",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "6enpL3PpGZ6NZBDy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.6enpL3PpGZ6NZBDy"
+    },
+    {
+      "text": "Impeccably dressed, punctual, vindictive",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "HRi7OHtn5YwIo7nz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.HRi7OHtn5YwIo7nz"
+    },
+    {
+      "text": "Neo-romantic floppy fringe, tux, relaxed",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "i3Uogfvb3hlcJ83F",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.i3Uogfvb3hlcJ83F"
+    },
+    {
+      "text": "Nervous, cautious, trenchcoat, greasy hair",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "83CZqS82sv5f92dK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.83CZqS82sv5f92dK"
+    },
+    {
+      "text": "Tired and frazzled, thinning curly hair, fat",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "AeY4D0yUZvz7d0Ic",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.AeY4D0yUZvz7d0Ic"
+    },
+    {
+      "text": "Tech-savvy, confident, ebony skinned",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "0NW3uJmcGrn3nXWs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.0NW3uJmcGrn3nXWs"
+    },
+    {
+      "text": "Arrogant, condescending, casual dress",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "XZL6YcBvYEiQL2Tm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.XZL6YcBvYEiQL2Tm"
+    },
+    {
+      "text": "Inappropriate, knowledgeable, on-trend",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "NEmbBcT3zjOgOjkS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.NEmbBcT3zjOgOjkS"
+    },
+    {
+      "text": "Small, unwashed, world weary, tired",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "WnHSmUofeRqwKuLI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.WnHSmUofeRqwKuLI"
+    },
+    {
+      "text": "Black suits &amp; shirts, gold tie, aggressive",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "l9EqJM2y0pNBRwHY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.l9EqJM2y0pNBRwHY"
+    },
+    {
+      "text": "Limps, thin-limbed, pastey, loose silks",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "5dodFvXjKGaT2Nbx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.5dodFvXjKGaT2Nbx"
+    },
+    {
+      "text": "Conservative trouser suits, on edge, delays",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "3PRlMgQ0IizcnUZA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.3PRlMgQ0IizcnUZA"
+    },
+    {
+      "text": "Seductive, elegant, hot tempered, black",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "6YgWkWEUnHjOlkoD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.6YgWkWEUnHjOlkoD"
+    },
+    {
+      "text": "Easily pleased, layered hoodies, shades",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "a6OrIR91p9lJNC2d",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.a6OrIR91p9lJNC2d"
+    },
+    {
+      "text": "Middle-aged, dark denim, big revolvers",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "oUgep8x7ac1ryAeO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.oUgep8x7ac1ryAeO"
+    },
+    {
+      "text": "Flamboyant, mincing, fidgets, gloved",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "N50RhB6LMKfm925P",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.N50RhB6LMKfm925P"
+    },
+    {
+      "text": "Grubby punk, pumped, baritone voice",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "fUAXNKwxAgpUl5ES",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.fUAXNKwxAgpUl5ES"
+    },
+    {
+      "text": "Oversized army jacket, cigars, big gun",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "inenM8sqR7qV57eh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.inenM8sqR7qV57eh"
+    },
+    {
+      "text": "Chunky, crumpled suit, sweaty, balding",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "sCUwgco4zIWWh4PN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.sCUwgco4zIWWh4PN"
+    },
+    {
+      "text": "Sergio Tacchini track suits, anxious, tag",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "gkPkiJheDMN9Lrt7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.gkPkiJheDMN9Lrt7"
+    },
+    {
+      "text": "Expensive shirts, gold rings, robotic",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "Yh2LTbEvdxo7C2o0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.Yh2LTbEvdxo7C2o0"
+    },
+    {
+      "text": "Smoker, inscrutable, leisure suits, clean",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "bioWdxRU2hUJXnKw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.bioWdxRU2hUJXnKw"
+    },
+    {
+      "text": "Reeks of booze, dirty jeans, serious",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "575n4Sx4W6YKBSyP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.575n4Sx4W6YKBSyP"
+    },
+    {
+      "text": "Soft face, scarlett bobbed hair, ruthless",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "S9FvY7NMp0VHnt1v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.S9FvY7NMp0VHnt1v"
+    },
+    {
+      "text": "Monovisor, suit, raincoat, katana, calm",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "DJwVqAMqqk8EoXCW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.DJwVqAMqqk8EoXCW"
+    },
+    {
+      "text": "Turtle necks, chrome hands, wild eyed",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "UqXECiEB7SCped2b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.UqXECiEB7SCped2b"
+    },
+    {
+      "text": "Old, emaciated, bitter and suicidal",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "joLOTk5L3PSK8pLY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.joLOTk5L3PSK8pLY"
+    },
+    {
+      "text": "Hawaiian shirts, cargo pants, gregarious",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "vzNpA4eaUOTQTEnu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.vzNpA4eaUOTQTEnu"
+    },
+    {
+      "text": "Squat, solid, stubbled chin, dark vinyl coat",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "68g5wm0BzKrDBgFF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.68g5wm0BzKrDBgFF"
+    },
+    {
+      "text": "Enthusiastic, knitwear, sandals, ponytail",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "7iwJ4PhyS2pJh5xi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.7iwJ4PhyS2pJh5xi"
+    },
+    {
+      "text": "Coffee-skinned, afro weave, violet lipstick",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "OOat9YoWbP7aKyow",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.OOat9YoWbP7aKyow"
+    },
+    {
+      "text": "Coverall, micro tools, air hypo, giddy",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "NU0jagv4NGZqZt0X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.NU0jagv4NGZqZt0X"
+    },
+    {
+      "text": "Tall, lean, narrow-faced, red suit, dreads",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "XZFOcQcPsrBLBSxM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.XZFOcQcPsrBLBSxM"
+    },
+    {
+      "text": "Long black hair, goatee, lethargic, cynical",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "DDQFeQXOoJyc2D9f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CrKB37FUtv4TkXMI.DDQFeQXOoJyc2D9f"
+    }
+  ],
+  "folder": "VL5EsatfIFO9X12s",
+  "sort": 3,
+  "_id": "CrKB37FUtv4TkXMI",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Name, Description, Job, Appearance/Demeanour and Relationship tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570257817,
+    "modifiedTime": 1699654043252,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!CrKB37FUtv4TkXMI"
+}

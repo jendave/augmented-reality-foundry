@@ -1,0 +1,177 @@
+{
+  "name": "What Are They Up To?",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Picking a fight with someone they don't like - store owner, passer by, hab resident",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "1ojWMOhH4FTPMK9p",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BKxJwxmW1R7DzYUJ.1ojWMOhH4FTPMK9p"
+    },
+    {
+      "text": "Marking the local area with gang tags - AR, spray paint, pens, animatic stickers",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "omsRylyGzDVgHm3Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BKxJwxmW1R7DzYUJ.omsRylyGzDVgHm3Z"
+    },
+    {
+      "text": "Shaking down the locals with threats and intimidation - for money, booze, sex",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "Uwa3SbsxeMydaQTl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BKxJwxmW1R7DzYUJ.Uwa3SbsxeMydaQTl"
+    },
+    {
+      "text": "Raving to their favourite music/propaganda, extremely loudly",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "hIC1qLyV6yFUVXjQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BKxJwxmW1R7DzYUJ.hIC1qLyV6yFUVXjQ"
+    },
+    {
+      "text": "Getting wasted, or psyching themselves up before a fight or a raid",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "Pn7nOTE1UZMiM5BW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BKxJwxmW1R7DzYUJ.Pn7nOTE1UZMiM5BW"
+    },
+    {
+      "text": "Facing down cops/security/another gang - as far as they can get without a fight",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "NWptH8dbTpDWZilW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BKxJwxmW1R7DzYUJ.NWptH8dbTpDWZilW"
+    },
+    {
+      "text": "Participating in tests of skill or daring among themselves",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "qB8mhOrsOcOyzZBd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BKxJwxmW1R7DzYUJ.qB8mhOrsOcOyzZBd"
+    },
+    {
+      "text": "Making a deliberate attempt at being visible, strengthening presence in the area",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "lW0wmoxHA17EiuE8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BKxJwxmW1R7DzYUJ.lW0wmoxHA17EiuE8"
+    },
+    {
+      "text": "Engaged in their main biz, or negotiating employment with another party",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "wG8HJWYTstI1WYOU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BKxJwxmW1R7DzYUJ.wG8HJWYTstI1WYOU"
+    },
+    {
+      "text": "Any combination of the above (roll again, twice)",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "cRgaZK7aHqmov2TY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BKxJwxmW1R7DzYUJ.cRgaZK7aHqmov2TY"
+    }
+  ],
+  "folder": "UF516sJdM2UFFkvf",
+  "sort": 900000,
+  "_id": "BKxJwxmW1R7DzYUJ",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p> Current Gang Activity</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570185351,
+    "modifiedTime": 1699926507903,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!BKxJwxmW1R7DzYUJ"
+}

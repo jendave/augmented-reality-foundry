@@ -1,0 +1,69 @@
+{
+  "name": "First Responders",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Plainclothes Detectives - Clearly marked POLICE vests, flashing their ID badges",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "5iX4Twt217CQOjvN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ctcriSpGlyXrJvX9.5iX4Twt217CQOjvN"
+    },
+    {
+      "text": "Uniformed Officers - Basic cops (if odd rolled: they're wearing riot gear)",
+      "range": [
+        3,
+        8
+      ],
+      "_id": "RsDNSeK6APiIgjwz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ctcriSpGlyXrJvX9.RsDNSeK6APiIgjwz"
+    },
+    {
+      "text": "Tactical response unit - Special operations/SWAT team - milspec load out",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "Qi3wvVl7mbqRUmkV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ctcriSpGlyXrJvX9.Qi3wvVl7mbqRUmkV"
+    }
+  ],
+  "folder": "fjFPpeu1ppaCPoef",
+  "sort": 0,
+  "_id": "ctcriSpGlyXrJvX9",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570234010,
+    "modifiedTime": 1699570980812,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!ctcriSpGlyXrJvX9"
+}

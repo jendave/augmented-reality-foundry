@@ -1,0 +1,177 @@
+{
+  "name": "Product Line",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Cyber/Bio/Nanoware",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "JDu7OOGQ1FFe9LTJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TI2KoXHOR9V5qXbm.JDu7OOGQ1FFe9LTJ"
+    },
+    {
+      "text": "Car/Motorcycle/AV",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "X7PPRBHbjSBaw2zL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TI2KoXHOR9V5qXbm.X7PPRBHbjSBaw2zL"
+    },
+    {
+      "text": "Foodstuff/Drink",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "nl8N8GjExE8frfxh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TI2KoXHOR9V5qXbm.nl8N8GjExE8frfxh"
+    },
+    {
+      "text": "Clothing/Lifestyle",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "7fG1RWZiLBGK7yfG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TI2KoXHOR9V5qXbm.7fG1RWZiLBGK7yfG"
+    },
+    {
+      "text": "Personal Service",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "hLvW4QKLnKE6FvBU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TI2KoXHOR9V5qXbm.hLvW4QKLnKE6FvBU"
+    },
+    {
+      "text": "Computing/Comms",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "MxAtUDT2fz3q0hAH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TI2KoXHOR9V5qXbm.MxAtUDT2fz3q0hAH"
+    },
+    {
+      "text": "Personal Defense",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "6uGV6d8jnpA3h9sE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TI2KoXHOR9V5qXbm.6uGV6d8jnpA3h9sE"
+    },
+    {
+      "text": "Pharmaceuticals",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "yxC5eRjjyVHHV7Nl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TI2KoXHOR9V5qXbm.yxC5eRjjyVHHV7Nl"
+    },
+    {
+      "text": "Cosmetics/Scent",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "sldpAfxspH63lRIe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TI2KoXHOR9V5qXbm.sldpAfxspH63lRIe"
+    },
+    {
+      "text": "Travel/Vacation",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "PGbjnIiQQLk27Q2p",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TI2KoXHOR9V5qXbm.PGbjnIiQQLk27Q2p"
+    }
+  ],
+  "folder": "20I59u1HEW8g551S",
+  "sort": 2,
+  "_id": "TI2KoXHOR9V5qXbm",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Brand Name, Range, Product Line and Marketing Style tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569830935,
+    "modifiedTime": 1699648737312,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!TI2KoXHOR9V5qXbm"
+}

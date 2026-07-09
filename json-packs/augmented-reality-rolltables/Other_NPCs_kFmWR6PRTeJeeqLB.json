@@ -1,0 +1,167 @@
+{
+  "name": "Other NPCs",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Kid Wannabe",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "YcLs9bsrpZ9e2eTV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kFmWR6PRTeJeeqLB.YcLs9bsrpZ9e2eTV"
+    },
+    {
+      "text": "Loyal Gunman (ex-member)",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "QiwhBUT8pKNO6VUS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kFmWR6PRTeJeeqLB.QiwhBUT8pKNO6VUS"
+    },
+    {
+      "text": "Sheltered Fugitive",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "XY6J0gZ0IIP0kVTq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kFmWR6PRTeJeeqLB.XY6J0gZ0IIP0kVTq"
+    },
+    {
+      "text": "Gang Member's Kid",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "buqBxfr2xmpzWcqn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kFmWR6PRTeJeeqLB.buqBxfr2xmpzWcqn"
+    },
+    {
+      "text": "Former Gang Boss, Now Disgraced",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "q2ikGcnixtKosIEt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kFmWR6PRTeJeeqLB.q2ikGcnixtKosIEt"
+    },
+    {
+      "text": "Gang leader's Secret Concubine",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "qO0ouQtzTAQQNDWX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kFmWR6PRTeJeeqLB.qO0ouQtzTAQQNDWX"
+    },
+    {
+      "text": "Gang's Techie or ripperdoc",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "CDe9wkqCAp4qt94B",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kFmWR6PRTeJeeqLB.CDe9wkqCAp4qt94B"
+    },
+    {
+      "text": "Invalided Gang Member",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "3usOD6A8Q8vrNFdr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kFmWR6PRTeJeeqLB.3usOD6A8Q8vrNFdr"
+    },
+    {
+      "text": "Gang's Fixer",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "9L710a6SElqWcBon",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kFmWR6PRTeJeeqLB.9L710a6SElqWcBon"
+    },
+    {
+      "text": "Gang's Idiot (the liability)",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "2Jwlr1AjYD8s2224",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!kFmWR6PRTeJeeqLB.2Jwlr1AjYD8s2224"
+    }
+  ],
+  "folder": "bu0FFK50ADkENUnp",
+  "sort": 1,
+  "_id": "kFmWR6PRTeJeeqLB",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570204225,
+    "modifiedTime": 1699570998742,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!kFmWR6PRTeJeeqLB"
+}

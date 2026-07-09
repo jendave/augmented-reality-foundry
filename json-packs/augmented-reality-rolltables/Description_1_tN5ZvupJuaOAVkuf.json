@@ -1,0 +1,777 @@
+{
+  "name": "Description 1",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Neo-Primitive",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "1kHiYEEDE48Lg3uI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.1kHiYEEDE48Lg3uI"
+    },
+    {
+      "text": "Soft-Armoured",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "Rmef3nGuwp9CftVE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.Rmef3nGuwp9CftVE"
+    },
+    {
+      "text": "VR Game Playing",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "H4nakTtPq2IqZ8dt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.H4nakTtPq2IqZ8dt"
+    },
+    {
+      "text": "Neon-Punk",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "r8iimVK692CtLS4f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.r8iimVK692CtLS4f"
+    },
+    {
+      "text": "Drone Utilising",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "30dNS62OuIBaSHL6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.30dNS62OuIBaSHL6"
+    },
+    {
+      "text": "Patriarchal",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "XwjALw1VUPKmYi2S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.XwjALw1VUPKmYi2S"
+    },
+    {
+      "text": "Lan-Linked",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "BFBYzuuiMJXVVTA6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.BFBYzuuiMJXVVTA6"
+    },
+    {
+      "text": "Augment Heavy",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "s6QlkeMDOXJGpYCX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.s6QlkeMDOXJGpYCX"
+    },
+    {
+      "text": "Spike Covered",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "EWHI6gz9yBVAxGGq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.EWHI6gz9yBVAxGGq"
+    },
+    {
+      "text": "Ex-Convict",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "ezfpNXGJ9aDq4AHh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.ezfpNXGJ9aDq4AHh"
+    },
+    {
+      "text": "Biomodified",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "uAJDJgBojrOem1Rz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.uAJDJgBojrOem1Rz"
+    },
+    {
+      "text": "Blade Wielding",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "ySJAGOjKD2oTIhVA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.ySJAGOjKD2oTIhVA"
+    },
+    {
+      "text": "Body Modified",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "IVwMKxXCc9YyKVOR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.IVwMKxXCc9YyKVOR"
+    },
+    {
+      "text": "Gun Fetishist",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "4kjP8DGm5PKUbsnQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.4kjP8DGm5PKUbsnQ"
+    },
+    {
+      "text": "Rastafarian",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "D7vA6MVSHW0Z4RKb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.D7vA6MVSHW0Z4RKb"
+    },
+    {
+      "text": "Simstim Rigged",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "G36XFHQhzMvgaLaC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.G36XFHQhzMvgaLaC"
+    },
+    {
+      "text": "Tech-Ninja",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "3TFGBdOsy0FyCEl2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.3TFGBdOsy0FyCEl2"
+    },
+    {
+      "text": "Mood Chipping",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "RwNULTBwOx0NJKnp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.RwNULTBwOx0NJKnp"
+    },
+    {
+      "text": "Voodoo Practicing",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "hRMGy3WelaoLN0yA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.hRMGy3WelaoLN0yA"
+    },
+    {
+      "text": "Chip-Hop Fan",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "7tteQREQiN2A7Bv2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.7tteQREQiN2A7Bv2"
+    },
+    {
+      "text": "Grime-Punk",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "cHqhZ8ErLSwuSu2O",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.cHqhZ8ErLSwuSu2O"
+    },
+    {
+      "text": "Death Metal Fan",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "Rs8vsUu7LrgHRRWe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.Rs8vsUu7LrgHRRWe"
+    },
+    {
+      "text": "Skinhead",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "IsS1y32d1PLox8nI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.IsS1y32d1PLox8nI"
+    },
+    {
+      "text": "Blood Stained",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "D5DH5DbbIhzGUdgy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.D5DH5DbbIhzGUdgy"
+    },
+    {
+      "text": "Armour Plated",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "NfPOst8EDSqneR00",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.NfPOst8EDSqneR00"
+    },
+    {
+      "text": "Couture Stealing",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "z6KTpnoPfinrz0mv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.z6KTpnoPfinrz0mv"
+    },
+    {
+      "text": "Military Surplus",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "qdt3JPIQMwr2crfn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.qdt3JPIQMwr2crfn"
+    },
+    {
+      "text": "Wow Inspired",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "sHFD4MgAmFAcTApv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.sHFD4MgAmFAcTApv"
+    },
+    {
+      "text": "Risk Taking",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "kNiupjkEaYHmLovl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.kNiupjkEaYHmLovl"
+    },
+    {
+      "text": "African-Tribal",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "864bKKhPTlFMz9iM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.864bKKhPTlFMz9iM"
+    },
+    {
+      "text": "Ultraviolent",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "Lwb23VKe7vksMmQD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.Lwb23VKe7vksMmQD"
+    },
+    {
+      "text": "Drug Dependent",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "MFtb2KleqOoCsnKo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.MFtb2KleqOoCsnKo"
+    },
+    {
+      "text": "War Painted",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "b0z55Em3HkqO43A1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.b0z55Em3HkqO43A1"
+    },
+    {
+      "text": "Rag Enshrouded",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "B1jB5bIitVwZW3P7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.B1jB5bIitVwZW3P7"
+    },
+    {
+      "text": "Buddha-Faced",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "7oulggDZQnE3m5Kg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.7oulggDZQnE3m5Kg"
+    },
+    {
+      "text": "Emo-Goth",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "6kKrCwTMaguAXxBo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.6kKrCwTMaguAXxBo"
+    },
+    {
+      "text": "Goggle Wearing",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "XwLREW0aurstK8W2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.XwLREW0aurstK8W2"
+    },
+    {
+      "text": "Androgynous",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "ZCfqrjyQtWeHa5iE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.ZCfqrjyQtWeHa5iE"
+    },
+    {
+      "text": "Blood Drinking",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "bn9kUi3gfQadXiUP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.bn9kUi3gfQadXiUP"
+    },
+    {
+      "text": "Road Armoured",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "sqldTyCdbUvhcpG9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.sqldTyCdbUvhcpG9"
+    },
+    {
+      "text": "Heavily Tattooed",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "MzSknKSiGvAEhcJa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.MzSknKSiGvAEhcJa"
+    },
+    {
+      "text": "Neo-Luddite",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "ocpMNo94DQDLVeRQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.ocpMNo94DQDLVeRQ"
+    },
+    {
+      "text": "Goth-Punk",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "KAsZ2KGFiAAfeKj3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.KAsZ2KGFiAAfeKj3"
+    },
+    {
+      "text": "Industrial-Tech",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "CFcxIdsPuoGLijh7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.CFcxIdsPuoGLijh7"
+    },
+    {
+      "text": "Tech Savvy",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "HQ13F7zjo4SaLcIk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.HQ13F7zjo4SaLcIk"
+    },
+    {
+      "text": "Net Dependent",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "OvuKZTLvtkTFEklj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.OvuKZTLvtkTFEklj"
+    },
+    {
+      "text": "Radical",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "R9fV3PIhdQxCXoMp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.R9fV3PIhdQxCXoMp"
+    },
+    {
+      "text": "AR Manipulating",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "z2OP2ZSCkGDwPZiJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.z2OP2ZSCkGDwPZiJ"
+    },
+    {
+      "text": "Afro-Haired",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "RsE7M34EyrF3CQp2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.RsE7M34EyrF3CQp2"
+    },
+    {
+      "text": "Neon-Raver",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "IecmiDcJMbyM274x",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tN5ZvupJuaOAVkuf.IecmiDcJMbyM274x"
+    }
+  ],
+  "folder": "UF516sJdM2UFFkvf",
+  "sort": 400000,
+  "_id": "tN5ZvupJuaOAVkuf",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Name 1, Name 2, Description 1, Description 2, Description 3, Sphere of Influence and Relationship tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570185275,
+    "modifiedTime": 1699926507903,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!tN5ZvupJuaOAVkuf"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Local Conflict",
+  "type": "RollTable",
+  "sorting": "a",
+  "_id": "VWRUQtMQZKxj15Xx",
+  "folder": null,
+  "sort": 1500000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569670045,
+    "modifiedTime": 1699650966845,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "color": null,
+  "_key": "!folders!VWRUQtMQZKxj15Xx"
+}

@@ -1,0 +1,777 @@
+{
+  "name": "Description 1",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Undermines elections in Third World countries, because he can",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "QTkkiUso6hJrPnpP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.QTkkiUso6hJrPnpP"
+    },
+    {
+      "text": "Creates netsites for several street gangs, can muster help fast",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "5vOc93RxhcCGGHMQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.5vOc93RxhcCGGHMQ"
+    },
+    {
+      "text": "Turing Authority agent, under cover, working on major sting",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "6bPvlWQc3ibPUAWn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.6bPvlWQc3ibPUAWn"
+    },
+    {
+      "text": "Escaped from latvian data harvesters, has price on his head",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "V6GUUFAPTtVohMyJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.V6GUUFAPTtVohMyJ"
+    },
+    {
+      "text": "Collective formed by ex-Transmission Felonies cop",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "v5PdldF2ACqZoxTm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.v5PdldF2ACqZoxTm"
+    },
+    {
+      "text": "Works for the bank he hacks, now targeted for assassination",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "kTsu3OwsyVHiQuP9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.kTsu3OwsyVHiQuP9"
+    },
+    {
+      "text": "Confined to ghetto-built mobility walker run on laptop batteries",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "ZYoE7fwVOehMfxsm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.ZYoE7fwVOehMfxsm"
+    },
+    {
+      "text": "Runs collective for corporate uncle, who thinks he's an idiot",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "LuP4ybU2dedxwDM0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.LuP4ybU2dedxwDM0"
+    },
+    {
+      "text": "Guarded by a pair of tactically enhanced German Shepherds",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "Av5ByEd3h7Wfz4aL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.Av5ByEd3h7Wfz4aL"
+    },
+    {
+      "text": "Functionally a human server, sitting on millions",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "DrB9m3yqHt98fUHv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.DrB9m3yqHt98fUHv"
+    },
+    {
+      "text": "High aptitude, actually result of drugs tests in orphanarium",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "wujXnrWMVOdN1Mvf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.wujXnrWMVOdN1Mvf"
+    },
+    {
+      "text": "Appears to be a script kiddie, successful exploit royalty farmer",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "r3ubiCMqvQLZE2sv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.r3ubiCMqvQLZE2sv"
+    },
+    {
+      "text": "Clinically dead 3 times, wears a defib rig, surprisingly chipper",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "8DTW5tp2eZKhFk2V",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.8DTW5tp2eZKhFk2V"
+    },
+    {
+      "text": "Spends all his time in sensory deprivation tank",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "B2t30hLjtKK5ImFo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.B2t30hLjtKK5ImFo"
+    },
+    {
+      "text": "Blinded as a child, navigates entire life via net overlays",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "2o5BmtIjJHIfzr4s",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.2o5BmtIjJHIfzr4s"
+    },
+    {
+      "text": "Maintains clones in exowombs, in hidden cold storage facility",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "2kpDfchRowNTHdpO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.2kpDfchRowNTHdpO"
+    },
+    {
+      "text": "Adept at cracking people's neural interface networks",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "hlAalK3j9FJd0XZS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.hlAalK3j9FJd0XZS"
+    },
+    {
+      "text": "Tanzanian 'sorcerer', skims identities to sell to the syndicates",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "aFRymYM3BcwesDpX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.aFRymYM3BcwesDpX"
+    },
+    {
+      "text": "Apparently in a coma, mercenary accomplices cover for him",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "DGFiln0LkVaDMorJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.DGFiln0LkVaDMorJ"
+    },
+    {
+      "text": "Wrote a dementia triggering software routine, afraid to sell it",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "kbfdDoPoJnp9LqPu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.kbfdDoPoJnp9LqPu"
+    },
+    {
+      "text": "No clue his entire life is monitored by company handlers",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "NMghdQVT67SBUqsp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.NMghdQVT67SBUqsp"
+    },
+    {
+      "text": "Exceptional programmer, builds in exploits, fears discovery",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "EqexUhrswCvTfvqI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.EqexUhrswCvTfvqI"
+    },
+    {
+      "text": "Uplifted chimpanzee, fiercely protected by militant ecoclade",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "fWh0sJNMGdeWH9IF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.fWh0sJNMGdeWH9IF"
+    },
+    {
+      "text": "Child prodigy, invalid daughter of experimental neuroscientist",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "7xcyXjfZH53kqce0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.7xcyXjfZH53kqce0"
+    },
+    {
+      "text": "Experienced darknet scout, haunted by malicious dataforms",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "LoV3wYPuV7cZoRF6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.LoV3wYPuV7cZoRF6"
+    },
+    {
+      "text": "Synthetic, used as meatspace 'avatar' of another hacker (roll)",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "tPrjSrLfgwPZqpHW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.tPrjSrLfgwPZqpHW"
+    },
+    {
+      "text": "Rogue marketing AI, curates online Museum of Dangerous Art",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "1NjDpoJTrDzgAiU8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.1NjDpoJTrDzgAiU8"
+    },
+    {
+      "text": "Targeted for extraction by several major transnationals",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "B7WNYs9hNuj0e2BC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.B7WNYs9hNuj0e2BC"
+    },
+    {
+      "text": "Ousted darling Vrchitect, sells access to hidden labyrinths",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "taJZiR4dUIZJLdYE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.taJZiR4dUIZJLdYE"
+    },
+    {
+      "text": "Former forensic system analyst, partial mindwipe",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "rYvGuCw8gAWf5ZaC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.rYvGuCw8gAWf5ZaC"
+    },
+    {
+      "text": "Squeals to corporation if hired, well paid, makes excuses",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "5N2u7Q7V2AARJstY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.5N2u7Q7V2AARJstY"
+    },
+    {
+      "text": "Unremarkable 18 year old triplet nerds, secret geniuses",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "OR4nQGbUz0DOpFzY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.OR4nQGbUz0DOpFzY"
+    },
+    {
+      "text": "Rewired neural pathways push her intelligence beyond normal",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "2GnKg1HT9YpxB6nv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.2GnKg1HT9YpxB6nv"
+    },
+    {
+      "text": "Intelligent hotel system, trades in guests' secrets, very wealthy",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "JfYoUEKRliOtlFcL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.JfYoUEKRliOtlFcL"
+    },
+    {
+      "text": "Middle-aged housewife, was in debt, continues for the rush",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "hT6GMvLzgVsVEHYn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.hT6GMvLzgVsVEHYn"
+    },
+    {
+      "text": "Linkjacker specialising in compromising interfaced gear",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "RJrUGkI05D7sGTgZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.RJrUGkI05D7sGTgZ"
+    },
+    {
+      "text": "Rogue nanite hive-mind, hiding in a hab stack's vent system",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "ARweCWh6USbfNsgN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.ARweCWh6USbfNsgN"
+    },
+    {
+      "text": "Self-righteous ethical hacktivist, has to make political statement",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "sfCJgHTlFBPyhzp1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.sfCJgHTlFBPyhzp1"
+    },
+    {
+      "text": "Information hygiene specialist, excels at covering any tracks",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "ZOqmDMMQhep4Ffp2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.ZOqmDMMQhep4Ffp2"
+    },
+    {
+      "text": "Notorious lOltroll, gleefully puts others in real danger",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "HpnEhXJCbuj3b5Bh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.HpnEhXJCbuj3b5Bh"
+    },
+    {
+      "text": "Deals in downloadable skill apps and customised software",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "RDuRy5TawiKl2Alq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.RDuRy5TawiKl2Alq"
+    },
+    {
+      "text": "Suffers Amazon War flashbacks, agoraphobic hoarder",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "9RC0JrYOGGHcZYiE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.9RC0JrYOGGHcZYiE"
+    },
+    {
+      "text": "Runs distribution of dark servers, launders data and bitcoin",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "1aiXpESQg7yExmua",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.1aiXpESQg7yExmua"
+    },
+    {
+      "text": "Planning data heist, network map tattooed on missing person",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "MeER3MOvuODhg3tU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.MeER3MOvuODhg3tU"
+    },
+    {
+      "text": "Uses amphetamines to gain edge, just fucking him up",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "ZMi2jpKf0ZqQRCFf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.ZMi2jpKf0ZqQRCFf"
+    },
+    {
+      "text": "Compelled to swat soft targets, knows she shouldn't",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "4twIUHH6sedyOIur",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.4twIUHH6sedyOIur"
+    },
+    {
+      "text": "S. Korean professional gamers, transition to big time net crime",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "hhK6FsdyzmflSt5W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.hhK6FsdyzmflSt5W"
+    },
+    {
+      "text": "Drug addicted Net regulator, knows systems' weak points",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "fU4xoRFhoj09w9oA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.fU4xoRFhoj09w9oA"
+    },
+    {
+      "text": "Manipulated by AIs, believes aliens have chosen her",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "IAhPbJ09Xui1zYvf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.IAhPbJ09Xui1zYvf"
+    },
+    {
+      "text": "Traffic control AI, masquerades as a human teen with ASD",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "80eTi6loSrqRe8ZV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6bXVx0XGinnN072.80eTi6loSrqRe8ZV"
+    }
+  ],
+  "folder": "1BCddB25I3iSV6V4",
+  "sort": 1,
+  "_id": "W6bXVx0XGinnN072",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Name, Description 1, Description 2, Appearance/Demeanour and Relationship tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570757623,
+    "modifiedTime": 1699657486952,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!W6bXVx0XGinnN072"
+}

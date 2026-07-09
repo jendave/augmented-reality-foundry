@@ -1,0 +1,1529 @@
+{
+  "name": "One Man's Trash...",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Junkfood box, weak jingle as batteries die",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "jIZxkycUys04iPJM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.jIZxkycUys04iPJM"
+    },
+    {
+      "text": "Sealed but dented soda can, out of date",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "Ig21QYsIofQw55l8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.Ig21QYsIofQw55l8"
+    },
+    {
+      "text": "Fresh half-eaten burger, slurpy of soda ice",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "NYPwgoyG0Fjk6s1h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.NYPwgoyG0Fjk6s1h"
+    },
+    {
+      "text": "Discarded shrink wrap with QRS code label",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "uZpXeXX7NJQvqHGf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.uZpXeXX7NJQvqHGf"
+    },
+    {
+      "text": "Thick wad of hard, grey chewing gum",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "UV9xXzjE3QerB4i9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.UV9xXzjE3QerB4i9"
+    },
+    {
+      "text": "Half a blister pack of common pain killers",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "hv7HhLlYb1mpCnl2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.hv7HhLlYb1mpCnl2"
+    },
+    {
+      "text": "Plastic business card, high rank exec",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "JHvltTdX0RpkamkA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.JHvltTdX0RpkamkA"
+    },
+    {
+      "text": "2 feet of old nylon rope, frayed ends",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "qK7lZ92drFphEZSh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.qK7lZ92drFphEZSh"
+    },
+    {
+      "text": "Intact polymer cargo pallet, slightly worn",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "Vp8lY4hhsEWgd6uW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.Vp8lY4hhsEWgd6uW"
+    },
+    {
+      "text": "Large, stained, plastic tarp",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "CR6oN3Z1Zuf0Ma2w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.CR6oN3Z1Zuf0Ma2w"
+    },
+    {
+      "text": "Foil wrap of brown powder, hypodermic",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "pVbOU9jDJ5ppVDCX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.pVbOU9jDJ5ppVDCX"
+    },
+    {
+      "text": "Wet, pale corpse - did they just move?",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "y299MKLW2Ts5g4R9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.y299MKLW2Ts5g4R9"
+    },
+    {
+      "text": "Ribbed condom, usure if it's been used",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "ijUoTwLkaK36eyww",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.ijUoTwLkaK36eyww"
+    },
+    {
+      "text": "Balled-up nitrile gloves, stained",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "y6LBauhkxPWqHJk5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.y6LBauhkxPWqHJk5"
+    },
+    {
+      "text": "Half a case of individually sealed diapers",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "nh0ihbft67mCKJU2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.nh0ihbft67mCKJU2"
+    },
+    {
+      "text": "Discarded field dressing, still moist",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "emYb4N492LeUom1D",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.emYb4N492LeUom1D"
+    },
+    {
+      "text": "Urban scavenger (raccoon, dog, fox, cat)",
+      "range": [
+        17,
+        17
+      ],
+      "_id": "FO1SVWYLVwtzxQuR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.FO1SVWYLVwtzxQuR"
+    },
+    {
+      "text": "Plasticuffs, cut apart, winking red LED",
+      "range": [
+        18,
+        18
+      ],
+      "_id": "4IFnhIY9CgwF122i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.4IFnhIY9CgwF122i"
+    },
+    {
+      "text": "Unused pack of disposable ear plugs",
+      "range": [
+        19,
+        19
+      ],
+      "_id": "qYDfXm73K5gdkVpv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.qYDfXm73K5gdkVpv"
+    },
+    {
+      "text": "Gun - hot, cheap or damaged, or all three?",
+      "range": [
+        20,
+        20
+      ],
+      "_id": "I1S5zuvNDdQECaMo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.I1S5zuvNDdQECaMo"
+    },
+    {
+      "text": "Half-used spray can of expanding foam",
+      "range": [
+        21,
+        21
+      ],
+      "_id": "0jvqPb2cOcYzsFJJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.0jvqPb2cOcYzsFJJ"
+    },
+    {
+      "text": "Partial bag of cement-like powder",
+      "range": [
+        22,
+        22
+      ],
+      "_id": "ZVVi3EfaM8dWPDta",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.ZVVi3EfaM8dWPDta"
+    },
+    {
+      "text": "Dispenser gun of 'liquid nails' adhesive",
+      "range": [
+        23,
+        23
+      ],
+      "_id": "eJ0Fhks9pwfLsZrF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.eJ0Fhks9pwfLsZrF"
+    },
+    {
+      "text": "Handful of new looking nuts and bolts",
+      "range": [
+        24,
+        24
+      ],
+      "_id": "6W0n02Uf7xdSPzN9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.6W0n02Uf7xdSPzN9"
+    },
+    {
+      "text": "[[d10]] bricks or cinderblocks",
+      "range": [
+        25,
+        25
+      ],
+      "_id": "EZMQDzgqFvDETes4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.EZMQDzgqFvDETes4"
+    },
+    {
+      "text": "Opened box of large ceramic tiles",
+      "range": [
+        26,
+        26
+      ],
+      "_id": "zuSpXIT8mN0ib8Yf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.zuSpXIT8mN0ib8Yf"
+    },
+    {
+      "text": "Large sheet of drywall, some damage",
+      "range": [
+        27,
+        27
+      ],
+      "_id": "QfmArDeHJgil2Z6A",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.QfmArDeHJgil2Z6A"
+    },
+    {
+      "text": "5 litre can of paint, half empty",
+      "range": [
+        28,
+        28
+      ],
+      "_id": "XKptN0690pCdTAvS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.XKptN0690pCdTAvS"
+    },
+    {
+      "text": "Grubby plastic bag of spraypaint cans",
+      "range": [
+        29,
+        29
+      ],
+      "_id": "hSLWQLjanQQCDJqo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.hSLWQLjanQQCDJqo"
+    },
+    {
+      "text": "Length of heavy pipe",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "1uoqvfGVGyH4fl8E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.1uoqvfGVGyH4fl8E"
+    },
+    {
+      "text": "Solid looking, UPVC door, minor damage",
+      "range": [
+        31,
+        31
+      ],
+      "_id": "sTMPsPuacTacjgP1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.sTMPsPuacTacjgP1"
+    },
+    {
+      "text": "Broken toilet seat",
+      "range": [
+        32,
+        32
+      ],
+      "_id": "48V5i8M4jKOwsH72",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.48V5i8M4jKOwsH72"
+    },
+    {
+      "text": "Damaged appliance, possible repairable",
+      "range": [
+        33,
+        33
+      ],
+      "_id": "teeTiuSqYLfmvThZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.teeTiuSqYLfmvThZ"
+    },
+    {
+      "text": "Worn swivel chair, tatty but functional",
+      "range": [
+        34,
+        34
+      ],
+      "_id": "0L8So9MvgzUOQY7v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.0L8So9MvgzUOQY7v"
+    },
+    {
+      "text": "Rust-stained satellite dish",
+      "range": [
+        35,
+        35
+      ],
+      "_id": "JKyue7UWmMBB5Vsw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.JKyue7UWmMBB5Vsw"
+    },
+    {
+      "text": "Battered desk fan, electric motor intact",
+      "range": [
+        36,
+        36
+      ],
+      "_id": "faCd78R9Ybdd2RCb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.faCd78R9Ybdd2RCb"
+    },
+    {
+      "text": "Abandoned memory foam mattress",
+      "range": [
+        37,
+        37
+      ],
+      "_id": "96OG2Cr1DSnDaWYb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.96OG2Cr1DSnDaWYb"
+    },
+    {
+      "text": "Small, dented vacuuming robot",
+      "range": [
+        38,
+        38
+      ],
+      "_id": "XP4pxTEFnGQtnErl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.XP4pxTEFnGQtnErl"
+    },
+    {
+      "text": "Handleless teflon-coated frying pan",
+      "range": [
+        39,
+        39
+      ],
+      "_id": "xoIyTTFTYIfVvU3l",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.xoIyTTFTYIfVvU3l"
+    },
+    {
+      "text": "Discarded detergent bottles or tubs",
+      "range": [
+        40,
+        40
+      ],
+      "_id": "nn0DU5tpBZAwKqwu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.nn0DU5tpBZAwKqwu"
+    },
+    {
+      "text": "Length of silicone hose from a vehicle",
+      "range": [
+        41,
+        41
+      ],
+      "_id": "4h3mUsMgWkHG4YZe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.4h3mUsMgWkHG4YZe"
+    },
+    {
+      "text": "Hubcap in good condition",
+      "range": [
+        42,
+        42
+      ],
+      "_id": "fxSt1O1rIjZ128Ha",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.fxSt1O1rIjZ128Ha"
+    },
+    {
+      "text": "Half-empty 2.5 litre of cheap motor oil",
+      "range": [
+        43,
+        43
+      ],
+      "_id": "HatGo4gPsw2hVPLO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.HatGo4gPsw2hVPLO"
+    },
+    {
+      "text": "Small, downed drone, onboard camera",
+      "range": [
+        44,
+        44
+      ],
+      "_id": "6p6omEchHoRlAZpr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.6p6omEchHoRlAZpr"
+    },
+    {
+      "text": "Scrapped auto-trashcan, low AI distressed",
+      "range": [
+        45,
+        45
+      ],
+      "_id": "wNKzGKnhIAIgr9Pz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.wNKzGKnhIAIgr9Pz"
+    },
+    {
+      "text": "Folding scooter missing wheel/battery",
+      "range": [
+        46,
+        46
+      ],
+      "_id": "GoBj8syTgX8Jvely",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.GoBj8syTgX8Jvely"
+    },
+    {
+      "text": "Full set of worn tyres for a hatchback",
+      "range": [
+        47,
+        47
+      ],
+      "_id": "bDgjmLrEC5yfX9jk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.bDgjmLrEC5yfX9jk"
+    },
+    {
+      "text": "Compact scissor-jack, chipped, worn",
+      "range": [
+        48,
+        48
+      ],
+      "_id": "QHylB63rO3al8uBK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.QHylB63rO3al8uBK"
+    },
+    {
+      "text": "Shopping cart, RFID emitting trace signal",
+      "range": [
+        49,
+        49
+      ],
+      "_id": "Kg8KVqyTcXO38xrn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.Kg8KVqyTcXO38xrn"
+    },
+    {
+      "text": "Well-used electric screwdriver, jammed",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "dB35SE8cqwZaWT87",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.dB35SE8cqwZaWT87"
+    },
+    {
+      "text": "Damaged flat-screen television",
+      "range": [
+        51,
+        51
+      ],
+      "_id": "Opz71a7YIm7VbUHf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.Opz71a7YIm7VbUHf"
+    },
+    {
+      "text": "Flaking laser pointer, with dead batteries",
+      "range": [
+        52,
+        52
+      ],
+      "_id": "hlgOZwCprEWchMz8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.hlgOZwCprEWchMz8"
+    },
+    {
+      "text": "Lonely wireless earbud",
+      "range": [
+        53,
+        53
+      ],
+      "_id": "W4qb22nHe3bMaQB1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.W4qb22nHe3bMaQB1"
+    },
+    {
+      "text": "Cybernetic implant, damaged or incomplete",
+      "range": [
+        54,
+        54
+      ],
+      "_id": "cheMbXF2rgcHDwSX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.cheMbXF2rgcHDwSX"
+    },
+    {
+      "text": "Dumped external hard drive (see Technical Details)",
+      "range": [
+        55,
+        55
+      ],
+      "_id": "VMwNmjH306IWy6yX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.VMwNmjH306IWy6yX"
+    },
+    {
+      "text": "Biometrically locked JPEG viewer",
+      "range": [
+        56,
+        56
+      ],
+      "_id": "I0Q4AHVtqWoJ1X57",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.I0Q4AHVtqWoJ1X57"
+    },
+    {
+      "text": "Standard battery, 20% charge remaining",
+      "range": [
+        57,
+        57
+      ],
+      "_id": "YvkJCzm19uUQbedL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.YvkJCzm19uUQbedL"
+    },
+    {
+      "text": "Obsolete surveillance camera",
+      "range": [
+        58,
+        58
+      ],
+      "_id": "a4w73ProgNiG7URW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.a4w73ProgNiG7URW"
+    },
+    {
+      "text": "'Retired' synthetic, missing limb(s)",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "fqVzBUPtqbNaan2H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.fqVzBUPtqbNaan2H"
+    },
+    {
+      "text": "Assisted sleep console, induces seizures",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "VRelGZdZU2HlEDJQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.VRelGZdZU2HlEDJQ"
+    },
+    {
+      "text": "Plastic Christmas tree, partially melted",
+      "range": [
+        61,
+        61
+      ],
+      "_id": "DeOo63cNcrhXpk73",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.DeOo63cNcrhXpk73"
+    },
+    {
+      "text": "Toy ride-in car, polymer shell, electric motor",
+      "range": [
+        62,
+        62
+      ],
+      "_id": "AooWIADNsx0E9rqD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.AooWIADNsx0E9rqD"
+    },
+    {
+      "text": "Crumpled, rolled poster, recent idol singer",
+      "range": [
+        63,
+        63
+      ],
+      "_id": "J8li9BU6Nfw1QmJk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.J8li9BU6Nfw1QmJk"
+    },
+    {
+      "text": "Broken statuette of Ganesh",
+      "range": [
+        64,
+        64
+      ],
+      "_id": "ASQDsImIQjJ8qooH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.ASQDsImIQjJ8qooH"
+    },
+    {
+      "text": "Handful of collectible cards for CCG",
+      "range": [
+        65,
+        65
+      ],
+      "_id": "ppjHAqy5RwsELNoq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.ppjHAqy5RwsELNoq"
+    },
+    {
+      "text": "Realistic looking plastic Police badge",
+      "range": [
+        66,
+        66
+      ],
+      "_id": "8LnIaVaOMdFn5STI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.8LnIaVaOMdFn5STI"
+    },
+    {
+      "text": "Brightly coloured toy gun, quite realistic",
+      "range": [
+        67,
+        67
+      ],
+      "_id": "KUznxwDLuZi8NtsI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.KUznxwDLuZi8NtsI"
+    },
+    {
+      "text": "Plush toy animal, shabby, stained",
+      "range": [
+        68,
+        68
+      ],
+      "_id": "vFHvg0xpNx2nYhnb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.vFHvg0xpNx2nYhnb"
+    },
+    {
+      "text": "Bouquet of dying flowers still in cellophane",
+      "range": [
+        69,
+        69
+      ],
+      "_id": "0cmQy7QagV8MNyhC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.0cmQy7QagV8MNyhC"
+    },
+    {
+      "text": "Spool of electric cable, has been cut",
+      "range": [
+        70,
+        70
+      ],
+      "_id": "k1X7NXoKY8Goevm4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.k1X7NXoKY8Goevm4"
+    },
+    {
+      "text": "Discarded newspapers or magazines",
+      "range": [
+        71,
+        71
+      ],
+      "_id": "OJGvsNd1WEigHZUC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.OJGvsNd1WEigHZUC"
+    },
+    {
+      "text": "PVC box of flat-packed cardboard boxes",
+      "range": [
+        72,
+        72
+      ],
+      "_id": "5dMnCiXmW7HL5c29",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.5dMnCiXmW7HL5c29"
+    },
+    {
+      "text": "Flyers bundled together with rubber bands",
+      "range": [
+        73,
+        73
+      ],
+      "_id": "nWZJUoyMOQl1gphC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.nWZJUoyMOQl1gphC"
+    },
+    {
+      "text": "Hardcopy printouts (see Technical Details)",
+      "range": [
+        74,
+        74
+      ],
+      "_id": "5CVwaGwe1hmPKZvl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.5CVwaGwe1hmPKZvl"
+    },
+    {
+      "text": "Thin, flexible metal sheet, purpose unknown",
+      "range": [
+        75,
+        75
+      ],
+      "_id": "lqe1QKyCB5BuFqjL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.lqe1QKyCB5BuFqjL"
+    },
+    {
+      "text": "Refuse sack of polystyrene chips",
+      "range": [
+        76,
+        76
+      ],
+      "_id": "bX2ILIFK3gncH674",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.bX2ILIFK3gncH674"
+    },
+    {
+      "text": "Assorted sizes of tatty bubblewrap sheets",
+      "range": [
+        77,
+        77
+      ],
+      "_id": "Jgc8R1qrJJB4DsnX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.Jgc8R1qrJJB4DsnX"
+    },
+    {
+      "text": "Plastic tub of assorted glass bottles",
+      "range": [
+        78,
+        78
+      ],
+      "_id": "MTLi9SdVFOJ4Kgpb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.MTLi9SdVFOJ4Kgpb"
+    },
+    {
+      "text": "Heat sealed clear sacks of shredded papers",
+      "range": [
+        79,
+        79
+      ],
+      "_id": "SiLPK9FXYOUzR6fQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.SiLPK9FXYOUzR6fQ"
+    },
+    {
+      "text": "Latex halloween or fancy dress mask",
+      "range": [
+        80,
+        80
+      ],
+      "_id": "aEAzEYxLBvrKXXwo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.aEAzEYxLBvrKXXwo"
+    },
+    {
+      "text": "Single kevlar safety glove",
+      "range": [
+        81,
+        81
+      ],
+      "_id": "og82zytP8jOwHRTR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.og82zytP8jOwHRTR"
+    },
+    {
+      "text": "Scratched mirrorshade sunglasses",
+      "range": [
+        82,
+        82
+      ],
+      "_id": "Yw4jrkKBzrNRkI9c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.Yw4jrkKBzrNRkI9c"
+    },
+    {
+      "text": "Single designer shoe, scuffing on heel",
+      "range": [
+        83,
+        83
+      ],
+      "_id": "ioSVrtOxtlFsgF7d",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.ioSVrtOxtlFsgF7d"
+    },
+    {
+      "text": "Disposable rain poncho, minor tears",
+      "range": [
+        84,
+        84
+      ],
+      "_id": "1dlFOVO2BGuiqRyj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.1dlFOVO2BGuiqRyj"
+    },
+    {
+      "text": "Bullet scarred armour, reduced protection",
+      "range": [
+        85,
+        85
+      ],
+      "_id": "wc3XHbk26AxGw2Oe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.wc3XHbk26AxGw2Oe"
+    },
+    {
+      "text": "Retractable cheap umbrella, misshapen",
+      "range": [
+        86,
+        86
+      ],
+      "_id": "oVg2IFPv5e1dGzy6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.oVg2IFPv5e1dGzy6"
+    },
+    {
+      "text": "Motorcycle helmet, with hairline fracture",
+      "range": [
+        87,
+        87
+      ],
+      "_id": "Ahv6uRLgTNoyhxl5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.Ahv6uRLgTNoyhxl5"
+    },
+    {
+      "text": "Purse or wallet, no money, ID still inside",
+      "range": [
+        88,
+        88
+      ],
+      "_id": "UzsHoci3VG16eWGq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.UzsHoci3VG16eWGq"
+    },
+    {
+      "text": "Bag, briefcase or backpack, worn - empty?",
+      "range": [
+        89,
+        89
+      ],
+      "_id": "SS05cR5BPYKzLfCz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.SS05cR5BPYKzLfCz"
+    },
+    {
+      "text": "Tupperware contains human stool sample",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "EChkAdrWA21VGswJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.EChkAdrWA21VGswJ"
+    },
+    {
+      "text": "Human body part, not at all fresh",
+      "range": [
+        91,
+        91
+      ],
+      "_id": "IWSOgrDC7eeXMqzS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.IWSOgrDC7eeXMqzS"
+    },
+    {
+      "text": "Unidentifiable goo, revolting chemical smell",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "8FCq4ULdirNQ00Vs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.8FCq4ULdirNQ00Vs"
+    },
+    {
+      "text": "Torn foil sheeting from broken fog catcher",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "Orbm2rc4TWia6HkE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.Orbm2rc4TWia6HkE"
+    },
+    {
+      "text": "Pitiful, dying animal (rat, cat, bird, dog)",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "CUUN57iUripwDMk5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.CUUN57iUripwDMk5"
+    },
+    {
+      "text": "Sub-par 3D printed object, melting in rain",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "4QkqVlS1kvaRfslr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.4QkqVlS1kvaRfslr"
+    },
+    {
+      "text": "Rain-soaked, discoloured undergarments",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "aTSHCOtwNymc2HSC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.aTSHCOtwNymc2HSC"
+    },
+    {
+      "text": "Pile of ash in the shape of a person",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "I8NKaW392wDbyzgk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.I8NKaW392wDbyzgk"
+    },
+    {
+      "text": "Broken glass scattered all over area",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "IGHbEi4JepGgiXVU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.IGHbEi4JepGgiXVU"
+    },
+    {
+      "text": "Cluster of recently smoked cigarette butts",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "DrwhxN0XMoDnJ5Ff",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.DrwhxN0XMoDnJ5Ff"
+    },
+    {
+      "text": "Minced meat and hair, possibly also teeth",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "TIwBb4ExeVWl7kXB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pUjJJy6YTISP6uEC.TIwBb4ExeVWl7kXB"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "5jeVi0k51S3NKQYr",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570538994,
+    "modifiedTime": 1699656353579,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "pUjJJy6YTISP6uEC",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "_key": "!tables!pUjJJy6YTISP6uEC"
+}

@@ -1,0 +1,177 @@
+{
+  "name": "Sonic Youth",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "Black Ambient",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "NKqUt2CsU9vkgKhy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!sBdOklHtWTBK2IEo.NKqUt2CsU9vkgKhy"
+    },
+    {
+      "text": "Photonic Wave",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "KjzHarMKkml97gDY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!sBdOklHtWTBK2IEo.KjzHarMKkml97gDY"
+    },
+    {
+      "text": "Xhosa Trance",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "zfoRse4PYqYjAqFg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!sBdOklHtWTBK2IEo.zfoRse4PYqYjAqFg"
+    },
+    {
+      "text": "Industrial Grind house",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "R1u8DkDAwfQDali7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!sBdOklHtWTBK2IEo.R1u8DkDAwfQDali7"
+    },
+    {
+      "text": "Eurozeit Groove",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "RdLy5ukFh8EWQOOF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!sBdOklHtWTBK2IEo.RdLy5ukFh8EWQOOF"
+    },
+    {
+      "text": "Chip hop",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "Gzv2aQeIO5E2shpM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!sBdOklHtWTBK2IEo.Gzv2aQeIO5E2shpM"
+    },
+    {
+      "text": "Glitchcore",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "FcvYZeGWXaXDz27A",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!sBdOklHtWTBK2IEo.FcvYZeGWXaXDz27A"
+    },
+    {
+      "text": "Machine-Soul Dub",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "WtINzrPfRpuuE529",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!sBdOklHtWTBK2IEo.WtINzrPfRpuuE529"
+    },
+    {
+      "text": "Toxic Ska",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "xOAJiaN4Ys7Tofrw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!sBdOklHtWTBK2IEo.xOAJiaN4Ys7Tofrw"
+    },
+    {
+      "text": "Anthemic NeoPunk",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "zu0qLr9VeRZF0uwN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!sBdOklHtWTBK2IEo.zu0qLr9VeRZF0uwN"
+    }
+  ],
+  "folder": "zGQqV29PjqpCt7n5",
+  "sort": 0,
+  "_id": "sBdOklHtWTBK2IEo",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p> Musical Style/Genre</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570513332,
+    "modifiedTime": 1699650665505,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!sBdOklHtWTBK2IEo"
+}

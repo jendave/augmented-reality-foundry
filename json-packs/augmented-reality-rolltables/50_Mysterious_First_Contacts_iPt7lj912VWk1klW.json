@@ -1,0 +1,779 @@
+{
+  "name": "50 Mysterious First Contacts",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Hacker drops a .txt file on a PC’s device entitled ‘READ_M3’ containing a v-mail address and a cell phone number; the file is tagged with a clever read-receipt script",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "cLHQVKxl9ryI8c0g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.cLHQVKxl9ryI8c0g"
+    },
+    {
+      "text": "PC receives a call from a low grade AI automated dialling system, that only gives a phone number anda time at which to call it - repeatedly",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "lBCkXnVZDcS7PruU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.lBCkXnVZDcS7PruU"
+    },
+    {
+      "text": "Vidfile arrives on PC’s device via courier software, an indistinct, grainy request to log on to the dubious Ebony Ziggurat VRotica netsite, at a specific time",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "X4dqEeJMYAHtYXgE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.X4dqEeJMYAHtYXgE"
+    },
+    {
+      "text": "PC’s sensory implant (either optical or audio) receives repetitive message to call a cell phone number (either a scrolling message or a nagging synthetic voice)",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "PCV2YMln7FtHTahE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.PCV2YMln7FtHTahE"
+    },
+    {
+      "text": "Sonny De Silva, an infamous fixer, approaches the group via hacked AR projection to ask for their contact details regarding an employment opportunity they may be interested in",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "3IszvCfjVrm7qH7K",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.3IszvCfjVrm7qH7K"
+    },
+    {
+      "text": "Each PC receives a call at exactly the same time (conference call) informing them they will be contacted again shortly (GM’s discretion as to when that happens)",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "0EA5SHsIr3rQnBiv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.0EA5SHsIr3rQnBiv"
+    },
+    {
+      "text": "Leather-clad biker screeches to a halt and offers a cell phone to the PCs without getting off her parabolic curve of a bike, saying \"Its for you\", and she'll definitely want the phone back",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "0Bp1BaNRS8vp6B7L",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.0Bp1BaNRS8vp6B7L"
+    },
+    {
+      "text": "Obviously augmented German Shepherd trots over, calmly states the PC should contact a particular v-mail address, which he will spell out s-l-o-w-l-y, before casually walking away",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "M7uyZYqONyzMifW6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.M7uyZYqONyzMifW6"
+    },
+    {
+      "text": "PCs find a brand new, wafer-thin, very expensive laptop set up where they are living, ready for a single video call (it contains no other data)",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "75MIMeQ3Jnd9FzoE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.75MIMeQ3Jnd9FzoE"
+    },
+    {
+      "text": "Client calls PC directly to ascertain availability, background noise suggesting they are somewhere public, will ask PC to call them back in an hour or so to talk business",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "o79C6mVQjGQubuip",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.o79C6mVQjGQubuip"
+    },
+    {
+      "text": "Young, bubblegum chewing Somali girl, in an oversized, fur-hooded coat, hands over a scrap of paper with GPS coordinates on it, which lead to a specific parking lot bay",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "dnVwv2Ej9jnH8k8G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.dnVwv2Ej9jnH8k8G"
+    },
+    {
+      "text": "Insidious subliminal advertising compells one or more PCs to be at a Sumo Food© synthiburger joint, next to a busy monorail hub, at 3am tonight",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "RSo0MVCvM5H9jb5a",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.RSo0MVCvM5H9jb5a"
+    },
+    {
+      "text": "Handed an exquisite hand-made paper envelope, containing a slip of paper which carries a beautifully written instruction to be on a specific roof at midnight",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "T2gvVyxyu76RSlw8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.T2gvVyxyu76RSlw8"
+    },
+    {
+      "text": "Harassed and armoured bicycle courier, in primary coloured livery and sports wear, hands PC a laminate box containing high denomination bill with a v-mail address written on it",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "I2w1QQp7vBTB71aQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.I2w1QQp7vBTB71aQ"
+    },
+    {
+      "text": "Television picture breaks down into a pixelated mess, a long net link briefly forming from the fragmented chaos, just long enough to note it down or take a photograph of it",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "b9b9EpnHftMXhmzo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.b9b9EpnHftMXhmzo"
+    },
+    {
+      "text": "Filthy, shuddering android with blistered synthskin, in a tatty coverall, limps out of a nearby alleyway towards one PC, whispering a phone number over and over...",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "ltoTgRYWySbnjOA0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.ltoTgRYWySbnjOA0"
+    },
+    {
+      "text": "Basic print-out with the words 'CONTACT ME' and a v-mail address in a large serif font slides under the door where the PCs are staying",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "Nt5MDOVadCSA6OYF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.Nt5MDOVadCSA6OYF"
+    },
+    {
+      "text": "PC's are visited by a well groomed, pleasant man called Nathaniel Sheen, who has been sent to get one of them to jack in to his neural link to meet a potential client securely online",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "4Tcc6yurplD1Gmcb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.4Tcc6yurplD1Gmcb"
+    },
+    {
+      "text": "For several nights, a PC has the same lucid dream of a string of specific numbers, which turn out to be a net address for a minimalist, black-mirrored VR environment",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "ZzT1zgjO0OImqx2H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.ZzT1zgjO0OImqx2H"
+    },
+    {
+      "text": "Omniversal Parcel Service (OPS) commercial courier drone delivers a small packet containing a datachip with a URL for the Arteology VR site, with an exact log-in time",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "2i7ldhEv33qVO6G8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.2i7ldhEv33qVO6G8"
+    },
+    {
+      "text": "Handed a brushed-aluminium business card, etched only with a contact number, by shabbily dressed, emaciated youth who grunts through cracked lips, “They want to talk to you.”",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "ZykCurYwyj5hVhJ2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.ZykCurYwyj5hVhJ2"
+    },
+    {
+      "text": "PC’s cell phone begins autodialling unknown number, until the PC decides to see who it is that their phone is calling, at which point it will stop",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "23zHAmwvr7Zmwyp6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.23zHAmwvr7Zmwyp6"
+    },
+    {
+      "text": "Gravely injured member of the Reject Parade street gang clutching a blue plastic datachip in his bloodied hand, stumbles up to PC, before expiring messily, the chip containing net coordinates",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "4Zs5SHoMQXM7tqiW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.4Zs5SHoMQXM7tqiW"
+    },
+    {
+      "text": "Message flashes up on a PC’s device, simply stating a time and date, along with an exclusive restaurant’s address, and a table number",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "f7DbAyZuaqsYq3jO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.f7DbAyZuaqsYq3jO"
+    },
+    {
+      "text": "PC’s equipment displays start showing only binary code, when translated, it appears to be a cell phone number",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "OJryBv9nFlZnzEoY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.OJryBv9nFlZnzEoY"
+    },
+    {
+      "text": "Hacker jacks a PC’s phone, replacing all their contacts with only one number, but it auto-corrects and re-ups their contacts once the number has been called",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "FKlb5VVWtD8387sD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.FKlb5VVWtD8387sD"
+    },
+    {
+      "text": "Row of public pay phones ring as a PC passes, and will keep happening until a PC answers one of them",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "Dw4GIGeYbvLmmGnm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.Dw4GIGeYbvLmmGnm"
+    },
+    {
+      "text": "Healthy looking human thumb in a glass vial is delivered to a PC, complete with label showing an address for a secure storage module; the module contains nothing but a lone laptop",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "jVIcRdKbSIRFbwU4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.jVIcRdKbSIRFbwU4"
+    },
+    {
+      "text": "PC receives a message via v-mail that simply states a time; a sleek, black aero-limo will arrive for them at the time stated",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "3GoA4Igc6t5z7Yxr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.3GoA4Igc6t5z7Yxr"
+    },
+    {
+      "text": "All food packaging jingles they come into contact with repeat the same net address in an irritatingly catchy sing-song manner",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "LQSyGG04tskQ04Th",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.LQSyGG04tskQ04Th"
+    },
+    {
+      "text": "Uniformed police officer approaches PC, referring to them by name, and hands over a printed acetate with a phone number on it",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "Rz0WXZp5EhMu15mQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.Rz0WXZp5EhMu15mQ"
+    },
+    {
+      "text": "One of the PCs finds a plain grey plastic business card with a v-mail address and phone number on it, under their vehicle’s windshield wiper",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "w0EYuAKWluPWYRMg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.w0EYuAKWluPWYRMg"
+    },
+    {
+      "text": "Watching the news, a PC perceives a glitch, the anchor then asks the PC, by name, to phone a number shown on screen, there’s another glitch, the broadcast then returning to normal",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "nGHTBBLvPR17Q9uc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.nGHTBBLvPR17Q9uc"
+    },
+    {
+      "text": "PC finds an empty Lunglife™ cigarette packet, with a v-mail address scrawled on it in biro, in their jacket pocket",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "vwj8qgTKw9PLAaud",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.vwj8qgTKw9PLAaud"
+    },
+    {
+      "text": "Small, beaten up orange cleaning bot approaches a PC, repeating a phone number in it’s tinny little Disney voice, whilst colliding with their foot repeatedly",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "PtxCZuTLLmMljBIb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.PtxCZuTLLmMljBIb"
+    },
+    {
+      "text": "A string of v-mails through a Cambodian datahaven, enquiring about the availability and skill set of the PCs’ team, followed by a v-mail contact address routed through Prague",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "7mcSG6MiVevvCcz6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.7mcSG6MiVevvCcz6"
+    },
+    {
+      "text": "PC takes delivery of a parcel containing a pen drive that contains a numer of URLs and log on details that need accessing in order, to arrive at the client’s offshore net domain",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "SvRubsQ5KkDYdnH4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.SvRubsQ5KkDYdnH4"
+    },
+    {
+      "text": "PC is v-mailed the map reference to an area of ocean off the nearest coast, along with a date and time that they need to be there, should they want to discuss a job (there's a yacht there)",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "Mct1OacmlornY7MV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.Mct1OacmlornY7MV"
+    },
+    {
+      "text": "The expected pizza delivery contains one extra box (yay!) that holds a mid-range tablet device (what?), set up to enable a vid chat via a secure, darknet distributed server web",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "kslOBBceP1QvyKCU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.kslOBBceP1QvyKCU"
+    },
+    {
+      "text": "Six heavily armed, but smartly dressed, professionals burst in while the PCs are chillaxing, their leader carrying an attache case that holds a satellite phone he insists they use RIGHT NOW!",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "4PVM2A2vD6Y4cSA3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.4PVM2A2vD6Y4cSA3"
+    },
+    {
+      "text": "A silvered limo window descends slightly to reveal a soft gloved hand holding a business card for the law firm Portillo, Emerson &amp; Associates, marked ‘URGENT’",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "X5H24tNxj9hA0B0X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.X5H24tNxj9hA0B0X"
+    },
+    {
+      "text": "High end Svetlana-9 sex-synthetics are sent to the PCs, along with liquor and drugs but, before the fun starts, the PCs must call a number provided (and the synthetics are wired to record it all...)",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "VOMWCG4vTpJz9MPc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.VOMWCG4vTpJz9MPc"
+    },
+    {
+      "text": "Bloodied body armour vest dumped outside the PCs’ door, a v-mail address sprayed on to it in bright, yellow paint; recognise the armour as belonging to a contact or ally",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "MyNzwagbGc4mXXWy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.MyNzwagbGc4mXXWy"
+    },
+    {
+      "text": "PCs are unaware that they have been directed by compromised traffic AI to the Neoshima Atomic Rose motel, where there's a message in reception for PCs to wait in Capsule 17",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "P0hIeZxrQPcIpcxw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.P0hIeZxrQPcIpcxw"
+    },
+    {
+      "text": "Approached by a creepy, twitchy, geisharoid synthetic, remotely operated via the net by the client, to make their initial contact safely and to arrange the meeting proper",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "ej6OXOvqejKCGI3g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.ej6OXOvqejKCGI3g"
+    },
+    {
+      "text": "PMed via Union Transmetropolitan hotel's message system, stating there's an item in room 2155 they need to collect (it’s the client and they need protection, just to leave the room)",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "Lh72A2wyONog3859",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.Lh72A2wyONog3859"
+    },
+    {
+      "text": "A sobbing, hollow-eyed junkie gives one of the PCs a cell phone number and, trembling, suddenly shoots himself under the chin with a cheap, red polymer automatic",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "6M26kk2Si2cPqnhB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.6M26kk2Si2cPqnhB"
+    },
+    {
+      "text": "Frightened and emotional middle-aged cleaner, Ginetta Coleman, has been surgically fitted with a cortical bomb, which will explode if the PCs don’t call the number she provides",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "J6GtE3cI5UaiVDiR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.J6GtE3cI5UaiVDiR"
+    },
+    {
+      "text": "The client has Grade-A dirt on an already trusted contact of the PCs, and uses them to pass on the clients v-mail address; the contact seems deeply uncomfortable with this and is insistent",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "QIWPH1mdZOWmu0pn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.QIWPH1mdZOWmu0pn"
+    },
+    {
+      "text": "Harmony Jade, a 10 year old girl in a red vinyl coat, chainsmoking Chinese cigarettes, delivers a portable hard drive, with downloaded maps to a cell phone in an abandoned warehouse",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "DfWp2oBwVjFnqj8G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iPt7lj912VWk1klW.DfWp2oBwVjFnqj8G"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "5jeVi0k51S3NKQYr",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570768838,
+    "modifiedTime": 1699657700238,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "iPt7lj912VWk1klW",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "_key": "!tables!iPt7lj912VWk1klW"
+}

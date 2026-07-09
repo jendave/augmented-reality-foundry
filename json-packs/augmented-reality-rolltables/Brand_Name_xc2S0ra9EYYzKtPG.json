@@ -1,0 +1,177 @@
+{
+  "name": "Brand Name",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "NoLogo",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "VlUkk6my5QS8ohRE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xc2S0ra9EYYzKtPG.VlUkk6my5QS8ohRE"
+    },
+    {
+      "text": "Matsushira",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "b5Bb4VveKfY690ip",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xc2S0ra9EYYzKtPG.b5Bb4VveKfY690ip"
+    },
+    {
+      "text": "Al Emaar",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "CNzE5Jf25mYRC3Yn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xc2S0ra9EYYzKtPG.CNzE5Jf25mYRC3Yn"
+    },
+    {
+      "text": "Horizon",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "P2HG15qskNWrD3Ie",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xc2S0ra9EYYzKtPG.P2HG15qskNWrD3Ie"
+    },
+    {
+      "text": "De Santo",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "Rc4AyQnmcWC00MAz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xc2S0ra9EYYzKtPG.Rc4AyQnmcWC00MAz"
+    },
+    {
+      "text": "Ellis-Itami",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "rQxb1faNkolEB2WP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xc2S0ra9EYYzKtPG.rQxb1faNkolEB2WP"
+    },
+    {
+      "text": "Osprey",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "Odyf1SQ7Orv9fKdb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xc2S0ra9EYYzKtPG.Odyf1SQ7Orv9fKdb"
+    },
+    {
+      "text": "Numan-Lloyd",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "YVz5qR8iT011Wlfm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xc2S0ra9EYYzKtPG.YVz5qR8iT011Wlfm"
+    },
+    {
+      "text": "Modus",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "INlB8V8UkVvN4oFu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xc2S0ra9EYYzKtPG.INlB8V8UkVvN4oFu"
+    },
+    {
+      "text": "Cortex",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "enuVrOSn69zOxVEc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xc2S0ra9EYYzKtPG.enuVrOSn69zOxVEc"
+    }
+  ],
+  "folder": "20I59u1HEW8g551S",
+  "sort": 0,
+  "_id": "xc2S0ra9EYYzKtPG",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on Brand Name, Range, Product Line and Marketing Style tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569830920,
+    "modifiedTime": 1699648730599,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!xc2S0ra9EYYzKtPG"
+}

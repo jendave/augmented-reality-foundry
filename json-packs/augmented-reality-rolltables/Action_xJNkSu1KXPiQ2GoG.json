@@ -1,0 +1,777 @@
+{
+  "name": "Action",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Kill...",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "x5yVaoWikQ9MJm5c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.x5yVaoWikQ9MJm5c"
+    },
+    {
+      "text": "Maim...",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "lPIOl2l5YkFQOtgM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.lPIOl2l5YkFQOtgM"
+    },
+    {
+      "text": "Deliver to...",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "ift3HrSfsOP5GMkQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.ift3HrSfsOP5GMkQ"
+    },
+    {
+      "text": "Protect...",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "IQVVmnoaTfee4jxh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.IQVVmnoaTfee4jxh"
+    },
+    {
+      "text": "Intimidate...",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "I5qGF5JWmIdHJSpn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.I5qGF5JWmIdHJSpn"
+    },
+    {
+      "text": "Escape...",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "Zb5VA7bjKnR37ziR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.Zb5VA7bjKnR37ziR"
+    },
+    {
+      "text": "Monitor...",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "kYElaD5cv7XOqAen",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.kYElaD5cv7XOqAen"
+    },
+    {
+      "text": "Smuggle...",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "ZlVTulDcl3SMeS65",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.ZlVTulDcl3SMeS65"
+    },
+    {
+      "text": "Find...",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "1lIxCIL1l7IJhejv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.1lIxCIL1l7IJhejv"
+    },
+    {
+      "text": "Blackmail...",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "ZfNqHA3IliBpntxQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.ZfNqHA3IliBpntxQ"
+    },
+    {
+      "text": "Steal from...",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "CH9RPsze1T5JoADL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.CH9RPsze1T5JoADL"
+    },
+    {
+      "text": "Collect from...",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "Nu4qzHH5emavG0NO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.Nu4qzHH5emavG0NO"
+    },
+    {
+      "text": "Pay...",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "UWEtzaJWHTh1nfKb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.UWEtzaJWHTh1nfKb"
+    },
+    {
+      "text": "Assist...",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "RMlwuADr73F8JGBB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.RMlwuADr73F8JGBB"
+    },
+    {
+      "text": "Modify...",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "VBKxWtCssV89n8JH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.VBKxWtCssV89n8JH"
+    },
+    {
+      "text": "Record...",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "e6pBsbtCeAn435ze",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.e6pBsbtCeAn435ze"
+    },
+    {
+      "text": "Threaten...",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "5QBqGby9lh110eyC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.5QBqGby9lh110eyC"
+    },
+    {
+      "text": "Kidnap...",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "y4x0kiE3F6zwMuzi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.y4x0kiE3F6zwMuzi"
+    },
+    {
+      "text": "Own...",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "PzIWSeCQA82dMnRb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.PzIWSeCQA82dMnRb"
+    },
+    {
+      "text": "Defeat...",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "xqRolAnCdxkOBjBr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.xqRolAnCdxkOBjBr"
+    },
+    {
+      "text": "Ruin...",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "I7f6J3lHJk1UZkCa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.I7f6J3lHJk1UZkCa"
+    },
+    {
+      "text": "Control...",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "DH1Ep5kCDVuW723T",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.DH1Ep5kCDVuW723T"
+    },
+    {
+      "text": "Save...",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "j2exZi4LnjNpz6xl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.j2exZi4LnjNpz6xl"
+    },
+    {
+      "text": "Submit to...",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "v7tcxncS5u0jwJwI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.v7tcxncS5u0jwJwI"
+    },
+    {
+      "text": "Entrap...",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "3UiwmqbqIwaJyowR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.3UiwmqbqIwaJyowR"
+    },
+    {
+      "text": "Con...",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "0eeBrRV93rlHmxAD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.0eeBrRV93rlHmxAD"
+    },
+    {
+      "text": "Flee with...",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "XcefTpr17upZBMpR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.XcefTpr17upZBMpR"
+    },
+    {
+      "text": "Employ...",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "wPDoMEkZiACvmWwY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.wPDoMEkZiACvmWwY"
+    },
+    {
+      "text": "Marry...",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "SaNnPJJsWTHCMt0t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.SaNnPJJsWTHCMt0t"
+    },
+    {
+      "text": "Sell out...",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "hEBvmJDIiG5LLivA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.hEBvmJDIiG5LLivA"
+    },
+    {
+      "text": "Extract...",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "OTGEYb8cxPnOSd7f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.OTGEYb8cxPnOSd7f"
+    },
+    {
+      "text": "Kill...",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "TD0pg8kk1gfBDDE4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.TD0pg8kk1gfBDDE4"
+    },
+    {
+      "text": "Deliver to...",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "iqbozYgARxvemfmZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.iqbozYgARxvemfmZ"
+    },
+    {
+      "text": "Blackmail...",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "A4ASIvMza3Ui7lKT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.A4ASIvMza3Ui7lKT"
+    },
+    {
+      "text": "Modify...",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "WxeLi4z8wnSJMo1s",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.WxeLi4z8wnSJMo1s"
+    },
+    {
+      "text": "Escape...",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "84GDfxaesOTQ6YYi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.84GDfxaesOTQ6YYi"
+    },
+    {
+      "text": "Ruin...",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "GwDb3MN2hQPB4VHe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.GwDb3MN2hQPB4VHe"
+    },
+    {
+      "text": "Steal from...",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "pNPfOUl2dKI84Uo0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.pNPfOUl2dKI84Uo0"
+    },
+    {
+      "text": "Kidnap...",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "Oc0Flnt1pEPfMPv5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.Oc0Flnt1pEPfMPv5"
+    },
+    {
+      "text": "Protect...",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "jSplu9avEq8nPUB3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.jSplu9avEq8nPUB3"
+    },
+    {
+      "text": "Find...",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "WS2TwiTmqVWwib9k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.WS2TwiTmqVWwib9k"
+    },
+    {
+      "text": "Escort...",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "NmLq8ry4nvhnFV9B",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.NmLq8ry4nvhnFV9B"
+    },
+    {
+      "text": "Deliver to...",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "qrB9DgRxJR5Nimd6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.qrB9DgRxJR5Nimd6"
+    },
+    {
+      "text": "Save...",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "ReZEcHsWcWTB9FTw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.ReZEcHsWcWTB9FTw"
+    },
+    {
+      "text": "Collect from...",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "LYQ3mdY0krVL0QYK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.LYQ3mdY0krVL0QYK"
+    },
+    {
+      "text": "Flee...",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "39I6em3JADVWZMaV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.39I6em3JADVWZMaV"
+    },
+    {
+      "text": "Kill...",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "uLKeieA0ZQeVeKmH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.uLKeieA0ZQeVeKmH"
+    },
+    {
+      "text": "Sell out...",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "gQkhJhANAoLjLNH2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.gQkhJhANAoLjLNH2"
+    },
+    {
+      "text": "Investigate...",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "WGeXgzNJEvbU895o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.WGeXgzNJEvbU895o"
+    },
+    {
+      "text": "Submit to...",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "jv7IwHaFnguRkIf4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xJNkSu1KXPiQ2GoG.jv7IwHaFnguRkIf4"
+    }
+  ],
+  "folder": "V9xcGno7gjkY0MAt",
+  "sort": 100000,
+  "_id": "xJNkSu1KXPiQ2GoG",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Client, Want, Action and Target Person tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570374605,
+    "modifiedTime": 1699654243428,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!xJNkSu1KXPiQ2GoG"
+}

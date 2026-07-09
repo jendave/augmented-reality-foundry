@@ -1,0 +1,27 @@
+{
+  "name": "What's On The River?",
+  "type": "script",
+  "_id": "uBs5ktTNY6ZqCldG",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let rollTablesUUIDPrefix = \"Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.\";\n\n    let title = \"<h3>What's On The River?</h3>\";\n\n    const whatsOnTheRiverTable = await fromUuid(rollTablesUUIDPrefix + \"KRIRlLWK8zoS0tFu\");\n    let whatsOnTheRiverRoll = await whatsOnTheRiverTable.roll();\n    let whatsOnTheRiver = whatsOnTheRiverRoll.results[0].text;\n\n    let message = whatsOnTheRiver;\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "12.329",
+    "createdTime": 1700038650375,
+    "modifiedTime": 1721407450563,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!macros!uBs5ktTNY6ZqCldG"
+}

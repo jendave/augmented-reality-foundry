@@ -1,0 +1,777 @@
+{
+  "name": "Personal Details 1",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Buys endangered species, and mutilates them",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "J9e4FZXWm7Szr1r4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.J9e4FZXWm7Szr1r4"
+    },
+    {
+      "text": "Drowns orphans in private swimming pool",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "pEBlI3OQTIb6NyCD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.pEBlI3OQTIb6NyCD"
+    },
+    {
+      "text": "Androids of dead loved ones, used as servants",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "WA8UO9q5cF9WxpQn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.WA8UO9q5cF9WxpQn"
+    },
+    {
+      "text": "Collects and catalogues DNA samples of rivals",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "qbsPS1jnrpERK03y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.qbsPS1jnrpERK03y"
+    },
+    {
+      "text": "She lacks confidence and is extremely paranoid",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "gRQ6I8gcc4sKnam0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.gRQ6I8gcc4sKnam0"
+    },
+    {
+      "text": "Compulsively records women while they sleep",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "uGJdDZNDqmo5BHGD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.uGJdDZNDqmo5BHGD"
+    },
+    {
+      "text": "Hurts herself under stress",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "6gWTOQC3ggDOT7mn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.6gWTOQC3ggDOT7mn"
+    },
+    {
+      "text": "Addicted to expensive synthetic opioids",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "hf1levslpSDBSIf8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.hf1levslpSDBSIf8"
+    },
+    {
+      "text": "Enjoys watching people die",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "UfpOe2FMjwEw4jV0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.UfpOe2FMjwEw4jV0"
+    },
+    {
+      "text": "Has a fondness for injured/disabled women",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "c95jd2FHs4jueVCf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.c95jd2FHs4jueVCf"
+    },
+    {
+      "text": "Desires the top job at all costs",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "QBJFM0MqiYhwbUmp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.QBJFM0MqiYhwbUmp"
+    },
+    {
+      "text": "Personal hacker collective headed by wayward nephew",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "9w0G2igGW8KrlLSZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.9w0G2igGW8KrlLSZ"
+    },
+    {
+      "text": "Likes his women completely devoid of hair",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "pRpwatzN0bKB5bD7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.pRpwatzN0bKB5bD7"
+    },
+    {
+      "text": "Once a spy for an ecoterrorist commune",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "nCEHBNHiiVQM2AbR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.nCEHBNHiiVQM2AbR"
+    },
+    {
+      "text": "Literally afraid of being at street level",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "kHymZ4kUzm7DC6md",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.kHymZ4kUzm7DC6md"
+    },
+    {
+      "text": "Enjoys the sound of people crying",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "7vwFAiCddBnLM9OU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.7vwFAiCddBnLM9OU"
+    },
+    {
+      "text": "Has a private army of desperate down-and-outs",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "CJllFAb3vWd6pZKv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.CJllFAb3vWd6pZKv"
+    },
+    {
+      "text": "Worships the net, as if it were a divine entity",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "9M6qS8K9ouRNzzvo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.9M6qS8K9ouRNzzvo"
+    },
+    {
+      "text": "Asexual",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "bn43YpfIyOhIBH3x",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.bn43YpfIyOhIBH3x"
+    },
+    {
+      "text": "Despises the voices of all those around him",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "qjGP4xk09tI1Smpk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.qjGP4xk09tI1Smpk"
+    },
+    {
+      "text": "Derives pleasure from the fear of others",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "GwqdzlGuR2LdQib4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.GwqdzlGuR2LdQib4"
+    },
+    {
+      "text": "Has a paralyzing fear of the Biotech Division",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "ijiK5WPQ3amdo96s",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.ijiK5WPQ3amdo96s"
+    },
+    {
+      "text": "Believes the board are hostile to her, afraid to leave",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "nIlDteJws2JpiDOH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.nIlDteJws2JpiDOH"
+    },
+    {
+      "text": "Under the influence of a rogue AI",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "Yg9pWmiJXnKVtAP7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.Yg9pWmiJXnKVtAP7"
+    },
+    {
+      "text": "Requires nutrient baths several times a day",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "zkP5f0ibgviWA28T",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.zkP5f0ibgviWA28T"
+    },
+    {
+      "text": "Serial adulterer; compelled by faulty sex implant",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "AmzCiLuEYJDrFc2g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.AmzCiLuEYJDrFc2g"
+    },
+    {
+      "text": "Always tells the truth",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "F9xVagEAZJjztl8h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.F9xVagEAZJjztl8h"
+    },
+    {
+      "text": "Wants revenge on the CEO for unknown reasons",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "aVsjZjKhDwzk55cb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.aVsjZjKhDwzk55cb"
+    },
+    {
+      "text": "Overly reliant on complex prediction algorithms",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "945rIZxJeElg8LgC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.945rIZxJeElg8LgC"
+    },
+    {
+      "text": "Wants to die, but afraid of the afterlife",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "LfiPJVlAfTvMuBcP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.LfiPJVlAfTvMuBcP"
+    },
+    {
+      "text": "Seeks to dominate fixer networks for own ends",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "vaqOY92vu1ARSlcF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.vaqOY92vu1ARSlcF"
+    },
+    {
+      "text": "Haunted by digital ghosts of those he's had killed",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "ZxjJbILjoqMKOLdU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.ZxjJbILjoqMKOLdU"
+    },
+    {
+      "text": "A cosmetically altered double, living the dream",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "ETCvxOQPPwy0izzJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.ETCvxOQPPwy0izzJ"
+    },
+    {
+      "text": "Born in 1952, but looks only 25 years old",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "cGDQ7GxIKZDuhqg3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.cGDQ7GxIKZDuhqg3"
+    },
+    {
+      "text": "Hates her implants; they make her feel sick",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "1EZSSw5svwTBBuTh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.1EZSSw5svwTBBuTh"
+    },
+    {
+      "text": "Blackmailed into submission by orbital clade",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "uyL39opXOEkup3OA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.uyL39opXOEkup3OA"
+    },
+    {
+      "text": "Secret second life as a high class callgirl",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "wPI1MbBJzHKTC1y2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.wPI1MbBJzHKTC1y2"
+    },
+    {
+      "text": "Wants to kill her twin sister and main rival",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "lcfZBovX920ZxXjF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.lcfZBovX920ZxXjF"
+    },
+    {
+      "text": "Surprisingly normal",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "P406mIAzV9nxKixK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.P406mIAzV9nxKixK"
+    },
+    {
+      "text": "Has 'precognitive' dreams manipulated by a hacker",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "GKWcuPeBWM1rMbbJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.GKWcuPeBWM1rMbbJ"
+    },
+    {
+      "text": "Despises both daylight and bright artificial lighting",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "fE8dbsx9Ljm7mdQJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.fE8dbsx9Ljm7mdQJ"
+    },
+    {
+      "text": "Only wears clothes made by the indentured poor",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "FHGc8TxcfMcm8r0n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.FHGc8TxcfMcm8r0n"
+    },
+    {
+      "text": "Closely monitors the children of business rivals",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "gglKabWByr2YTnMK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.gglKabWByr2YTnMK"
+    },
+    {
+      "text": "Desires the utter destruction of the city",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "ZwbchStn577YEHFd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.ZwbchStn577YEHFd"
+    },
+    {
+      "text": "A downlinked AI masquerading as human",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "iK6bmkfVwYnFe2cR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.iK6bmkfVwYnFe2cR"
+    },
+    {
+      "text": "Obsessed with obscure, expensive fashion",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "sQnIKq3f0e7Wev5p",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.sQnIKq3f0e7Wev5p"
+    },
+    {
+      "text": "Believes the corporate elite are slaves to AIs",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "LqhjWywkPF2SmUxI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.LqhjWywkPF2SmUxI"
+    },
+    {
+      "text": "Blackmailing corporates for money and favours",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "hJ9JFc2eJZvehlLU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.hJ9JFc2eJZvehlLU"
+    },
+    {
+      "text": "Powerful intrusion software, but can't work it",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "KhQSqQB6KrMy0cBj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.KhQSqQB6KrMy0cBj"
+    },
+    {
+      "text": "Was in love with someone the PCs killed",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "QOt2Si0X2Ve8VnRP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9IlOAwRzsqm33WaY.QOt2Si0X2Ve8VnRP"
+    }
+  ],
+  "folder": "pLxhKVOlJ6EbD5eZ",
+  "sort": 2,
+  "_id": "9IlOAwRzsqm33WaY",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on Given Name, Family Name, Personal Details 1 &amp; 2, Appearance/Demeanour and Relationship tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699570138359,
+    "modifiedTime": 1699867997050,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!9IlOAwRzsqm33WaY"
+}

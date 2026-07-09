@@ -1,0 +1,792 @@
+{
+  "name": "Sights",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Armoured cops bundle violently reluctant vagrant into ERA-plated squad car",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "RmLu0Xo3pVoFF5zt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.RmLu0Xo3pVoFF5zt"
+    },
+    {
+      "text": "A bus shelter made entirely of screens showing flashy commercials (see @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.4wwXFtYEc5AaovG0]{What's On That Big Screen?})",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "qWtmmD1FRWe3rwdX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.qWtmmD1FRWe3rwdX"
+    },
+    {
+      "text": "Searchlights playing across the cloud cover and projecting branding (see @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.4wwXFtYEc5AaovG0]{What's On That Big Screen?})",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "m4Tv338Q8PVD3TJa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.m4Tv338Q8PVD3TJa"
+    },
+    {
+      "text": "A brightly lit aerocab taking off in a cloud of exhaust fumes, rainwater and trash",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "Dba2x9Kistkt4PI0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.Dba2x9Kistkt4PI0"
+    },
+    {
+      "text": "AC vents in the sidewalk emitting a thick cloud of vapour",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "Yjk0KHUW9HGbe6gT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.Yjk0KHUW9HGbe6gT"
+    },
+    {
+      "text": "A heavy rainwater cascade falls from damaged guttering",
+      "range": [
+        10,
+        11
+      ],
+      "_id": "zq930GW0vQA8dJHI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.zq930GW0vQA8dJHI"
+    },
+    {
+      "text": "Every underlit face on the street is concentrating solely on their phone",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "KFf2Y6v9ULd0QG3v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.KFf2Y6v9ULd0QG3v"
+    },
+    {
+      "text": "An ancient looking geriatric lopes past strapped into a linear assistance frame",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "jbxf2jT6KgzTi7Qf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.jbxf2jT6KgzTi7Qf"
+    },
+    {
+      "text": "A vid-blogger in full, wearable array, blatantly recording the scene",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "tw991VsX57WTj8lz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.tw991VsX57WTj8lz"
+    },
+    {
+      "text": "The nearest building has an intermittently flickering security light",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "hwSugqHpT09qoyuK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.hwSugqHpT09qoyuK"
+    },
+    {
+      "text": "Your view is blocked by a lumbering hi-vis recycling collection truck",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "B4rS3nRtg44UBsaG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.B4rS3nRtg44UBsaG"
+    },
+    {
+      "text": "A cluster of kids vaping, LED-lit clouds from under designer pollution hoods",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "LYPufjXL8nZZ3Hii",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.LYPufjXL8nZZ3Hii"
+    },
+    {
+      "text": "A pair of bicycle couriers race one another through crawling traffic",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "tJAuMvZ85e5e5x4U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.tJAuMvZ85e5e5x4U"
+    },
+    {
+      "text": "Gritty, chemical infused sediment sloughing off a nearby rooftop",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "0veSj8K71V5cSkpA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.0veSj8K71V5cSkpA"
+    },
+    {
+      "text": "A large building-mounted flatscreen showing... (see @UUID[Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.4wwXFtYEc5AaovG0]{What's On That Big Screen?}))",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "lPm1F4Vf8LOBXoby",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.lPm1F4Vf8LOBXoby"
+    },
+    {
+      "text": "Unattended roadworks, the area coned off and lit for safety for no good reason",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "waEdQkq6bd0LAzUh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.waEdQkq6bd0LAzUh"
+    },
+    {
+      "text": "An automated noodle vending truck, jingle playing, folds open and deploys nearby",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "VC5wPz6FTBwEs3XF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.VC5wPz6FTBwEs3XF"
+    },
+    {
+      "text": "A flock of scabrous-looking pigeons suddenly taking flight",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "FtHZ51fvKCLfqhwK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.FtHZ51fvKCLfqhwK"
+    },
+    {
+      "text": "A busy metro platform, full to capacity with disgruntled, rain-soaked commuters",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "8pymNpzKrPHyMYmg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.8pymNpzKrPHyMYmg"
+    },
+    {
+      "text": "An abandoned cybernetic limb lies forlornly by the kerb",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "DvBpLwStwteMY5jW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.DvBpLwStwteMY5jW"
+    },
+    {
+      "text": "Animated street art that twists and turns across two adjoining walls",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "LKytL4HwlwJ2lHgS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.LKytL4HwlwJ2lHgS"
+    },
+    {
+      "text": "Frantic homeless people, washing vehicle windscreens before the lights change",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "8oAUw2SdBEf0EzIk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.8oAUw2SdBEf0EzIk"
+    },
+    {
+      "text": "The flashing orange lights of a fat, dirty-yellow street sweeping remote",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "7ZNL5hcdP7dk34w7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.7ZNL5hcdP7dk34w7"
+    },
+    {
+      "text": "A nearby dataterm is missing it's screen and is stuffed with trash",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "bXdZ2IeJmjV7JEuG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.bXdZ2IeJmjV7JEuG"
+    },
+    {
+      "text": "Your way is barred by a precarious heap of obsolete electronics",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "4G1zzMwKIli9hHg4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.4G1zzMwKIli9hHg4"
+    },
+    {
+      "text": "The rainbow incandescence of oil on a large puddle of dirty water",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "Ui1cu7spsswk9CRw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.Ui1cu7spsswk9CRw"
+    },
+    {
+      "text": "The substandard cheapcrete is pockmarked by years of corrosive rains",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "qLpMId7036anHAI9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.qLpMId7036anHAI9"
+    },
+    {
+      "text": "A loaded pizza delivery drone hovering about three meters above the ground",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "9AMjmFOU6TKgXByK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.9AMjmFOU6TKgXByK"
+    },
+    {
+      "text": "A wage-slave arguing with her phone's onboard AI, before breaking down crying",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "VMSmKWKAyfN7du5v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.VMSmKWKAyfN7du5v"
+    },
+    {
+      "text": "An orange, multi-limbed, window cleaning remote clambers up the building facade",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "OlhYIQu9rl98cWCg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.OlhYIQu9rl98cWCg"
+    },
+    {
+      "text": "A long, silent queue for a blocky, exhaust stained, kerb-side Euthanasia Booth™",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "IvG2j7heiU1BIR3r",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.IvG2j7heiU1BIR3r"
+    },
+    {
+      "text": "All the nearby street signs are gang-tagged over to the point of being useless",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "zjRJKP9U2i76IVFv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.zjRJKP9U2i76IVFv"
+    },
+    {
+      "text": "Filthy red and white plastic Jersey barriers block most of the sidewalk",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "ovdgPLeEc9tHHp2W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.ovdgPLeEc9tHHp2W"
+    },
+    {
+      "text": "An overpass or skywalk covered in colourful advertising animatics (see That's Infotainment)",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "zvavSAzZXWvdx96d",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.zvavSAzZXWvdx96d"
+    },
+    {
+      "text": "There are crowds of fast moving people swarming absolutely everywhere",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "a9CSWlf87tx2AU7i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.a9CSWlf87tx2AU7i"
+    },
+    {
+      "text": "The scorched shell of a gutted vid-phone kiosk",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "gH1EkcTvOAkwwaLY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.gH1EkcTvOAkwwaLY"
+    },
+    {
+      "text": "Pedestrians flooding across the nearest intersection, en masse, both ways",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "P9rVNpB08NDG8yiB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.P9rVNpB08NDG8yiB"
+    },
+    {
+      "text": "A group of screeching street kids running along the overhead rail lines",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "vXw1G8x7YzGb3zda",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.vXw1G8x7YzGb3zda"
+    },
+    {
+      "text": "A thick pea soup fog rolling down the streets and alleyways",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "NJoNbEzf8Q5XQL5S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.NJoNbEzf8Q5XQL5S"
+    },
+    {
+      "text": "All the street lights for this entire block just went out",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "CclBJTJazTKZ645X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.CclBJTJazTKZ645X"
+    },
+    {
+      "text": "Rivers of rain-borne trash race along in the choked gutters",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "qRyKzr0Gd92reYAY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.qRyKzr0Gd92reYAY"
+    },
+    {
+      "text": "A small crowd of people gawping upwards at a potential jumper",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "wr59K1LOBaYotejL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.wr59K1LOBaYotejL"
+    },
+    {
+      "text": "A tight formation of drones races down the street, just above head height",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "A4nc2B8d4UFRt0fW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.A4nc2B8d4UFRt0fW"
+    },
+    {
+      "text": "A group of sex workers on a nearby street corner, approaching cars (see Street Walkers)",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "JgkLoOChQ4tTRcHr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.JgkLoOChQ4tTRcHr"
+    },
+    {
+      "text": "An out-of-order ATM threatens violent action to passers by who stray too close",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "Qzss9a5WUr7Zcb3A",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.Qzss9a5WUr7Zcb3A"
+    },
+    {
+      "text": "Unnervingly, there is absolutely no-one about",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "czCas8Mp1uSjlwHd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.czCas8Mp1uSjlwHd"
+    },
+    {
+      "text": "A pedicab operator struggling with heat exhaustion or dehydration (see Random Cabbies)",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "7rG7ak3WSqmQFqBa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.7rG7ak3WSqmQFqBa"
+    },
+    {
+      "text": "A row of vendomats coated in layers of gang tags, going back many years",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "cNjii7PsOrhUDyvo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.cNjii7PsOrhUDyvo"
+    },
+    {
+      "text": "A GeV taxi takes a corner hard, throwing up polluted water, trash and crud (see Random Cabbies)",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "POw22NXylJ36hsMk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.POw22NXylJ36hsMk"
+    },
+    {
+      "text": "An energetic street preacher giving a digital presentation on Cybernetic Jesus®",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "Stt2nhKhx3fqL0Iw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.Stt2nhKhx3fqL0Iw"
+    },
+    {
+      "text": "The sidewalk consists of slabs of flickering screens, showing adverts (see That's Infotainment)",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "tmCIr2vtMHCslB65",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!bja46Iy7QIojAUuv.tmCIr2vtMHCslB65"
+    }
+  ],
+  "folder": "ypSDgDocT5uhhzmf",
+  "sort": 2,
+  "_id": "bja46Iy7QIojAUuv",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p><strong>Sense &amp; The City - Sights </strong>is a <strong>D100 </strong>table designed to allow the GM to quickly generate the most notable things or activities in a given city area. roll on it once to add focus, or a number of times to create complex, confusing distractions. use it in conjunction with the <em>Sounds </em>table, to establish overlapping sensory layers.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569755813,
+    "modifiedTime": 1699648636810,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_key": "!tables!bja46Iy7QIojAUuv"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Alternative Businesses",
+  "type": "RollTable",
+  "sorting": "a",
+  "_id": "cv0epClNmHPBj0TF",
+  "folder": null,
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.315",
+    "createdTime": 1699569705977,
+    "modifiedTime": 1699927379907,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "color": null,
+  "_key": "!folders!cv0epClNmHPBj0TF"
+}

@@ -2,6 +2,11 @@
 
 [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
 
+## [1.1.0](https://github.com/jendave/augmented-reality/blob/main/CHANGELOG.md) (2026-07-09)
+
+* Create build process.
+* Create compendiums from JSON.
+
 ## [1.0.5](https://github.com/jendave/augmented-reality/blob/main/CHANGELOG.md) (2026-04-21)
 
 * Drop v12 support.

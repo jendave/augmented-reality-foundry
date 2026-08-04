@@ -1488,19 +1488,36 @@
       "_key": "!tables.results!icpvSJXwHC4bofth.1287025AqGAMRgcd"
     },
     {
-      "text": "Roll Twice",
       "range": [
         100,
         100
       ],
       "_id": "28Kk2EJOtgv7KGIJ",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "description": "<p>Roll Twice</p>",
+      "name": "Sounds",
+      "documentUuid": "Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.icpvSJXwHC4bofth",
       "_key": "!tables.results!icpvSJXwHC4bofth.28Kk2EJOtgv7KGIJ"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "nYPzSsU0dtAQGWeZ",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>Roll Twice</p>",
+      "name": "Sounds",
+      "documentUuid": "Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.icpvSJXwHC4bofth",
+      "_key": "!tables.results!icpvSJXwHC4bofth.nYPzSsU0dtAQGWeZ"
     }
   ],
   "folder": "ypSDgDocT5uhhzmf",

@@ -1488,19 +1488,36 @@
       "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.O44phX0QENX91n25"
     },
     {
-      "text": "Roll Twice",
       "range": [
         100,
         100
       ],
       "_id": "asPyXi9is4Te4m7P",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "description": "<p>Roll Twice</p>",
+      "name": "Boardroom Manoeuvres",
+      "documentUuid": "Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.Ajc1ujGCTT2Fnyx5",
       "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.asPyXi9is4Te4m7P"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "3MRtTcDG5d72aGb3",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>Roll Twice</p>",
+      "name": "Boardroom Manoeuvres",
+      "documentUuid": "Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.Ajc1ujGCTT2Fnyx5",
+      "_key": "!tables.results!Ajc1ujGCTT2Fnyx5.3MRtTcDG5d72aGb3"
     }
   ],
   "folder": "HXvV7kpdcaIxfbLJ",

@@ -1488,19 +1488,36 @@
       "_key": "!tables.results!iWLStgXfVtgeHzIK.fFusQYtue4VpSdPV"
     },
     {
-      "text": "Roll Twice",
       "range": [
         100,
         100
       ],
       "_id": "quvrIgmbxO33h3oM",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "description": "<p>Roll Twice</p>",
+      "name": "Smells",
+      "documentUuid": "Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.iWLStgXfVtgeHzIK",
       "_key": "!tables.results!iWLStgXfVtgeHzIK.quvrIgmbxO33h3oM"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "h7f71rWnnOMijUik",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>Roll Twice</p>",
+      "name": "Smells",
+      "documentUuid": "Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.iWLStgXfVtgeHzIK",
+      "_key": "!tables.results!iWLStgXfVtgeHzIK.h7f71rWnnOMijUik"
     }
   ],
   "folder": "ypSDgDocT5uhhzmf",

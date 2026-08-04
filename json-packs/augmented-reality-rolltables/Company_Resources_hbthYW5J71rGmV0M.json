@@ -1488,19 +1488,36 @@
       "_key": "!tables.results!hbthYW5J71rGmV0M.tjKOIBd4NVVAMepR"
     },
     {
-      "text": "Roll Twice",
       "range": [
         100,
         100
       ],
       "_id": "EdrNIC7KE2EHwBRc",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "description": "<p>Roll Twice</p>",
+      "name": "Company Resources",
+      "documentUuid": "Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.hbthYW5J71rGmV0M",
       "_key": "!tables.results!hbthYW5J71rGmV0M.EdrNIC7KE2EHwBRc"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "ddT7Niig1aAb6s6h",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>Roll Twice</p>",
+      "name": "Company Resources",
+      "documentUuid": "Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.hbthYW5J71rGmV0M",
+      "_key": "!tables.results!hbthYW5J71rGmV0M.ddT7Niig1aAb6s6h"
     }
   ],
   "folder": "HXvV7kpdcaIxfbLJ",

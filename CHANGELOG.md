@@ -2,7 +2,7 @@
 
 [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
 
-## [1.2.0](https://github.com/jendave/augmented-reality/blob/main/CHANGELOG.md) (2026-08-xx)
+## [1.2.0](https://github.com/jendave/augmented-reality/blob/main/CHANGELOG.md) (2026-08-07)
 
 * Add "Roll twice" and "Roll three times" functionality to tables.
 
